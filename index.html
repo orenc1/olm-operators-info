@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OLM Operators Info - Complete List</title>
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css>
+    <link rel=stylesheet
+          href=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css>
+</head>
+<body>
+<h1>
+    redhat-operator-index
+</h1>
+<table class="table table-bordered table-hover table-inverse table-striped center" id="redhat-operator-index"></table>
+</body>
+</html>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/jquery.dataTables.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/dataTables.bootstrap4.min.js></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js></script>
+<script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js></script>
+<script src=https://cdn.datatables.net/plug-ins/1.10.25/sorting/datetime-moment.js></script>
+<script>
+    $(document).ready(function () {
+        $('#redhat-operator-index').DataTable({
+            ajax: {
+                url: 'rendered_info/redhat-operator-index.json',
+                dataSrc: 'operators_list',
+            },
+            columns: [
+                { data: 'package_name' },
+                { data: 'display_name' },
+                { data: 'latest_version' },
+                { data: 'latest_channel' },
+                { data: 'disconnected_supported' },
+                { data: 'fips_supported' },
+                { data: 'capabilities' },
+                { data: 'repository' },
+                { data: 'documentation_url' },
+            ],
+        });
+    });
+</script>
