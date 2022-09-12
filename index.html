@@ -11,7 +11,7 @@
 <h1>
     certified-operator-index
 </h1>
-<table class="table table-bordered table-hover table-inverse table-striped center" id="certified-operator-index"></table>
+<table class="table table-bordered table-hover table-inverse table-striped center" id="certified"></table>
 </body>
 </html>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js></script>
@@ -22,7 +22,7 @@
 <script src=https://cdn.datatables.net/plug-ins/1.10.25/sorting/datetime-moment.js></script>
 <script>
     $(document).ready(function () {
-        $('#redhat-operator-index').DataTable({
+        $('#certified').DataTable({
             ajax: {
                 url: 'rendered_info/certified-operator-index.json',
                 dataSrc: 'operators_list',
