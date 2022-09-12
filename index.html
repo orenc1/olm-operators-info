@@ -9,9 +9,9 @@
 </head>
 <body>
 <h1>
-    redhat-operator-index
+    certified-operator-index
 </h1>
-<table class="table table-bordered table-hover table-inverse table-striped center" id="redhat-operator-index"></table>
+<table class="table table-bordered table-hover table-inverse table-striped center" id="certified-operator-index"></table>
 </body>
 </html>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js></script>
@@ -24,7 +24,7 @@
     $(document).ready(function () {
         $('#redhat-operator-index').DataTable({
             ajax: {
-                url: 'rendered_info/redhat-operator-index.json',
+                url: 'rendered_info/certified-operator-index.json',
                 dataSrc: 'operators_list',
             },
             columns: [
