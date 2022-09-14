@@ -27,7 +27,7 @@ td {
     text-align: left;
     max-width: 600px;
     word-wrap: break-word;
-    font-family: Red Hat Display, serif;
+    font-family: Red Hat Text,RedHatText,Helvetica Neue,Arial,sans-serif;
 }
 
 .catalog_div {

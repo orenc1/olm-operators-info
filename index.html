@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>OLM Operators Info - Complete List</title>
+    <link rel="icon" href="static/favicon.ico">
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css>
     <link rel=stylesheet
           href=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css>
@@ -48,8 +49,8 @@
         '                id="{{table_id}}">\n' +
         '                <thead>\n' +
         '                <tr>\n' +
-        '                    <th>Package Name</th>\n' +
         '                    <th>Display Name</th>\n' +
+        '                    <th>Package Name</th>\n' +
         '                    <th>Latest Version</th>\n' +
         '                    <th>Latest Channel</th>\n' +
         '                    <th>Disconnected Support</th>\n' +
@@ -75,8 +76,8 @@
     }
 
     table_columns = [
-        {data: 'package_name'},
         {data: 'display_name'},
+        {data: 'package_name'},
         {data: 'latest_version'},
         {data: 'latest_channel'},
         {data: 'disconnected_supported'},
