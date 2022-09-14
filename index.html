@@ -6,38 +6,134 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css>
     <link rel=stylesheet
           href=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/css/dataTables.bootstrap4.min.css>
+    <link rel=stylesheet href="static/css/style.css">
 </head>
 <body>
-<h1>
-    certified-operator-index
-</h1>
-<table class="table table-bordered table-hover table-inverse table-striped center" id="certified"></table>
+<div class="d-flex" id="wrapper">
+    <div class="border-end bg-white" id="sidebar-wrapper">
+        <div class="sticky-top">
+            <div class="sidebar-heading border-bottom bg-light">Menu</div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#rh-operators">Red Hat
+                    Operators</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#community">Community
+                    Operators</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#certified">Certified
+                    Operators</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="#marketplace">Red Hat
+                    Marketplace</a>
+            </div>
+        </div>
+    </div>
+    <div id="page-content-wrapper">
+        <div>
+            <h1>Complete OLM Operators Info</h1>
+            <p>This page provides a full, comprehensive list of all the operators in Operator Lifecycle Manager ecosystem published in the public catalogs in OpenShift Container Platform.
+                <br>The Information displayed here is retrieved from the index images and being updated daily.</p>
+        </div>
+    </div>
+</div>
 </body>
 </html>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/jquery.dataTables.min.js></script>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.20/js/dataTables.bootstrap4.min.js></script>
-<script src=https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js></script>
 <script src=https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js></script>
-<script src=https://cdn.datatables.net/plug-ins/1.10.25/sorting/datetime-moment.js></script>
+<script src=static/js/mustache.min.js type="application/javascript"></script>
 <script>
+    var TableTemplate = '<div class="catalog_div">' +
+        '                <h2 id="{{title_id}}">{{title}}</h2>' +
+        '                <h6>From index image: {{index_image}}</h6>' +
+        '                <table class="table table-bordered table-hover table-inverse table-striped center"\n' +
+        '                id="{{table_id}}">\n' +
+        '                <thead>\n' +
+        '                <tr>\n' +
+        '                    <th>Package Name</th>\n' +
+        '                    <th>Display Name</th>\n' +
+        '                    <th>Latest Version</th>\n' +
+        '                    <th>Latest Channel</th>\n' +
+        '                    <th>Disconnected Support</th>\n' +
+        '                    <th>FIPS Support</th>\n' +
+        '                    <th>Capabilities</th>\n' +
+        '                    <th>Repository</th>\n' +
+        '                    <th>Documentation URL</th>\n' +
+        '                </tr>\n' +
+        '                </thead>\n' +
+        '            </table>' +
+        '            </div>' +
+        '            <hr>'
+
+    var table_contents = [
+        {"title_id": "rh-operators", "title": "Red Hat Operators Catalog", "table_id": "redhat-operator-index", "index_image": "registry.redhat.io/redhat/redhat-operator-index:v4.11"},
+        {"title_id": "community", "title": "Community Operators Catalog", "table_id": "community-operator-index", "index_image": "registry.redhat.io/redhat/community-operator-index:v4.11"},
+        {"title_id": "certified", "title": "Certified Operators Catalog", "table_id": "certified-operator-index", "index_image": "registry.redhat.io/redhat/certified-operator-index:v4.11"},
+        {"title_id": "marketplace", "title": "Red Hat Marketplace Catalog", "table_id": "redhat-marketplace-index", "index_image": "registry.redhat.io/redhat/redhat-marketplace-index:v4.11"}
+    ]
+    for (const table_content of table_contents) {
+        var RenderedTable = Mustache.render(TableTemplate, table_content)
+        $('#page-content-wrapper').append(RenderedTable)
+    }
+
+    table_columns = [
+        {data: 'package_name'},
+        {data: 'display_name'},
+        {data: 'latest_version'},
+        {data: 'latest_channel'},
+        {data: 'disconnected_supported'},
+        {data: 'fips_supported'},
+        {data: 'capabilities'},
+        {data: 'repository'},
+        {data: 'documentation_url'},
+    ]
+
     $(document).ready(function () {
-        $('#certified').DataTable({
+        $('#redhat-operator-index').DataTable({
+            ajax: {
+                url: 'rendered_info/redhat-operator-index.json',
+                dataSrc: 'operators_list',
+            },
+            columns: table_columns,
+            "drawCallback": linkifyAll,
+        });
+
+        $('#community-operator-index').DataTable({
+            ajax: {
+                url: 'rendered_info/community-operator-index.json',
+                dataSrc: 'operators_list',
+            },
+            columns: table_columns,
+            "drawCallback": linkifyAll,
+        });
+
+        $('#certified-operator-index').DataTable({
             ajax: {
                 url: 'rendered_info/certified-operator-index.json',
                 dataSrc: 'operators_list',
             },
-            columns: [
-                { data: 'package_name' },
-                { data: 'display_name' },
-                { data: 'latest_version' },
-                { data: 'latest_channel' },
-                { data: 'disconnected_supported' },
-                { data: 'fips_supported' },
-                { data: 'capabilities' },
-                { data: 'repository' },
-                { data: 'documentation_url' },
-            ],
+            columns: table_columns,
+            "drawCallback": linkifyAll,
         });
+
+        $('#redhat-marketplace-index').DataTable({
+            ajax: {
+                url: 'rendered_info/redhat-marketplace-index.json',
+                dataSrc: 'operators_list',
+            },
+            columns: table_columns,
+            "drawCallback": linkifyAll,
+        });
+
     });
+
+function linkify(input) {
+    if (input.startsWith("http")) {
+        return `<a href=${input} target="_blank">${input}</a>`
+    }
+    return input
+}
+function linkifyAll() {
+    document.querySelectorAll('td').forEach(o => {
+        o.innerHTML = linkify(o.innerHTML)
+    })
+}
 </script>
