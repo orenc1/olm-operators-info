@@ -192,6 +192,12 @@ def get_loglevel():
     return loglevel
 
 
+def update_time():
+    now = datetime.datetime.now()
+    now_str = now.strftime('%Y-%m-%d %H:%M:%S')
+    logging.debug(f"Updating time in index.html to {now_str}")
+    os.system(f"sed -ri 's/(Last update time: ).+/\1{now_str}/' index.html")
+
 def main():
     index_images_names = [
         "redhat-operator-index",
@@ -201,6 +207,7 @@ def main():
     ]
     op = OperatorsPoller(index_images_names)
     op.dump_jsons()
+    update_time()
     logging.info("Finished.")
 
 
