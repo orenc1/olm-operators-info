@@ -138,7 +138,7 @@ class OperatorInfo:
             self.disconnected_supported = True if "disconnected" in infrastructure_features else False
             self.fips_supported = True if "fips" in infrastructure_features else False
 
-        self.documentation_url = 'N/A'
+        self.documentation_url = ''
         if 'links' in csv['spec']:
             for link in csv['spec']['links']:
                 if link['name'].lower() == 'documentation':
