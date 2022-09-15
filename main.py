@@ -57,7 +57,7 @@ class OperatorIndex:
         os.makedirs(self.index_dir, exist_ok=True)
         os.chdir(self.index_dir)
         logging.info(f"extracting contents of {self.index_pullspec}...")
-        os.system(f"./{ROOT_PATH}/oc image extract {self.index_pullspec} --path=/configs/:. --confirm")
+        os.system(f"oc image extract {self.index_pullspec} --path=/configs/:. --confirm")
         operators = os.listdir(os.path.join(ROOT_PATH, self.index_dir))
         for operator in operators:
             self.operators_list.append(OperatorInfo(operator, self))
