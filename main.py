@@ -196,7 +196,7 @@ def update_time():
     now = datetime.datetime.now()
     now_str = now.strftime('%Y-%m-%d %H:%M:%S')
     logging.debug(f"Updating time in index.html to {now_str}")
-    os.system(f"sed -ri 's/(Last update time: ).+/\1{now_str}/' index.html")
+    os.system(f"sed -ri 's/(Last update time: ).+/\1{now_str}/' {ROOT_PATH}/index.html")
 
 def main():
     index_images_names = [
