@@ -35,4 +35,4 @@ jobs:
           author_name: Oren Cohen
           author_email: ocohen@redhat.com
           message: 'catalogs update'
-          add: 'rendered_info/*'
+          add: 'rendered_info/* index.html'
