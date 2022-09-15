@@ -23,7 +23,7 @@ jobs:
           pip install -r requirements.txt
           curl -L -O https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/stable/openshift-client-linux.tar.gz
           tar -xzf openshift-client-linux.tar.gz && sudo mv oc /usr/bin/oc && rm -f kubectl && rm -f openshift-client-linux.tar.gz
-          docker login registry.redhat.io -u test -p pass
+          docker login registry.redhat.io -u ${{ secrets.RH_USERNAME }} -p ${{ secrets.RH_PASSWORD }}
       - name: collect, parse and render all operators info from the default catalogs
         run: |
           python main.py
