@@ -18,7 +18,8 @@ class OperatorsPoller:
     def __init__(self, index_images_names):
         self.start_time = datetime.datetime.now()
         loglevel = get_loglevel()
-        logging.basicConfig(format='%(levelname)s: %(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S', level=loglevel)
+        logging.basicConfig(format='%(levelname)s: %(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S',
+                            level=loglevel)
         self.index_images_names = index_images_names
         self.indices_list = []
         for index in self.index_images_names:
@@ -31,10 +32,7 @@ class OperatorsPoller:
 
             logging.info(f"Finished processing index image: {index.index_name}.")
 
-
     def dump_jsons(self):
-        index_json = {'operators_list': []}
-
         os.makedirs(RENDERED_INFO_DIR, exist_ok=True)
         os.chdir(RENDERED_INFO_DIR)
         for index in self.indices_list:
@@ -43,7 +41,6 @@ class OperatorsPoller:
                 index_json['operators_list'].append(operator.toJson())
             with open(f"{index.index_name}.json", 'w') as fh:
                 fh.write(json.dumps(index_json, indent=4))
-
 
 
 class OperatorIndex:
@@ -103,17 +100,17 @@ class OperatorInfo:
         else:
             schema_list = self.get_schema_list_yaml(package_path)
 
-
         versions_list = []
         # entries of the list are tuples of (version, channel name)
         for schema in schema_list:
             if schema['schema'] == 'olm.channel':
                 for entry in schema['entries']:
-                    ver = entry['name'].split('.v')[1] if '.v' in entry['name'] else '.'.join(entry['name'].split('.')[1:])
+                    ver = entry['name'].split('.v')[1] if '.v' in entry['name'] else '.'.join(
+                        entry['name'].split('.')[1:])
                     if semver.VersionInfo.isvalid(ver):
                         versions_list.append((semver.VersionInfo.parse(ver), schema['name']))
 
-        sorted_versions_list = sorted(versions_list, key = lambda tup: tup[0], reverse=True)
+        sorted_versions_list = sorted(versions_list, key=lambda tup: tup[0], reverse=True)
         self.latest_version = str(sorted_versions_list[0][0])
         self.latest_channel = str(sorted_versions_list[0][1])
         self.disconnected_supported = False
@@ -136,7 +133,8 @@ class OperatorInfo:
 
         self.display_name = csv['spec']['displayName']
         if 'operators.openshift.io/infrastructure-features' in csv['metadata']['annotations']:
-            infrastructure_features = csv['metadata']['annotations']['operators.openshift.io/infrastructure-features'].lower()
+            infrastructure_features = csv['metadata']['annotations'][
+                'operators.openshift.io/infrastructure-features'].lower()
             self.disconnected_supported = True if "disconnected" in infrastructure_features else False
             self.fips_supported = True if "fips" in infrastructure_features else False
 
@@ -146,11 +144,12 @@ class OperatorInfo:
                 if link['name'].lower() == 'documentation':
                     self.documentation_url = link['url']
 
-        self.repository = csv['metadata']['annotations']['repository'] if 'repository' in csv['metadata']['annotations'] else None
-        self.capabilities = csv['metadata']['annotations']['capabilities'] if 'capabilities' in csv['metadata']['annotations'] else None
+        self.repository = csv['metadata']['annotations']['repository'] if 'repository' in csv['metadata'][
+            'annotations'] else None
+        self.capabilities = csv['metadata']['annotations']['capabilities'] if 'capabilities' in csv['metadata'][
+            'annotations'] else None
 
         logging.debug(f"info of {self.package_name} from {self.index.index_name} has been extracted.")
-
 
     def get_schema_list_json(self, package_path):
         schema_list = []
@@ -205,6 +204,5 @@ def main():
     logging.info("Finished.")
 
 
-
-if __name__=='__main__':
+if __name__ == '__main__':
     main()

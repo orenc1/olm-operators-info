@@ -1,0 +1,35 @@
+name: update-catalogs
+on:
+  schedule:
+    - cron:  '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-catalogs-info:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the latest code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+      - name: Setup Python3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7'
+          architecture: 'x64'
+      - name: Install requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          curl -L -O https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/stable/openshift-client-linux.tar.gz
+          tar -xzf openshift-client-linux.tar.gz && mv oc /usr/bin/oc && rm -f kubectl && rm -f openshift-client-linux.tar.gz
+      - name: collect, parse and render all operators info from the default catalogs
+        run: |
+          python main.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Oren Cohen
+          author_email: ocohen@redhat.com
+          message: 'catalogs update'
+          add: 'rendered_info/*'
