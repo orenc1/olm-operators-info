@@ -320,17 +320,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "poison-pill-operator",
-            "display_name": "Poison Pill Operator",
-            "latest_version": "0.1.4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/medik8s/poison-pill",
-            "documentation_url": ""
-        },
-        {
             "package_name": "percona-xtradb-cluster-operator",
             "display_name": "Percona XtraDB Cluster Operator",
             "latest_version": "1.9.0",
@@ -663,7 +652,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.0-alpha.5",
+            "latest_version": "20.0.0-alpha.6",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +674,7 @@
         {
             "package_name": "community-kubevirt-hyperconverged",
             "display_name": "KubeVirt HyperConverged Cluster Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
