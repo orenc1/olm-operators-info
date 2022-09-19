@@ -80,7 +80,7 @@
         {
             "package_name": "silicom-sts-operator",
             "display_name": "Silicom STS Operator",
-            "latest_version": "0.1.0",
+            "latest_version": "0.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
