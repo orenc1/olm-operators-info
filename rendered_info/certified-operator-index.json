@@ -168,7 +168,7 @@
         {
             "package_name": "cnvrg",
             "display_name": "Cnvrg Operator",
-            "latest_version": "4.3.35",
+            "latest_version": "4.3.36",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "sysdig-certified",
             "display_name": "Sysdig Agent Operator",
-            "latest_version": "1.15.25",
+            "latest_version": "1.15.37",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -69,7 +69,7 @@
         {
             "package_name": "sysdig-certified-rhmp",
             "display_name": "Sysdig Agent Operator",
-            "latest_version": "1.15.25",
+            "latest_version": "1.15.37",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
