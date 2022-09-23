@@ -168,7 +168,7 @@
         {
             "package_name": "cnvrg",
             "display_name": "Cnvrg Operator",
-            "latest_version": "4.3.36",
+            "latest_version": "4.3.38",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,8 +278,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.6.2",
-            "latest_channel": "stable",
+            "latest_version": "8.6.4-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -355,7 +355,7 @@
         {
             "package_name": "fep-ansible-operator",
             "display_name": "FUJITSU Enterprise Postgres 12 Operator",
-            "latest_version": "2.2.9",
+            "latest_version": "2.2.10",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.6",
+            "latest_version": "3.1.7",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "TrilioVault for Kubernetes",
-            "latest_version": "2.10.5",
+            "latest_version": "2.10.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,8 +1048,8 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.10-45",
-            "latest_channel": "6.2.10",
+            "latest_version": "6.2.12-1",
+            "latest_channel": "6.2.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",

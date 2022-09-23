@@ -168,7 +168,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.37.0",
+            "latest_version": "1.38.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -597,8 +597,8 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "0.5.0",
-            "latest_channel": "release-2.6",
+            "latest_version": "0.6.0-dev",
+            "latest_channel": "prerelease-2.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1829,11 +1829,11 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "1.14.0",
+            "latest_version": "2.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Full Lifecycle",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/rabbitmq/cluster-operator",
             "documentation_url": "https://www.rabbitmq.com/kubernetes/operator/operator-overview.html"
         },

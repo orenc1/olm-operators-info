@@ -80,7 +80,7 @@
         {
             "package_name": "cnvrg-rhmp",
             "display_name": "Cnvrg Operator",
-            "latest_version": "4.3.35",
+            "latest_version": "4.3.38",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -113,8 +113,8 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.10-45",
-            "latest_channel": "6.2.10",
+            "latest_version": "6.2.12-1",
+            "latest_channel": "6.2.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",

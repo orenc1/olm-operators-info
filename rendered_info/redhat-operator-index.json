@@ -190,7 +190,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.5.1",
+            "latest_version": "5.5.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.3.7",
+            "latest_version": "8.3.8",
             "latest_channel": "8.3.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.5.1",
+            "latest_version": "5.5.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.5.1",
+            "latest_version": "5.5.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
