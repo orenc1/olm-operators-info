@@ -278,7 +278,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.53.0",
+            "latest_version": "7.54.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.8.0-rc.3",
+            "latest_version": "3.8.0-rc.4",
             "latest_channel": "preview-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
