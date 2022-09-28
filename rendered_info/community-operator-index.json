@@ -1070,7 +1070,7 @@
         {
             "package_name": "ossmconsole",
             "display_name": "OpenShift Service Mesh Console",
-            "latest_version": "0.1.0",
+            "latest_version": "0.2.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

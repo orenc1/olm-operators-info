@@ -80,7 +80,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.11.0",
+            "latest_version": "4.11.1",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -124,7 +124,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.11.0",
+            "latest_version": "4.11.1",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "web-terminal",
             "display_name": "Web Terminal",
-            "latest_version": "1.5.1",
+            "latest_version": "1.6.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,8 +729,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.2.1-0.1663042992",
-            "latest_channel": "stable-2.2-cluster-scoped",
+            "latest_version": "2.2.1-0.1663884684",
+            "latest_channel": "stable-2.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -861,7 +861,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.0-opr-003",
+            "latest_version": "7.6.0-opr-004",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.2.1-0.1663042251",
+            "latest_version": "2.2.1-0.1663884340",
             "latest_channel": "stable-2.2-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
