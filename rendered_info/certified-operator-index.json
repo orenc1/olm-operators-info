@@ -289,7 +289,7 @@
         {
             "package_name": "citrix-ingress-controller-operator",
             "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.18.5",
+            "latest_version": "1.26.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "sriov-fec",
             "display_name": "SEO SR-IOV Operator for Wireless FEC Accelerators",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -999,6 +999,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "uma-operator",
+            "display_name": "DX APM Universal Monitoring Agent",
+            "latest_version": "2022.9.0-1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.3.0",
             "documentation_url": ""
         },
         {

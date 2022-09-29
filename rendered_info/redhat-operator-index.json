@@ -14,7 +14,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161337",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -47,7 +47,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -102,7 +102,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.11.0-202209131448",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -223,7 +223,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161337",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "openshift-special-resource-operator",
             "display_name": "Special Resource Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "dpu-network-operator",
             "display_name": "DPU Network Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161807",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161337",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.11.0-202209130958",
+            "latest_version": "4.11.0-202209161337",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
