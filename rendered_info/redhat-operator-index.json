@@ -124,7 +124,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.11.1",
+            "latest_version": "4.11.2",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.11.0-202209161807",
+            "latest_version": "4.11.0-202209271408",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.11.0-202209161807",
+            "latest_version": "4.11.0-202209221603",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.11.1",
+            "latest_version": "4.11.2",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,

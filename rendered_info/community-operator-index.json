@@ -1807,7 +1807,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.27.0",
+            "latest_version": "1.28.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,

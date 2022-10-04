@@ -1059,7 +1059,7 @@
         {
             "package_name": "timemachine-operator",
             "display_name": "Time Machine Operator",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
