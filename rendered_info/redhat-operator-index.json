@@ -69,13 +69,13 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.12.1-3",
+            "latest_version": "7.13.0-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kiegroup/kie-cloud-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.12/#category-deploying-red-hat-process-automation-manager-on-openshift"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.13/#category-deploying-red-hat-process-automation-manager-on-openshift"
         },
         {
             "package_name": "bare-metal-event-relay",
@@ -190,7 +190,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.48.2",
+            "latest_version": "1.48.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.2.2",
+            "latest_version": "2.2.3",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -619,13 +619,13 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.12.0",
+            "latest_version": "7.13.1-1",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/kiegroup/rhpam-kogito-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_decision_manager/7.12/html/getting_started_with_red_hat_decision_manager/proc-kogito-microservices-deploying-on-openshift_getting-started-kogito-microservices"
+            "documentation_url": "https://github.com/kiegroup/kogito-operator/blob/main/README.md"
         },
         {
             "package_name": "openshift-secondary-scheduler-operator",

@@ -1224,7 +1224,7 @@
         {
             "package_name": "tackle-operator",
             "display_name": "Tackle Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "stable-v2.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1598,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "0.4.4",
+            "latest_version": "0.4.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1642,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "0.14.0",
+            "latest_version": "0.14.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1759,17 +1759,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
-        },
-        {
-            "package_name": "percona-server-mongodb-operator",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.12.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
             "package_name": "hive-operator",
