@@ -69,7 +69,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.0-1",
+            "latest_version": "7.13.1-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -322,8 +322,8 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.1.0-8",
-            "latest_channel": "amq-streams-2.1.x",
+            "latest_version": "2.2.0-0",
+            "latest_channel": "amq-streams-2.2.x",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",

@@ -111,6 +111,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "timemachine-operator-rhmp",
+            "display_name": "Time Machine Operator",
+            "latest_version": "1.0.15",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "vfunction-server-operator-rhmp",
             "display_name": "vFunction Operator",
             "latest_version": "2.2.469",
