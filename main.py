@@ -38,7 +38,10 @@ class OperatorsPoller:
         for index in self.indices_list:
             index_json = {'operators_list': []}
             for operator in index.operators_list:
-                index_json['operators_list'].append(operator.toJson())
+                try:
+                    index_json['operators_list'].append(operator.toJson())
+                except Exception as ex:
+                    logging.error(f"Could not serialize json for {operator.package_name}: {ex}")
             with open(f"{index.index_name}.json", 'w') as fh:
                 fh.write(json.dumps(index_json, indent=4))
 
@@ -111,15 +114,20 @@ class OperatorInfo:
                         versions_list.append((semver.VersionInfo.parse(ver), schema['name']))
 
         sorted_versions_list = sorted(versions_list, key=lambda tup: tup[0], reverse=True)
-        self.latest_version = str(sorted_versions_list[0][0])
-        self.latest_channel = str(sorted_versions_list[0][1])
+        if len(sorted_versions_list) == 0:
+            logging.warning(f"Could not find any valid semver version for package {self.package_name} in index {self.index.index_name}.")
+            self.latest_version = "N/A"
+            self.latest_channel = "N/A"
+        else:
+            self.latest_version = str(sorted_versions_list[0][0])
+            self.latest_channel = str(sorted_versions_list[0][1])
         self.disconnected_supported = False
         self.fips_supported = False
 
         csv = None
         for schema in schema_list:
             if schema['schema'] == 'olm.bundle' and not csv:
-                if schema['name'].endswith(self.latest_version):
+                if schema['name'].endswith(self.latest_version) or self.latest_version == "N/A":
                     for property in schema['properties']:
                         if property['type'] == 'olm.bundle.object':
                             jsondata = base64.b64decode(property['value']['data'])
