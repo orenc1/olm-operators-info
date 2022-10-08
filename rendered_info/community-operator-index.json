@@ -232,6 +232,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "edp-keycloak-operator",
+            "display_name": "edp-keycloak-operator",
+            "latest_version": "1.13.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/epam/edp-keycloak-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "mongodb-operator",
             "display_name": "MongoDB Operator",
             "latest_version": "0.3.0",
@@ -718,7 +729,7 @@
         {
             "package_name": "nfs-provisioner-operator",
             "display_name": "NFS Provisioner Operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +817,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,11 +949,11 @@
         {
             "package_name": "rabbitmq-messaging-topology-operator",
             "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.8.0",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Full Lifecycle",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/rabbitmq/messaging-topology-operator",
             "documentation_url": ""
         },
@@ -1147,7 +1158,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.6.0",
+            "latest_version": "4.7.0",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1224,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.42",
+            "latest_version": "0.4.43",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1598,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.0-alpha.6",
+            "latest_version": "20.0.0-alpha.7",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1620,7 @@
         {
             "package_name": "kube-green",
             "display_name": "kube-green",
-            "latest_version": "0.4.0",
+            "latest_version": "0.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1759,6 +1770,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
+        },
+        {
+            "package_name": "percona-server-mongodb-operator",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "N/A",
+            "latest_channel": "N/A",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
             "package_name": "hive-operator",

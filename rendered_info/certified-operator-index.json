@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-server-mongodb-operator-certified",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "N/A",
+            "latest_channel": "N/A",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
+        },
+        {
             "package_name": "xcrypt-operator",
             "display_name": "Zettaset XCrypt Operator",
             "latest_version": "0.0.17",
@@ -454,7 +465,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.17.0",
+            "latest_version": "1.17.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +685,7 @@
         {
             "package_name": "citrix-cpx-with-ingress-controller-operator",
             "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.18.5",
+            "latest_version": "1.26.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -793,6 +804,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "test-obi-rhcc-release-container-m2",
+            "display_name": "test-obi-rhcc-release-container-m2",
+            "latest_version": "0.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
             "latest_version": "1.25.1",
@@ -806,9 +828,9 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.17.0",
+            "latest_version": "1.17.1",
             "latest_channel": "stable",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/mongodb/mongodb-enterprise-kubernetes",
@@ -867,6 +889,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "tenant-operator",
+            "display_name": "tenant-operator",
+            "latest_version": "0.6.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -999,6 +1032,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "test-revert-changes-prod-obi",
+            "display_name": "test-revert-changes-prod-obi",
+            "latest_version": "0.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {

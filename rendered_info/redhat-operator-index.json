@@ -960,8 +960,8 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.0.7",
-            "latest_channel": "2.0.x",
+            "latest_version": "2.1.0",
+            "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",

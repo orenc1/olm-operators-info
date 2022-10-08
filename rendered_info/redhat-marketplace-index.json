@@ -56,6 +56,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-server-mongodb-operator-certified-rhmp",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "N/A",
+            "latest_channel": "N/A",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
+        },
+        {
             "package_name": "falcon-operator-rhmp",
             "display_name": "CrowdStrike Falcon Platform - Operator",
             "latest_version": "0.6.0",
