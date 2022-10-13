@@ -1697,8 +1697,8 @@
         {
             "package_name": "kubeturbo",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.6.0",
-            "latest_channel": "stable",
+            "latest_version": "8.6.5-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
