@@ -289,7 +289,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.54.0",
+            "latest_version": "7.55.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -757,6 +757,17 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale-ops/marin3r",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "annotationlab",
+            "display_name": "Annotation Lab",
+            "latest_version": "3.4.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1681,6 +1692,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/openshift/windows-machine-config-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ibm-security-verify-access-operator",
+            "display_name": "IBM Security Verify Access Operator",
+            "latest_version": "22.10.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/IBM-Security/verify-access-operator",
             "documentation_url": ""
         },
         {

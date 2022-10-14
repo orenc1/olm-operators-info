@@ -322,7 +322,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.2.0-0",
+            "latest_version": "2.2.0-1",
             "latest_channel": "amq-streams-2.2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "1.1.7",
+            "latest_version": "1.1.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -464,14 +464,14 @@
         },
         {
             "package_name": "3scale-operator",
-            "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.9.1",
-            "latest_channel": "threescale-2.12",
+            "display_name": "Red Hat Integration - 3scale - Managed Application Services",
+            "latest_version": "0.10.0-mas",
+            "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale/3scale-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.11/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
         },
         {
             "package_name": "mcg-operator",
@@ -498,7 +498,7 @@
         {
             "package_name": "rh-service-binding-operator",
             "display_name": "Service Binding Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.3.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -530,9 +530,9 @@
         },
         {
             "package_name": "apicast-operator",
-            "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.6.1",
-            "latest_channel": "threescale-2.12",
+            "display_name": "Red Hat Integration - 3scale APIcast gateway - Managed Application Services",
+            "latest_version": "0.7.0-mas",
+            "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
