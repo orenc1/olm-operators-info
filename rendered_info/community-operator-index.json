@@ -102,12 +102,23 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.10.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/apache/camel-k",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "awx-operator",
+            "display_name": "AWX",
+            "latest_version": "0.30.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/ansible/awx-operator",
             "documentation_url": ""
         },
         {
@@ -867,6 +878,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/neuvector/neuvector-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "camel-karavan-operator",
+            "display_name": "Camel Karavan Operator",
+            "latest_version": "3.18.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/apache/camel-karavan",
             "documentation_url": ""
         },
         {

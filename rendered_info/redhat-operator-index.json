@@ -168,7 +168,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.7.8",
+            "latest_version": "3.7.9",
             "latest_channel": "stable-3.7",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.15.2",
+            "latest_version": "0.16.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.7.8",
+            "latest_version": "3.7.9",
             "latest_channel": "stable-3.7",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.7.8",
+            "latest_version": "3.7.9",
             "latest_channel": "stable-3.7",
             "disconnected_supported": true,
             "fips_supported": true,
