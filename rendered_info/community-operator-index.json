@@ -674,8 +674,8 @@
         {
             "package_name": "prometurbo",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.6.0",
-            "latest_channel": "stable",
+            "latest_version": "8.6.5-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -846,6 +846,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
+        },
+        {
+            "package_name": "aqua",
+            "display_name": "Aqua Security Operator",
+            "latest_version": "2022.4.6",
+            "latest_channel": "2022.4.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/aquasecurity/aqua-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "ack-lambda-controller",
@@ -1191,7 +1202,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "0.1.6",
+            "latest_version": "0.1.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1257,7 @@
         {
             "package_name": "kubernetes-imagepuller-operator",
             "display_name": "Kubernetes Image Puller Operator",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,7 +1279,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.44",
+            "latest_version": "0.4.45",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,7 +1939,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -839,7 +839,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.17.1",
+            "latest_version": "1.17.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
