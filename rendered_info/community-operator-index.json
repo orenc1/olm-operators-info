@@ -1312,8 +1312,8 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.2.5",
-            "latest_channel": "2.2.x",
+            "latest_version": "2.3.0",
+            "latest_channel": "2.3.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1477,7 +1477,7 @@
         {
             "package_name": "flux",
             "display_name": "Flux",
-            "latest_version": "0.31.4",
+            "latest_version": "0.35.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1642,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.7.0",
+            "latest_version": "4.7.1",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,

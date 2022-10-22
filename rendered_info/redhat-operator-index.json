@@ -883,13 +883,13 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.24.0",
+            "latest_version": "1.25.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/openshift-knative/serverless-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.10/html/serverless/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.11/html/serverless/index"
         },
         {
             "package_name": "file-integrity-operator",
