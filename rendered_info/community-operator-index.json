@@ -1741,7 +1741,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.6.5",
+            "latest_version": "0.7.1",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
