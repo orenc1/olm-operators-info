@@ -595,17 +595,6 @@
             "documentation_url": "https://github.com/dell/dell-csi-operator"
         },
         {
-            "package_name": "test-obi-rhcc-release-container-m2",
-            "display_name": "test-obi-rhcc-release-container-m2",
-            "latest_version": "0.0.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
             "latest_version": "N/A",
@@ -641,8 +630,8 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "6.5.22288",
-            "latest_channel": "6.5",
+            "latest_version": "2022.4.142",
+            "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -663,7 +652,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.6.4",
+            "latest_version": "8.6.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +938,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "1.9.1",
+            "latest_version": "1.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
