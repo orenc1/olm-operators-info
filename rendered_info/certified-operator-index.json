@@ -718,7 +718,7 @@
         {
             "package_name": "kong-gateway-operator",
             "display_name": "Kong Gateway Operator",
-            "latest_version": "0.1.1",
+            "latest_version": "0.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "TrilioVault for Kubernetes",
-            "latest_version": "2.10.6",
+            "latest_version": "3.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

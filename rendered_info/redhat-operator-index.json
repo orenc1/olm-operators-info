@@ -410,7 +410,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.6.1",
+            "latest_version": "1.6.2",
             "latest_channel": "gitops-1.6",
             "disconnected_supported": true,
             "fips_supported": false,
