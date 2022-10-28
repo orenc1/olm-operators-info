@@ -234,7 +234,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.7.1",
+            "latest_version": "0.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1939,7 +1939,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -111,6 +111,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "function-mesh",
+            "display_name": "Function Mesh Operator",
+            "latest_version": "0.7.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/streamnative/function-mesh",
+            "documentation_url": ""
+        },
+        {
             "package_name": "anchore-engine",
             "display_name": "Anchore Engine Operator",
             "latest_version": "1.0.1",
@@ -1164,6 +1175,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "infinibox-operator-certified",
+            "display_name": "InfiniBox CSI Driver - Operator",
+            "latest_version": "2.2.0-rc1b",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Infinidat/infinibox-csi-driver",
             "documentation_url": ""
         },
         {
