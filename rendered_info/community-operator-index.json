@@ -265,6 +265,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "gitlab-operator-kubernetes",
+            "display_name": "GitLab",
+            "latest_version": "0.13.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
             "latest_version": "0.1.2",
@@ -1169,7 +1180,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.0",
             "latest_channel": "rolling",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1521,7 +1532,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.6.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1917,7 +1928,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.3.2",
+            "latest_version": "2.3.3",
             "latest_channel": "stable-v2.3",
             "disconnected_supported": false,
             "fips_supported": false,
