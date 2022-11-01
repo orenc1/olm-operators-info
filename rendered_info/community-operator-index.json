@@ -212,7 +212,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.46",
+            "latest_version": "0.4.47",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.8.0",
+            "latest_version": "0.9.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.8.0-rc.4",
+            "latest_version": "3.8.0-rc.5",
             "latest_channel": "preview-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1367,7 +1367,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.8.0",
+            "latest_version": "0.9.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
