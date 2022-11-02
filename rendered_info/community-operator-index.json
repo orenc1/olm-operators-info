@@ -1048,7 +1048,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.8.0-rc.5",
+            "latest_version": "3.8.0-rc.6",
             "latest_channel": "preview-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "nlp-server",
             "display_name": "nlp-server",
-            "latest_version": "0.8.0-rc1",
+            "latest_version": "0.8.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
