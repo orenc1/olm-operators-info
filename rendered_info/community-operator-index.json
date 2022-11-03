@@ -212,7 +212,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.47",
+            "latest_version": "0.4.48",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,8 +322,8 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.0-alpha.7",
-            "latest_channel": "candidate",
+            "latest_version": "20.0.0",
+            "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1268,7 +1268,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "Annotation Lab",
-            "latest_version": "4.1.2",
+            "latest_version": "4.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1455,7 +1455,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.9.1",
+            "latest_version": "1.10.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -322,7 +322,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.100",
+            "latest_version": "8.0.110",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.100",
+            "latest_version": "8.0.110",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.100",
+            "latest_version": "8.0.110",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
