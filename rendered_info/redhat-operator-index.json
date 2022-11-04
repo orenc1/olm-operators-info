@@ -355,7 +355,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.0-opr-005",
+            "latest_version": "7.6.1-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "rh-service-binding-operator",
             "display_name": "Service Binding Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.2.0-1",
+            "latest_version": "2.2.0-2",
             "latest_channel": "amq-streams-2.2.x",
             "disconnected_supported": true,
             "fips_supported": false,

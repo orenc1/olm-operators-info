@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "flux",
+            "display_name": "Flux",
+            "latest_version": "0.36.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": "https://fluxcd.io/docs/"
+        },
+        {
             "package_name": "joget-dx-operator-rhmp",
             "display_name": "Joget DX Operator",
             "latest_version": "0.0.29",
