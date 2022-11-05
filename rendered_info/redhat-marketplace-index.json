@@ -355,7 +355,7 @@
         {
             "package_name": "joget-dx-operator-rhmp",
             "display_name": "Joget DX Operator",
-            "latest_version": "0.0.29",
+            "latest_version": "0.0.30",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -45,6 +45,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "windup-operator",
+            "display_name": "Windup Operator",
+            "latest_version": "0.0.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/windup/windup-operator/",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ecr-secret-operator",
             "display_name": "ECR Secret Operator",
             "latest_version": "0.3.2",
@@ -168,7 +179,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.38.1",
+            "latest_version": "1.39.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1444,7 +1455,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.31.1",
+            "latest_version": "0.32.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1455,7 +1466,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.10.1-rc1",
+            "latest_version": "1.10.1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1499,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.55.0",
+            "latest_version": "7.56.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

@@ -80,7 +80,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.8.0",
+            "latest_version": "1.8.1",
             "latest_channel": "1.8.x",
             "disconnected_supported": false,
             "fips_supported": false,

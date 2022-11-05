@@ -1114,7 +1114,7 @@
         {
             "package_name": "joget-dx-operator",
             "display_name": "Joget DX Operator",
-            "latest_version": "0.0.32",
+            "latest_version": "0.0.33",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
