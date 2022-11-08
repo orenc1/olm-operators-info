@@ -452,6 +452,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "apimatic-codegen-operator",
+            "display_name": "APIMatic CodeGen Operator",
+            "latest_version": "1.9.15",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/apimatic/apimatic-codegen-operator",
+            "documentation_url": "https://docs.apimatic.io"
+        },
+        {
             "package_name": "aikit-operator",
             "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
             "latest_version": "2021.2.102120",
@@ -1048,13 +1059,13 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/elastic/cloud-on-k8s",
-            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.4/index.html"
+            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.5/index.html"
         },
         {
             "package_name": "installkit-customer",

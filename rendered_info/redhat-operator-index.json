@@ -333,7 +333,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.3.8",
+            "latest_version": "8.3.9",
             "latest_channel": "8.3.x",
             "disconnected_supported": true,
             "fips_supported": false,
