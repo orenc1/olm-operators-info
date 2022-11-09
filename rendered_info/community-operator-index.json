@@ -166,6 +166,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "openshift-nfd-operator",
+            "display_name": "Node Feature Discovery Operator",
+            "latest_version": "4.10.0",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/openshift/cluster-nfd-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ibm-block-csi-operator-community",
             "display_name": "IBM block storage CSI driver operator",
             "latest_version": "1.10.0",
@@ -333,7 +344,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.0",
+            "latest_version": "20.0.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1125,7 @@
         {
             "package_name": "prometurbo",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.6.5-beta.1",
+            "latest_version": "8.7.1-beta.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1256,7 +1267,7 @@
         },
         {
             "package_name": "keda",
-            "display_name": "KEDA",
+            "display_name": "[DEPRECATED] KEDA",
             "latest_version": "2.7.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,

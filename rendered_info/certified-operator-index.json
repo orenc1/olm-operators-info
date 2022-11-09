@@ -685,7 +685,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.6.6",
+            "latest_version": "8.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.16.0",
+            "latest_version": "42.17.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "TrilioVault for Kubernetes",
-            "latest_version": "3.0.0",
+            "latest_version": "3.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
