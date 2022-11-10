@@ -146,7 +146,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "4.5.1",
+            "latest_version": "4.5.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "ibm-application-gateway-operator",
             "display_name": "IBM Application Gateway Operator",
-            "latest_version": "22.3.0",
+            "latest_version": "22.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
