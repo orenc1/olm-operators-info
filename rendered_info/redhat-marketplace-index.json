@@ -47,8 +47,8 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.12-1",
-            "latest_channel": "6.2.12",
+            "latest_version": "6.2.18-3",
+            "latest_channel": "6.2.18",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -366,7 +366,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.5",
+            "latest_version": "2.0.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
