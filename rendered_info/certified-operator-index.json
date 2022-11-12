@@ -849,12 +849,12 @@
         },
         {
             "package_name": "tenant-operator",
-            "display_name": "tenant-operator",
-            "latest_version": "0.7.3",
-            "latest_channel": "alpha",
+            "display_name": "Multi Tenant Operator",
+            "latest_version": "0.7.4",
+            "latest_channel": "0.7.4",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": ""
         },
@@ -938,7 +938,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.17.1",
+            "latest_version": "1.18.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

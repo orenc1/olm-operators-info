@@ -289,7 +289,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.13.2",
+            "latest_version": "0.13.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.29.0",
+            "latest_version": "1.30.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1539,6 +1539,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/ot-container-kit/logging-operator",
             "documentation_url": "https://ot-logging-operator.netlify.app/"
+        },
+        {
+            "package_name": "kubecost",
+            "display_name": "Kubecost",
+            "latest_version": "1.97.0",
+            "latest_channel": "1.97.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "lib-bucket-provisioner",
