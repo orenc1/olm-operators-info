@@ -1950,7 +1950,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.10.2",
+            "latest_version": "1.10.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
