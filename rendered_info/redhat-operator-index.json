@@ -24,12 +24,12 @@
         },
         {
             "package_name": "cryostat-operator",
-            "display_name": "Cryostat Operator",
-            "latest_version": "2.1.1-2.1666966843.p",
+            "display_name": "Red Hat build of Cryostat",
+            "latest_version": "2.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "github.com/cryostatio/cryostat-operator",
             "documentation_url": ""
         },

@@ -311,7 +311,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.22",
+            "latest_version": "0.0.23",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.27.2",
+            "latest_version": "0.29.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -395,17 +395,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/medik8s/node-healthcheck-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "mta-operator",
-            "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "0.0.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/windup/windup-operator/",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications"
         },
         {
             "package_name": "resource-locker-operator",
@@ -1110,6 +1099,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/ricardomaraschini/tagger",
             "documentation_url": "https://github.com/ricardomaraschini/tagger/releases/download/v2.1.17/README.pdf"
+        },
+        {
+            "package_name": "cluster-aas-operator",
+            "display_name": "Cluster as a service operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
+            "repository": "https://github.com/stolostron/cluster-templates-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "self-node-remediation",
