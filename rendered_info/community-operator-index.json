@@ -234,7 +234,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.48",
+            "latest_version": "0.4.49",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.13.3",
+            "latest_version": "0.13.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -69,7 +69,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.2.3",
+            "latest_version": "2.3.0",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.8.0",
+            "latest_version": "1.8.1",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.48.3",
+            "latest_version": "1.57.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

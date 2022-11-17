@@ -311,7 +311,7 @@
         {
             "package_name": "nutanixcsioperator",
             "display_name": "Nutanix CSI Operator",
-            "latest_version": "2.5.4",
+            "latest_version": "2.6.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "apimatic-codegen-operator",
             "display_name": "APIMatic CodeGen Operator",
-            "latest_version": "1.9.15",
+            "latest_version": "1.9.16",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -850,8 +850,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.7.4",
-            "latest_channel": "0.7.4",
+            "latest_version": "0.7.5",
+            "latest_channel": "0.7.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -927,7 +927,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.17.0",
+            "latest_version": "42.18.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
