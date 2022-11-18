@@ -432,7 +432,7 @@
         {
             "package_name": "istio-workspace-operator",
             "display_name": "Istio Workspace",
-            "latest_version": "0.5.2",
+            "latest_version": "0.5.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1620,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "0.0.21",
+            "latest_version": "0.0.22",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -333,7 +333,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "2.0.102",
+            "latest_version": "2.0.203",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -410,7 +410,7 @@
         {
             "package_name": "anzo-operator",
             "display_name": "Anzo Operator",
-            "latest_version": "2.0.101",
+            "latest_version": "2.0.203",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
-            "latest_version": "2.0.101",
+            "latest_version": "2.0.203",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -647,6 +647,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stealserver-operator",
+            "display_name": "STEAL Server",
+            "latest_version": "1.0.0-alpha",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1230,6 +1241,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "nvidia-network-operator",
+            "display_name": "NVIDIA Network Operator",
+            "latest_version": "1.4.0",
+            "latest_channel": "v1.4.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Mellanox/network-operator/",
             "documentation_url": ""
         }
     ]

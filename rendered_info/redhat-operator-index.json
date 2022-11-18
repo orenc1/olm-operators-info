@@ -177,6 +177,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "mta-operator",
+            "display_name": "Migration Toolkit for Applications Operator",
+            "latest_version": "6.0.0",
+            "latest_channel": "stable-v6.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/konveyor/tackle2-operator",
+            "documentation_url": "https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications"
+        },
+        {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
             "latest_version": "1.1.8",
@@ -219,6 +230,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/metallb-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "mtr-operator",
+            "display_name": "Migration Toolkit for Runtimes Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/windup/windup-operator/",
+            "documentation_url": "https://access.redhat.com/documentation/en-us/migration_toolkit_for_runtimes"
         },
         {
             "package_name": "openshift-special-resource-operator",
@@ -333,13 +355,13 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.3.9",
-            "latest_channel": "8.3.x",
+            "latest_version": "8.4.0",
+            "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/infinispan/infinispan-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.3"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.4"
         },
         {
             "package_name": "openshift-pipelines-operator-rh",
@@ -916,7 +938,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.11.2",
+            "latest_version": "4.11.3",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
