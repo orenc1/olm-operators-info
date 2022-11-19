@@ -1213,7 +1213,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.2.0-rc1b",
+            "latest_version": "2.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
