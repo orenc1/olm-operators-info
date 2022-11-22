@@ -419,6 +419,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "uma-admin-operator",
+            "display_name": "DX APM Admin Universal Monitoring Agent",
+            "latest_version": "2022.11.0-11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.11.0",
+            "documentation_url": ""
+        },
+        {
             "package_name": "entando-k8s-operator",
             "display_name": "Entando Operator",
             "latest_version": "6.3.2",
@@ -773,12 +784,12 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2022.8.2-47",
+            "latest_version": "2022.11.0-11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.8.2",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.11.0",
             "documentation_url": ""
         },
         {
@@ -905,11 +916,11 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Full Lifecycle",
             "repository": "https://github.com/eginnovations/universal-agent-operator",
             "documentation_url": ""
         },

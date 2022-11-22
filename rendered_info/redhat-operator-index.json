@@ -674,7 +674,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.11",
+            "latest_version": "1.10.12",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -827,25 +827,25 @@
         },
         {
             "package_name": "3scale-operator",
-            "display_name": "Red Hat Integration - 3scale - Managed Application Services",
-            "latest_version": "0.10.0-mas",
-            "latest_channel": "threescale-mas",
+            "display_name": "Red Hat Integration - 3scale",
+            "latest_version": "0.10.0",
+            "latest_channel": "threescale-2.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale/3scale-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.11/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
         },
         {
             "package_name": "apicast-operator",
-            "display_name": "Red Hat Integration - 3scale APIcast gateway - Managed Application Services",
-            "latest_version": "0.7.0-mas",
-            "latest_channel": "threescale-mas",
+            "display_name": "Red Hat Integration - 3scale APIcast gateway",
+            "latest_version": "0.7.0",
+            "latest_channel": "threescale-2.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.13/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "fuse-console",
