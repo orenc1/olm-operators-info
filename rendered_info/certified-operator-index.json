@@ -223,7 +223,7 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.4.0",
+            "latest_version": "5.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

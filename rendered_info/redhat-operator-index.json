@@ -91,7 +91,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.2.1-0.1667857587",
+            "latest_version": "2.2.1-0.1668659261",
             "latest_channel": "stable-2.2-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.2.1-0.1667852884",
+            "latest_version": "2.2.1-0.1668655552",
             "latest_channel": "stable-2.2-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
