@@ -47,7 +47,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.56.0",
+            "latest_version": "7.57.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -465,7 +465,7 @@
         {
             "package_name": "rabbitmq-messaging-topology-operator",
             "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.9.0",
+            "latest_version": "1.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "microcks",
             "display_name": "Microcks Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.49",
+            "latest_version": "0.4.50",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
