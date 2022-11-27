@@ -980,6 +980,17 @@
             "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
+            "package_name": "eclipse-amlen-operator",
+            "display_name": "amlen-operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/eclipse/amlen",
+            "documentation_url": ""
+        },
+        {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
             "latest_version": "0.4.50",
