@@ -234,7 +234,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.2",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-alpha.3",
+            "latest_version": "1.0.0-alpha.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1868,6 +1868,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "github.com/open-telemetry/opentelemetry-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "eginnovations-operator",
+            "display_name": "eG Innovations Universal Agent Operator",
+            "latest_version": "0.0.3",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/eginnovations/universal-agent-operator",
             "documentation_url": ""
         },
         {

@@ -179,7 +179,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.8",
+            "latest_version": "3.1.9",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "nxrm-operator-certified",
             "display_name": "Nexus Repository Operator",
-            "latest_version": "3.41.1-1",
+            "latest_version": "3.43.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -444,17 +444,6 @@
             "package_name": "cloudbees-ci",
             "display_name": "CloudBees CI",
             "latest_version": "3.34.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stealserver-operator",
-            "display_name": "STEAL Server",
-            "latest_version": "1.0.0-alpha",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +531,7 @@
         {
             "package_name": "fep-ansible-operator",
             "display_name": "FUJITSU Enterprise Postgres 12 Operator",
-            "latest_version": "2.2.11",
+            "latest_version": "2.2.12",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -762,7 +751,7 @@
         {
             "package_name": "openshiftxray-operator",
             "display_name": "JFrog Xray Continuous Security Operator",
-            "latest_version": "2.0.9",
+            "latest_version": "2.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,7 +762,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "FUJITSU Enterprise Postgres Operator",
-            "latest_version": "4.1.7",
+            "latest_version": "4.1.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

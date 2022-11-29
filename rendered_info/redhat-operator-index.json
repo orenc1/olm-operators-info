@@ -80,7 +80,7 @@
         {
             "package_name": "redhat-oadp-operator",
             "display_name": "OADP Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -179,8 +179,8 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.2.1-0.1668655552",
-            "latest_channel": "stable-2.2-cluster-scoped",
+            "latest_version": "2.3.0-0.1669042771",
+            "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -245,7 +245,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.11.0-202211032036",
+            "latest_version": "4.11.0-202211211647",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.11.0-202211072116",
+            "latest_version": "4.11.0-202211190357",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.11.0-202211072116",
+            "latest_version": "4.11.0-202211172147",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.11.0-202211072116",
+            "latest_version": "4.11.0-202211211647",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.11.0-202211072116",
+            "latest_version": "4.11.0-202211211407",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "fuse-online",
             "display_name": "Red Hat Integration - Fuse Online",
-            "latest_version": "7.11.0-0.1666805762.p",
+            "latest_version": "7.11.1",
             "latest_channel": "7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "fuse-console",
             "display_name": "Red Hat Integration - Fuse Console",
-            "latest_version": "7.11.0",
+            "latest_version": "7.11.1",
             "latest_channel": "7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,8 +751,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.2.1-0.1668659261",
-            "latest_channel": "stable-2.2-cluster-scoped",
+            "latest_version": "2.3.0-0.1669043738",
+            "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -762,7 +762,7 @@
         {
             "package_name": "fuse-apicurito",
             "display_name": "Red Hat Integration - API Designer",
-            "latest_version": "7.11.0",
+            "latest_version": "7.11.1",
             "latest_channel": "fuse-apicurito-7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.11.0-202211072116",
+            "latest_version": "4.11.0-202211091549",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
