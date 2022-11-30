@@ -608,7 +608,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.3.3",
+            "latest_version": "2.3.4",
             "latest_channel": "stable-v2.3",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.6.1",
+            "latest_version": "0.7.0-rc1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1440,6 +1440,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/coreos/etcd-operator",
             "documentation_url": "https://coreos.com/operators/etcd/docs/latest/"
+        },
+        {
+            "package_name": "ack-memorydb-controller",
+            "display_name": "AWS Controllers for Kubernetes - MemoryDB",
+            "latest_version": "0.0.3",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "redis-operator",
@@ -1763,7 +1774,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "0.0.22",
+            "latest_version": "0.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1840,7 @@
         {
             "package_name": "keepalived-operator",
             "display_name": "Keepalived Operator",
-            "latest_version": "1.5.2",
+            "latest_version": "1.5.3",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1983,7 +1994,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.8.0-rc.6",
+            "latest_version": "3.8.0-rc.7",
             "latest_channel": "preview-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
