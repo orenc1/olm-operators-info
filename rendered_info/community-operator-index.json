@@ -156,8 +156,8 @@
         },
         {
             "package_name": "sosivio",
-            "display_name": "Sosivio Autonomuous Cloud Native",
-            "latest_version": "1.4.4-85",
+            "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
+            "latest_version": "1.5.0-95",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.59.0",
+            "latest_version": "1.60.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1035,6 +1035,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "gitwebhook-operator",
+            "display_name": "GitWebhook operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/redhat-cop/gitwebhook-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "sigstore-helm-operator",
             "display_name": "sigstore",
             "latest_version": "0.0.1",
@@ -1103,7 +1114,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "1.1.8",
+            "latest_version": "1.1.9",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1180,7 +1191,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.30.0",
+            "latest_version": "1.31.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1411,7 +1422,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "0.30.0",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,7 +1884,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.62.1",
+            "latest_version": "0.66.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

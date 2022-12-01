@@ -311,7 +311,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -355,7 +355,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.38.0-2",
+            "latest_version": "1.39.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,8 +520,8 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "3.72.1",
-            "latest_channel": "latest",
+            "latest_version": "3.72.2",
+            "latest_channel": "rhacs-3.72",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1004,7 +1004,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat OpenShift distributed tracing data collection",
-            "latest_version": "0.60.0-2",
+            "latest_version": "0.63.1-4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

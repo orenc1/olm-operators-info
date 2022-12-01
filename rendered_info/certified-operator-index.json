@@ -113,7 +113,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.9.1",
+            "latest_version": "0.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
