@@ -399,7 +399,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "Annotation Lab",
-            "latest_version": "4.3.0",
+            "latest_version": "4.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

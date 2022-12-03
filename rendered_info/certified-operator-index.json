@@ -311,7 +311,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.200",
+            "latest_version": "8.0.201",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -422,6 +422,17 @@
             "package_name": "ako-operator",
             "display_name": "AKO Operator",
             "latest_version": "1.6.3-stable",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "acc-operator",
+            "display_name": "netapp-acc-operator",
+            "latest_version": "22.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
