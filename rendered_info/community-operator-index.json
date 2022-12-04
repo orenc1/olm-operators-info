@@ -553,7 +553,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.7.1",
+            "latest_version": "4.8.0",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,
