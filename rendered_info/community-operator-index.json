@@ -1422,7 +1422,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "1.0.0",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
