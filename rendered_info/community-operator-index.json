@@ -443,7 +443,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "v0.2.x",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -69,7 +69,7 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -146,7 +146,7 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "odf-lvm-operator",
             "display_name": "ODF LVM Operator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -795,7 +795,7 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.3.7",
+            "latest_version": "2.3.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
