@@ -993,7 +993,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.4.50",
+            "latest_version": "0.5.50",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2005,8 +2005,8 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.8.0-rc.7",
-            "latest_channel": "preview-3.8",
+            "latest_version": "3.9.0-nightly.1",
+            "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",

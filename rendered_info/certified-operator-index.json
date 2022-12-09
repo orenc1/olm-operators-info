@@ -463,6 +463,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stealserver-operator",
+            "display_name": "STEAL Server",
+            "latest_version": "1.0.0-alpha",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "apimatic-codegen-operator",
             "display_name": "APIMatic CodeGen Operator",
             "latest_version": "1.9.16",
@@ -784,7 +795,7 @@
         {
             "package_name": "sriov-fec",
             "display_name": "SEO SR-IOV Operator for Wireless FEC Accelerators",
-            "latest_version": "2.5.0",
+            "latest_version": "2.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,7 +927,7 @@
         {
             "package_name": "splunk-operator",
             "display_name": "Splunk Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
