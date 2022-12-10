@@ -256,7 +256,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "0.1.7",
+            "latest_version": "0.1.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "Annotation Lab",
-            "latest_version": "4.4.0",
+            "latest_version": "4.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -747,17 +747,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/pulp/pulp-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "pulsar-operator",
-            "display_name": "Pulsar Operator",
-            "latest_version": "0.11.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
         },
         {
             "package_name": "must-gather-operator",
@@ -1422,7 +1411,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
