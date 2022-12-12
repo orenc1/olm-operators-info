@@ -100,6 +100,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "sosivio",
+            "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
+            "latest_version": "N/A",
+            "latest_channel": "N/A",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": "https://github.com/Sosivio/operator",
+            "documentation_url": "https://docs.sosiv.io"
+        },
+        {
             "package_name": "ccm-node-agent-dcap-operator",
             "display_name": "CCM Node Agent DCAP Operator",
             "latest_version": "0.0.2",
@@ -130,6 +141,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/aquasecurity/aqua-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "rubicon-rhc-operator",
+            "display_name": "Rubicon Operator",
+            "latest_version": "1.0.0-alpha",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
