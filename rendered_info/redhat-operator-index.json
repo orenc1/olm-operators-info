@@ -420,19 +420,19 @@
         },
         {
             "package_name": "apicast-operator",
-            "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.0",
-            "latest_channel": "threescale-2.13",
+            "display_name": "Red Hat Integration - 3scale APIcast gateway - Managed Application Services",
+            "latest_version": "0.7.1-mas",
+            "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.13/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.2.0-3",
+            "latest_version": "2.2.0-4",
             "latest_channel": "amq-streams-2.2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.16.0",
+            "latest_version": "0.17.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.25.0",
+            "latest_version": "1.26.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -717,14 +717,14 @@
         },
         {
             "package_name": "3scale-operator",
-            "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.10.0",
-            "latest_channel": "threescale-2.13",
+            "display_name": "Red Hat Integration - 3scale - Managed Application Services",
+            "latest_version": "0.11.0-mas",
+            "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale/3scale-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.11/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
         },
         {
             "package_name": "cryostat-operator",
@@ -839,7 +839,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.3",
+            "latest_version": "2.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

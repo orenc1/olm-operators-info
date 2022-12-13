@@ -201,7 +201,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.9",
+            "latest_version": "3.1.10",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "fep-ansible-operator",
             "display_name": "FUJITSU Enterprise Postgres 12 Operator",
-            "latest_version": "2.2.12",
+            "latest_version": "2.2.13",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "FUJITSU Enterprise Postgres Operator",
-            "latest_version": "4.1.9",
+            "latest_version": "4.1.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2022.11.2-11",
+            "latest_version": "2022.11.3-13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "nutanixcsioperator",
             "display_name": "Nutanix CSI Operator",
-            "latest_version": "2.6.1",
+            "latest_version": "2.6.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
