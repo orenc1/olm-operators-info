@@ -245,7 +245,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.10.3",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.1",
+            "latest_version": "20.0.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "beegfs-csi-driver-operator",
             "display_name": "BeeGFS CSI Driver",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,7 +1961,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.14.0",
+            "latest_version": "0.14.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2016,7 +2016,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.2022.12.11",
+            "latest_version": "3.9.0-nightly.2022.12.13",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2026,8 +2026,8 @@
         },
         {
             "package_name": "percona-xtradb-cluster-operator",
-            "display_name": "Percona XtraDB Cluster Operator",
-            "latest_version": "1.9.0",
+            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+            "latest_version": "1.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

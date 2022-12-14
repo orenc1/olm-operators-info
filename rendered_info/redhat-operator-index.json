@@ -47,7 +47,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.1-opr-002",
+            "latest_version": "7.6.1-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -58,7 +58,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "1.8.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.2.0",
+            "latest_version": "3.3.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -916,7 +916,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.1.2",
+            "latest_version": "2.1.3",
             "latest_channel": "stable-2.1",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -971,7 +971,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.1.2",
+            "latest_version": "2.1.3",
             "latest_channel": "stable-2.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.0.7",
+            "latest_version": "1.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

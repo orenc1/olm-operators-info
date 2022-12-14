@@ -815,6 +815,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "hspc-operator",
+            "display_name": "Hitachi Storage Plug-in for Containers",
+            "latest_version": "1.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "sriov-fec",
             "display_name": "SEO SR-IOV Operator for Wireless FEC Accelerators",
             "latest_version": "2.6.0",
@@ -1176,6 +1187,17 @@
             "capabilities": "Basic Install",
             "repository": "",
             "documentation_url": ""
+        },
+        {
+            "package_name": "percona-xtradb-cluster-operator-certified",
+            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+            "latest_version": "1.12.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-xtradb-cluster-operator",
+            "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
         },
         {
             "package_name": "eginnovations-operator",
