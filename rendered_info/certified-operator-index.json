@@ -168,11 +168,11 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "22.9.0",
+            "latest_version": "22.9.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Deep Insights",
+            "capabilities": "Basic Install",
             "repository": "http://github.com/NVIDIA/gpu-operator",
             "documentation_url": ""
         },
@@ -1059,7 +1059,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.7.2",
+            "latest_version": "8.7.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

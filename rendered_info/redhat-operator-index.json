@@ -111,17 +111,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "service-registry-operator",
-            "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.1.0-0.1666888132.p",
-            "latest_channel": "2.x",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/Apicurio/apicurio-registry-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
             "latest_version": "7.10.2-opr-1",
@@ -179,7 +168,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1669920898",
+            "latest_version": "2.3.0-0.1670968748",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -234,7 +223,7 @@
         {
             "package_name": "node-observability-operator",
             "display_name": "Node Observability Operator",
-            "latest_version": "0.1.0",
+            "latest_version": "0.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,8 +278,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.6.3",
-            "latest_channel": "gitops-1.6",
+            "latest_version": "1.7.0",
+            "latest_channel": "gitops-1.7",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -322,7 +311,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.6.2",
+            "latest_version": "2.6.3",
             "latest_channel": "release-2.6",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -509,7 +498,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.12",
+            "latest_version": "1.10.13",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,8 +740,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1669925085",
-            "latest_channel": "stable-2.3-cluster-scoped",
+            "latest_version": "2.3.0-0.1670543371",
+            "latest_channel": "stable-2.3",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
