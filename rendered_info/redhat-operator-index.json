@@ -641,7 +641,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.11.3",
+            "latest_version": "4.11.4",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,

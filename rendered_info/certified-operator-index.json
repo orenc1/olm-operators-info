@@ -47,7 +47,7 @@
         {
             "package_name": "seldon-operator-certified",
             "display_name": "Seldon Operator",
-            "latest_version": "1.14.1-2",
+            "latest_version": "1.15.0-0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,13 +388,13 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "2.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/oscargcervantes/rtf-agent-operator",
-            "documentation_url": ""
+            "repository": "https://github.com/mulesoft/rtf-ocp-operator",
+            "documentation_url": "https://docs.mulesoft.com/release-notes/runtime-fabric/runtime-fabric"
         },
         {
             "package_name": "kubemq-operator-marketplace",
