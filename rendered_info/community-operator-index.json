@@ -397,6 +397,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-sqs-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "hyperfoil-bundle",
             "display_name": "Hyperfoil",
             "latest_version": "0.21.0",
@@ -1631,7 +1642,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.2022.12.15",
+            "latest_version": "3.9.0-nightly.2022.12.17",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
