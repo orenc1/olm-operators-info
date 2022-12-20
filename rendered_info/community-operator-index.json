@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "horreum-operator",
+            "display_name": "Horreum",
+            "latest_version": "0.2.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/hyperfoil/horreum-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
             "latest_version": "0.6.0-dev",
@@ -432,7 +443,7 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.3.0",
+            "latest_version": "0.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -450,6 +461,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/opdev/l5-operator-demo",
             "documentation_url": ""
+        },
+        {
+            "package_name": "ack-sns-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
+            "latest_version": "0.0.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "kubernetes-imagepuller-operator",
@@ -949,7 +971,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.10.0",
+            "latest_version": "0.10.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1664,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.2022.12.18",
+            "latest_version": "3.9.0-nightly.2022.12.19",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1664,7 +1686,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "0.2.1",
+            "latest_version": "0.2.2",
             "latest_channel": "v0.2.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1794,6 +1816,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "pelorus-operator",
+            "display_name": "Pelorus Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/konveyor/pelorus/",
+            "documentation_url": ""
+        },
+        {
             "package_name": "apicast-community-operator",
             "display_name": "APIcast",
             "latest_version": "0.6.0",
@@ -1840,7 +1873,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.20",
+            "latest_version": "0.0.21",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1895,7 +1928,7 @@
         {
             "package_name": "nfs-provisioner-operator",
             "display_name": "NFS Provisioner Operator",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
