@@ -927,7 +927,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.50",
+            "latest_version": "0.5.51",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.2022.12.19",
+            "latest_version": "3.9.0-nightly.2022.12.20",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.21",
+            "latest_version": "0.0.22",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1961,7 +1961,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
