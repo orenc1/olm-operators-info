@@ -353,6 +353,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "dell-csi-operator",
+            "display_name": "Dell CSI Operator",
+            "latest_version": "1.10.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/dell/dell-csi-operator",
+            "documentation_url": "https://github.com/dell/dell-csi-operator"
+        },
+        {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
             "latest_version": "0.6.0-dev",
@@ -944,6 +955,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kedacore/keda-olm-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kuadrant-operator",
+            "display_name": "Kuadrant Operator",
+            "latest_version": "0.2.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Kuadrant/kuadrant-operator",
             "documentation_url": ""
         },
         {
@@ -1554,7 +1576,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.31.0",
+            "latest_version": "1.32.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1630,9 +1652,9 @@
         },
         {
             "package_name": "dell-csm-operator",
-            "display_name": "Dell CSM Operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "alpha",
+            "display_name": "Dell Container Storage Modules",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1664,7 +1686,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.2022.12.20",
+            "latest_version": "3.9.0-nightly.2022.12.21",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

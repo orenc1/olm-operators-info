@@ -133,6 +133,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "k10-kasten-operator-rhmp",
+            "display_name": "Kasten K10 (Free)",
+            "latest_version": "5.5.2",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "flux",
             "display_name": "Flux",
             "latest_version": "0.36.0",
@@ -459,6 +470,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "k10-kasten-operator-paygo-rhmp",
+            "display_name": "Kasten K10 (Enterprise - PAYGO)",
+            "latest_version": "5.5.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
             "repository": null,
             "documentation_url": ""
         },
