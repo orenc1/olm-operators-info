@@ -542,7 +542,7 @@
         {
             "package_name": "function-mesh",
             "display_name": "Function Mesh Operator",
-            "latest_version": "0.8.0",
+            "latest_version": "0.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -581,6 +581,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "lightbits-operator",
+            "display_name": "lightbits-operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/LightBitsLabs/lightbits-operator",
             "documentation_url": ""
         },
         {

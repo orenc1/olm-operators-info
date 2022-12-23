@@ -342,6 +342,17 @@
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
         },
         {
+            "package_name": "k10-kasten-operator-term-rhmp",
+            "display_name": "Kasten K10 (Enterprise - Term)",
+            "latest_version": "5.5.2",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "crunchy-postgres-operator-rhmp",
             "display_name": "Crunchy Postgres for Kubernetes",
             "latest_version": "5.2.0",
