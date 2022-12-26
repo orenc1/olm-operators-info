@@ -1312,8 +1312,8 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "N/A",
-            "latest_channel": "N/A",
+            "latest_version": "1.5.2-54-ubi",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
