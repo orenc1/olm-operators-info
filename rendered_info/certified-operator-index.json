@@ -927,7 +927,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.18-3a",
+            "latest_version": "6.2.18-41a",
             "latest_channel": "6.2.18",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.142",
+            "latest_version": "2022.4.196",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.5.2-54-ubi",
+            "latest_version": "1.5.2-56-ubi",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
