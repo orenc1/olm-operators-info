@@ -123,8 +123,8 @@
         },
         {
             "package_name": "edp-keycloak-operator",
-            "display_name": "edp-keycloak-operator",
-            "latest_version": "1.13.0",
+            "display_name": "EDP Keycloak Operator",
+            "latest_version": "1.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
