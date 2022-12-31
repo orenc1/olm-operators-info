@@ -157,7 +157,7 @@
         {
             "package_name": "f5-ipam-controller-operator",
             "display_name": "F5 Ipam controller",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
