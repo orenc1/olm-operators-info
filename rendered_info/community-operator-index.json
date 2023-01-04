@@ -2,8 +2,8 @@
     "operators_list": [
         {
             "package_name": "annotationlab",
-            "display_name": "NLP LAB",
-            "latest_version": "4.5.0",
+            "display_name": "NLP Lab",
+            "latest_version": "4.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-alpha.4",
+            "latest_version": "1.0.0-alpha.5",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
