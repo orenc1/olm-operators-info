@@ -3,8 +3,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.7.5",
-            "latest_channel": "0.7.5",
+            "latest_version": "0.8.1",
+            "latest_channel": "0.8.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

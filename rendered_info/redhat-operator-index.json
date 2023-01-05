@@ -322,7 +322,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.11.0-202212070335",
+            "latest_version": "4.11.0-202212131154",
             "latest_channel": "4.11",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.11.0-202212070335",
+            "latest_version": "4.11.0-202212072254",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.11.0-202212070335",
+            "latest_version": "4.11.0-202212141745",
             "latest_channel": "4.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.11.0-202212070335",
+            "latest_version": "4.11.0-202212161404",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
