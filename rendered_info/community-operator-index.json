@@ -2,8 +2,8 @@
     "operators_list": [
         {
             "package_name": "annotationlab",
-            "display_name": "NLP Lab",
-            "latest_version": "4.5.1",
+            "display_name": "Annotation Lab",
+            "latest_version": "4.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2027,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.7.0",
+            "latest_version": "0.7.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

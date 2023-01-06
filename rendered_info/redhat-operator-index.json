@@ -509,7 +509,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.1.1",
+            "latest_version": "2.1.2",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -779,17 +779,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "integration-operator",
-            "display_name": "Red Hat Integration",
-            "latest_version": "1.3.0",
-            "latest_channel": "1.x",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/redhat-integration/integration-operator",
             "documentation_url": ""
         },
         {

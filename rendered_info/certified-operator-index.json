@@ -585,8 +585,8 @@
         },
         {
             "package_name": "lightbits-operator",
-            "display_name": "lightbits-operator",
-            "latest_version": "0.0.1",
+            "display_name": "Lightbits Operator",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,8 +1026,8 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.2.0",
-            "latest_channel": "alpha",
+            "latest_version": "2.3.0",
+            "latest_channel": " stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
