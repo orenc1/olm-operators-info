@@ -2,8 +2,8 @@
     "operators_list": [
         {
             "package_name": "annotationlab",
-            "display_name": "Annotation Lab",
-            "latest_version": "4.4.1",
+            "display_name": "NLP Lab",
+            "latest_version": "4.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.51",
+            "latest_version": "0.5.52",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
