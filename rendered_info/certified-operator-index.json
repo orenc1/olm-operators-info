@@ -872,11 +872,11 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "0.0.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Full Lifecycle",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/eginnovations/universal-agent-operator",
             "documentation_url": ""
         },
