@@ -520,7 +520,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.4",
+            "latest_version": "0.8.5",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.40.0",
+            "latest_version": "1.41.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
