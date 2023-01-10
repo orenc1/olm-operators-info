@@ -3,7 +3,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "NLP Lab",
-            "latest_version": "4.5.1",
+            "latest_version": "4.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.66.0",
+            "latest_version": "0.67.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.0.0",
+            "latest_version": "2.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,11 +1444,11 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "0.0.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Full Lifecycle",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/eginnovations/universal-agent-operator",
             "documentation_url": ""
         },
@@ -1906,7 +1906,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.58.0",
+            "latest_version": "7.59.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

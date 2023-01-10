@@ -157,7 +157,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.10.2-opr-1",
+            "latest_version": "7.10.2-opr-2",
             "latest_channel": "7.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,8 +377,8 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator",
-            "latest_version": "0.4.1",
-            "latest_channel": "stable",
+            "latest_version": "0.5.0",
+            "latest_channel": "4.12-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -399,8 +399,8 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator",
-            "latest_version": "4.11.1",
-            "latest_channel": "stable",
+            "latest_version": "5.0.0",
+            "latest_channel": "4.12-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -454,7 +454,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.11.0-202212072254",
+            "latest_version": "4.11.0-202301031954",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -729,8 +729,8 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.3.1",
-            "latest_channel": "candidate",
+            "latest_version": "0.4.0",
+            "latest_channel": "4.12-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",

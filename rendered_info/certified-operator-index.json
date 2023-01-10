@@ -652,8 +652,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.7.4",
-            "latest_channel": "stable",
+            "latest_version": "8.7.5-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -663,8 +663,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.7.4",
-            "latest_channel": "stable",
+            "latest_version": "8.7.5-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -817,7 +817,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "4.5.4",
+            "latest_version": "4.5.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,8 +1048,8 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.3.0",
-            "latest_channel": " stable",
+            "latest_version": "2.3.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1312,7 +1312,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.7",
+            "latest_version": "2.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
