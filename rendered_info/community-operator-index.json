@@ -925,17 +925,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "zookeeper-operator",
-            "display_name": "ZooKeeper Operator",
-            "latest_version": "0.11.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
-        },
-        {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
             "latest_version": "0.5.52",
@@ -1387,17 +1376,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "bookkeeper-operator",
-            "display_name": "BookKeeper Operator",
-            "latest_version": "0.11.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
-        },
-        {
             "package_name": "kube-green",
             "display_name": "kube-green",
             "latest_version": "0.4.1",
@@ -1411,13 +1389,13 @@
         {
             "package_name": "flink-kubernetes-operator",
             "display_name": "Flink Kubernetes Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/apache/flink-kubernetes-operator.git",
-            "documentation_url": ""
+            "documentation_url": "https://nightlies.apache.org/flink/flink-kubernetes-operator-docs-main/"
         },
         {
             "package_name": "sap-commerce-operator",
@@ -1521,7 +1499,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "0.5.0",
+            "latest_version": "0.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

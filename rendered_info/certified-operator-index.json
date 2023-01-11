@@ -133,6 +133,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "dell-csm-operator-certified",
+            "display_name": "Dell Container Storage Modules",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/dell/csm-operator",
+            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
+        },
+        {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
             "latest_version": "22.9.1",
@@ -1191,8 +1202,8 @@
         {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "N/A",
-            "latest_channel": "N/A",
+            "latest_version": "1.13.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
