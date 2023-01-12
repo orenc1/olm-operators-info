@@ -12,6 +12,17 @@
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/"
         },
         {
+            "package_name": "rhods-operator",
+            "display_name": "Red Hat OpenShift Data Science",
+            "latest_version": "1.20.1-8",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/red-hat-data-services/opendatahub-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
             "latest_version": "4.11.0-202212070335",
@@ -780,6 +791,17 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
+        },
+        {
+            "package_name": "rhods-prometheus-operator",
+            "display_name": "Prometheus Operator",
+            "latest_version": "4.10.0",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/prometheus-operator/prometheus-operator",
+            "documentation_url": "https://github.com/prometheus-operator/prometheus-operator/tree/master/Documentation"
         },
         {
             "package_name": "compliance-operator",
