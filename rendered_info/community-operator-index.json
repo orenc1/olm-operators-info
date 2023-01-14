@@ -366,7 +366,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.3.6",
+            "latest_version": "1.3.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -626,6 +626,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/kiali/kiali",
             "documentation_url": ""
+        },
+        {
+            "package_name": "loki-operator",
+            "display_name": "Community Loki Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/grafana/loki/tree/main/operator",
+            "documentation_url": "https://loki-operator.dev/"
         },
         {
             "package_name": "argocd-operator",
@@ -1136,7 +1147,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.15.0",
+            "latest_version": "0.15.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
