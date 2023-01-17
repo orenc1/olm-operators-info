@@ -344,8 +344,8 @@
         {
             "package_name": "file-integrity-operator",
             "display_name": "File Integrity Operator",
-            "latest_version": "0.1.32",
-            "latest_channel": "release-0.1",
+            "latest_version": "1.0.0",
+            "latest_channel": "v1",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -773,8 +773,8 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.2.0-4",
-            "latest_channel": "amq-streams-2.2.x",
+            "latest_version": "2.3.0-0",
+            "latest_channel": "amq-streams-2.3.x",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -784,7 +784,7 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "0.2.4",
+            "latest_version": "0.2.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

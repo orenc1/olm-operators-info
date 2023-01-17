@@ -289,7 +289,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.52",
+            "latest_version": "0.5.53",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
