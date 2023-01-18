@@ -530,8 +530,8 @@
         },
         {
             "package_name": "node-maintenance-operator",
-            "display_name": "Node Maintenance Operator - Community Edition",
-            "latest_version": "0.13.0",
+            "display_name": "Node Maintenance Operator",
+            "latest_version": "0.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.23",
+            "latest_version": "0.0.24",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,7 +1323,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "1.1.9",
+            "latest_version": "1.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1356,7 +1356,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.10.2-rc1",
+            "latest_version": "1.11.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.2",
+            "latest_version": "20.0.3",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "1.8.0",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1706,6 +1706,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ndmspc-operator",
+            "display_name": "NdmSpc operator",
+            "latest_version": "0.1.3",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://gitlab.com/ndmspc/ndmspc-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
             "latest_version": "0.1.7",
@@ -1862,7 +1873,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.7.1",
+            "latest_version": "0.7.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2038,7 @@
         {
             "package_name": "t8c",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.13.0",
+            "latest_version": "42.22.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

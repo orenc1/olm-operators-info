@@ -848,6 +848,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "enterprise-kyverno",
+            "display_name": "EnterpriseKyverno",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "function-mesh",
             "display_name": "Function Mesh Operator",
             "latest_version": "0.9.0",
@@ -1114,8 +1125,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.7.5-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.7.5",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
