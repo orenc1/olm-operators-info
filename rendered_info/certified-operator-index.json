@@ -861,7 +861,7 @@
         {
             "package_name": "function-mesh",
             "display_name": "Function Mesh Operator",
-            "latest_version": "0.9.0",
+            "latest_version": "0.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1396,6 +1396,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/apimatic/apimatic-codegen-operator",
             "documentation_url": "https://docs.apimatic.io"
+        },
+        {
+            "package_name": "test-obi-4-12",
+            "display_name": "test-obi-4-12",
+            "latest_version": "0.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "nvidia-network-operator",

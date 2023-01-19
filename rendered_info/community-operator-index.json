@@ -146,7 +146,7 @@
         {
             "package_name": "yaks",
             "display_name": "YAKS Operator",
-            "latest_version": "0.11.0",
+            "latest_version": "0.12.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "kubernetes-imagepuller-operator",
             "display_name": "Kubernetes Image Puller Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1939,7 +1939,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
