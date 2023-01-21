@@ -432,7 +432,7 @@
         {
             "package_name": "joget-dx-operator",
             "display_name": "Joget DX Operator",
-            "latest_version": "0.0.34",
+            "latest_version": "0.0.35",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "4.5.7",
+            "latest_version": "4.5.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
