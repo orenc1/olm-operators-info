@@ -245,7 +245,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.2.1",
+            "latest_version": "0.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "ibm-block-csi-operator-community",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.5.1",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,7 +1543,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.54",
+            "latest_version": "0.5.55",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1741,7 +1741,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "rolling",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,8 +1807,8 @@
         {
             "package_name": "kubecost",
             "display_name": "Kubecost",
-            "latest_version": "1.97.0",
-            "latest_channel": "1.97.0",
+            "latest_version": "1.99.0",
+            "latest_channel": "1.99.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

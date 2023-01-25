@@ -36,8 +36,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.8.1",
-            "latest_channel": "0.8.1",
+            "latest_version": "0.8.3",
+            "latest_channel": "0.8.3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -58,7 +58,7 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.30",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.5.1",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.7.5",
+            "latest_version": "8.7.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "operator-certification-operator",
             "display_name": "Operator Certification Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

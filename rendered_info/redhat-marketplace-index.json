@@ -89,17 +89,6 @@
             "documentation_url": "https://docs.pachyderm.com/latest/"
         },
         {
-            "package_name": "k10-kasten-operator-term-rhmp",
-            "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "5.5.3",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "couchbase-enterprise-certified-rhmp",
             "display_name": "Couchbase Operator",
             "latest_version": "2.3.2-1",
@@ -317,17 +306,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/piraeusdatastore/piraeus-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "k10-kasten-operator-paygo-rhmp",
-            "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "5.5.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
             "documentation_url": ""
         },
         {
