@@ -168,7 +168,7 @@
         {
             "package_name": "ibm-block-csi-operator",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "1.10.1",
+            "latest_version": "1.10.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -959,8 +959,8 @@
         },
         {
             "package_name": "stackgres-operator",
-            "display_name": "stackgres-operator",
-            "latest_version": "1.4.1",
+            "display_name": "StackGres Operator",
+            "latest_version": "1.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1202,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "FUJITSU Enterprise Postgres Operator",
-            "latest_version": "4.1.10",
+            "latest_version": "4.1.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1257,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.10",
+            "latest_version": "3.1.11",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
