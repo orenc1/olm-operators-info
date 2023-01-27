@@ -69,7 +69,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "1.1.9",
+            "latest_version": "1.2.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -597,7 +597,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "0.2.2",
+            "latest_version": "1.0.1",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -661,6 +661,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stolostron",
+            "display_name": "Stolostron",
+            "latest_version": "0.1.0",
+            "latest_channel": "community-0.1",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/stolostron/stolostron",
+            "documentation_url": "https://github.com/stolostron/stolostron"
+        },
+        {
             "package_name": "kubeturbo",
             "display_name": "Kubeturbo Operator",
             "latest_version": "8.6.5-beta.1",
@@ -719,6 +730,17 @@
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
             "latest_version": "0.0.20",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
+            "package_name": "ack-acm-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
+            "latest_version": "0.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1431,6 +1453,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stolostron-engine",
+            "display_name": "Stolostron Engine",
+            "latest_version": "0.1.0",
+            "latest_channel": "community-0.1",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/stolostron/stolostron",
+            "documentation_url": "https://github.com/stolostron/stolostron"
+        },
+        {
             "package_name": "camel-karavan-operator",
             "display_name": "Camel Karavan Operator",
             "latest_version": "3.18.5",
@@ -1477,7 +1510,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.59.0",
+            "latest_version": "7.60.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
