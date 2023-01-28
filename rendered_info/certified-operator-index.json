@@ -564,7 +564,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,13 +1070,13 @@
         {
             "package_name": "splunk-operator",
             "display_name": "Splunk Operator",
-            "latest_version": "2.1.1",
+            "latest_version": "2.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/splunk/splunk-operator",
-            "documentation_url": "https://github.com/splunk/splunk-operator/tree/master/docs"
+            "documentation_url": "https://github.com/splunk/splunk-operator/tree/main/docs"
         },
         {
             "package_name": "marketplace-games-operator",
@@ -1400,7 +1400,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "6.0.12",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,

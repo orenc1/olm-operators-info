@@ -102,8 +102,8 @@
         {
             "package_name": "couchbase-enterprise-certified-rhmp",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.3.2-1",
-            "latest_channel": "2.3.2",
+            "latest_version": "2.4.0-1",
+            "latest_channel": "2.4.0",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -322,7 +322,7 @@
         {
             "package_name": "zabbix-operator-certified-rhmp",
             "display_name": "Zabbix Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "6.0.12",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "aerospike-kubernetes-operator-rhmp",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "2.2.1",
+            "latest_version": "2.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
