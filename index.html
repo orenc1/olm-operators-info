@@ -67,10 +67,10 @@
         '            <hr>'
 
     var table_contents = [
-        {"title_id": "rh-operators", "title": "Red Hat Operators Catalog", "table_id": "redhat-operator-index", "index_image": "registry.redhat.io/redhat/redhat-operator-index:v4.11"},
-        {"title_id": "community", "title": "Community Operators Catalog", "table_id": "community-operator-index", "index_image": "registry.redhat.io/redhat/community-operator-index:v4.11"},
-        {"title_id": "certified", "title": "Certified Operators Catalog", "table_id": "certified-operator-index", "index_image": "registry.redhat.io/redhat/certified-operator-index:v4.11"},
-        {"title_id": "marketplace", "title": "Red Hat Marketplace Catalog", "table_id": "redhat-marketplace-index", "index_image": "registry.redhat.io/redhat/redhat-marketplace-index:v4.11"}
+        {"title_id": "rh-operators", "title": "Red Hat Operators Catalog", "table_id": "redhat-operator-index", "index_image": "registry.redhat.io/redhat/redhat-operator-index:v4.12"},
+        {"title_id": "community", "title": "Community Operators Catalog", "table_id": "community-operator-index", "index_image": "registry.redhat.io/redhat/community-operator-index:v4.12"},
+        {"title_id": "certified", "title": "Certified Operators Catalog", "table_id": "certified-operator-index", "index_image": "registry.redhat.io/redhat/certified-operator-index:v4.12"},
+        {"title_id": "marketplace", "title": "Red Hat Marketplace Catalog", "table_id": "redhat-marketplace-index", "index_image": "registry.redhat.io/redhat/redhat-marketplace-index:v4.12"}
     ]
     for (const table_content of table_contents) {
         var RenderedTable = Mustache.render(TableTemplate, table_content)
