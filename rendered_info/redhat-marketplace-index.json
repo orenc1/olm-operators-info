@@ -67,17 +67,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "k10-kasten-operator-rhmp",
-            "display_name": "Kasten K10 (Free)",
-            "latest_version": "5.5.2",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "pachyderm-operator-rhmp",
             "display_name": "Pachyderm",
             "latest_version": "0.1.4",
@@ -87,17 +76,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/pachyderm/openshift-operator",
             "documentation_url": "https://docs.pachyderm.com/latest/"
-        },
-        {
-            "package_name": "k10-kasten-operator-term-rhmp",
-            "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "5.5.2",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
         },
         {
             "package_name": "couchbase-enterprise-certified-rhmp",
@@ -144,17 +122,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "flux",
-            "display_name": "Flux",
-            "latest_version": "0.36.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://fluxcd.io/docs/"
-        },
-        {
             "package_name": "sysdig-certified-rhmp",
             "display_name": "Sysdig Agent Operator",
             "latest_version": "1.15.37",
@@ -188,17 +155,6 @@
             "documentation_url": "https://dev.entando.org/v6.3/docs/"
         },
         {
-            "package_name": "percona-server-mongodb-operator-certified-rhmp",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.13.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
-        },
-        {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
             "latest_version": "0.8.1",
@@ -208,17 +164,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/DataDog/datadog-operator",
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
-        },
-        {
-            "package_name": "percona-xtradb-cluster-operator-certified-rhmp",
-            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.12.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-xtradb-cluster-operator",
-            "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
         },
         {
             "package_name": "cloudbees-ci-rhmp",
@@ -322,7 +267,7 @@
         {
             "package_name": "zabbix-operator-certified-rhmp",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.12",
+            "latest_version": "0.0.3",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +344,7 @@
         {
             "package_name": "dynatrace-operator-rhmp",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.10.2",
+            "latest_version": "0.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -430,21 +375,10 @@
             "documentation_url": ""
         },
         {
-            "package_name": "cnvrg-rhmp",
-            "display_name": "Cnvrg Operator",
-            "latest_version": "4.3.39",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/AccessibleAI/cnvrg-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.18-41a",
-            "latest_channel": "6.2.18",
+            "latest_version": "6.2.10-45",
+            "latest_channel": "6.2.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",

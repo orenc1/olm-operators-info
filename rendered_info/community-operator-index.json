@@ -68,9 +68,9 @@
         },
         {
             "package_name": "dell-csm-operator",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.0.0",
-            "latest_channel": "stable",
+            "display_name": "Dell CSM Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -278,7 +278,7 @@
         {
             "package_name": "community-kubevirt-hyperconverged",
             "display_name": "KubeVirt HyperConverged Cluster Operator",
-            "latest_version": "1.7.0",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -295,17 +295,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/kube-object-storage/lib-bucket-provisioner",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "aqua",
-            "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.8",
-            "latest_channel": "2022.4.0",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/aquasecurity/aqua-operator",
             "documentation_url": ""
         },
         {
@@ -507,17 +496,6 @@
             "documentation_url": "https://shipwright.io"
         },
         {
-            "package_name": "percona-server-mongodb-operator",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.13.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
-        },
-        {
             "package_name": "snapscheduler",
             "display_name": "SnapScheduler",
             "latest_version": "3.2.0",
@@ -541,8 +519,8 @@
         },
         {
             "package_name": "edp-keycloak-operator",
-            "display_name": "EDP Keycloak Operator",
-            "latest_version": "1.14.0",
+            "display_name": "edp-keycloak-operator",
+            "latest_version": "1.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +586,7 @@
         {
             "package_name": "community-windows-machine-config-operator",
             "display_name": "Community Windows Machine Config Operator",
-            "latest_version": "6.0.0",
+            "latest_version": "7.0.0",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +663,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1136,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.10.2",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1410,8 +1388,8 @@
         },
         {
             "package_name": "percona-xtradb-cluster-operator",
-            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.12.0",
+            "display_name": "Percona XtraDB Cluster Operator",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1473,17 +1451,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/apache/camel-karavan",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csi-operator",
-            "display_name": "Dell CSI Operator",
-            "latest_version": "1.10.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/dell-csi-operator",
-            "documentation_url": "https://github.com/dell/dell-csi-operator"
         },
         {
             "package_name": "apimatic-kubernetes-operator",
@@ -1675,7 +1642,7 @@
         {
             "package_name": "seldon-operator",
             "display_name": "Seldon Operator",
-            "latest_version": "1.15.0",
+            "latest_version": "1.14.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
