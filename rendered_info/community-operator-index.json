@@ -454,7 +454,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.41.0",
+            "latest_version": "1.41.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1142,6 +1142,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "mariadb-operator",
+            "display_name": "MariaDB Operator",
+            "latest_version": "0.6.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/mmontes11/mariadb-operator",
             "documentation_url": ""
         },
         {

@@ -14,7 +14,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.20.1-8",
+            "latest_version": "1.21.0-22",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.57.3",
+            "latest_version": "1.57.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -135,8 +135,8 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -157,8 +157,8 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -190,8 +190,8 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -234,7 +234,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202301091615",
+            "latest_version": "4.12.0-202301171655",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -267,8 +267,8 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -311,8 +311,8 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -355,7 +355,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1673539906",
+            "latest_version": "2.3.0-0.1674773837",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202301042354",
+            "latest_version": "4.12.0-202301111125",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202301042354",
+            "latest_version": "4.12.0-202301161645",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -551,6 +551,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "windows-machine-config-operator",
+            "display_name": "Windows Machine Config Operator",
+            "latest_version": "7.0.0",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/openshift/windows-machine-config-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
             "latest_version": "2.1.4",
@@ -652,7 +663,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.3.0",
+            "latest_version": "2.3.1",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -674,7 +685,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1673541471",
+            "latest_version": "2.3.0-0.1674778407",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -718,7 +729,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.12.0-202301042354.2",
+            "latest_version": "4.12.0-202301180805",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -740,7 +751,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202301050335.1",
+            "latest_version": "4.12.0-202301231836",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -773,7 +784,7 @@
         {
             "package_name": "sandboxed-containers-operator",
             "display_name": "OpenShift sandboxed containers Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.3.3",
             "latest_channel": "stable-1.3",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -784,8 +795,8 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -795,9 +806,9 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.11.4",
-            "latest_channel": "stable-4.11",
-            "disconnected_supported": false,
+            "latest_version": "4.12.0",
+            "latest_channel": "stable-4.12",
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/noobaa/noobaa-operator",
@@ -960,7 +971,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202301042354",
+            "latest_version": "4.12.0-202301230835",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +982,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202301042354.2",
+            "latest_version": "4.12.0-202301180805",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -421,7 +421,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "1.10.2",
+            "latest_version": "1.10.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -471,17 +471,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/hazelcast/hazelcast-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "k10-kasten-operator",
-            "display_name": "[DEPRECATED] K10 Helm Operator",
-            "latest_version": "4.5.8",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -849,8 +838,8 @@
         },
         {
             "package_name": "sriov-fec",
-            "display_name": "SEO SR-IOV Operator for Wireless FEC Accelerators",
-            "latest_version": "2.6.0",
+            "display_name": "SR-IOV Operator for Wireless FEC Accelerators",
+            "latest_version": "2.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
