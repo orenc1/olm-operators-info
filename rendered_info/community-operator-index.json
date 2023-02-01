@@ -476,7 +476,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.60.0",
+            "latest_version": "1.63.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.16.0",
+            "latest_version": "0.16.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.11.0",
+            "latest_version": "1.11.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1455,7 +1455,7 @@
         {
             "package_name": "camel-karavan-operator",
             "display_name": "Camel Karavan Operator",
-            "latest_version": "3.18.5",
+            "latest_version": "3.20.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.5",
+            "latest_version": "0.8.7",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -584,6 +584,17 @@
             "documentation_url": "https://docs.datafabric.hpe.com/home/CSIdriver/csi_overview.html"
         },
         {
+            "package_name": "ibm-storage-odf-operator",
+            "display_name": "IBM Storage ODF operator",
+            "latest_version": "1.3.0",
+            "latest_channel": "stable-v1.3",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
             "latest_version": "2022.11.1-11",
