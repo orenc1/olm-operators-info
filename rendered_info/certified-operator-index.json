@@ -408,17 +408,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "fep-ansible-operator",
-            "display_name": "FUJITSU Enterprise Postgres 12 Operator",
-            "latest_version": "2.2.13",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
             "latest_version": "1.10.3",
