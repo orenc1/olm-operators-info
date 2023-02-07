@@ -23,6 +23,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "volsync-product",
+            "display_name": "VolSync",
+            "latest_version": "0.6.0",
+            "latest_channel": "acm-2.7",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/backube/volsync",
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.6/html-single/add-ons/index#volsync"
+        },
+        {
             "package_name": "fuse-online",
             "display_name": "Red Hat Integration - Fuse Online",
             "latest_version": "7.11.1",
@@ -564,18 +575,18 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.1.4",
-            "latest_channel": "stable-2.1",
+            "latest_version": "2.2.0",
+            "latest_channel": "stable-2.2",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.6/html/multicluster_engine/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html/clusters/index"
         },
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "3.73.1",
+            "latest_version": "3.73.2",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -658,6 +669,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/hawtio/hawtio-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kernel-module-management",
+            "display_name": "Kernel Module Management",
+            "latest_version": "1.0.0",
+            "latest_channel": "release-1.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/rh-ecosystem-edge/kernel-module-management",
             "documentation_url": ""
         },
         {
@@ -914,6 +936,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "kernel-module-management-hub",
+            "display_name": "Kernel Module Management (Hub)",
+            "latest_version": "1.0.0",
+            "latest_channel": "release-1.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/rh-ecosystem-edge/kernel-module-management",
+            "documentation_url": ""
+        },
+        {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
             "latest_version": "7.13.2-1",
@@ -937,14 +970,14 @@
         },
         {
             "package_name": "apicast-operator",
-            "display_name": "Red Hat Integration - 3scale APIcast gateway - Managed Application Services",
-            "latest_version": "0.7.1-mas",
-            "latest_channel": "threescale-mas",
+            "display_name": "Red Hat Integration - 3scale APIcast gateway",
+            "latest_version": "0.7.1",
+            "latest_channel": "threescale-2.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.13/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "clusterresourceoverride",
