@@ -245,7 +245,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202301171655",
+            "latest_version": "4.12.0-202301241446",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -311,13 +311,13 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.6.3",
-            "latest_channel": "release-2.6",
+            "latest_version": "2.7.0",
+            "latest_channel": "release-2.7",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.6/"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/"
         },
         {
             "package_name": "odr-hub-operator",
@@ -366,7 +366,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1674773837",
+            "latest_version": "2.3.0-0.1675406790",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1674778407",
+            "latest_version": "2.3.0-0.1675407844",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -947,6 +947,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "submariner",
+            "display_name": "Submariner",
+            "latest_version": "0.14.1",
+            "latest_channel": "stable-0.14",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/submariner-io/submariner-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
             "latest_version": "7.13.2-1",
@@ -1004,7 +1015,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202301230835",
+            "latest_version": "4.12.0-202301301729",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1037,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.17.0",
+            "latest_version": "0.18.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

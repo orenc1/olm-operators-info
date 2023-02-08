@@ -432,7 +432,7 @@
         {
             "package_name": "flux",
             "display_name": "Flux",
-            "latest_version": "0.38.3",
+            "latest_version": "0.39.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230206",
+            "latest_version": "3.9.0-nightly.20230207",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
