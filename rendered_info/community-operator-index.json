@@ -80,7 +80,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.33.0",
+            "latest_version": "0.33.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.7",
+            "latest_version": "0.8.9",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230207",
+            "latest_version": "3.9.0-nightly.20230208",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

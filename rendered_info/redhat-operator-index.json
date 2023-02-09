@@ -784,7 +784,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.1-2",
+            "latest_version": "8.0.2-1",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.3.0",
+            "latest_version": "3.4.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -916,7 +916,7 @@
         {
             "package_name": "bamoe-kogito-operator",
             "display_name": "IBM BAMOE Kogito Operator",
-            "latest_version": "8.0.1-2",
+            "latest_version": "8.0.2-1",
             "latest_channel": "8.x",
             "disconnected_supported": false,
             "fips_supported": false,
