@@ -443,7 +443,7 @@
         {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.5.2-98",
+            "latest_version": "1.5.3-101",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,8 +1092,8 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "0.6.0-dev",
-            "latest_channel": "prerelease-2.7",
+            "latest_version": "0.7.0-dev",
+            "latest_channel": "prerelease-2.8",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1884,7 +1884,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.11",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230208",
+            "latest_version": "3.9.0-nightly.20230209",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

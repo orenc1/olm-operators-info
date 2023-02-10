@@ -1026,7 +1026,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.0-beta.1",
+            "latest_version": "8.8.0-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

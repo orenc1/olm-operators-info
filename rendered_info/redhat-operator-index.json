@@ -58,7 +58,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.1",
+            "latest_version": "8.4.2",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -157,7 +157,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.6.0",
+            "latest_version": "5.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,13 +190,13 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.26.0",
+            "latest_version": "1.27.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/openshift-knative/serverless-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.11/html/serverless/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.12/html/serverless/index"
         },
         {
             "package_name": "ocs-operator",
@@ -289,7 +289,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.6.0",
+            "latest_version": "5.6.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.6.0",
+            "latest_version": "5.6.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.7.6",
+            "latest_version": "1.7.7",
             "latest_channel": "release-v1.7",
             "disconnected_supported": true,
             "fips_supported": false,
