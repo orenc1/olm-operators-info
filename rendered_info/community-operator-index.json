@@ -234,7 +234,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.26",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -245,7 +245,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.2.3",
+            "latest_version": "0.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.41.1",
+            "latest_version": "1.42.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.20",
+            "latest_version": "0.0.22",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -958,6 +958,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-route53-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Route53",
+            "latest_version": "0.0.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
             "latest_version": "2.3.0",
@@ -1147,7 +1158,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.6.6",
+            "latest_version": "0.6.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1180,7 @@
         {
             "package_name": "ack-cloudtrail-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudTrail",
-            "latest_version": "0.1.2",
+            "latest_version": "0.1.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1213,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "0.1.2",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,7 +1334,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1576,7 +1587,7 @@
         {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1675,7 +1686,7 @@
         {
             "package_name": "ack-kinesis-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kinesis",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,7 +1983,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "0.1.9",
+            "latest_version": "0.1.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2082,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230209",
+            "latest_version": "3.9.0-nightly.20230210",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
