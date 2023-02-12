@@ -2082,7 +2082,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230210",
+            "latest_version": "3.9.0-nightly.20230211",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2104,7 +2104,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.8.0",
+            "latest_version": "4.9.0",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,
