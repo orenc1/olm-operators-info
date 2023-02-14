@@ -1290,7 +1290,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.32.0",
+            "latest_version": "1.33.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "yaks",
             "display_name": "YAKS Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2082,7 +2082,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230211",
+            "latest_version": "3.9.0-nightly.20230213",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

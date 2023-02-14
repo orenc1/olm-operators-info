@@ -397,6 +397,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "test-obi-1302",
+            "display_name": "test-obi-1302",
+            "latest_version": "0.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "iomesh-operator",
             "display_name": "IOMesh Operator",
             "latest_version": "0.10.1-rc4",
@@ -999,6 +1010,17 @@
             "fips_supported": false,
             "capabilities": "Auto Pilot",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "gitlab-runner-operator",
+            "display_name": "GitLab Runner",
+            "latest_version": "1.12.0",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
             "documentation_url": ""
         },
         {
