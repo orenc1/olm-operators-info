@@ -14,7 +14,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.21.0-22",
+            "latest_version": "1.22.0-2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Integration - AMQ Streams",
-            "latest_version": "2.3.0-0",
+            "latest_version": "2.3.0-1",
             "latest_channel": "amq-streams-2.3.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "windows-machine-config-operator",
             "display_name": "Windows Machine Config Operator",
-            "latest_version": "7.0.0",
+            "latest_version": "7.0.1",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "odf-lvm-operator",
             "display_name": "ODF LVM Operator",
-            "latest_version": "4.11.4",
+            "latest_version": "4.11.5",
             "latest_channel": "stable-4.11",
             "disconnected_supported": false,
             "fips_supported": false,
