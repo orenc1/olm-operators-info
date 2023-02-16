@@ -91,7 +91,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.8.1",
+            "latest_version": "3.8.2",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -333,7 +333,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "Network observability",
-            "latest_version": "1.0.0-202301070345",
+            "latest_version": "1.1.0-202302110050",
             "latest_channel": "v1.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.8.1",
+            "latest_version": "3.8.2",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -713,17 +713,6 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "odf-lvm-operator",
-            "display_name": "ODF LVM Operator",
-            "latest_version": "4.11.5",
-            "latest_channel": "stable-4.11",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/red-hat-storage/lvm-operator",
             "documentation_url": ""
         },
         {
@@ -1059,7 +1048,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.8.1",
+            "latest_version": "3.8.2",
             "latest_channel": "stable-3.8",
             "disconnected_supported": false,
             "fips_supported": false,

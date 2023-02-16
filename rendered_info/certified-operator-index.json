@@ -949,8 +949,8 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.18.2",
-            "latest_channel": "stable-v1.18",
+            "latest_version": "1.19.0",
+            "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
