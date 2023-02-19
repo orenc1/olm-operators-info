@@ -740,7 +740,7 @@
         {
             "package_name": "kube-green",
             "display_name": "kube-green",
-            "latest_version": "0.4.1",
+            "latest_version": "0.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.33.1",
+            "latest_version": "0.33.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.69.0",
+            "latest_version": "0.70.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
