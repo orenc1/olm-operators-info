@@ -487,7 +487,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.9.1",
+            "latest_version": "0.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1202,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.55",
+            "latest_version": "0.5.56",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1499,7 +1499,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.63.1",
+            "latest_version": "1.64.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.9.1",
+            "latest_version": "0.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1994,7 +1994,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230217",
+            "latest_version": "3.9.0-nightly.20230220",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
