@@ -971,7 +971,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.3.8",
+            "latest_version": "2.3.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

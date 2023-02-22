@@ -344,11 +344,11 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/netobserv/network-observability-operator",
             "documentation_url": ""
         },
@@ -784,7 +784,7 @@
         {
             "package_name": "flux",
             "display_name": "Flux",
-            "latest_version": "0.39.0",
+            "latest_version": "0.40.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.9",
+            "latest_version": "0.8.10",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1642,7 +1642,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1730,7 +1730,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.3.1",
             "latest_channel": "2.3.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1741,7 +1741,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "0.1.10",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1994,7 +1994,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230220",
+            "latest_version": "3.9.0-nightly.20230221",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2082,7 +2082,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.6.7",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
