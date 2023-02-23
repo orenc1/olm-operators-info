@@ -212,7 +212,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.1.0-26",
+            "latest_version": "2023.1.1-29",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.1.0-26",
+            "latest_version": "2023.1.1-29",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.1.0-26",
+            "latest_version": "2023.1.1-29",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "1.10.3",
+            "latest_version": "1.10.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
