@@ -364,6 +364,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackgres-operator",
+            "display_name": "StackGres",
+            "latest_version": "1.4.3",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/ongresinc/stackgres",
+            "documentation_url": ""
+        },
+        {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
             "latest_version": "2.2.2",
@@ -861,8 +872,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.1-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.8.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

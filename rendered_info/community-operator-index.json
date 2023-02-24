@@ -377,7 +377,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "20.0.3",
+            "latest_version": "21.0.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.33.0",
+            "latest_version": "1.34.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1994,7 +1994,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230221",
+            "latest_version": "3.9.0-nightly.20230223",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
