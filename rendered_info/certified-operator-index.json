@@ -80,7 +80,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.1-beta.2",
+            "latest_version": "8.8.2-beta.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.11",
+            "latest_version": "3.1.12",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "FUJITSU Enterprise Postgres Operator",
-            "latest_version": "4.1.11",
+            "latest_version": "4.1.12",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
