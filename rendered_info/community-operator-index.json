@@ -333,7 +333,7 @@
         {
             "package_name": "windup-operator",
             "display_name": "Windup Operator",
-            "latest_version": "0.0.11",
+            "latest_version": "0.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1202,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.56",
+            "latest_version": "0.5.57",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1620,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.11.1",
+            "latest_version": "1.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -388,7 +388,7 @@
         {
             "package_name": "joget-dx-operator",
             "display_name": "Joget DX Operator",
-            "latest_version": "0.0.35",
+            "latest_version": "0.0.36",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "timemachine-operator",
             "display_name": "Time Machine Operator",
-            "latest_version": "1.0.15",
+            "latest_version": "1.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
