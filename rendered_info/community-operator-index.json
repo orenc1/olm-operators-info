@@ -199,6 +199,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "gingersnap",
+            "display_name": "gingersnap Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/gingersnap-project/operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
             "latest_version": "0.29.1",
@@ -729,7 +740,7 @@
         {
             "package_name": "yaks",
             "display_name": "YAKS Operator",
-            "latest_version": "0.14.1",
+            "latest_version": "0.14.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +839,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.17.0",
+            "latest_version": "0.17.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1213,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.57",
+            "latest_version": "0.5.58",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1763,7 @@
         {
             "package_name": "pelorus-operator",
             "display_name": "Pelorus Operator",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

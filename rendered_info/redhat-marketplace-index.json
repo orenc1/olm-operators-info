@@ -122,6 +122,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "abot-operator-rhmp",
+            "display_name": "ABot",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "anzo-operator-rhmp",
             "display_name": "Anzo Operator",
             "latest_version": "2.0.101",
@@ -234,7 +245,7 @@
         {
             "package_name": "joget-dx-operator-rhmp",
             "display_name": "Joget DX Operator",
-            "latest_version": "0.0.32",
+            "latest_version": "0.0.33",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

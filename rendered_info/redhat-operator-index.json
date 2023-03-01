@@ -46,8 +46,8 @@
         },
         {
             "package_name": "3scale-operator",
-            "display_name": "Red Hat Integration - 3scale - Managed Application Services",
-            "latest_version": "0.11.0-mas",
+            "display_name": "Red Hat Integration - 3scale",
+            "latest_version": "0.11.1-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.22.0-2",
+            "latest_version": "1.22.1-2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.8.2",
+            "latest_version": "3.8.3",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -355,7 +355,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.8.2",
+            "latest_version": "3.8.3",
             "latest_channel": "stable-3.8",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.12.0",
+            "latest_version": "4.12.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -586,7 +586,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202302061702",
+            "latest_version": "4.12.0-202302171855",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202302061702",
+            "latest_version": "4.12.0-202302152216",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,7 +773,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202302061702",
+            "latest_version": "4.12.0-202302141816",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "web-terminal",
             "display_name": "Web Terminal",
-            "latest_version": "1.6.0",
+            "latest_version": "1.7.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.8.2",
+            "latest_version": "3.8.3",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
