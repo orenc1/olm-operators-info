@@ -140,11 +140,11 @@ class OperatorInfo:
             return
 
         self.display_name = csv['spec']['displayName']
-        if 'operators.openshift.io/infrastructure-features' in csv['metadata']['annotations']:
-            infrastructure_features = csv['metadata']['annotations'][
-                'operators.openshift.io/infrastructure-features'].lower()
-            self.disconnected_supported = True if "disconnected" in infrastructure_features else False
-            self.fips_supported = True if "fips" in infrastructure_features else False
+        annotations_exist = 'annotations' in csv['metadata']
+        infrastructure_features = csv['metadata']['annotations']['operators.openshift.io/infrastructure-features'].lower() \
+            if annotations_exist and 'operators.openshift.io/infrastructure-features' in csv['metadata']['annotations'] else {}
+        self.disconnected_supported = True if "disconnected" in infrastructure_features else False
+        self.fips_supported = True if "fips" in infrastructure_features else False
 
         self.documentation_url = ''
         if 'links' in csv['spec']:
@@ -152,10 +152,10 @@ class OperatorInfo:
                 if link['name'].lower() == 'documentation':
                     self.documentation_url = link['url']
 
-        self.repository = csv['metadata']['annotations']['repository'] if 'repository' in csv['metadata'][
-            'annotations'] else None
-        self.capabilities = csv['metadata']['annotations']['capabilities'] if 'capabilities' in csv['metadata'][
-            'annotations'] else None
+        self.repository = csv['metadata']['annotations']['repository'] if annotations_exist and \
+            'repository' in csv['metadata']['annotations'] else None
+        self.capabilities = csv['metadata']['annotations']['capabilities'] if annotations_exist and \
+            'capabilities' in csv['metadata']['annotations'] else None
 
         logging.debug(f"info of {self.package_name} from {self.index.index_name} has been extracted.")
 
