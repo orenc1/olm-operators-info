@@ -179,7 +179,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.22.1-2",
+            "latest_version": "1.22.1-4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.1-opr-005",
+            "latest_version": "7.6.2-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -223,8 +223,8 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.8.2",
-            "latest_channel": "1.8.x",
+            "latest_version": "1.10.0",
+            "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -399,7 +399,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1675406790",
+            "latest_version": "2.3.0-0.1677636474",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.7.0",
+            "latest_version": "2.7.1",
             "latest_channel": "release-2.7",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -729,13 +729,13 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.1",
-            "latest_channel": "threescale-2.13",
+            "latest_version": "0.7.2-mas",
+            "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.13/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "clusterresourceoverride",
@@ -938,7 +938,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1675407844",
+            "latest_version": "2.3.0-0.1677640770",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.2.0",
+            "latest_version": "2.2.1",
             "latest_channel": "stable-2.2",
             "disconnected_supported": true,
             "fips_supported": true,
