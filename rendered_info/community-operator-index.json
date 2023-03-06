@@ -1970,6 +1970,17 @@
             "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
         },
         {
+            "package_name": "aqua",
+            "display_name": "Aqua Security Operator",
+            "latest_version": "2022.4.9",
+            "latest_channel": "2022.4.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/aquasecurity/aqua-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
             "latest_version": "1.4.1",
@@ -2016,7 +2027,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230303",
+            "latest_version": "3.9.0-nightly.20230305",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
