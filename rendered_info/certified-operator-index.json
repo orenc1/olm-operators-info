@@ -432,8 +432,8 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.11.8-x9da5374",
-            "latest_channel": "1.11",
+            "latest_version": "1.12.7-x53a2aab",
+            "latest_channel": "1.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -927,7 +927,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "6.0.13",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,

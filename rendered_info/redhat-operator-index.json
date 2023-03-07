@@ -663,7 +663,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.9.1",
+            "latest_version": "1.9.2",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -894,12 +894,12 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.7.1",
+            "latest_version": "2.8.2-143",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/openshift/custom-metrics-autoscaler",
+            "repository": "https://github.com/openshift/custom-metrics-autoscaler-operator",
             "documentation_url": ""
         },
         {
@@ -960,7 +960,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.6.0",
+            "latest_version": "0.6.1",
             "latest_channel": "acm-2.7",
             "disconnected_supported": true,
             "fips_supported": true,
