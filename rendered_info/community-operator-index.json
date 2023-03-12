@@ -663,7 +663,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.2.7",
+            "latest_version": "0.2.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230310",
+            "latest_version": "3.9.0-nightly.20230311",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1576,7 +1576,7 @@
         {
             "package_name": "keepalived-operator",
             "display_name": "Keepalived Operator",
-            "latest_version": "1.5.3",
+            "latest_version": "1.5.4",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
