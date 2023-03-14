@@ -3,7 +3,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.2-1",
+            "latest_version": "7.13.1-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -36,7 +36,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202302280915",
+            "latest_version": "4.12.0-202303021731",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202302280915",
+            "latest_version": "4.12.0-202303021943",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

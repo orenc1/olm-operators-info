@@ -3,7 +3,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.24.0",
+            "latest_version": "42.25.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -299,8 +299,8 @@
         },
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
-            "display_name": "FUJITSU Enterprise Postgres Operator",
-            "latest_version": "4.1.12",
+            "display_name": "Fujitsu Enterprise Postgres Operator",
+            "latest_version": "5.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -734,6 +734,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "t8c-tsc-client-certified",
+            "display_name": "Turbonomic Secure Connect Client",
+            "latest_version": "1.1.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
         },
