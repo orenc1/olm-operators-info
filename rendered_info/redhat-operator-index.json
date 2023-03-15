@@ -3,7 +3,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.1-2",
+            "latest_version": "7.13.2-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -784,13 +784,13 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.6.1",
-            "latest_channel": "acm-2.7",
+            "latest_version": "0.7.0",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.6/html-single/add-ons/index#volsync"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html-single/add-ons/index#volsync"
         },
         {
             "package_name": "jws-operator",
@@ -1037,7 +1037,7 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.14.1",
+            "latest_version": "0.14.2",
             "latest_channel": "stable-0.14",
             "disconnected_supported": false,
             "fips_supported": false,
