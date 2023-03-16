@@ -344,7 +344,7 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.1.0",
+            "latest_version": "0.1.1",
             "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -553,7 +553,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.10.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "rolling",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,13 +773,13 @@
         {
             "package_name": "apicast-community-operator",
             "display_name": "APIcast",
-            "latest_version": "0.6.0",
+            "latest_version": "0.7.1",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://github.com/3scale/apicast-operator/tree/v0.6.0"
+            "documentation_url": "https://github.com/3scale/apicast-operator/tree/v0.7.1"
         },
         {
             "package_name": "falcon-operator",
@@ -1103,7 +1103,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230312",
+            "latest_version": "3.9.0-nightly.20230315",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.1.0",
+            "latest_version": "0.1.1",
             "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1541,17 +1541,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "forklift-operator",
-            "display_name": "Forklift Operator",
-            "latest_version": "2.3.4",
-            "latest_channel": "stable-v2.3",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/konveyor/forklift-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "fpga-dfl-operator",
             "display_name": "Fpga Dfl operator",
             "latest_version": "0.0.1",
@@ -1840,7 +1829,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.9.0",
+            "latest_version": "4.10.0",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2170,7 +2159,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.71.0",
+            "latest_version": "0.72.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
