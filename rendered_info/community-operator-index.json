@@ -366,7 +366,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -406,6 +406,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/rh-mobb/ecr-secret-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "percona-server-mongodb-operator",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "1.14.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
             "package_name": "odoo-operator",
@@ -542,7 +553,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.7.2",
+            "latest_version": "0.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -597,7 +608,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "1.1.0",
+            "latest_version": "1.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1092,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1158,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.32.0",
+            "latest_version": "0.32.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

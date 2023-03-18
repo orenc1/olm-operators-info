@@ -289,7 +289,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.3-beta.2",
+            "latest_version": "8.8.3-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.13",
+            "latest_version": "6.0.14",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,8 +949,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.2",
-            "latest_channel": "stable",
+            "latest_version": "8.8.3-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -998,6 +998,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "tenant-operator",
+            "display_name": "Multi Tenant Operator",
+            "latest_version": "0.9.0",
+            "latest_channel": "0.9.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": ""
         },
