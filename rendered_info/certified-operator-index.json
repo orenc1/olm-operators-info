@@ -166,6 +166,17 @@
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
         },
         {
+            "package_name": "percona-server-mongodb-operator-certified",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "1.14.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
+        },
+        {
             "package_name": "dell-csm-operator-certified",
             "display_name": "Dell Container Storage Modules",
             "latest_version": "1.0.0",
@@ -179,7 +190,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.1.1-29",
+            "latest_version": "2023.3.0-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +575,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.1.1-29",
+            "latest_version": "2023.3.0-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +905,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.19.0",
+            "latest_version": "1.19.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,8 +1015,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.9.0",
-            "latest_channel": "0.9.0",
+            "latest_version": "0.9.1",
+            "latest_channel": "0.9.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1037,7 +1048,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.1.1-29",
+            "latest_version": "2023.3.0-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
