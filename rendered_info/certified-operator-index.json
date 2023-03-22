@@ -476,7 +476,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.13.0-x32540df",
+            "latest_version": "1.13.1-x10a5de9",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "1.10.5",
+            "latest_version": "23.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.12.7-x53a2aab",
+            "latest_version": "1.12.8-x87b90a9",
             "latest_channel": "1.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1164,17 +1164,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/hazelcast/hazelcast-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stackgres-operator",
-            "display_name": "StackGres",
-            "latest_version": "1.4.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/ongresinc/stackgres",
             "documentation_url": ""
         },
         {
