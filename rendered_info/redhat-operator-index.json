@@ -564,7 +564,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.2-mas",
+            "latest_version": "0.11.3-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -938,8 +938,8 @@
         {
             "package_name": "openshift-cert-manager-operator",
             "display_name": "cert-manager Operator for Red Hat OpenShift",
-            "latest_version": "1.7.1",
-            "latest_channel": "tech-preview",
+            "latest_version": "1.10.2",
+            "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1037,7 +1037,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.3-mas",
+            "latest_version": "0.7.4-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,

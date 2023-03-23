@@ -146,7 +146,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1719,7 +1719,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.17.3",
+            "latest_version": "0.18.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230320",
+            "latest_version": "3.9.0-nightly.20230321",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
