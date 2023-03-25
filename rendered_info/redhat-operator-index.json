@@ -531,7 +531,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.57.5",
+            "latest_version": "1.57.6",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.3.1",
+            "latest_version": "2.3.2",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": false,
