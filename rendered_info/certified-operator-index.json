@@ -1,17 +1,6 @@
 {
     "operators_list": [
         {
-            "package_name": "citrix-ingress-controller-operator",
-            "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.28.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
-            "documentation_url": ""
-        },
-        {
             "package_name": "cloudbees-ci",
             "display_name": "CloudBees CI",
             "latest_version": "3.34.1",
@@ -75,17 +64,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/intel/pmem-csi/tree/release-1.0",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "citrix-cpx-with-ingress-controller-operator",
-            "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.26.7",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -190,7 +168,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.3.0-4",
+            "latest_version": "2023.3.1-5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +553,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.3.0-4",
+            "latest_version": "2023.3.1-5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -925,17 +903,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "operator-testing-ocp-4-11-22",
-            "display_name": "operator-testing-ocp-4-11-22",
-            "latest_version": "0.0.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "dell-csi-operator-certified",
             "display_name": "Dell CSI Operator",
             "latest_version": "1.10.0",
@@ -988,17 +955,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/nginxinc/nginx-ingress-helm-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "test-obi-1302",
-            "display_name": "test-obi-1302",
-            "latest_version": "0.0.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {

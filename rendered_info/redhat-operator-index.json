@@ -267,7 +267,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202303081116",
+            "latest_version": "4.12.0-202303210718",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.2-1",
+            "latest_version": "7.13.2-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202303090016",
+            "latest_version": "4.12.0-202303151915",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.2-1",
+            "latest_version": "7.13.2-2",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202303081941",
+            "latest_version": "4.12.0-202303211715",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "mta-operator",
             "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "6.0.1",
+            "latest_version": "6.0.2",
             "latest_channel": "stable-v6.0",
             "disconnected_supported": false,
             "fips_supported": false,
