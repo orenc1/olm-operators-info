@@ -1,6 +1,17 @@
 {
     "operators_list": [
         {
+            "package_name": "citrix-ingress-controller-operator",
+            "display_name": "Citrix Ingress Controller",
+            "latest_version": "1.28.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
+            "documentation_url": ""
+        },
+        {
             "package_name": "cloudbees-ci",
             "display_name": "CloudBees CI",
             "latest_version": "3.34.1",
@@ -20,6 +31,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/IBM/ibm-block-csi-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kube-loxilb-operator",
+            "display_name": "kube-loxilb-operator",
+            "latest_version": "0.8.3",
+            "latest_channel": "alpha",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/loxilb-id/kube-loxilb",
             "documentation_url": ""
         },
         {
@@ -64,6 +86,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/intel/pmem-csi/tree/release-1.0",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "citrix-cpx-with-ingress-controller-operator",
+            "display_name": "Citrix ADC CPX with Ingress Controller",
+            "latest_version": "1.26.7",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -597,7 +630,7 @@
         {
             "package_name": "aci-containers-operator",
             "display_name": "Cisco ACI Containers Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +817,7 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.0-candidate-20230325072140000",
+            "latest_version": "1.2.0-candidate-20230327161755000",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -850,7 +883,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.18.0",
+            "latest_version": "1.19.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

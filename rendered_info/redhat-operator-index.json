@@ -157,7 +157,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.3.0-2",
+            "latest_version": "2.3.0-3",
             "latest_channel": "amq-streams-2.3.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.8.4",
+            "latest_version": "3.8.5",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -729,7 +729,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.8.4",
+            "latest_version": "3.8.5",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.23.0",
+            "latest_version": "1.24.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.8.4",
+            "latest_version": "3.8.5",
             "latest_channel": "stable-3.8",
             "disconnected_supported": false,
             "fips_supported": false,

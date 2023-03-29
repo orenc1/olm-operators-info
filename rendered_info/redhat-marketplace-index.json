@@ -386,6 +386,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackgres",
+            "display_name": "StackGres",
+            "latest_version": "1.4.3",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/ongresinc/stackgres",
+            "documentation_url": ""
+        },
+        {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
             "latest_version": "0.8.1",
