@@ -663,7 +663,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.235",
+            "latest_version": "2022.4.261",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.19.0",
+            "latest_version": "1.19.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

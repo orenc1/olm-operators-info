@@ -25,7 +25,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.6.3",
+            "latest_version": "5.6.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.6.3",
+            "latest_version": "5.6.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.6.3",
+            "latest_version": "5.6.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -549,6 +549,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/infinispan/infinispan-operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.4"
+        },
+        {
+            "package_name": "smart-gateway-operator",
+            "display_name": "Smart Gateway Operator",
+            "latest_version": "5.0.1678301890",
+            "latest_channel": "stable-1.5",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/infrawatch/smart-gateway-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "serverless-operator",
@@ -793,6 +804,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "service-telemetry-operator",
+            "display_name": "Service Telemetry Operator",
+            "latest_version": "1.5.1678301890",
+            "latest_channel": "stable-1.5",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/infrawatch/service-telemetry-operator",
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.2/html/service_telemetry_framework_1.5/index"
+        },
+        {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
             "latest_version": "4.12.0-202303081116",
@@ -905,7 +927,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
