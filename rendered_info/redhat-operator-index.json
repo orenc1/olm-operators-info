@@ -179,7 +179,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.3",
+            "latest_version": "8.4.4",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.5",
+            "latest_version": "2.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.7.0",
+            "latest_version": "0.7.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

@@ -1003,7 +1003,7 @@
         },
         {
             "package_name": "node-maintenance-operator",
-            "display_name": "Node Maintenance Operator",
+            "display_name": "Node Maintenance Operator - Community Edition",
             "latest_version": "0.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
@@ -2137,7 +2137,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.72.0",
+            "latest_version": "0.74.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
