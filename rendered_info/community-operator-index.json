@@ -795,7 +795,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1906,7 +1906,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230401",
+            "latest_version": "3.9.0-nightly.20230402",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

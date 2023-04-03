@@ -102,7 +102,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "2.1.100",
+            "latest_version": "2.1.101",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -243,6 +243,17 @@
             "documentation_url": "https://github.com/OpenLiberty/open-liberty-operator/tree/main/doc"
         },
         {
+            "package_name": "alloy-op",
+            "display_name": "Alloy",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
             "latest_version": "1.3.8",
@@ -311,8 +322,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.3",
-            "latest_channel": "stable",
+            "latest_version": "8.8.4-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -498,7 +509,7 @@
         {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
-            "latest_version": "2.0.203",
+            "latest_version": "2.0.300",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,8 +971,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.3",
-            "latest_channel": "stable",
+            "latest_version": "8.8.4-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
