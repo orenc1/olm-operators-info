@@ -322,7 +322,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.4-beta.1",
+            "latest_version": "8.8.4-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
