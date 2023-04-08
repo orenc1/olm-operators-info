@@ -782,6 +782,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-postgresql-operator-certified",
+            "display_name": "Percona Operator for PostgreSQL",
+            "latest_version": "1.4.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-postgresql-operator",
+            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
+        },
+        {
             "package_name": "kube-loxilb-operator",
             "display_name": "kube-loxilb-operator",
             "latest_version": "0.8.3",
@@ -1002,6 +1013,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "contrail-k8s-deployer",
+            "display_name": "contrail-k8s-deployer",
+            "latest_version": "23.1.0",
+            "latest_channel": "23.1.0",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "smilecdr-operator",
             "display_name": "Smilecdr Operator",
             "latest_version": "0.0.1",
@@ -1048,7 +1070,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.1.1",
+            "latest_version": "5.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
