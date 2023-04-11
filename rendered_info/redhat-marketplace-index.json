@@ -113,7 +113,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "5.5.6",
+            "latest_version": "5.5.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -157,7 +157,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "5.5.6",
+            "latest_version": "5.5.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -263,6 +263,17 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/CrunchyData/postgres-operator",
             "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
+        },
+        {
+            "package_name": "percona-postgresql-operator-certified-rhmp",
+            "display_name": "Percona Operator for PostgreSQL",
+            "latest_version": "1.4.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-postgresql-operator",
+            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
         },
         {
             "package_name": "instana-agent-operator-rhmp",
@@ -377,7 +388,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "5.5.6",
+            "latest_version": "5.5.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
