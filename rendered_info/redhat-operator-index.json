@@ -3,7 +3,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -25,7 +25,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -80,7 +80,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -135,7 +135,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1678301890",
+            "latest_version": "5.0.1680516659",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -223,7 +223,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "dpu-network-operator",
             "display_name": "DPU Network Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202303240916",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202303271555",
+            "latest_version": "4.12.0-202303311342",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1678301890",
+            "latest_version": "1.5.1680516659",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.12.2",
+            "latest_version": "4.12.3",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202303231115",
+            "latest_version": "4.12.0-202303301557",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -419,6 +419,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-postgresql-operator",
+            "display_name": "Percona Operator for PostgreSQL",
+            "latest_version": "1.4.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-postgresql-operator",
+            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
+        },
+        {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
             "latest_version": "2.2.0",
@@ -949,12 +960,12 @@
         {
             "package_name": "pelorus-operator",
             "display_name": "Pelorus Operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/konveyor/pelorus/",
+            "repository": "https://github.com/dora-metrics/pelorus/",
             "documentation_url": ""
         },
         {
@@ -1653,7 +1664,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.0",
             "latest_channel": "rolling",
             "disconnected_supported": false,
             "fips_supported": false,

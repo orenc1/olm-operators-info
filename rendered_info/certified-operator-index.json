@@ -1035,17 +1035,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "test-migration-data-obi-cnf",
-            "display_name": "test-migration-data-obi-cnf",
-            "latest_version": "0.0.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
             "latest_version": "6.0.14",
