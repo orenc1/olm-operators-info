@@ -1048,7 +1048,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.13",
+            "latest_version": "1.10.14",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,

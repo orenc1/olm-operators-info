@@ -443,7 +443,7 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
