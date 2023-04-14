@@ -146,7 +146,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.2-opr-001",
+            "latest_version": "7.6.2-opr-002",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "3.74.1",
+            "latest_version": "3.74.2",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -553,7 +553,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.74.0",
+            "latest_version": "0.75.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "NLP Lab",
-            "latest_version": "4.5.0",
+            "latest_version": "4.8.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.5.60",
+            "latest_version": "0.5.61",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1552,6 +1552,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "tempo-operator",
+            "display_name": "Community Tempo Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "app-director-operator",
             "display_name": "App-Director",
             "latest_version": "1.0.0",
@@ -2078,6 +2089,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/aws-efs-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "konveyor-operator",
+            "display_name": "Konveyor Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "konveyor-0.1",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/konveyor/tackle2-operator",
+            "documentation_url": "https://konveyor.github.io/tackle"
         },
         {
             "package_name": "ack-elasticache-controller",
