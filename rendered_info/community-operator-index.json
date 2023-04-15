@@ -1378,7 +1378,7 @@
         {
             "package_name": "ecr-secret-operator",
             "display_name": "ECR Secret Operator",
-            "latest_version": "0.4.0",
+            "latest_version": "0.4.1",
             "latest_channel": "v0.4",
             "disconnected_supported": false,
             "fips_supported": false,

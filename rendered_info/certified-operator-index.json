@@ -333,7 +333,7 @@
         {
             "package_name": "ibm-security-verify-directory-operator",
             "display_name": "IBM Security Verify Directory",
-            "latest_version": "23.2.0",
+            "latest_version": "23.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.6.0",
+            "latest_version": "5.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -361,17 +361,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/jfrog/JFrog-Cloud-Installers/tree/openshift4/Openshift4",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "alloy-op",
-            "display_name": "Alloy",
-            "latest_version": "0.0.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
