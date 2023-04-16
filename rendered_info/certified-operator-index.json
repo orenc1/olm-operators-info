@@ -124,8 +124,8 @@
         {
             "package_name": "citrix-cpx-with-ingress-controller-operator",
             "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.26.7",
-            "latest_channel": "alpha",
+            "latest_version": "1.31.3",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
