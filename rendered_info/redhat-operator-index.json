@@ -234,7 +234,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.9.2",
+            "latest_version": "1.10.0",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -256,7 +256,7 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,11 +399,11 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "Network observability",
-            "latest_version": "1.1.0-202302110050",
-            "latest_channel": "v1.0.x",
+            "latest_version": "1.2.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/netobserv/network-observability-operator",
             "documentation_url": ""
         },
@@ -509,8 +509,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1680015684",
-            "latest_channel": "stable-2.3-cluster-scoped",
+            "latest_version": "2.3.0-0.1681368622",
+            "latest_channel": "stable-2.3",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -575,7 +575,7 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -773,7 +773,7 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,12 +861,12 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "0.1.61",
-            "latest_channel": "release-0.1",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/openshift/compliance-operator",
+            "repository": "https://github.com/ComplianceAsCode/compliance-operator",
             "documentation_url": ""
         },
         {
@@ -960,7 +960,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.8.2-143",
+            "latest_version": "2.8.2-174",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1680014818",
+            "latest_version": "2.3.0-0.1681368272",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
