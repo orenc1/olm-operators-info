@@ -245,12 +245,12 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.3.4",
-            "latest_channel": "release-v2.3",
+            "latest_version": "2.4.0",
+            "latest_channel": "release-v2.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/konveyor/forklift-operator",
+            "repository": "https://github.com/kubev2v/forklift",
             "documentation_url": ""
         },
         {
@@ -509,8 +509,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1681368622",
-            "latest_channel": "stable-2.3",
+            "latest_version": "2.3.0-0.1681368991",
+            "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -663,7 +663,7 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.14.2",
+            "latest_version": "0.14.3",
             "latest_channel": "stable-0.14",
             "disconnected_supported": false,
             "fips_supported": false,

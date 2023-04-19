@@ -234,7 +234,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.63.0",
+            "latest_version": "7.64.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1455,7 +1455,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.43.0",
+            "latest_version": "1.44.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

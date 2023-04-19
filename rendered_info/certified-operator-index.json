@@ -267,7 +267,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.261",
+            "latest_version": "2022.4.262",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "ibm-security-verify-directory-operator",
             "display_name": "IBM Security Verify Directory",
-            "latest_version": "23.4.0",
+            "latest_version": "23.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,8 +839,8 @@
         {
             "package_name": "app-director-operator",
             "display_name": "App Director",
-            "latest_version": "1.0.1",
-            "latest_channel": "1.0.1",
+            "latest_version": "1.0.2",
+            "latest_channel": "1.0.2",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
