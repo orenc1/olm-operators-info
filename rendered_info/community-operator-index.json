@@ -1048,7 +1048,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "1.10.1",
+            "latest_version": "1.10.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.18.2",
+            "latest_version": "0.18.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "21.0.2",
+            "latest_version": "21.1.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2159,7 +2159,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.7.1",
+            "latest_version": "1.7.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
