@@ -190,7 +190,7 @@
         {
             "package_name": "ibm-security-verify-access-operator",
             "display_name": "IBM Security Verify Access Operator",
-            "latest_version": "22.10.0",
+            "latest_version": "23.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "NLP Lab",
-            "latest_version": "4.8.3",
+            "latest_version": "4.8.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Community Loki Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2181,7 +2181,7 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
