@@ -773,7 +773,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.13.1-x10a5de9",
+            "latest_version": "1.13.2-x82c79c4",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -866,6 +866,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "citrix-multi-cluster-ingress-controller-operator",
+            "display_name": "citrix-multi-cluster-ingress-controller",
+            "latest_version": "1.28.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
         },
