@@ -256,7 +256,7 @@
         {
             "package_name": "nxiq-operator-certified",
             "display_name": "Nexus IQ Operator",
-            "latest_version": "1.150.0-1",
+            "latest_version": "1.160.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -586,8 +586,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.5-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.8.5",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1158,8 +1158,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.5-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.8.5",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

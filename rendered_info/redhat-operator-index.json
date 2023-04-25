@@ -80,7 +80,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202304111715",
+            "latest_version": "4.12.0-202304121755",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
