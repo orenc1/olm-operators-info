@@ -377,12 +377,12 @@
         {
             "package_name": "aws-load-balancer-operator",
             "display_name": "AWS Load Balancer Operator",
-            "latest_version": "0.2.0",
-            "latest_channel": "stable-v0",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "https://github.com/openshift/aws-load-balancer-operator",
             "documentation_url": ""
         },
         {

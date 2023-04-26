@@ -276,6 +276,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "acc-operator",
+            "display_name": "netapp-acc-operator",
+            "latest_version": "23.4.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
             "latest_version": "2022.4.262",
@@ -1230,6 +1241,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/tigera/operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "appdynamics-operator",
+            "display_name": "AppDynamics Operator for Kubernetes",
+            "latest_version": "23.4.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
