@@ -443,7 +443,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "2.0.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.2-opr-002",
+            "latest_version": "7.6.2-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
