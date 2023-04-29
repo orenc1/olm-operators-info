@@ -1004,7 +1004,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.2.2",
+            "latest_version": "0.11.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1247,6 +1247,17 @@
             "package_name": "xcrypt-operator",
             "display_name": "Zettaset XCrypt Operator",
             "latest_version": "0.0.17",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "alloy",
+            "display_name": "Alloy",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
