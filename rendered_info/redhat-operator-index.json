@@ -619,7 +619,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.3.2",
+            "latest_version": "2.3.3",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.57.6",
+            "latest_version": "1.57.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,12 +707,12 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.12.1",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/red-hat-storage/lvm-operator",
+            "repository": "https://github.com/openshift/lvm-operator",
             "documentation_url": ""
         },
         {

@@ -102,8 +102,8 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.12.9-x4be66e4",
-            "latest_channel": "1.12",
+            "latest_version": "1.13.2-x4b1c6c8",
+            "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -465,13 +465,13 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "0.8.1",
-            "latest_channel": "beta2",
-            "disconnected_supported": false,
+            "latest_version": "1.2.0",
+            "latest_channel": "v1.2",
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/OpenLiberty/open-liberty-operator",
-            "documentation_url": "https://github.com/OpenLiberty/open-liberty-operator/tree/main/doc"
+            "documentation_url": "https://ibm.biz/olo-docs"
         },
         {
             "package_name": "test-obi-new-cnf-option",
@@ -900,6 +900,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-xds-adaptor",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "infinibox-operator-certified",
+            "display_name": "InfiniBox CSI Driver - Operator",
+            "latest_version": "2.6.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Infinidat/infinibox-csi-driver",
             "documentation_url": ""
         },
         {
