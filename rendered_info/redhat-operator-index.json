@@ -333,7 +333,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.7.8",
+            "latest_version": "1.7.9",
             "latest_channel": "release-v1.7",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.2-3",
+            "latest_version": "7.13.3-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.2-3",
+            "latest_version": "7.13.3-1",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,

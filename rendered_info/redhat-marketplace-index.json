@@ -36,7 +36,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "5.5.8",
+            "latest_version": "5.5.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "aerospike-kubernetes-operator-rhmp",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "5.5.8",
+            "latest_version": "5.5.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "5.5.8",
+            "latest_version": "5.5.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
