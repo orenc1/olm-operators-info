@@ -652,7 +652,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.3.1-5",
+            "latest_version": "2023.3.2-11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.3.0-4",
+            "latest_version": "2023.3.2-11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,8 +762,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.5",
-            "latest_channel": "stable",
+            "latest_version": "8.8.6-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -834,6 +834,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "cloudcasa-operator",
+            "display_name": "CloudCasa",
+            "latest_version": "3.4.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/catalogicsoftware/cloudcasa-operator-for-openshift",
             "documentation_url": ""
         },
         {
@@ -993,7 +1004,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.3.1-5",
+            "latest_version": "2023.3.2-11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
