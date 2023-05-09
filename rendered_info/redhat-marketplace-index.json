@@ -190,8 +190,8 @@
         {
             "package_name": "falcon-operator-rhmp",
             "display_name": "CrowdStrike Falcon Platform - Operator",
-            "latest_version": "0.6.3",
-            "latest_channel": "alpha",
+            "latest_version": "0.8.0",
+            "latest_channel": "certified-0.8",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -201,7 +201,7 @@
         {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
-            "latest_version": "0.8.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.12",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
