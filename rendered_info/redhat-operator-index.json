@@ -586,7 +586,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.5.0-0.1682130576.p",
+            "latest_version": "3.5.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -751,7 +751,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.12.1",
+            "latest_version": "4.12.2",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.12.2",
+            "latest_version": "4.12.3",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,

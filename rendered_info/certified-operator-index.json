@@ -67,17 +67,6 @@
             "documentation_url": "https://docs.kubemq.io/"
         },
         {
-            "package_name": "citrix-multi-cluster-ingress-controller-operator",
-            "display_name": "citrix-multi-cluster-ingress-controller",
-            "latest_version": "1.28.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "sanstoragecsi-operator-bundle",
             "display_name": "NEC Storage M Series CSI Operator",
             "latest_version": "1.1.0",
@@ -784,8 +773,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.8.6-beta.2",
-            "latest_channel": "beta",
+            "latest_version": "8.8.6",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -971,7 +960,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.8.5",
+            "latest_version": "8.8.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
