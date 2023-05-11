@@ -14,7 +14,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -25,7 +25,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.19.1",
+            "latest_version": "0.20.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -91,7 +91,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -102,7 +102,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "release-v2.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -157,7 +157,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.8.6",
+            "latest_version": "3.8.7",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -179,7 +179,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat OpenShift distributed tracing data collection",
-            "latest_version": "0.63.1-4",
+            "latest_version": "0.74.0-5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.6.5",
+            "latest_version": "5.7.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -212,7 +212,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202304211142",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "security-profiles-operator",
             "display_name": "Security Profiles Operator",
-            "latest_version": "0.5.2",
+            "latest_version": "0.7.1",
             "latest_channel": "release-alpha-rhel-8",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.6.5",
+            "latest_version": "5.7.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1681368991",
+            "latest_version": "2.3.0-0.1683301174",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.25.0",
+            "latest_version": "1.26.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.2-opr-003",
+            "latest_version": "7.6.3-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.4",
+            "latest_version": "8.4.5",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.8.6",
+            "latest_version": "3.8.7",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1681368272",
+            "latest_version": "2.3.0-0.1683300393",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "dpu-network-operator",
             "display_name": "DPU Network Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -850,7 +850,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.10.0",
+            "latest_version": "1.10.2",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.39.0-3",
+            "latest_version": "1.42.0-5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -938,11 +938,22 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.6.5",
+            "latest_version": "5.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "tempo-product",
+            "display_name": "Tempo Operator",
+            "latest_version": "0.1.0-6",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
         },
@@ -982,7 +993,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +1004,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202304190215",
+            "latest_version": "4.12.0-202305022015",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1059,7 +1070,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.8.6",
+            "latest_version": "3.8.7",
             "latest_channel": "stable-3.8",
             "disconnected_supported": false,
             "fips_supported": false,
