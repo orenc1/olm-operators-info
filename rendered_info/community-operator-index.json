@@ -190,7 +190,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.24",
+            "latest_version": "0.0.25",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -735,6 +735,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/t8c-install/tree/master/operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "airflow-hybrid-operator",
+            "display_name": "airflow-hybrid-operator",
+            "latest_version": "0.2.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1202,7 +1213,7 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,11 +1378,11 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-alpha.5",
+            "latest_version": "1.0.0-alpha.6",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Full Lifecycle",
             "repository": "https://github.com/pulp/pulp-operator",
             "documentation_url": ""
         },
@@ -1444,7 +1455,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "23.3.1",
+            "latest_version": "23.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1554,7 +1565,7 @@
         {
             "package_name": "ibm-block-csi-operator-community",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.11.0",
+            "latest_version": "1.11.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1631,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "NLP Lab",
-            "latest_version": "4.9.0",
+            "latest_version": "4.9.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2016,7 +2027,7 @@
         {
             "package_name": "seldon-operator",
             "display_name": "Seldon Operator",
-            "latest_version": "1.14.1",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2038,7 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator - Community Edition",
-            "latest_version": "0.14.0",
+            "latest_version": "0.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2148,7 +2159,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
