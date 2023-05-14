@@ -344,7 +344,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.262",
+            "latest_version": "2022.4.284",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
