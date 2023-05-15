@@ -124,7 +124,7 @@
         {
             "package_name": "windup-operator",
             "display_name": "Windup Operator",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.6.61",
+            "latest_version": "0.6.62",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230513",
+            "latest_version": "3.9.0-nightly.20230514",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
