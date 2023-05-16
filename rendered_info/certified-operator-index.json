@@ -1180,7 +1180,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.28.0",
+            "latest_version": "42.30.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

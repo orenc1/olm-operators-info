@@ -806,7 +806,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.4-mas",
+            "latest_version": "0.11.5-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
