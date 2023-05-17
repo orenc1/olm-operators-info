@@ -597,12 +597,12 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.13.0",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.12.1",
+            "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/openshift/lvm-operator",
+            "repository": "https://github.com/red-hat-storage/lvm-operator",
             "documentation_url": ""
         },
         {
