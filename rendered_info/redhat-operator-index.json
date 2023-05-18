@@ -564,7 +564,7 @@
         {
             "package_name": "mta-operator",
             "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "6.1.0",
+            "latest_version": "6.1.1",
             "latest_channel": "stable-v6.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.11.0-opr-2",
+            "latest_version": "7.11.0-opr-3",
             "latest_channel": "7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,

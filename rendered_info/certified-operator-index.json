@@ -551,6 +551,17 @@
             "documentation_url": "https://sysdigdocs.atlassian.net/wiki/spaces/Platform/overview"
         },
         {
+            "package_name": "bookkeeper-operator",
+            "display_name": "BookKeeper Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
+        },
+        {
             "package_name": "test-obi-new-cnf-option",
             "display_name": "test-obi-new-cnf-option",
             "latest_version": "0.0.1",
@@ -615,6 +626,17 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
+        },
+        {
+            "package_name": "pulsar-operator",
+            "display_name": "Pulsar Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
         },
         {
             "package_name": "installkit-customer",
@@ -1134,6 +1156,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "zookeeper-operator",
+            "display_name": "ZooKeeper Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
+        },
+        {
             "package_name": "joget-dx-operator",
             "display_name": "Joget DX Operator",
             "latest_version": "0.0.36",
@@ -1241,6 +1274,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "github.com/silicom-sts/sts-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "pg4k-pgd",
+            "display_name": "EDB Postgres Distributed for Kubernetes",
+            "latest_version": "0.6.0",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
             "documentation_url": ""
         },
         {

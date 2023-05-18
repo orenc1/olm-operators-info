@@ -100,6 +100,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-rds-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
+            "latest_version": "1.1.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "datatrucker-operator",
             "display_name": "DataTrucker.IO",
             "latest_version": "2.0.0",
@@ -450,17 +461,6 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/redhat-cop/egressip-ipam-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "konveyor-operator",
-            "display_name": "Konveyor Operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "konveyor-0.1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/konveyor/tackle2-operator",
-            "documentation_url": "https://konveyor.github.io/tackle"
         },
         {
             "package_name": "victoriametrics-operator",
@@ -1004,7 +1004,7 @@
         {
             "package_name": "ack-applicationautoscaling-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.34.0",
+            "latest_version": "0.35.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1356,7 +1356,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.67.0",
+            "latest_version": "1.68.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1407,6 +1407,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/rabbitmq/cluster-operator",
             "documentation_url": "https://www.rabbitmq.com/kubernetes/operator/operator-overview.html"
+        },
+        {
+            "package_name": "machine-deletion-remediation",
+            "display_name": "Machine Deletion Remediation Operator - Community Edition",
+            "latest_version": "0.1.0",
+            "latest_channel": "candidate",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/medik8s/machine-deletion-remediation",
+            "documentation_url": ""
         },
         {
             "package_name": "flux",
@@ -1543,7 +1554,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.2.8",
+            "latest_version": "0.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,8 +1598,8 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator - Community Edition",
-            "latest_version": "0.3.0",
-            "latest_channel": "candidate",
+            "latest_version": "0.5.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -2242,17 +2253,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/upbound/universal-crossplane",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "mongodb-atlas-kubernetes",
-            "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.7.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
             "documentation_url": ""
         },
         {
