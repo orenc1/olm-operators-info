@@ -102,7 +102,7 @@
         {
             "package_name": "dynatrace-operator-rhmp",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.11.1",
+            "latest_version": "0.11.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

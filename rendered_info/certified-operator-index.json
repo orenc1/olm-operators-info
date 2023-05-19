@@ -201,7 +201,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.11.1",
+            "latest_version": "0.11.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,8 +322,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.9.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -694,6 +694,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "joget-dx8-operator",
+            "display_name": "Joget DX 8 Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
             "latest_version": "23.3.1",
@@ -773,7 +784,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
