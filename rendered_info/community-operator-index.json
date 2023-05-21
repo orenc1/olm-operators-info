@@ -190,7 +190,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.19.0",
+            "latest_version": "0.19.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.32.1",
+            "latest_version": "0.33.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.44.0",
+            "latest_version": "1.45.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.36.0",
+            "latest_version": "1.37.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,7 +1444,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
