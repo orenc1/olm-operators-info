@@ -212,7 +212,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "ack-cloudtrail-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudTrail",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -463,6 +463,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "konveyor-operator",
+            "display_name": "Konveyor Operator",
+            "latest_version": "0.1.1",
+            "latest_channel": "konveyor-0.1",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/konveyor/tackle2-operator",
+            "documentation_url": "https://konveyor.github.io/tackle"
+        },
+        {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
             "latest_version": "0.33.0",
@@ -520,7 +531,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.13",
+            "latest_version": "0.0.14",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1455,7 +1466,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1862,7 +1873,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.0.0",
+            "latest_version": "2.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,7 +1983,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.11.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2137,7 +2148,7 @@
         {
             "package_name": "hyperfoil-bundle",
             "display_name": "Hyperfoil",
-            "latest_version": "0.21.0",
+            "latest_version": "0.24.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2170,7 +2181,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.2",
+            "latest_version": "1.2.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
