@@ -256,7 +256,7 @@
         {
             "package_name": "eamli-operator-rhmp",
             "display_name": "eamli",
-            "latest_version": "3.2.0",
+            "latest_version": "3.3.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

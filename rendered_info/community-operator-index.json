@@ -234,7 +234,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.19.1",
+            "latest_version": "0.19.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.11.1",
+            "latest_version": "0.11.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.4.0",
+            "latest_version": "0.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.6.62",
+            "latest_version": "0.6.63",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -824,6 +824,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/redhat-cop/patch-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "bookkeeper-operator",
+            "display_name": "BookKeeper Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
         },
         {
             "package_name": "kepler-operator",
@@ -978,6 +989,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/apache/camel-k",
             "documentation_url": ""
+        },
+        {
+            "package_name": "pulsar-operator",
+            "display_name": "Pulsar Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
         },
         {
             "package_name": "apicurio-registry",
@@ -1158,7 +1180,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.37.0",
+            "latest_version": "1.38.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,9 +1301,9 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.8.1",
+            "latest_version": "0.8.2",
             "latest_channel": "alpha",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/external-secrets/external-secrets-helm-operator",
@@ -1849,6 +1871,17 @@
             "documentation_url": "https://github.com/waynesun09/reportportal-operator/blob/master/README.md"
         },
         {
+            "package_name": "zookeeper-operator",
+            "display_name": "ZooKeeper Operator",
+            "latest_version": "0.16.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
+        },
+        {
             "package_name": "azure-service-operator",
             "display_name": "Azure Service Operator",
             "latest_version": "1.0.28631",
@@ -1983,7 +2016,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.14.0",
+            "latest_version": "0.15.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
