@@ -14,7 +14,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.6.0",
             "latest_channel": "rolling",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.3.8",
+            "latest_version": "1.3.9",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.6.63",
+            "latest_version": "0.6.64",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.1.2",
+            "latest_version": "0.1.3",
             "latest_channel": "community-0.1",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -927,7 +927,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.14.0",
+            "latest_version": "1.15.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1066,6 +1066,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
+            "package_name": "bpfd-operator",
+            "display_name": "Bpfd Operator",
+            "latest_version": "0.2.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/bpfd-dev/bpfd",
+            "documentation_url": ""
         },
         {
             "package_name": "sosreport-operator",
@@ -1653,7 +1664,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "1.10.2",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1785,7 +1796,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.66.0",
+            "latest_version": "7.67.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1796,7 +1807,7 @@
         {
             "package_name": "flink-kubernetes-operator",
             "display_name": "Flink Kubernetes Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1906,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.76.1",
+            "latest_version": "0.77.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

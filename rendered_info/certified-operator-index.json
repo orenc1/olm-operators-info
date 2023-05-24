@@ -3,7 +3,7 @@
         {
             "package_name": "aikit-operator",
             "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
-            "latest_version": "2021.2.102120",
+            "latest_version": "2023.3.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -573,6 +573,17 @@
             "documentation_url": "https://sysdigdocs.atlassian.net/wiki/spaces/Platform/overview"
         },
         {
+            "package_name": "confluent-for-kubernetes",
+            "display_name": "Confluent for Kubernetes",
+            "latest_version": "2.6.0",
+            "latest_channel": "2.6",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.confluent.io/operator/current/overview.html"
+        },
+        {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
             "latest_version": "0.16.2",
@@ -582,17 +593,6 @@
             "capabilities": "Full Lifecycle",
             "repository": null,
             "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
-        },
-        {
-            "package_name": "test-obi-new-cnf-option",
-            "display_name": "test-obi-new-cnf-option",
-            "latest_version": "0.0.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
         },
         {
             "package_name": "sosivio",
@@ -718,7 +718,7 @@
         {
             "package_name": "joget-dx8-operator",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "23.3.1",
+            "latest_version": "23.3.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1022,6 +1022,17 @@
             "capabilities": "Basic Install",
             "repository": "",
             "documentation_url": ""
+        },
+        {
+            "package_name": "hpe-csi-operator",
+            "display_name": "HPE CSI Operator for Kubernetes",
+            "latest_version": "2.3.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/hpe-storage/co-deployments",
+            "documentation_url": "https://scod.hpedev.io/csi_driver/index.html"
         },
         {
             "package_name": "cloud-native-postgresql",
@@ -1345,7 +1356,7 @@
         {
             "package_name": "operator-certification-operator",
             "display_name": "Operator Certification Operator",
-            "latest_version": "1.0.4",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
