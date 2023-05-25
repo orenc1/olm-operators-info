@@ -190,7 +190,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.2.3",
+            "latest_version": "2.2.4",
             "latest_channel": "stable-2.2",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -465,7 +465,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.3.10",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.7.3",
+            "latest_version": "2.7.4",
             "latest_channel": "release-2.7",
             "disconnected_supported": true,
             "fips_supported": true,
