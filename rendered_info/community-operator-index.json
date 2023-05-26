@@ -146,7 +146,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.10.0",
+            "latest_version": "0.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.19.2",
+            "latest_version": "0.19.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "konveyor-0.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.6.64",
+            "latest_version": "0.6.65",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.15.0",
+            "latest_version": "1.15.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230524",
+            "latest_version": "3.9.0-nightly.20230525",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.10.0",
+            "latest_version": "0.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

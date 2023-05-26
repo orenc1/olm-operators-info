@@ -432,7 +432,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.10.2",
+            "latest_version": "1.10.3",
             "latest_channel": "latest",
             "disconnected_supported": true,
             "fips_supported": false,
