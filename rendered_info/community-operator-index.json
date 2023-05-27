@@ -465,8 +465,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.1.2",
-            "latest_channel": "konveyor-0.1",
+            "latest_version": "0.2.0-alpha.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -938,7 +938,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.13",
+            "latest_version": "0.8.14",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230525",
+            "latest_version": "3.9.0-nightly.20230526",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.8.2",
+            "latest_version": "0.8.3",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

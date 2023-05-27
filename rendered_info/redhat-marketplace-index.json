@@ -254,6 +254,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "joget-dx8-operator-rhmp",
+            "display_name": "Joget DX 8 Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "eamli-operator-rhmp",
             "display_name": "eamli",
             "latest_version": "3.3.0",
