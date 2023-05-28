@@ -938,7 +938,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.14",
+            "latest_version": "0.8.15",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230526",
+            "latest_version": "3.9.0-nightly.20230527",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
