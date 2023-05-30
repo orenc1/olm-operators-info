@@ -927,7 +927,7 @@
         {
             "package_name": "alloy",
             "display_name": "Alloy",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

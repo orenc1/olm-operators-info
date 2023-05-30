@@ -234,7 +234,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.19.3",
+            "latest_version": "0.19.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230528",
+            "latest_version": "3.9.0-nightly.20230529",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
