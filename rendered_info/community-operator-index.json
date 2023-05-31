@@ -465,7 +465,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.2.0-alpha.1",
+            "latest_version": "0.2.0-alpha.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.10.0",
+            "latest_version": "4.10.1",
             "latest_channel": "v4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230529",
+            "latest_version": "3.9.0-nightly.20230530",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,

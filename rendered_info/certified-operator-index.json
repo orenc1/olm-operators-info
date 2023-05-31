@@ -58,7 +58,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.11",
+            "latest_version": "2.0.13",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -628,6 +628,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "webotx-operator",
+            "display_name": "WebOTX Operator for Kubernetes",
+            "latest_version": "11.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
             "latest_version": "1.12.0",
@@ -1147,7 +1158,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.13.2-x4b1c6c8",
+            "latest_version": "1.13.3-x69e9561",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
