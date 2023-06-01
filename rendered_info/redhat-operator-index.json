@@ -3,7 +3,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202305101515",
+            "latest_version": "4.12.0-202305230116",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "bamoe-kogito-operator",
             "display_name": "IBM BAMOE Kogito Operator",
-            "latest_version": "8.0.2-3",
+            "latest_version": "8.0.3-1",
             "latest_channel": "8.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.0.1",
+            "latest_version": "4.0.2",
             "latest_channel": "rhacs-4.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.2-3",
+            "latest_version": "8.0.3-1",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -531,13 +531,24 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/windup/windup-operator/",
             "documentation_url": "https://access.redhat.com/documentation/en-us/migration_toolkit_for_runtimes"
+        },
+        {
+            "package_name": "marin3r-operator",
+            "display_name": "Red Hat - MARIN3R",
+            "latest_version": "0.11.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/3scale-ops/marin3r",
+            "documentation_url": "https://github.com/3scale-ops/marin3r#readme"
         },
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
@@ -586,7 +597,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202305102015",
+            "latest_version": "4.12.0-202305171328",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,7 +927,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202305101515",
+            "latest_version": "4.12.0-202305230116",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

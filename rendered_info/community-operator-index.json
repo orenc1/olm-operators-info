@@ -366,7 +366,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.2.1",
+            "latest_version": "0.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230530",
+            "latest_version": "3.9.0-nightly.20230531",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
