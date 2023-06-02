@@ -1015,7 +1015,7 @@
         {
             "package_name": "citrix-ingress-controller-operator",
             "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.32.7",
+            "latest_version": "1.33.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "citrix-cpx-with-ingress-controller-operator",
             "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.32.7",
+            "latest_version": "1.33.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

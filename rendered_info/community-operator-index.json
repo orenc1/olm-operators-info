@@ -531,7 +531,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.16",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1796,7 +1796,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.67.0",
+            "latest_version": "7.68.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
