@@ -14,7 +14,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.3.0-0.1683301174",
+            "latest_version": "2.3.0-0.1685054842",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.3.0-0.1683300393",
+            "latest_version": "2.3.0-0.1685054003",
             "latest_channel": "stable-2.3-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.3-opr-001",
+            "latest_version": "7.6.3-opr-002",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,13 +817,13 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.28.0",
+            "latest_version": "1.29.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/openshift-knative/serverless-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.12/html/serverless/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.13/html/serverless/index"
         },
         {
             "package_name": "devspaces",
@@ -1081,7 +1081,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.26.0",
+            "latest_version": "1.27.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
