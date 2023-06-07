@@ -465,8 +465,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.9.2",
-            "latest_channel": "0.9.2",
+            "latest_version": "0.9.4",
+            "latest_channel": "0.9.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -889,6 +889,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.11.3",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "cte-k8s-operator",
+            "display_name": "CipherTrust Transparent Encryption for Kubernetes (CTE-K8s) Operator",
+            "latest_version": "1.2.5",
+            "latest_channel": "candidate",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1367,7 +1378,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.20.0",
+            "latest_version": "0.20.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

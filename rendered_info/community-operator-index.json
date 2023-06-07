@@ -1015,7 +1015,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230605",
+            "latest_version": "3.9.0-nightly.20230606",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "pelorus-operator",
             "display_name": "Pelorus Operator",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.26",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
