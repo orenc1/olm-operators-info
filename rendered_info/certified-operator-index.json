@@ -267,7 +267,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.3.2-11",
+            "latest_version": "2023.3.3-12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.3.2-11",
+            "latest_version": "2023.3.3-12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.20.0",
+            "latest_version": "1.20.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -795,7 +795,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.3.2-11",
+            "latest_version": "2023.3.3-12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
