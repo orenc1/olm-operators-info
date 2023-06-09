@@ -872,8 +872,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.32.0",
-            "latest_channel": "stable",
+            "latest_version": "42.33.0-beta.2",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1110,6 +1110,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": ""
+        },
+        {
+            "package_name": "seldon-operator-certified",
+            "display_name": "Seldon Operator",
+            "latest_version": "1.16.0-0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/SeldonIO/seldon-core",
+            "documentation_url": "https://docs.seldon.io/projects/seldon-core/en/latest/"
         },
         {
             "package_name": "installkit-customer",
