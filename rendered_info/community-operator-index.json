@@ -630,7 +630,7 @@
         {
             "package_name": "kubernetes-imagepuller-operator",
             "display_name": "Kubernetes Image Puller Operator",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -850,7 +850,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.77.0",
+            "latest_version": "0.79.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230606",
+            "latest_version": "3.9.0-nightly.20230609",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
