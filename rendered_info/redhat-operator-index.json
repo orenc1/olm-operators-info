@@ -586,13 +586,13 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.7.1",
+            "latest_version": "0.7.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html-single/add-ons/index#volsync"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/business_continuity/business-cont-overview#volsync"
         },
         {
             "package_name": "odf-csi-addons-operator",
@@ -969,6 +969,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "klusterlet-product",
+            "display_name": "Klusterlet",
+            "latest_version": "2.3.0",
+            "latest_channel": "stable-2.3",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/open-cluster-management-io/registration-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "cryostat-operator",
             "display_name": "Red Hat build of Cryostat",
             "latest_version": "2.3.0",
@@ -1070,13 +1081,13 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.2.4",
-            "latest_channel": "stable-2.2",
+            "latest_version": "2.3.0",
+            "latest_channel": "stable-2.3",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/html/clusters/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/clusters/index"
         },
         {
             "package_name": "rhods-operator",

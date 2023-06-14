@@ -1356,7 +1356,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.4.0",
+            "latest_version": "23.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1389,7 +1389,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.20.1",
+            "latest_version": "0.20.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
