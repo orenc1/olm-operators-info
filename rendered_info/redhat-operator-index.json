@@ -25,7 +25,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.7.9",
+            "latest_version": "1.7.10",
             "latest_channel": "release-v1.7",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -36,7 +36,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202305262042",
+            "latest_version": "4.12.0-202306031829",
             "latest_channel": "4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -58,7 +58,7 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.15.0",
+            "latest_version": "0.15.1",
             "latest_channel": "stable-0.15",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -69,7 +69,7 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -212,7 +212,7 @@
         {
             "package_name": "ocs-client-operator",
             "display_name": "OpenShift Data Foundation Client",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,13 +465,13 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.7.4",
-            "latest_channel": "release-2.7",
+            "latest_version": "2.8.0",
+            "latest_channel": "release-2.8",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.7/"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/"
         },
         {
             "package_name": "datagrid",
@@ -564,8 +564,8 @@
         {
             "package_name": "redhat-oadp-operator",
             "display_name": "OADP Operator",
-            "latest_version": "1.1.4",
-            "latest_channel": "stable",
+            "latest_version": "1.2.0",
+            "latest_channel": "stable-1.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -597,7 +597,7 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.12.3-rhodf",
+            "latest_version": "4.12.4-rhodf",
             "latest_channel": "stable-4.12",
             "disconnected_supported": true,
             "fips_supported": false,

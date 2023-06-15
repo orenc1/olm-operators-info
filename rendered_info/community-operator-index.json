@@ -56,17 +56,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "horreum-operator",
-            "display_name": "Horreum",
-            "latest_version": "0.2.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/hyperfoil/horreum-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "syndesis",
             "display_name": "Syndesis Operator",
             "latest_version": "1.13.0",
@@ -696,12 +685,12 @@
         {
             "package_name": "cockroachdb",
             "display_name": "CockroachDB Helm Operator",
-            "latest_version": "5.0.4",
-            "latest_channel": "stable-5.x",
+            "latest_version": "6.0.0",
+            "latest_channel": "stable-v6.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/dmesser/cockroachdb-operator",
+            "repository": "https://github.com/cockroachdb/helm-charts",
             "documentation_url": ""
         },
         {
@@ -740,7 +729,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.2.0",
+            "latest_version": "2.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +817,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.68.0",
+            "latest_version": "1.69.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1004,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230609",
+            "latest_version": "3.9.0-nightly.20230613",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1092,7 +1081,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.38.0",
+            "latest_version": "1.39.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1741,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2093,8 +2082,8 @@
         {
             "package_name": "eclipse-amlen-operator",
             "display_name": "eclipse-amlen-operator",
-            "latest_version": "1.0.0",
-            "latest_channel": "alpha",
+            "latest_version": "1.0.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2181,7 +2170,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.35.0",
+            "latest_version": "0.35.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2247,7 +2236,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.19.4",
+            "latest_version": "0.20.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2291,7 +2280,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
