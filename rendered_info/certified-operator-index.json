@@ -938,7 +938,7 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.3.1",
+            "latest_version": "2.3.34",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
