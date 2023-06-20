@@ -311,7 +311,7 @@
         {
             "package_name": "alloy",
             "display_name": "Alloy",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.9.1",
+            "latest_version": "8.9.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -727,6 +727,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "edgelabs-ai-sensor-operator",
+            "display_name": "Edgelabs AI Security",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "infoscale-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
             "latest_version": "7.9.1",
@@ -872,8 +883,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.2-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.9.2",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

@@ -168,7 +168,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.3-1",
+            "latest_version": "8.0.3-2",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
