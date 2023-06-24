@@ -3,7 +3,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -157,7 +157,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.68.0",
+            "latest_version": "7.69.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -278,7 +278,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "23.4.0",
+            "latest_version": "23.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "ack-apigatewayv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway v2",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -300,8 +300,8 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "1.12.0",
-            "latest_channel": "stable",
+            "latest_version": "1.12.1",
+            "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -328,6 +328,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "cluster-relocation-operator",
+            "display_name": "Cluster Relocation Operator",
+            "latest_version": "0.9.0",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/RHsyseng/cluster-relocation-operator",
             "documentation_url": ""
         },
         {
@@ -366,7 +377,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.8.3",
+            "latest_version": "0.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -432,7 +443,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -565,7 +576,7 @@
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
             "latest_version": "0.7.0-dev",
-            "latest_channel": "prerelease-2.8",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -597,8 +608,8 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.1.3",
-            "latest_channel": "community-0.1",
+            "latest_version": "0.2.0",
+            "latest_channel": "community-0.2",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -619,7 +630,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "1.11.0",
+            "latest_version": "1.11.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -629,8 +640,8 @@
         },
         {
             "package_name": "edp-keycloak-operator",
-            "display_name": "edp-keycloak-operator",
-            "latest_version": "1.13.0",
+            "display_name": "EDP Keycloak Operator",
+            "latest_version": "1.16.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -647,6 +658,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/che-incubator/kubernetes-image-puller-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ocm-operator",
+            "display_name": "OpenShift Cluster Manager Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/rh-mobb/ocm-operator",
             "documentation_url": ""
         },
         {
@@ -696,7 +718,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.0.6",
+            "latest_version": "0.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +740,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.6.65",
+            "latest_version": "0.6.66",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -740,8 +762,8 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "0.0.3",
-            "latest_channel": "alpha",
+            "latest_version": "1.0.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -805,13 +827,13 @@
         },
         {
             "package_name": "maistraoperator",
-            "display_name": "Maistra Service Mesh",
-            "latest_version": "2.1.0",
-            "latest_channel": "2.1",
+            "display_name": "maistraoperator",
+            "latest_version": "3.0.0-nightly-2023-06-23",
+            "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/maistra/istio-operator",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -828,7 +850,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +927,7 @@
         {
             "package_name": "azure-service-operator",
             "display_name": "Azure Service Operator",
-            "latest_version": "1.0.28631",
+            "latest_version": "1.0.59040",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +971,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230613",
+            "latest_version": "3.9.0-nightly.20230615",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1048,7 +1070,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-alpha.6",
+            "latest_version": "1.0.0-alpha.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1092,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.11.0",
+            "latest_version": "1.11.4-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,8 +1125,8 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "4.10.1",
-            "latest_channel": "v4",
+            "latest_version": "5.0.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1131,6 +1153,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/neuvector/neuvector-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "observability-operator",
+            "display_name": "Observability Operator",
+            "latest_version": "0.0.22",
+            "latest_channel": "development",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/rhobs/observability-operator",
             "documentation_url": ""
         },
         {
@@ -1191,7 +1224,7 @@
         {
             "package_name": "ack-rds-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
-            "latest_version": "1.1.4",
+            "latest_version": "1.1.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1246,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1279,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.4.1",
+            "latest_version": "0.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,8 +1345,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.2.0-alpha.2",
-            "latest_channel": "alpha",
+            "latest_version": "0.2.0",
+            "latest_channel": "konveyor-0.2",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1356,8 +1389,8 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.1.3",
-            "latest_channel": "community-0.1",
+            "latest_version": "0.2.0",
+            "latest_channel": "community-0.2",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -1411,7 +1444,7 @@
         {
             "package_name": "windup-operator",
             "display_name": "Windup Operator",
-            "latest_version": "0.0.15",
+            "latest_version": "0.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1521,7 @@
         {
             "package_name": "kogito-operator",
             "display_name": "Kogito",
-            "latest_version": "1.39.0",
+            "latest_version": "1.40.0",
             "latest_channel": "1.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1543,7 @@
         {
             "package_name": "redis-operator",
             "display_name": "Redis Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1642,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1697,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.16.2",
+            "latest_version": "0.16.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1785,7 +1818,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.20.4",
+            "latest_version": "0.21.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1937,6 +1970,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "horreum-operator",
+            "display_name": "Horreum",
+            "latest_version": "0.7.9",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/hyperfoil/horreum-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "universal-crossplane",
             "display_name": "Upbound Universal Crossplane (UXP)",
             "latest_version": "1.5.1-up.1",
@@ -1972,7 +2016,7 @@
         {
             "package_name": "microcks",
             "display_name": "Microcks Operator",
-            "latest_version": "1.7.0",
+            "latest_version": "1.7.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2236,7 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.6.0",
+            "latest_version": "0.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
