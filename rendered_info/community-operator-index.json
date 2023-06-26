@@ -828,7 +828,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-06-24",
+            "latest_version": "3.0.0-nightly-2023-06-25",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
