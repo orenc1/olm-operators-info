@@ -828,7 +828,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-06-25",
+            "latest_version": "3.0.0-nightly-2023-06-26",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.11.2",
+            "latest_version": "0.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

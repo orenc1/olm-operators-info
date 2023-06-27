@@ -135,7 +135,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.5.1-13",
+            "latest_version": "2023.6.1-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "sriov-fec",
             "display_name": "SR-IOV Operator for Wireless FEC Accelerators",
-            "latest_version": "2.6.1",
+            "latest_version": "2.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.11.2",
+            "latest_version": "0.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,12 +861,12 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.5.1-13",
+            "latest_version": "2023.6.1-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.5.1",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.6.1",
             "documentation_url": ""
         },
         {
@@ -1092,12 +1092,12 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.5.1-13",
+            "latest_version": "2023.6.1-4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.11.3",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.6.1",
             "documentation_url": ""
         },
         {
@@ -1197,6 +1197,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/neuvector/neuvector-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "hspc-operator",
+            "display_name": "Hitachi Storage Plug-in for Containers",
+            "latest_version": "1.12.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1323,7 +1334,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "23.5.0",
+            "latest_version": "23.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
