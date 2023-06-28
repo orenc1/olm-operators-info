@@ -685,7 +685,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.3",
+            "latest_version": "5.0.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "joget-dx8-operator",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

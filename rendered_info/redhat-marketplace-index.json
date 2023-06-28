@@ -157,7 +157,7 @@
         {
             "package_name": "minio-operator-rhmp",
             "display_name": "Minio Operator Rhmp",
-            "latest_version": "5.0.3",
+            "latest_version": "5.0.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

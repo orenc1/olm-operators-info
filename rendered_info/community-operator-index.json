@@ -685,7 +685,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.7.3",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-06-26",
+            "latest_version": "3.0.0-nightly-2023-06-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.11.4-rc1",
+            "latest_version": "1.12.2",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.0.1",
+            "latest_version": "5.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2126,7 +2126,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.26",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
