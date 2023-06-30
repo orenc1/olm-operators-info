@@ -1081,7 +1081,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.3-beta.1",
+            "latest_version": "8.9.3-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.33.0",
+            "latest_version": "42.34.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
