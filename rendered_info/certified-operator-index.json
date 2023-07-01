@@ -199,6 +199,17 @@
             "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.8/index.html"
         },
         {
+            "package_name": "abinitio-runtime-operator",
+            "display_name": "Co>Operating System Runtime Operator",
+            "latest_version": "4.2.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "nxrm-operator-certified",
             "display_name": "Nexus Repository Operator",
             "latest_version": "3.43.0-3",
@@ -419,6 +430,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-wap-msg-broker",
+            "display_name": "Keysight WAP Message Broker Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
             "latest_version": "2.0.300",
@@ -586,7 +608,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -604,6 +626,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/percona/percona-server-mongodb-operator",
             "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
+        },
+        {
+            "package_name": "keysight-loadcore-agents",
+            "display_name": "Keysight LoadCore Agents Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "nxiq-operator-certified",
@@ -635,6 +668,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-nimbusmosaic-dusim",
+            "display_name": "Keysight Nimbus Mosaic DUSim Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
         },
@@ -914,6 +958,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-kcos-licensing",
+            "display_name": "Keysight KCOS Licensing Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "sosivio",
             "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
             "latest_version": "1.5.3-82-ubi",
@@ -1081,8 +1136,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.3-beta.3",
-            "latest_channel": "beta",
+            "latest_version": "8.9.3",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

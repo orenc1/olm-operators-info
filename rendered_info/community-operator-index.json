@@ -443,7 +443,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-06-29",
+            "latest_version": "3.0.0-nightly-2023-06-30",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "21.1.1",
+            "latest_version": "21.1.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2322,6 +2322,17 @@
             "documentation_url": "https://www.rabbitmq.com/kubernetes/operator/operator-overview.html"
         },
         {
+            "package_name": "airflow-helm-operator",
+            "display_name": "Airflow Helm Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "mercury-operator",
             "display_name": "Mercury Operator",
             "latest_version": "1.0.2",
@@ -2357,7 +2368,7 @@
         {
             "package_name": "cass-operator-community",
             "display_name": "DataStax Kubernetes Operator for Apache Cassandra",
-            "latest_version": "1.14.0",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
