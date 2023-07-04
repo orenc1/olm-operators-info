@@ -443,7 +443,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-02",
+            "latest_version": "3.0.0-nightly-2023-07-03",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1135,9 +1135,9 @@
         },
         {
             "package_name": "dell-csm-operator",
-            "display_name": "Dell CSM Operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "alpha",
+            "display_name": "Dell Container Storage Modules",
+            "latest_version": "1.2.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1450,17 +1450,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/hyperfoil/horreum-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "airflow-hybrid-operator",
-            "display_name": "airflow-hybrid-operator",
-            "latest_version": "0.2.5",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -2346,7 +2335,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.69.0",
+            "latest_version": "7.70.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

@@ -795,7 +795,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.1.4",
+            "latest_version": "5.1.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.16",
+            "latest_version": "3.1.17",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.9.2",
+            "latest_version": "8.9.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "cass-operator",
             "display_name": "DataStax Kubernetes Operator for Apache Cassandra",
-            "latest_version": "1.14.0",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,7 +1543,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
