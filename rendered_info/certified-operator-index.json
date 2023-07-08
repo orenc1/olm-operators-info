@@ -386,6 +386,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "splunk-operator",
+            "display_name": "Splunk Operator",
+            "latest_version": "2.3.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/splunk/splunk-operator",
+            "documentation_url": "https://github.com/splunk/splunk-operator/tree/main/docs"
+        },
+        {
             "package_name": "smilecdr-operator",
             "display_name": "Smilecdr Operator",
             "latest_version": "0.0.1",
@@ -630,7 +641,7 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "v1.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -784,7 +795,7 @@
         {
             "package_name": "runtime-component-operator-certified",
             "display_name": "Runtime Component",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "v1.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1466,8 +1477,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.9.4",
-            "latest_channel": "0.9.4",
+            "latest_version": "0.10.0-alpha-1",
+            "latest_channel": "0.10.0-alpha-1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
