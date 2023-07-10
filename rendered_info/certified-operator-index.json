@@ -850,7 +850,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.21.1",
+            "latest_version": "0.21.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
