@@ -7,7 +7,7 @@ import os
 import semver as semver
 import yaml
 
-INDEX_IMAGES_TAG = "v4.12"
+INDEX_IMAGES_TAG = "v4.13"
 RAW_DATA_DIR = "raw_data"
 RENDERED_INFO_DIR = "rendered_info"
 ROOT_PATH = os.path.dirname(os.path.realpath(__file__))
