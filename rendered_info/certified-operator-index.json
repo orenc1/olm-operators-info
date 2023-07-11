@@ -58,8 +58,8 @@
         {
             "package_name": "ibm-storage-odf-operator",
             "display_name": "IBM Storage ODF operator",
-            "latest_version": "1.3.0",
-            "latest_channel": "stable-v1.3",
+            "latest_version": "1.4.0",
+            "latest_channel": "stable-v1.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -122,17 +122,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "eginnovations-operator",
-            "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.5",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/eginnovations/universal-agent-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "sanstoragecsi-operator-bundle",
             "display_name": "NEC Storage M Series CSI Operator",
             "latest_version": "1.1.0",
@@ -155,28 +144,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "nvidia-network-operator",
-            "display_name": "NVIDIA Network Operator",
-            "latest_version": "23.5.0",
-            "latest_channel": "v23.5.0",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/Mellanox/network-operator/",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "cloudcasa-operator",
-            "display_name": "CloudCasa",
-            "latest_version": "3.4.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/catalogicsoftware/cloudcasa-operator-for-openshift",
-            "documentation_url": ""
-        },
-        {
             "package_name": "marketplace-games-operator",
             "display_name": "Arcade Operator",
             "latest_version": "1.0.0",
@@ -185,17 +152,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "aqua-operator-certified",
-            "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.315",
-            "latest_channel": "2022.4",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/aquasecurity/aqua-operator",
             "documentation_url": ""
         },
         {
@@ -287,28 +243,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "uma-operator",
-            "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.6.1-4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.6.1",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "zookeeper-operator",
-            "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
-        },
-        {
             "package_name": "keysight-nimbusmosaic-dusim",
             "display_name": "Keysight Nimbus Mosaic DUSim Operator",
             "latest_version": "0.1.11",
@@ -329,28 +263,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/sysdiglabs/sysdig-operator",
             "documentation_url": "https://sysdigdocs.atlassian.net/wiki/spaces/Platform/overview"
-        },
-        {
-            "package_name": "infinibox-operator-certified",
-            "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.7.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/Infinidat/infinibox-csi-driver",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "minio-operator",
-            "display_name": "Minio Operator",
-            "latest_version": "5.0.6",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/minio/operator",
-            "documentation_url": ""
         },
         {
             "package_name": "hazelcast-platform-operator",
@@ -441,17 +353,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "entando-k8s-operator",
-            "display_name": "Entando Operator",
-            "latest_version": "6.3.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "",
-            "documentation_url": "https://dev.entando.org/v6.3/docs/"
-        },
-        {
             "package_name": "federatorai-certified",
             "display_name": "Federator.ai",
             "latest_version": "4.7.1-1",
@@ -472,17 +373,6 @@
             "capabilities": "Auto Pilot",
             "repository": null,
             "documentation_url": ""
-        },
-        {
-            "package_name": "confluent-for-kubernetes",
-            "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.6.0",
-            "latest_channel": "2.6",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.confluent.io/operator/current/overview.html"
         },
         {
             "package_name": "cilium",
@@ -540,17 +430,6 @@
             "documentation_url": "https://docs.datafabric.hpe.com/home/CSIdriver/csi_overview.html"
         },
         {
-            "package_name": "kove-operator",
-            "display_name": "Kove External Memory Operator",
-            "latest_version": "1.3.3",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "nxiq-operator-certified",
             "display_name": "Nexus IQ Operator",
             "latest_version": "1.160.0-1",
@@ -562,17 +441,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "bookkeeper-operator",
-            "display_name": "BookKeeper Operator",
-            "latest_version": "0.17.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
-        },
-        {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
             "latest_version": "1.25.1",
@@ -581,17 +449,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/tigera/operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "kube-loxilb-operator",
-            "display_name": "kube-loxilb-operator",
-            "latest_version": "0.8.3",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/loxilb-id/kube-loxilb",
             "documentation_url": ""
         },
         {
@@ -615,17 +472,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": ""
-        },
-        {
-            "package_name": "percona-server-mongodb-operator-certified",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.14.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
             "package_name": "anzo-operator",
@@ -672,6 +518,17 @@
             "documentation_url": "https://docs.mulesoft.com/release-notes/runtime-fabric/runtime-fabric"
         },
         {
+            "package_name": "test-obi-new-cnf-option",
+            "display_name": "test-obi-new-cnf-option",
+            "latest_version": "0.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-keycloak-operator",
             "display_name": "Keysight Keycloak Operator",
             "latest_version": "0.1.10",
@@ -685,23 +542,12 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Habana AI",
-            "latest_version": "1.10.0-494",
-            "latest_channel": "1.10.0-494",
+            "latest_version": "1.9.0-580",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "http://github.com/HabanaAI/habana-ai-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "acc-operator",
-            "display_name": "netapp-acc-operator",
-            "latest_version": "23.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -718,8 +564,8 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.4.2-6.0",
-            "latest_channel": "6.4.2",
+            "latest_version": "6.2.10-45",
+            "latest_channel": "6.2.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -848,42 +694,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "gitlab-operator-kubernetes",
-            "display_name": "GitLab",
-            "latest_version": "0.21.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ccm-node-agent-dcap-operator",
             "display_name": "CCM Node Agent DCAP Operator",
             "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "sosivio",
-            "display_name": "Sosivio | Predictive Troubleshooting for Kubernetes",
-            "latest_version": "1.5.3-82-ubi",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/Sosivio/operator",
-            "documentation_url": "https://docs.sosiv.io"
-        },
-        {
-            "package_name": "edgelabs-ai-sensor-operator",
-            "display_name": "Edgelabs AI Security",
-            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -925,17 +738,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "percona-postgresql-operator-certified",
-            "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "1.4.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-postgresql-operator",
-            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
-        },
-        {
             "package_name": "pmem-csi-operator-os",
             "display_name": "Operator for PMEM-CSI driver",
             "latest_version": "1.0.0",
@@ -965,17 +767,6 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "pg4k-pgd",
-            "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "0.6.0",
-            "latest_channel": "preview",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
             "repository": null,
             "documentation_url": ""
         },
@@ -1035,28 +826,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "gitlab-runner-operator",
-            "display_name": "GitLab Runner",
-            "latest_version": "1.12.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "uma-admin-operator",
-            "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.6.1-4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.6.1",
-            "documentation_url": ""
-        },
-        {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
             "latest_version": "1.0.1",
@@ -1065,17 +834,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "antrea-operator-for-kubernetes",
-            "display_name": "Antrea Operator",
-            "latest_version": "1.12.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1090,13 +848,13 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hspc-operator",
-            "display_name": "Hitachi Storage Plug-in for Containers",
-            "latest_version": "1.12.0",
+            "package_name": "fep-ansible-operator",
+            "display_name": "FUJITSU Enterprise Postgres 12 Operator",
+            "latest_version": "2.2.13",
             "latest_channel": "stable",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Full Lifecycle",
             "repository": null,
             "documentation_url": ""
         },
@@ -1178,17 +936,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "f5-bigip-ctlr-operator",
-            "display_name": "F5 Container Ingress Services",
-            "latest_version": "1.14.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/F5Networks/k8s-bigip-ctlr",
-            "documentation_url": "https://clouddocs.f5.com/containers/latest/"
-        },
-        {
             "package_name": "infrastructure-asset-orchestrator-certified",
             "display_name": "Infrastructure Asset Orchestrator",
             "latest_version": "1.0.2",
@@ -1222,17 +969,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "pulsar-operator",
-            "display_name": "Pulsar Operator",
-            "latest_version": "0.17.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
-        },
-        {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
             "latest_version": "6.0.17",
@@ -1241,17 +977,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "cte-k8s-operator",
-            "display_name": "CipherTrust Transparent Encryption for Kubernetes (CTE-K8s) Operator",
-            "latest_version": "1.2.5",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1343,17 +1068,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hpe-csi-operator",
-            "display_name": "HPE CSI Operator for Kubernetes",
-            "latest_version": "2.3.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/hpe-storage/co-deployments",
-            "documentation_url": "https://scod.hpedev.io/csi_driver/index.html"
-        },
-        {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
             "latest_version": "8.9.3",
@@ -1387,17 +1101,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "couchbase-enterprise-certified",
-            "display_name": "Couchbase Operator",
-            "latest_version": "2.4.1-4",
-            "latest_channel": "2.4.1",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
-        },
-        {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
             "latest_version": "1.2.0",
@@ -1422,7 +1125,7 @@
         {
             "package_name": "dell-csm-operator-certified",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.2.0",
+            "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1499,7 +1202,7 @@
         {
             "package_name": "dell-csi-operator-certified",
             "display_name": "Dell CSI Operator",
-            "latest_version": "1.12.0",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1546,28 +1249,6 @@
             "latest_version": "2.2.469",
             "latest_channel": "stable",
             "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "uma-team-operator",
-            "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.6.1-4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2022.8.1",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "contrail-k8s-deployer",
-            "display_name": "contrail-k8s-deployer",
-            "latest_version": "23.1.0",
-            "latest_channel": "23.1.0",
-            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": null,

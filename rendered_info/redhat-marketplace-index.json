@@ -36,8 +36,8 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.4.2-6.0",
-            "latest_channel": "6.4.2",
+            "latest_version": "6.2.10-45",
+            "latest_channel": "6.2.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -56,28 +56,6 @@
             "documentation_url": "https://docs.cockroachlabs.com"
         },
         {
-            "package_name": "minio-operator-rhmp",
-            "display_name": "Minio Operator Rhmp",
-            "latest_version": "5.0.6",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/minio/operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stackgres",
-            "display_name": "StackGres",
-            "latest_version": "1.4.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/ongresinc/stackgres",
-            "documentation_url": ""
-        },
-        {
             "package_name": "crunchy-postgres-operator-rhmp",
             "display_name": "Crunchy Postgres for Kubernetes",
             "latest_version": "5.3.0",
@@ -87,28 +65,6 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/CrunchyData/postgres-operator",
             "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
-        },
-        {
-            "package_name": "percona-postgresql-operator-certified-rhmp",
-            "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "1.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-postgresql-operator",
-            "documentation_url": "https://www.percona.com/doc/kubernetes-operator-for-postgresql/index.html"
-        },
-        {
-            "package_name": "couchbase-enterprise-certified-rhmp",
-            "display_name": "Couchbase Operator",
-            "latest_version": "2.4.1-2",
-            "latest_channel": "2.4.1",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
         },
         {
             "package_name": "anzo-operator-rhmp",
@@ -157,7 +113,7 @@
         {
             "package_name": "aikit-operator-rhmp",
             "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
-            "latest_version": "2023.1.50413",
+            "latest_version": "2021.2.102120",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -287,17 +243,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "k10-kasten-operator-term-rhmp",
-            "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.0.2",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "vfunction-server-operator-rhmp",
             "display_name": "vFunction Operator",
             "latest_version": "2.2.469",
@@ -419,17 +364,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "k10-kasten-operator-rhmp",
-            "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.0.2",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "anzounstructured-operator-rhmp",
             "display_name": "Anzo Unstructured Operator",
             "latest_version": "2.0.101",
@@ -448,17 +382,6 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "k10-kasten-operator-paygo-rhmp",
-            "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.0.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
             "repository": null,
             "documentation_url": ""
         },
@@ -516,17 +439,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/DataDog/datadog-operator",
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
-        },
-        {
-            "package_name": "percona-server-mongodb-operator-certified-rhmp",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.14.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         }
     ]
 }

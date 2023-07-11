@@ -69,8 +69,8 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -111,6 +111,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "run-once-duration-override-operator",
+            "display_name": "Run Once Duration Override Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/openshift/run-once-duration-override-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
             "latest_version": "1.10.1",
@@ -124,7 +135,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306072029",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -135,7 +146,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -146,8 +157,8 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -157,8 +168,8 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.12.0-202306261055",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.0-202306070816",
+            "latest_channel": "4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -223,8 +234,8 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -289,8 +300,8 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -300,7 +311,7 @@
         {
             "package_name": "openshift-secondary-scheduler-operator",
             "display_name": "Secondary Scheduler Operator for Red Hat OpenShift",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -309,21 +320,10 @@
             "documentation_url": ""
         },
         {
-            "package_name": "windows-machine-config-operator",
-            "display_name": "Windows Machine Config Operator",
-            "latest_version": "7.0.1",
-            "latest_channel": "preview",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/openshift/windows-machine-config-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "kernel-module-management",
             "display_name": "Kernel Module Management",
-            "latest_version": "1.0.0",
-            "latest_channel": "release-1.0",
+            "latest_version": "1.1.0",
+            "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -344,7 +344,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -355,12 +355,12 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.12.1",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.1",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/red-hat-storage/lvm-operator",
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/openshift/lvm-operator",
             "documentation_url": ""
         },
         {
@@ -388,7 +388,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.12.0-202306281416",
+            "latest_version": "4.13.0-202306081547",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -476,8 +476,8 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -487,8 +487,8 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.12.4",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.1",
+            "latest_channel": "4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -498,8 +498,8 @@
         {
             "package_name": "kernel-module-management-hub",
             "display_name": "Kernel Module Management (Hub)",
-            "latest_version": "1.0.0",
-            "latest_channel": "release-1.0",
+            "latest_version": "1.1.0",
+            "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -509,8 +509,8 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.12.3",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.0",
+            "latest_channel": "4.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -520,8 +520,8 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.12.3",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.0",
+            "latest_channel": "4.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -531,8 +531,8 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -575,9 +575,9 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306141157",
             "latest_channel": "stable",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/metallb-operator",
@@ -608,7 +608,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.12.4",
+            "latest_version": "4.13.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -641,8 +641,8 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.12.0-202306261055",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.0-202306070816",
+            "latest_channel": "4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -696,7 +696,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1687274321",
+            "latest_version": "2.4.0-0.1688095749",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -727,17 +727,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "service-telemetry-operator",
-            "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1680516659",
-            "latest_channel": "stable-1.5",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/infrawatch/service-telemetry-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openstack_platform/16.2/html/service_telemetry_framework_1.5/index"
-        },
-        {
             "package_name": "submariner",
             "display_name": "Submariner",
             "latest_version": "0.15.1",
@@ -749,20 +738,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "smart-gateway-operator",
-            "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1680516659",
-            "latest_channel": "stable-1.5",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/infrawatch/smart-gateway-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "dpu-network-operator",
             "display_name": "DPU Network Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,8 +795,8 @@
         {
             "package_name": "ocs-client-operator",
             "display_name": "OpenShift Data Foundation Client",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -839,7 +817,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,8 +861,8 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.12.4-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.0-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -916,7 +894,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306070816",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -936,20 +914,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "marin3r-operator",
-            "display_name": "Red Hat - MARIN3R",
-            "latest_version": "0.11.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/3scale-ops/marin3r",
-            "documentation_url": "https://github.com/3scale-ops/marin3r#readme"
-        },
-        {
             "package_name": "skupper-operator",
-            "display_name": "Skupper",
-            "latest_version": "1.2.2",
+            "display_name": "Red Hat Service Interconnect",
+            "latest_version": "1.4.1-rh-1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +993,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1687278312",
+            "latest_version": "2.4.0-0.1688101096",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1048,7 +1015,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.12.0-202306261055",
+            "latest_version": "4.13.0-202306092356",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1092,7 +1059,7 @@
         {
             "package_name": "web-terminal",
             "display_name": "Web Terminal",
-            "latest_version": "1.7.0",
+            "latest_version": "1.8.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,8 +1070,8 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.12.0-202306261055",
-            "latest_channel": "4.12",
+            "latest_version": "4.13.0-202306070816",
+            "latest_channel": "4.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
