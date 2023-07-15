@@ -188,6 +188,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "loki-helm-operator",
+            "display_name": "Loki Helm Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
             "latest_version": "1.0.3",
@@ -826,6 +837,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "spark-helm-operator",
+            "display_name": "Spark Helm Operator",
+            "latest_version": "0.0.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "namespace-configuration-operator",
             "display_name": "Namespace Configuration Operator",
             "latest_version": "1.2.4",
@@ -993,7 +1015,7 @@
         {
             "package_name": "cluster-relocation-operator",
             "display_name": "Cluster Relocation Operator",
-            "latest_version": "0.9.4",
+            "latest_version": "0.9.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1125,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230712",
+            "latest_version": "3.9.0-nightly.20230714",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1323,7 +1345,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-13",
+            "latest_version": "3.0.0-nightly-2023-07-14",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2126,7 +2148,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.16",
+            "latest_version": "0.8.17",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
