@@ -377,7 +377,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230714",
+            "latest_version": "3.9.0-nightly.20230715",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-14",
+            "latest_version": "3.0.0-nightly-2023-07-15",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
