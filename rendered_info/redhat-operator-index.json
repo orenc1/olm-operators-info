@@ -278,7 +278,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.5-mas",
+            "latest_version": "0.11.6-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -317,6 +317,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/secondary-scheduler-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "windows-machine-config-operator",
+            "display_name": "Windows Machine Config Operator",
+            "latest_version": "8.0.1",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/openshift/windows-machine-config-operator",
             "documentation_url": ""
         },
         {
@@ -410,10 +421,10 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "1.0",
             "disconnected_supported": true,
-            "fips_supported": false,
+            "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/maistra/istio-operator",
             "documentation_url": ""
@@ -839,7 +850,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.65.6",
+            "latest_version": "1.65.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -949,7 +960,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.9.0",
+            "latest_version": "1.9.1",
             "latest_channel": "gitops-1.9",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1026,7 +1037,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.15",
+            "latest_version": "1.10.16",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1125,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.5-mas",
+            "latest_version": "0.7.6-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,

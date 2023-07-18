@@ -278,7 +278,7 @@
         {
             "package_name": "redis-operator",
             "display_name": "Redis Operator",
-            "latest_version": "0.14.0",
+            "latest_version": "0.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "cluster-relocation-operator",
             "display_name": "Cluster Relocation Operator",
-            "latest_version": "0.9.5",
+            "latest_version": "0.9.6",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230716",
+            "latest_version": "3.9.0-nightly.20230717",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-16",
+            "latest_version": "3.0.0-nightly-2023-07-17",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2309,6 +2309,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/ot-container-kit/mongodb-operator",
             "documentation_url": "https://ot-mongodb-operator.netlify.app/"
+        },
+        {
+            "package_name": "sap-hana-express-operator",
+            "display_name": "SAP Hana Express Operator",
+            "latest_version": "1.0.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
         }
     ]
 }
