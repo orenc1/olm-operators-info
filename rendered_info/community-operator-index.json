@@ -465,7 +465,7 @@
         {
             "package_name": "flux",
             "display_name": "Flux",
-            "latest_version": "0.41.2",
+            "latest_version": "2.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-17",
+            "latest_version": "3.0.0-nightly-2023-07-18-2",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.16",
+            "latest_version": "0.0.17",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2122,6 +2122,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
+            "package_name": "ucs-ci-solutions-operator",
+            "display_name": "UCS-CI-Solutions-Operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "ack-eks-controller",

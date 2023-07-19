@@ -443,8 +443,8 @@
         {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
-            "latest_version": "1.25.1",
-            "latest_channel": "release-v1.25",
+            "latest_version": "1.29.3",
+            "latest_channel": "release-v1.29",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
