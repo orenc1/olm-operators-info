@@ -276,6 +276,17 @@
             "documentation_url": "https://docs.hazelcast.com/operator/latest/"
         },
         {
+            "package_name": "percona-xtradb-cluster-operator-certified",
+            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+            "latest_version": "1.13.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-xtradb-cluster-operator",
+            "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
+        },
+        {
             "package_name": "memory-machine-operator",
             "display_name": "Memory Machine Operator",
             "latest_version": "0.0.10",

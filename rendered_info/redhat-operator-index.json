@@ -465,7 +465,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.7.2",
+            "latest_version": "0.7.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
