@@ -1125,7 +1125,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230720",
+            "latest_version": "3.9.0-nightly.20230721",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1467,6 +1467,17 @@
             "package_name": "airflow-helm-operator",
             "display_name": "Airflow Helm Operator",
             "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kaoto-operator",
+            "display_name": "Kaoto Operator",
+            "latest_version": "0.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2181,7 +2192,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.17.0",
+            "latest_version": "0.18.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
