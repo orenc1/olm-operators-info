@@ -1125,7 +1125,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.9.0-nightly.20230722",
+            "latest_version": "3.9.0-nightly.20230723",
             "latest_channel": "candidate-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "maistraoperator",
             "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-22",
+            "latest_version": "3.0.0-nightly-2023-07-23",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
