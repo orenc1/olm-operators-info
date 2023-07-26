@@ -980,6 +980,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "cockroachdb-certified",
+            "display_name": "CockroachDB Operator",
+            "latest_version": "2.11.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/cockroachdb/cockroach-operator",
+            "documentation_url": "https://docs.cockroachlabs.com"
+        },
+        {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
             "latest_version": "3.1.17",

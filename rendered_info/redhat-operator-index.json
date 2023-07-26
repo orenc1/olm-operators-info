@@ -298,6 +298,17 @@
             "documentation_url": "https://www.ibm.com/docs/en/ibamoe"
         },
         {
+            "package_name": "multicluster-global-hub-operator-product",
+            "display_name": "Multicluster Global Hub Operator",
+            "latest_version": "0.7.0",
+            "latest_channel": "release-0.7",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/stolostron/multicluster-global-hub",
+            "documentation_url": ""
+        },
+        {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
             "latest_version": "4.13.0-rhodf",
@@ -718,7 +729,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.21.1",
+            "latest_version": "0.21.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,8 +1015,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1689713003",
-            "latest_channel": "stable-2.4",
+            "latest_version": "2.4.0-0.1689714021",
+            "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1092,7 +1103,7 @@
         {
             "package_name": "openshift-cert-manager-operator",
             "display_name": "cert-manager Operator for Red Hat OpenShift",
-            "latest_version": "1.11.1",
+            "latest_version": "1.11.4",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
