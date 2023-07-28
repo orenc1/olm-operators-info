@@ -696,7 +696,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.3.2",
+            "latest_version": "2.3.3",
             "latest_channel": "2.3.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "cluster-relocation-operator",
             "display_name": "Cluster Relocation Operator",
-            "latest_version": "0.9.6",
+            "latest_version": "0.9.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-07-26",
+            "latest_version": "3.0.0-nightly-2023-07-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
