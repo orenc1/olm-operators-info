@@ -78,6 +78,17 @@
             "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
         },
         {
+            "package_name": "flux",
+            "display_name": "Flux",
+            "latest_version": "2.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": "https://fluxcd.io/docs/"
+        },
+        {
             "package_name": "crunchy-postgres-operator-rhmp",
             "display_name": "Crunchy Postgres for Kubernetes",
             "latest_version": "5.4.0",

@@ -1332,17 +1332,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "maistraoperator",
-            "display_name": "maistraoperator",
-            "latest_version": "3.0.0-nightly-2023-07-24",
-            "latest_channel": "3.0-nightly",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
             "latest_version": "1.0.3",
@@ -1873,7 +1862,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-07-27",
+            "latest_version": "3.0.0-nightly-2023-07-28",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2181,7 +2170,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.71.0",
+            "latest_version": "7.72.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
