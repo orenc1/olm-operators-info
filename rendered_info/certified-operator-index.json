@@ -25,7 +25,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.9.4",
+            "latest_version": "8.9.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.4",
+            "latest_version": "8.9.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

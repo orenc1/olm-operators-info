@@ -1609,7 +1609,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Community Loki Operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
