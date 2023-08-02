@@ -1,6 +1,17 @@
 {
     "operators_list": [
         {
+            "package_name": "keysight-wap-db",
+            "display_name": "Keysight WAP DB Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
             "latest_version": "1.20.2",
@@ -97,6 +108,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/hazelcast/hazelcast-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-core",
+            "display_name": "Keysight WAP Core Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -240,6 +262,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/IBM-Security/ibm-application-gateway-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-appsec",
+            "display_name": "Keysight WAP APPSEC Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -441,6 +474,17 @@
             "documentation_url": "https://docs.datafabric.hpe.com/home/CSIdriver/csi_overview.html"
         },
         {
+            "package_name": "keysight-wap-logging",
+            "display_name": "Keysight WAP Logging Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "nxiq-operator-certified",
             "display_name": "Nexus IQ Operator",
             "latest_version": "1.160.0-1",
@@ -562,6 +606,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-ati-updates",
+            "display_name": "Keysight ATI Updates Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "aikit-operator",
             "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
             "latest_version": "2023.3.1",
@@ -619,12 +674,23 @@
         {
             "package_name": "nxrm-operator-certified",
             "display_name": "Nexus Repository Operator",
-            "latest_version": "3.43.0-3",
+            "latest_version": "3.58.1-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/sonatype/operator-nxrm3",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-notifications",
+            "display_name": "Keysight WAP Notifications Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -760,6 +826,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-wap-storage",
+            "display_name": "Keysight WAP Storage Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
             "latest_version": "8.0.110",
@@ -778,6 +855,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-wap-test-core",
+            "display_name": "Keysight WAP Test Core Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
         },
@@ -890,6 +978,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/DataDog/datadog-operator",
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
+        },
+        {
+            "package_name": "keysight-wap-stats-dashboards",
+            "display_name": "Keysight WAP Stats Dashboard Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "sriov-fec",
@@ -1032,6 +1131,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/nginxinc/nginx-ingress-helm-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-rest-api-browser-v1",
+            "display_name": "Keysight Rest API Browser Operator v1",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1233,6 +1343,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "keysight-load-core",
+            "display_name": "Keysight LoadCore Operator",
+            "latest_version": "0.1.11",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "dell-csi-operator-certified",
             "display_name": "Dell CSI Operator",
             "latest_version": "1.11.0",
@@ -1258,6 +1379,17 @@
             "package_name": "ccm-node-agent-operator",
             "display_name": "CCM Node Agent Operator",
             "latest_version": "0.0.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "keysight-kcos-sso",
+            "display_name": "Keysight KCOS SSO Operator",
+            "latest_version": "0.1.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

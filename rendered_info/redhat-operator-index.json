@@ -245,7 +245,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "1.29.0",
+            "latest_version": "1.30.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.15.1",
+            "latest_version": "0.15.2",
             "latest_channel": "stable-0.15",
             "disconnected_supported": false,
             "fips_supported": false,
