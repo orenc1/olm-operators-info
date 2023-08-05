@@ -322,7 +322,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "23.3.2",
+            "latest_version": "23.6.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.0",
+            "latest_version": "5.4.1",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1363,6 +1363,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/mapr/mapr-csi",
             "documentation_url": "https://docs.datafabric.hpe.com/home/CSIdriver/csi_overview.html"
+        },
+        {
+            "package_name": "acc-operator",
+            "display_name": "netapp-acc-operator",
+            "latest_version": "23.7.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "appdynamics-operator",
