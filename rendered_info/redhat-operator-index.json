@@ -267,7 +267,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.4.0-1",
+            "latest_version": "2.4.0-2",
             "latest_channel": "amq-streams-2.4.x",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -454,7 +454,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1689708337",
+            "latest_version": "2.4.0-0.1691067810",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1689714021",
+            "latest_version": "2.4.0-0.1691068512",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
