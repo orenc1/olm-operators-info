@@ -311,9 +311,9 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.4.1-rh-1",
+            "latest_version": "1.4.2-rh-2",
             "latest_channel": "alpha",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/skupperproject/skupper-operator",

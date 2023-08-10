@@ -111,6 +111,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "minio-operator",
+            "display_name": "Minio Operator",
+            "latest_version": "5.0.7",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/minio/operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
             "latest_version": "2.24.0",
