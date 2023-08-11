@@ -47,7 +47,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.8.10",
+            "latest_version": "3.8.11",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -355,7 +355,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.8.10",
+            "latest_version": "3.8.11",
             "latest_channel": "stable-3.8",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -751,7 +751,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.8.10",
+            "latest_version": "3.8.11",
             "latest_channel": "stable-3.8",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.7.3",
+            "latest_version": "0.7.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
