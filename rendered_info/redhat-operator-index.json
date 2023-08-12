@@ -630,7 +630,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.4.1",
+            "latest_version": "2.4.2",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
