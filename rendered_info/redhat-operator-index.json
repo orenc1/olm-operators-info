@@ -927,12 +927,12 @@
         {
             "package_name": "mta-operator",
             "display_name": "Migration Toolkit for Applications Operator",
-            "latest_version": "6.1.2",
-            "latest_channel": "stable-v6.1",
-            "disconnected_supported": false,
+            "latest_version": "6.2.0",
+            "latest_channel": "stable-v6.2",
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/konveyor/tackle2-operator",
+            "repository": "https://github.com/konveyor/operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications"
         },
         {
