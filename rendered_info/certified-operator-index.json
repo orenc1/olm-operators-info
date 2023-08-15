@@ -1409,6 +1409,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "infinibox-operator-certified",
+            "display_name": "InfiniBox CSI Driver - Operator",
+            "latest_version": "2.8.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/Infinidat/infinibox-csi-driver",
+            "documentation_url": ""
+        },
+        {
             "package_name": "sysdig-certified",
             "display_name": "Sysdig Agent Operator",
             "latest_version": "1.15.37",
