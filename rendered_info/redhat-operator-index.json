@@ -157,7 +157,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.3-4",
+            "latest_version": "7.13.3-5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.13.0-202307242035",
+            "latest_version": "4.13.0-202308071544",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
