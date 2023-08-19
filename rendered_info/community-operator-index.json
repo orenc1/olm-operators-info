@@ -795,7 +795,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-08-17",
+            "latest_version": "3.0.0-nightly-2023-08-18",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1477,7 +1477,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.8.0",
+            "latest_version": "1.8.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2302,7 +2302,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230817",
+            "latest_version": "3.10.0-nightly.20230818",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
