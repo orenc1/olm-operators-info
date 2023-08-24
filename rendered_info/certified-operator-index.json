@@ -509,7 +509,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,8 +1114,8 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.10-45",
-            "latest_channel": "6.2.10",
+            "latest_version": "7.2.4-2.0",
+            "latest_channel": "7.2.4",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1444,7 +1444,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "23.7.0",
+            "latest_version": "23.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
