@@ -265,6 +265,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "ack-route53resolver-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Route53Resolver",
+            "latest_version": "0.0.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "cluster-impairment-operator",
             "display_name": "cluster-impairment-operator",
             "latest_version": "1.0.4",
@@ -399,7 +410,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +432,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230823",
+            "latest_version": "3.10.0-nightly.20230824",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -509,7 +520,7 @@
         {
             "package_name": "kubernetes-imagepuller-operator",
             "display_name": "Kubernetes Image Puller Operator",
-            "latest_version": "1.0.5",
+            "latest_version": "1.0.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1521,7 +1532,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.3",
+            "latest_version": "0.9.4",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

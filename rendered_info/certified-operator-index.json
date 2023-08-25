@@ -1,6 +1,17 @@
 {
     "operators_list": [
         {
+            "package_name": "nvidia-network-operator",
+            "display_name": "NVIDIA Network Operator",
+            "latest_version": "23.7.0",
+            "latest_channel": "v23.7.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Mellanox/network-operator/",
+            "documentation_url": ""
+        },
+        {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
             "latest_version": "23.5.1",
@@ -179,7 +190,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +564,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.9.7-beta.2",
+            "latest_version": "8.10.0-beta.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1202,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.9.7-beta.3",
+            "latest_version": "8.10.0-beta.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
