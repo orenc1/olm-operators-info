@@ -432,7 +432,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.3.9",
+            "latest_version": "1.4.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -793,6 +793,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "confluent-for-kubernetes",
+            "display_name": "Confluent for Kubernetes",
+            "latest_version": "2.7.0",
+            "latest_channel": "2.7",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.confluent.io/operator/current/overview.html"
+        },
+        {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
             "latest_version": "1.20.2",
@@ -872,7 +883,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

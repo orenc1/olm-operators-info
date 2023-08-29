@@ -773,7 +773,7 @@
         {
             "package_name": "cryostat-operator",
             "display_name": "Red Hat build of Cryostat",
-            "latest_version": "2.3.0",
+            "latest_version": "2.3.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

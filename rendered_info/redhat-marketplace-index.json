@@ -355,7 +355,7 @@
         {
             "package_name": "vfunction-server-operator-rhmp",
             "display_name": "vFunction Operator",
-            "latest_version": "2.2.469",
+            "latest_version": "3.1.1160",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
