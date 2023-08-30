@@ -509,7 +509,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "2.2.469",
+            "latest_version": "3.1.1162",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "runtime-component-operator-certified",
             "display_name": "Runtime Component",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "v1.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "v1.2",
             "disconnected_supported": true,
             "fips_supported": false,
