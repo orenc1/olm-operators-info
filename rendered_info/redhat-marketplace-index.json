@@ -12,6 +12,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "k10-kasten-operator-term-rhmp",
+            "display_name": "Kasten K10 (Enterprise - Term)",
+            "latest_version": "6.0.6",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "zabbix-operator-certified-rhmp",
             "display_name": "Zabbix Operator",
             "latest_version": "6.0.17",
@@ -142,6 +153,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
+        },
+        {
+            "package_name": "k10-kasten-operator-rhmp",
+            "display_name": "Kasten K10 (Free)",
+            "latest_version": "6.0.6",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "linstor-operator-rhmp",

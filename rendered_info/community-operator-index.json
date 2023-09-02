@@ -432,7 +432,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.21",
+            "latest_version": "0.8.22",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-08-31b",
+            "latest_version": "3.0.0-nightly-2023-09-01b",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
