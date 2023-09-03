@@ -56,6 +56,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "k10-kasten-operator-paygo-rhmp",
+            "display_name": "Kasten K10 (Enterprise - PAYGO)",
+            "latest_version": "6.0.6",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "xcrypt-operator-rhmp",
             "display_name": "Zettaset XCrypt Operator",
             "latest_version": "0.0.17",
