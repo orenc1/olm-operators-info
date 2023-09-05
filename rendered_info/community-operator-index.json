@@ -839,7 +839,7 @@
         {
             "package_name": "edp-keycloak-operator",
             "display_name": "EDP Keycloak Operator",
-            "latest_version": "1.17.0",
+            "latest_version": "1.17.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-09-01b",
+            "latest_version": "3.0.0-nightly-2023-09-03",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.20",
+            "latest_version": "0.0.21",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2280,7 +2280,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "2.0.1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
