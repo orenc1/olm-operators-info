@@ -188,6 +188,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "couchbase-enterprise-certified",
+            "display_name": "Couchbase Operator",
+            "latest_version": "2.5.0-1",
+            "latest_channel": "2.5.0",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
+        },
+        {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
             "latest_version": "1.8.2",
@@ -410,7 +421,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.7",
+            "latest_version": "5.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,8 +575,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1213,8 +1224,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

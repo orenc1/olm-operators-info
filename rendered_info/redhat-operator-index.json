@@ -454,7 +454,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.7",
+            "latest_version": "2.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.4.1",
+            "latest_version": "2.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,12 +509,12 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.1.0-6-0.1687199947.p",
+            "latest_version": "0.3.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/grafana/tempo-operator",
             "documentation_url": ""
         },
         {
@@ -707,7 +707,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat OpenShift distributed tracing data collection",
-            "latest_version": "0.74.0-5-0.1687199949.p",
+            "latest_version": "0.81.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.42.0-5-0.1687199951.p",
+            "latest_version": "1.47.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
