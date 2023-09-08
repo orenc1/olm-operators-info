@@ -157,7 +157,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.38.0",
+            "latest_version": "42.39.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -581,6 +581,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/prometurbo/tree/master/deploy/prometurbo-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "nexus-repository-ha-operator-certified",
+            "display_name": "Nexus Repository HA Operator",
+            "latest_version": "3.59.0-1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/sonatype/operator-nexus-repository",
             "documentation_url": ""
         },
         {
