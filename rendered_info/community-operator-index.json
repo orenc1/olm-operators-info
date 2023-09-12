@@ -80,7 +80,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.6.2",
+            "latest_version": "0.7.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "cluster-relocation-operator",
             "display_name": "Cluster Relocation Operator",
-            "latest_version": "0.9.7",
+            "latest_version": "0.9.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Operator",
-            "latest_version": "1.72.0",
+            "latest_version": "1.73.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2364,17 +2364,6 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/vertica/vertica-kubernetes",
             "documentation_url": "https://www.vertica.com/docs/latest/HTML/Content/Authoring/Containers/ContainerizedVertica.htm"
-        },
-        {
-            "package_name": "multicluster-global-hub-operator",
-            "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.0.0-dev",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/stolostron/multicluster-global-hub",
-            "documentation_url": ""
         },
         {
             "package_name": "l5-operator",

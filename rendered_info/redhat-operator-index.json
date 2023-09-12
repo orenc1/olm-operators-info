@@ -168,8 +168,8 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "candidate",
+            "latest_version": "0.2.0",
+            "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -322,8 +322,8 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator",
-            "latest_version": "0.6.1",
-            "latest_channel": "stable",
+            "latest_version": "0.7.0",
+            "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -817,8 +817,8 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator",
-            "latest_version": "5.1.0",
-            "latest_channel": "stable",
+            "latest_version": "5.2.0",
+            "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
