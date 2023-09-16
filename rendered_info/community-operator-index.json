@@ -80,7 +80,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "1.2.3",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-09-12",
+            "latest_version": "3.0.0-nightly-2023-09-15",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.7.2",
+            "latest_version": "0.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230914",
+            "latest_version": "3.10.0-nightly.20230915",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -575,7 +575,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.21",
+            "latest_version": "0.0.23",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.5",
+            "latest_version": "1.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "3.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1609,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.26",
+            "latest_version": "0.0.27",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.83.0",
+            "latest_version": "0.84.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1983,7 +1983,7 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.6.1",
+            "latest_version": "0.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2044,6 +2044,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/grafana-operator/grafana-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kiali",
+            "display_name": "Kiali Operator",
+            "latest_version": "1.73.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/kiali/kiali",
             "documentation_url": ""
         },
         {
@@ -2115,7 +2126,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.36.1",
+            "latest_version": "0.37.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2181,8 +2192,8 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation Operator - Community Edition",
-            "latest_version": "0.1.0",
-            "latest_channel": "candidate",
+            "latest_version": "0.2.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

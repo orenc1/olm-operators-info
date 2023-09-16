@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "sbr-operator-rhmp",
+            "display_name": "Storware Backup & Recovery",
+            "latest_version": "6.0.0-19.24",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "stackgres",
             "display_name": "StackGres",
             "latest_version": "1.5.0",

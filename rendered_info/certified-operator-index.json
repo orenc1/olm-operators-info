@@ -300,8 +300,8 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "1.1.0",
-            "latest_channel": "stable",
+            "latest_version": "1.1.1",
+            "latest_channel": "tech-preview",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -795,7 +795,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.14.1-xdd859b7",
+            "latest_version": "1.14.2-xedd5ce2",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -806,8 +806,8 @@
         {
             "package_name": "app-director-operator",
             "display_name": "App Director",
-            "latest_version": "1.0.2",
-            "latest_channel": "1.0.2",
+            "latest_version": "1.1.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -894,7 +894,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.13.6-xd3714ef",
+            "latest_version": "1.13.7-x7320e7d",
             "latest_channel": "1.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.1.6",
+            "latest_version": "5.1.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1334,7 +1334,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.18",
+            "latest_version": "3.1.19",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
