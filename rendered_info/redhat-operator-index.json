@@ -234,8 +234,8 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.1.3",
-            "latest_channel": "rhacs-4.1",
+            "latest_version": "4.2.0",
+            "latest_channel": "rhacs-4.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -256,7 +256,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.29.1",
+            "latest_version": "1.30.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -872,7 +872,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.6",
+            "latest_version": "8.4.7",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": true,
