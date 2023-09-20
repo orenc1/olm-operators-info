@@ -1136,7 +1136,7 @@
         {
             "package_name": "operator-certification-operator",
             "display_name": "Operator Certification Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

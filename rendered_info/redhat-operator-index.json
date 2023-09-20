@@ -729,7 +729,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.13.3",
+            "latest_version": "4.13.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
