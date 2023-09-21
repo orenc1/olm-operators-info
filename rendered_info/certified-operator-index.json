@@ -91,8 +91,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.1-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -278,7 +278,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.39.0",
+            "latest_version": "42.40.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -526,6 +526,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "gitlab-runner-operator",
+            "display_name": "GitLab Runner",
+            "latest_version": "1.17.0",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
             "documentation_url": ""
         },
         {
@@ -1257,8 +1268,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.1-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

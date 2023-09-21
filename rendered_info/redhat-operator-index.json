@@ -190,7 +190,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.5-opr-001",
+            "latest_version": "7.6.5-opr-002",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.13.0-202309060944",
+            "latest_version": "4.13.0-202309110744",
             "latest_channel": "4.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1693440031",
+            "latest_version": "2.4.0-0.1695086882",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1693436910",
+            "latest_version": "2.4.0-0.1695086173",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
