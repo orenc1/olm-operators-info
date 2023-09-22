@@ -3,7 +3,7 @@
         {
             "package_name": "keysight-wap-ui",
             "display_name": "Keysight WAP UI Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -14,7 +14,7 @@
         {
             "package_name": "keysight-wap-notifications",
             "display_name": "Keysight WAP Notifications Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -47,7 +47,7 @@
         {
             "package_name": "keysight-wap-test-core",
             "display_name": "Keysight WAP Test Core Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -80,7 +80,7 @@
         {
             "package_name": "keysight-ati-updates",
             "display_name": "Keysight ATI Updates Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -102,7 +102,7 @@
         {
             "package_name": "keysight-load-core",
             "display_name": "Keysight LoadCore Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -124,7 +124,7 @@
         {
             "package_name": "keysight-nimbusmosaic-dusim",
             "display_name": "Keysight Nimbus Mosaic DUSim Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "keysight-wap-db",
             "display_name": "Keysight WAP DB Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "keysight-loadcore-agents",
             "display_name": "Keysight LoadCore Agents Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "keysight-wap-storage",
             "display_name": "Keysight WAP Storage Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "keysight-rest-api-browser-v1",
             "display_name": "Keysight Rest API Browser Operator v1",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "keysight-kcos-ingress",
             "display_name": "Keysight KCOS Ingress Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.21.0",
+            "latest_version": "1.22.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "keysight-keycloak-operator",
             "display_name": "Keysight Keycloak Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "keysight-websocket-service",
             "display_name": "Keysight Websocket Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "keysight-wap-core",
             "display_name": "Keysight WAP Core Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "keysight-wap-logging",
             "display_name": "Keysight WAP Logging Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "keysight-kcos-sso",
             "display_name": "Keysight KCOS SSO Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "keysight-wap-appsec",
             "display_name": "Keysight WAP APPSEC Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "keysight-wap-diagnostics",
             "display_name": "Keysight WAP Diagnostics Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "keysight-kcos-licensing",
             "display_name": "Keysight KCOS Licensing Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1224,7 @@
         {
             "package_name": "keysight-kcos-framework",
             "display_name": "Keysight KCOS Framework Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "keysight-wap-stats-dashboards",
             "display_name": "Keysight WAP Stats Dashboard Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1455,7 +1455,7 @@
         {
             "package_name": "keysight-wap-migration",
             "display_name": "Keysight WAP Migration Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "keysight-nats-operator",
             "display_name": "Keysight Nats Operator",
-            "latest_version": "0.1.11",
+            "latest_version": "0.1.21",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

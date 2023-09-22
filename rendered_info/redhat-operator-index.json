@@ -47,7 +47,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.10.1",
+            "latest_version": "1.10.2",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.3.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
