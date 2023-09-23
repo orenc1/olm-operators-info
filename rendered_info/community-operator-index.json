@@ -58,7 +58,7 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.9",
+            "latest_version": "0.3.10-rc.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,7 +278,7 @@
         {
             "package_name": "snapscheduler",
             "display_name": "SnapScheduler",
-            "latest_version": "3.2.0",
+            "latest_version": "3.3.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230921",
+            "latest_version": "3.10.0-nightly.20230922",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1224,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.4",
+            "latest_version": "0.9.5",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1308,6 +1308,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/openshift/oadp-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "ack-secretsmanager-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Secrets Manager",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "camel-k",
@@ -1587,7 +1598,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
