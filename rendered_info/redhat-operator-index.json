@@ -377,7 +377,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.9.1",
+            "latest_version": "3.9.2",
             "latest_channel": "stable-3.9",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.9.1",
+            "latest_version": "3.9.2",
             "latest_channel": "stable-3.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.9.1",
+            "latest_version": "3.9.2",
             "latest_channel": "stable-3.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -740,7 +740,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.6-mas",
+            "latest_version": "0.11.7-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.6-mas",
+            "latest_version": "0.7.7-mas",
             "latest_channel": "threescale-mas",
             "disconnected_supported": true,
             "fips_supported": false,
