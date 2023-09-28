@@ -993,7 +993,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.17",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.1.7",
+            "latest_version": "5.1.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "23.8.1",
+            "latest_version": "23.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
