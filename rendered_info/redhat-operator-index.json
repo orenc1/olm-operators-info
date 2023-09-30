@@ -36,8 +36,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.9.2",
-            "latest_channel": "gitops-1.9",
+            "latest_version": "1.10.0",
+            "latest_channel": "gitops-1.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",

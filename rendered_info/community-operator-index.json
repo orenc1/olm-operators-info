@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20230928",
+            "latest_version": "3.10.0-nightly.20230929",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -531,7 +531,7 @@
         {
             "package_name": "annotationlab",
             "display_name": "NLP Lab",
-            "latest_version": "4.9.2",
+            "latest_version": "5.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,8 +1191,8 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.5.0",
-            "latest_channel": "alpha",
+            "latest_version": "0.6.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1268,7 +1268,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-09-28",
+            "latest_version": "3.0.0-nightly-2023-09-29",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1978,6 +1978,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kube-green/kube-green",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "fence-agents-remediation",
+            "display_name": "Fence Agents Remediation Operator - Community Edition",
+            "latest_version": "0.2.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/medik8s/fence-agents-remediation",
             "documentation_url": ""
         },
         {
