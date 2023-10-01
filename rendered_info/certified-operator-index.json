@@ -740,7 +740,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.59.0-1",
+            "latest_version": "3.60.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
