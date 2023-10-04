@@ -893,13 +893,13 @@
         },
         {
             "package_name": "kubearmor-operator-certified",
-            "display_name": "Kubearmor Operator",
-            "latest_version": "1.0.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
+            "display_name": "KubeArmor Operator",
+            "latest_version": "1.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/kubearmor/KubeArmor",
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/kubearmor/KubeArmor/blob/main/pkg/KubeArmorOperator/",
             "documentation_url": ""
         },
         {
