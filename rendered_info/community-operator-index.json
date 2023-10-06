@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231002",
+            "latest_version": "3.10.0-nightly.20231005",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-04",
+            "latest_version": "3.0.0-nightly-2023-10-05",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
