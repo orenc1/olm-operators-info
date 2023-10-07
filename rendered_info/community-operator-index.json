@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231005",
+            "latest_version": "3.10.0-nightly.20231006",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-05",
+            "latest_version": "3.0.0-nightly-2023-10-06",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1884,7 +1884,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.23",
+            "latest_version": "0.8.24",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2214,7 +2214,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

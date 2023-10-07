@@ -69,7 +69,7 @@
         {
             "package_name": "joget-dx8-operator-rhmp",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
