@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231006",
+            "latest_version": "3.10.0-nightly.20231007",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
