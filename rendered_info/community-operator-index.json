@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231007",
+            "latest_version": "3.10.0-nightly.20231008",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.66",
+            "latest_version": "0.7.67",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,7 +1972,7 @@
         {
             "package_name": "kube-green",
             "display_name": "kube-green",
-            "latest_version": "0.5.1",
+            "latest_version": "0.5.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

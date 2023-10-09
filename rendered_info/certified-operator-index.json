@@ -201,7 +201,7 @@
         {
             "package_name": "sriov-fec",
             "display_name": "SR-IOV Operator for Wireless FEC Accelerators",
-            "latest_version": "2.7.1",
+            "latest_version": "2.7.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
