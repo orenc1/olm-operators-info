@@ -135,7 +135,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-alpha.2",
+            "latest_version": "0.3.0-alpha.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231008",
+            "latest_version": "3.10.0-nightly.20231009",
             "latest_channel": "candidate-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -476,7 +476,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.11.0",
+            "latest_version": "0.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.11.0",
+            "latest_version": "0.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.3.3",
+            "latest_version": "2.3.4",
             "latest_channel": "2.3.x",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -179,7 +179,7 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.7.0",
+            "latest_version": "2.7.1",
             "latest_channel": "2.7",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.3-candidate-20230704092755000",
+            "latest_version": "1.2.3-candidate-20231009173203000",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1554,7 +1554,7 @@
         {
             "package_name": "intel-kubernetes-power-manager",
             "display_name": "Intel Kubernetes Power Manager",
-            "latest_version": "2.3.1",
+            "latest_version": "2.3.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
