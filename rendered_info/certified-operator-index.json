@@ -1618,6 +1618,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "dell-csm-operator-certified",
+            "display_name": "Dell Container Storage Modules",
+            "latest_version": "1.3.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/dell/csm-operator",
+            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
+        },
+        {
             "package_name": "pmem-csi-operator-os",
             "display_name": "Operator for PMEM-CSI driver",
             "latest_version": "1.0.0",
