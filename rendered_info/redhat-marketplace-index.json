@@ -91,7 +91,7 @@
         {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.0.8",
+            "latest_version": "6.0.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -300,7 +300,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.0.8",
+            "latest_version": "6.0.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.0.8",
+            "latest_version": "6.0.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

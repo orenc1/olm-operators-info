@@ -366,7 +366,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.3.0-2",
+            "latest_version": "0.3.0-2-0.1696814091.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat OpenShift distributed tracing data collection",
-            "latest_version": "0.81.0-2",
+            "latest_version": "0.81.0-2-0.1696814094.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.47.0-2",
+            "latest_version": "1.47.0-2-0.1696814090.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1695086173",
+            "latest_version": "2.4.0-0.1696626196",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.3-4",
+            "latest_version": "8.0.4-1",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1695086882",
+            "latest_version": "2.4.0-0.1696629255",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "bamoe-kogito-operator",
             "display_name": "IBM BAMOE Kogito Operator",
-            "latest_version": "8.0.3-1",
+            "latest_version": "8.0.4-1",
             "latest_channel": "8.x",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -586,7 +586,7 @@
         {
             "package_name": "splunk-operator",
             "display_name": "Splunk Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1576,7 +1576,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.25.0",
+            "latest_version": "2.26.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
