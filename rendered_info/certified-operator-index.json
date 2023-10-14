@@ -520,8 +520,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.2",
-            "latest_channel": "stable",
+            "latest_version": "8.10.3-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -993,12 +993,12 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "1.1.2",
+            "latest_version": "2.0.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
+            "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -1235,8 +1235,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.2",
-            "latest_channel": "stable",
+            "latest_version": "8.10.3-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1323,7 +1323,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.3.1",
+            "latest_version": "0.3.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
