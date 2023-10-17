@@ -157,7 +157,7 @@
         {
             "package_name": "minio-operator-rhmp",
             "display_name": "Minio Operator Rhmp",
-            "latest_version": "5.0.9",
+            "latest_version": "5.0.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,7 +278,7 @@
         {
             "package_name": "aerospike-kubernetes-operator-rhmp",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.0.0",
+            "latest_version": "3.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "dynatrace-operator-rhmp",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

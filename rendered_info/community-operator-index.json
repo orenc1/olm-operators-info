@@ -674,7 +674,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.3.4",
+            "latest_version": "2.3.5",
             "latest_channel": "2.3.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1631,7 +1631,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1662,6 +1662,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "debezium-operator",
+            "display_name": "Debezium Operator",
+            "latest_version": "2.4.0",
+            "latest_channel": "debezium-2.4.x",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/debezium/debezium-operator",
+            "documentation_url": "https://debezium.io/documentation/reference/stable/"
+        },
+        {
             "package_name": "snyk-operator",
             "display_name": "Snyk Operator",
             "latest_version": "1.92.0",
@@ -1675,7 +1686,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.5.3",
+            "latest_version": "2.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1840,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.0.0",
+            "latest_version": "3.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2082,7 +2093,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

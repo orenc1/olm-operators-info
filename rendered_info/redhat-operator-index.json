@@ -58,7 +58,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.8",
+            "latest_version": "8.4.10",
             "latest_channel": "8.4.x",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -212,7 +212,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.5-opr-002",
+            "latest_version": "7.6.5-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "redhat-oadp-operator",
             "display_name": "OADP Operator",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "stable-1.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.5.0-0",
+            "latest_version": "2.5.0-1",
             "latest_channel": "amq-streams-2.5.x",
             "disconnected_supported": true,
             "fips_supported": true,
