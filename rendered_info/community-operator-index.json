@@ -113,7 +113,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-beta.1",
+            "latest_version": "1.0.0-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.24",
+            "latest_version": "0.0.25",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "kaoto-operator",
             "display_name": "Kaoto Operator",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.37.0",
+            "latest_version": "0.38.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
