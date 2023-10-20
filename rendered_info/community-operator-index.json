@@ -245,7 +245,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-18",
+            "latest_version": "3.0.0-nightly-2023-10-19",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-beta.1",
+            "latest_version": "0.3.0-beta.1.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -934,17 +934,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/apimatic/apimatic-kubernetes-operator",
             "documentation_url": "https://docs.apimatic.io/"
-        },
-        {
-            "package_name": "bpfd-operator",
-            "display_name": "Bpfd Operator",
-            "latest_version": "0.2.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/bpfd-dev/bpfd",
-            "documentation_url": ""
         },
         {
             "package_name": "ocm-operator",
@@ -1895,7 +1884,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.26",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2247,7 +2236,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.75.0",
+            "latest_version": "7.76.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
