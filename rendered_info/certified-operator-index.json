@@ -124,7 +124,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.20.2",
+            "latest_version": "1.21.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.3.2",
+            "latest_version": "0.3.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.18.0",
+            "latest_version": "1.18.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -872,8 +872,8 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.13.8-x96e1ca9",
-            "latest_channel": "1.13",
+            "latest_version": "1.14.3-x724ce58",
+            "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

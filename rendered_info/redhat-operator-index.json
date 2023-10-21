@@ -14,7 +14,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.7.6",
+            "latest_version": "5.7.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.5.0-1",
+            "latest_version": "2.5.1-0",
             "latest_channel": "amq-streams-2.5.x",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -740,7 +740,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.7.6",
+            "latest_version": "5.7.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.8.0",
+            "latest_version": "3.9.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -894,7 +894,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "Network Observability",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.7.6",
+            "latest_version": "5.7.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

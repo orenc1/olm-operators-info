@@ -1389,7 +1389,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.0.0-rc.2",
+            "latest_version": "1.0.0-rc.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,7 +1763,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.86.0",
+            "latest_version": "0.87.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1884,7 +1884,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.26",
+            "latest_version": "0.0.27",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
