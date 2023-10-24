@@ -179,7 +179,7 @@
         {
             "package_name": "cockroachdb-certified-rhmp",
             "display_name": "CockroachDB Operator",
-            "latest_version": "2.11.0",
+            "latest_version": "2.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

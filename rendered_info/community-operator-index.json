@@ -245,7 +245,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-21",
+            "latest_version": "3.0.0-nightly-2023-10-23",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -372,6 +372,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/redhat-cop/volume-expander-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "k8gb",
+            "display_name": "k8gb",
+            "latest_version": "0.11.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/k8gb-io/k8gb",
             "documentation_url": ""
         },
         {
@@ -1389,7 +1400,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.0.0-rc.3",
+            "latest_version": "1.0.0-rc.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1477,7 +1488,7 @@
         {
             "package_name": "windup-operator",
             "display_name": "Windup Operator",
-            "latest_version": "0.0.22",
+            "latest_version": "0.0.23",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,8 +1554,8 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.8.0",
-            "latest_channel": "alpha",
+            "latest_version": "0.9.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1884,7 +1895,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.27",
+            "latest_version": "0.0.28",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
