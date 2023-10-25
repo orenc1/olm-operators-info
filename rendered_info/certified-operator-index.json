@@ -432,11 +432,11 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "23.6.1",
+            "latest_version": "23.9.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Deep Insights",
             "repository": "http://github.com/NVIDIA/gpu-operator",
             "documentation_url": ""
         },
@@ -894,7 +894,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.14.0",
+            "latest_version": "0.14.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
