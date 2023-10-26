@@ -245,7 +245,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-10-24",
+            "latest_version": "3.0.0-nightly-2023-10-25",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -771,6 +771,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "eginnovations-operator",
+            "display_name": "eG Innovations Universal Agent Operator",
+            "latest_version": "0.0.6",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/eginnovations/universal-agent-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "community-windows-machine-config-operator",
             "display_name": "Community Windows Machine Config Operator",
             "latest_version": "8.0.0",
@@ -806,7 +817,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.0",
+            "latest_version": "0.7.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1697,7 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.7.0",
+            "latest_version": "0.7.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1851,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Community Loki Operator",
-            "latest_version": "0.4.0",
+            "latest_version": "0.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
