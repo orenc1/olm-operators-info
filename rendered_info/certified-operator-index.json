@@ -377,7 +377,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.220",
+            "latest_version": "8.0.230",
             "latest_channel": "8.0.200x",
             "disconnected_supported": false,
             "fips_supported": false,
