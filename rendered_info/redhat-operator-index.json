@@ -751,7 +751,7 @@
         {
             "package_name": "windows-machine-config-operator",
             "display_name": "Windows Machine Config Operator",
-            "latest_version": "8.0.2",
+            "latest_version": "8.1.0",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.11.2-311",
+            "latest_version": "2.11.2-322",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
