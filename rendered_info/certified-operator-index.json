@@ -443,7 +443,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.1.9",
+            "latest_version": "5.1.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
