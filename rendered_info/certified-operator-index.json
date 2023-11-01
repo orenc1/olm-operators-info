@@ -399,7 +399,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.26.0",
+            "latest_version": "2.27.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -982,8 +982,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2023.9.3-16",
-            "latest_channel": "2023.9",
+            "latest_version": "2023.10.1-7",
+            "latest_channel": "2023.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1037,8 +1037,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2023.9.2-16",
-            "latest_channel": "2023.9",
+            "latest_version": "2023.10.1-7",
+            "latest_channel": "2023.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1092,8 +1092,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2023.9.2-16",
-            "latest_channel": "2023.9",
+            "latest_version": "2023.10.1-7",
+            "latest_channel": "2023.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
