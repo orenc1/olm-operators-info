@@ -784,7 +784,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.42.0",
+            "latest_version": "42.43.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,8 +1158,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.4-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.4",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1345,8 +1345,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.3-candidate-20231009173203000",
-            "latest_channel": "candidate",
+            "latest_version": "1.2.3",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1466,8 +1466,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.4-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.4",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1521,7 +1521,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.1.1162",
+            "latest_version": "3.2.1216",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

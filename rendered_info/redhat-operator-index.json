@@ -168,7 +168,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.65.9",
+            "latest_version": "1.65.10",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -289,8 +289,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1698276502",
-            "latest_channel": "stable-2.4",
+            "latest_version": "2.4.0-0.1698276827",
+            "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -344,7 +344,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.4.2",
+            "latest_version": "2.4.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.13.1",
+            "latest_version": "4.13.3",
             "latest_channel": "4.13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.13.4",
+            "latest_version": "4.13.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
