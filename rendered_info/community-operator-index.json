@@ -641,7 +641,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2357,7 +2357,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-03",
+            "latest_version": "3.0.0-nightly-2023-11-04",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -564,7 +564,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.27.1",
+            "latest_version": "2.28.2",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
