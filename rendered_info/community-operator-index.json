@@ -421,7 +421,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.1",
+            "latest_version": "0.7.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "multi-nic-cni-operator",
             "display_name": "multi-nic-cni-operator",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.67",
+            "latest_version": "0.7.68",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "rabbitmq-messaging-topology-operator",
             "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.12.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1741,7 +1741,7 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.9.0",
+            "latest_version": "5.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2357,7 +2357,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-05",
+            "latest_version": "3.0.0-nightly-2023-11-06",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
