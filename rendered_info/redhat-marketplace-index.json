@@ -212,7 +212,7 @@
         {
             "package_name": "stackgres",
             "display_name": "StackGres",
-            "latest_version": "1.6.0-rc1",
+            "latest_version": "1.6.0-rc2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.0.11",
+            "latest_version": "6.0.12",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.0.11",
+            "latest_version": "6.0.12",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.0.11",
+            "latest_version": "6.0.12",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -2357,7 +2357,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-06",
+            "latest_version": "3.0.0-nightly-2023-11-07",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2412,7 +2412,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.4.0",
+            "latest_version": "0.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
