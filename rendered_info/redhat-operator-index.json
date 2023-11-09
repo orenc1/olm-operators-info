@@ -36,7 +36,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.13.0-202310241102",
+            "latest_version": "4.13.0-202310252244",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -124,8 +124,8 @@
         {
             "package_name": "ocs-client-operator",
             "display_name": "OpenShift Data Foundation Client",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -355,8 +355,8 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -366,7 +366,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.13.0-202310240926",
+            "latest_version": "4.13.0-202310271044",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "file-integrity-operator",
             "display_name": "File Integrity Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.3.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -443,8 +443,8 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -465,8 +465,8 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -487,8 +487,8 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -509,8 +509,8 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -542,7 +542,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1698273755",
+            "latest_version": "2.4.0-0.1698895703",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -586,8 +586,8 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -630,7 +630,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "Network Observability",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.6.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.13.0-202310210425",
+            "latest_version": "4.13.0-202310270844",
             "latest_channel": "4.13",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -982,8 +982,8 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.13.4-rhodf",
-            "latest_channel": "stable-4.13",
+            "latest_version": "4.14.0-rhodf",
+            "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1070,7 +1070,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1698276827",
+            "latest_version": "2.4.0-0.1698896316",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "4.14-eus",
             "disconnected_supported": true,
             "fips_supported": false,

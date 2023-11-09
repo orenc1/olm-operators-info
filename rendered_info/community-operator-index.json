@@ -575,7 +575,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.68",
+            "latest_version": "0.7.69",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,8 +1928,8 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.11-rc.0",
-            "latest_channel": "prerelease",
+            "latest_version": "0.3.11",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1961,7 +1961,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "23.7.0",
+            "latest_version": "23.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2357,7 +2357,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-07",
+            "latest_version": "3.0.0-nightly-2023-11-08",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
