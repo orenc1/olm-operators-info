@@ -47,13 +47,13 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.9.0",
+            "latest_version": "2.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/elastic/cloud-on-k8s",
-            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.9/index.html"
+            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.10/index.html"
         },
         {
             "package_name": "habana-ai-operator",
@@ -564,7 +564,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.28.2",
+            "latest_version": "2.29.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

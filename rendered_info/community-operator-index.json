@@ -872,7 +872,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.7.1",
+            "latest_version": "2.7.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2357,7 +2357,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-08",
+            "latest_version": "3.0.0-nightly-2023-11-09",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

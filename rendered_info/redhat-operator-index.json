@@ -14,7 +14,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.9.0",
+            "latest_version": "3.9.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -80,13 +80,13 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.7.4",
+            "latest_version": "0.8.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/business_continuity/business-cont-overview#volsync"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/business_continuity/business-cont-overview#volsync"
         },
         {
             "package_name": "businessautomation-operator",
@@ -707,8 +707,8 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.3.3",
-            "latest_channel": "stable-2.3",
+            "latest_version": "2.4.0",
+            "latest_channel": "stable-2.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -883,7 +883,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.11.3-opr-1",
+            "latest_version": "7.11.4-opr-1",
             "latest_channel": "7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,13 +1147,13 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.3.3",
-            "latest_channel": "stable-2.3",
+            "latest_version": "2.4.0",
+            "latest_channel": "stable-2.4",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/clusters/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/clusters/index"
         }
     ]
 }
