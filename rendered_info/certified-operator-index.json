@@ -531,7 +531,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "1.9.1",
+            "latest_version": "2.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.29.0",
+            "latest_version": "2.29.1",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.22.0",
+            "latest_version": "1.23.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "ibm-application-gateway-operator",
             "display_name": "IBM Application Gateway Operator",
-            "latest_version": "22.3.0",
+            "latest_version": "23.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
