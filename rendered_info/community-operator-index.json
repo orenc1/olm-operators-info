@@ -1180,7 +1180,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.2",
+            "latest_version": "1.2.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2003,6 +2003,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "aqua",
+            "display_name": "Aqua Security Operator",
+            "latest_version": "2022.4.14",
+            "latest_channel": "2022.4.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/aquasecurity/aqua-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "gitwebhook-operator",
             "display_name": "GitWebhook operator",
             "latest_version": "0.1.0",
@@ -2357,7 +2368,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-13",
+            "latest_version": "3.0.0-nightly-2023-11-14",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

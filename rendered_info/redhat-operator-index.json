@@ -245,7 +245,7 @@
         {
             "package_name": "kernel-module-management-hub",
             "display_name": "Kernel Module Management (Hub)",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,8 +443,8 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.12.9-rhodf",
-            "latest_channel": "stable-4.12",
+            "latest_version": "4.13.4-rhodf",
+            "latest_channel": "stable-4.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -938,7 +938,7 @@
         {
             "package_name": "kernel-module-management",
             "display_name": "Kernel Module Management",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "release-1.1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "openshift-cert-manager-operator",
             "display_name": "cert-manager Operator for Red Hat OpenShift",
-            "latest_version": "1.12.0",
+            "latest_version": "1.12.1",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
