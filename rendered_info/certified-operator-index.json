@@ -707,8 +707,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.5-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.5",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -718,7 +718,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.12.1",
+            "latest_version": "2.13.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -850,7 +850,7 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.4.45",
+            "latest_version": "2.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,7 +971,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.43.0",
+            "latest_version": "42.44.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1201,13 +1201,13 @@
         },
         {
             "package_name": "netscaler-adm-agent-operator",
-            "display_name": "Netscaler ADM Agent Operator",
-            "latest_version": "141.10.28",
-            "latest_channel": "stable",
+            "display_name": "NetScaler ADM Agent Operator",
+            "latest_version": "141.13.23",
+            "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/adm-agent",
+            "repository": "https://github.com/netscaler/netscaler-helm-charts/tree/master/adm-agent",
             "documentation_url": ""
         },
         {
@@ -1653,8 +1653,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.5-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.5",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
