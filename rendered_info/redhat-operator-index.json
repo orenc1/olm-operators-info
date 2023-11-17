@@ -91,7 +91,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.4-2",
+            "latest_version": "7.13.4-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -163,17 +163,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/grafana/tempo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "multicluster-global-hub-operator-product",
-            "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "0.7.0",
-            "latest_channel": "release-0.7",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/stolostron/multicluster-global-hub",
             "documentation_url": ""
         },
         {
@@ -509,7 +498,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.4-2",
+            "latest_version": "7.13.4-3",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,8 +905,8 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "0.2.6",
-            "latest_channel": "stable",
+            "latest_version": "3.11.1",
+            "latest_channel": "3.11",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Basic Install",
@@ -1026,13 +1015,13 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.7.7-mas",
-            "latest_channel": "threescale-mas",
+            "latest_version": "0.7.7",
+            "latest_channel": "threescale-2.13",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.13/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "cluster-logging",

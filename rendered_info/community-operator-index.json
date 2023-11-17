@@ -421,7 +421,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.2",
+            "latest_version": "0.7.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1310,6 +1310,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "registry-operator",
+            "display_name": "Devfile Registry Operator",
+            "latest_version": "0.1.3",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/devfile/registry-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "cluster-aas-operator",
             "display_name": "Cluster as a service operator",
             "latest_version": "0.1.3",
@@ -1345,7 +1356,7 @@
         {
             "package_name": "pubsubplus-eventbroker-operator",
             "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1466,7 +1477,7 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator - Community Edition",
-            "latest_version": "0.16.0",
+            "latest_version": "0.16.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2115,7 +2126,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.25.1",
+            "latest_version": "0.25.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2357,7 +2368,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.14.1",
+            "latest_version": "0.14.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2368,7 +2379,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-15",
+            "latest_version": "3.0.0-nightly-2023-11-16",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2412,7 +2423,7 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator - Community Edition",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
