@@ -364,6 +364,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "cte-k8s-operator",
+            "display_name": "CipherTrust Transparent Encryption for Kubernetes (CTE-K8s) Operator",
+            "latest_version": "1.3.2",
+            "latest_channel": "candidate",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "cilium",
             "display_name": "Cilium",
             "latest_version": "1.14.3-x041dc10",

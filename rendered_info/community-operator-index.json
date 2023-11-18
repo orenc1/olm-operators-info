@@ -2379,7 +2379,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-16",
+            "latest_version": "3.0.0-nightly-2023-11-17",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
