@@ -1004,7 +1004,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
