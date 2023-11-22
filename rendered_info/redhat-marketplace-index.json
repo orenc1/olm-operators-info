@@ -12,39 +12,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "k10-kasten-operator-rhmp",
-            "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.0.12",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "percona-server-mongodb-operator-certified-rhmp",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.15.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
-        },
-        {
-            "package_name": "sbr-operator-rhmp",
-            "display_name": "Storware Backup & Recovery",
-            "latest_version": "6.0.0-19.24",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "timemachine-operator-rhmp",
             "display_name": "Time Machine Operator",
             "latest_version": "1.0.16",
@@ -53,28 +20,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "minio-operator-rhmp",
-            "display_name": "Minio Operator Rhmp",
-            "latest_version": "5.0.10",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/minio/operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "eamli-operator-rhmp",
-            "display_name": "eamli",
-            "latest_version": "3.3.0",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://gitlab.com/whitedotspace/eamli/eamli-operator",
             "documentation_url": ""
         },
         {
@@ -210,17 +155,6 @@
             "documentation_url": "https://docs.pachyderm.com/latest/"
         },
         {
-            "package_name": "dynatrace-operator-rhmp",
-            "display_name": "Dynatrace Operator",
-            "latest_version": "0.14.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/Dynatrace/dynatrace-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "starburst-enterprise-helm-operator-rhmp",
             "display_name": "Starburst Enterprise Helm Operator",
             "latest_version": "402.1.0",
@@ -298,17 +232,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "couchbase-enterprise-certified-rhmp",
-            "display_name": "Couchbase Operator",
-            "latest_version": "2.5.0-1",
-            "latest_channel": "2.5.0",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
-        },
-        {
             "package_name": "citrix-ingress-controller-operator-rhmp",
             "display_name": "Citrix Ingress Controller",
             "latest_version": "1.18.5",
@@ -350,17 +273,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "stackgres",
-            "display_name": "StackGres",
-            "latest_version": "1.6.0",
-            "latest_channel": "candidate",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://gitlab.com/ongresinc/stackgres",
             "documentation_url": ""
         },
         {
@@ -406,17 +318,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/neuvector/neuvector-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "percona-xtradb-cluster-operator-certified-rhmp",
-            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.13.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-xtradb-cluster-operator",
-            "documentation_url": "https://percona.github.io/percona-xtradb-cluster-operator/"
         },
         {
             "package_name": "iomesh-operator-rhmp",
@@ -476,8 +377,8 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.2.4-7.0",
-            "latest_channel": "7.2.4",
+            "latest_version": "6.2.10-45",
+            "latest_channel": "6.2.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -504,28 +405,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "k10-kasten-operator-term-rhmp",
-            "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.0.12",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "k10-kasten-operator-paygo-rhmp",
-            "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.0.12",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": null,
             "documentation_url": ""
         },
         {

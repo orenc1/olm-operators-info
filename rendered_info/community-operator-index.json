@@ -267,8 +267,8 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.0.1",
-            "latest_channel": "candidate",
+            "latest_version": "2.1.0",
+            "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -289,7 +289,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.4.2",
+            "latest_version": "5.5.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -551,20 +551,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "aqua",
-            "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.14",
-            "latest_channel": "2022.4.0",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/aquasecurity/aqua-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.7.2",
+            "latest_version": "2.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +619,7 @@
         {
             "package_name": "ibm-block-csi-operator-community",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.11.1",
+            "latest_version": "1.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -640,9 +629,9 @@
         },
         {
             "package_name": "dell-csm-operator",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.3.0",
-            "latest_channel": "stable",
+            "display_name": "Dell CSM Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -692,17 +681,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "percona-server-mongodb-operator",
-            "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.15.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/percona/percona-server-mongodb-operator",
-            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
         },
         {
             "package_name": "ack-route53resolver-controller",
@@ -806,7 +784,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.32",
+            "latest_version": "0.0.33",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -970,8 +948,8 @@
         },
         {
             "package_name": "percona-xtradb-cluster-operator",
-            "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.13.0",
+            "display_name": "Percona XtraDB Cluster Operator",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1081,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.49.0",
+            "latest_version": "1.51.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1158,7 +1136,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1398,17 +1376,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "gitlab-operator-kubernetes",
-            "display_name": "GitLab",
-            "latest_version": "0.26.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
             "latest_version": "0.33.0",
@@ -1444,7 +1411,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.14.2",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1587,7 @@
         {
             "package_name": "community-windows-machine-config-operator",
             "display_name": "Community Windows Machine Config Operator",
-            "latest_version": "8.0.0",
+            "latest_version": "6.0.0",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1703,6 +1670,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kedacore/keda-olm-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "bpfd-operator",
+            "display_name": "Bpfd Operator",
+            "latest_version": "0.3.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/bpfd-dev/bpfd",
             "documentation_url": ""
         },
         {
@@ -1851,7 +1829,7 @@
         {
             "package_name": "namespace-configuration-operator",
             "display_name": "Namespace Configuration Operator",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1862,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-20",
+            "latest_version": "3.0.0-nightly-2023-11-21",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2346,7 +2324,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.7.0",
+            "latest_version": "0.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2396,17 +2374,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://gitlab.com/ndmspc/ndmspc-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "registry-operator",
-            "display_name": "Devfile Registry Operator",
-            "latest_version": "0.1.3",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/devfile/registry-operator",
             "documentation_url": ""
         },
         {
