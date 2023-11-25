@@ -56,17 +56,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "advanced-cluster-management",
-            "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.9.0",
-            "latest_channel": "release-2.9",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/"
-        },
-        {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
             "latest_version": "4.14.0-202311021650",
@@ -201,7 +190,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.5-opr-004",
+            "latest_version": "7.6.6-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -362,17 +351,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/quay/container-security-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "multicluster-engine",
-            "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.4.0",
-            "latest_channel": "stable-2.4",
-            "disconnected_supported": true,
-            "fips_supported": true,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/clusters/index"
         },
         {
             "package_name": "local-storage-operator",
