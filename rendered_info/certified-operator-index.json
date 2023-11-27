@@ -606,17 +606,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hpe-csi-operator",
-            "display_name": "HPE CSI Operator for Kubernetes",
-            "latest_version": "2.4.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/hpe-storage/co-deployments",
-            "documentation_url": "https://scod.hpedev.io/csi_driver/index.html"
-        },
-        {
             "package_name": "cass-operator",
             "display_name": "DataStax Kubernetes Operator for Apache Cassandra",
             "latest_version": "1.17.1",
