@@ -23,6 +23,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "minio-operator-rhmp",
+            "display_name": "Minio Operator Rhmp",
+            "latest_version": "5.0.11",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/minio/operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "cloudbees-ci-rhmp",
             "display_name": "CloudBees CI",
             "latest_version": "3.34.1",

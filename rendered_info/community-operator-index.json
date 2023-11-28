@@ -916,7 +916,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-beta.2",
+            "latest_version": "0.3.0-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "kubecost",
             "display_name": "Kubecost",
-            "latest_version": "1.106.2",
+            "latest_version": "1.107.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-26",
+            "latest_version": "3.0.0-nightly-2023-11-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

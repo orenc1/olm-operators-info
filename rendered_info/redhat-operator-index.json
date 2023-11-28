@@ -56,6 +56,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "advanced-cluster-management",
+            "display_name": "Advanced Cluster Management for Kubernetes",
+            "latest_version": "2.8.3",
+            "latest_channel": "release-2.8",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/"
+        },
+        {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
             "latest_version": "4.14.0-202311021650",
@@ -91,8 +102,8 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.4.0",
-            "latest_channel": "stable-2.4",
+            "latest_version": "2.3.3",
+            "latest_channel": "stable-2.3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -168,7 +179,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift Data Science",
-            "latest_version": "2.2.0",
+            "latest_version": "2.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,7 +289,7 @@
         {
             "package_name": "sandboxed-containers-operator",
             "display_name": "OpenShift sandboxed containers Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -320,6 +331,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "tang-operator",
+            "display_name": "NBDE Tang Server",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
             "latest_version": "4.14.0-rhodf",
@@ -351,6 +373,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/quay/container-security-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "multicluster-engine",
+            "display_name": "multicluster engine for Kubernetes",
+            "latest_version": "2.3.3",
+            "latest_channel": "stable-2.3",
+            "disconnected_supported": true,
+            "fips_supported": true,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.8/html/clusters/index"
         },
         {
             "package_name": "local-storage-operator",
@@ -482,6 +515,17 @@
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/ComplianceAsCode/compliance-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "windows-machine-config-operator",
+            "display_name": "Windows Machine Config Operator",
+            "latest_version": "9.0.0",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/openshift/windows-machine-config-operator",
             "documentation_url": ""
         },
         {
