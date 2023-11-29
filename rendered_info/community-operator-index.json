@@ -289,7 +289,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.5.0",
+            "latest_version": "5.5.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-27",
+            "latest_version": "3.0.0-nightly-2023-11-28",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.5.2",
+            "latest_version": "2.5.3",
             "latest_channel": "stable-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,

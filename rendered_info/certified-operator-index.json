@@ -67,17 +67,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "memory-machine-operator",
-            "display_name": "Memory Machine Operator",
-            "latest_version": "0.0.10",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/MemVerge/memory-machine-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
             "latest_version": "1.14.4-x1851dff",
@@ -553,7 +542,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.3",
+            "latest_version": "5.4.4",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -581,17 +570,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/anchore/engine-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "obi-prod-test-2",
-            "display_name": "memcached",
-            "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
