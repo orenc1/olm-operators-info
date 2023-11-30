@@ -344,7 +344,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.13.0",
+            "latest_version": "2.13.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.13.0",
+            "latest_version": "2.13.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.44.0",
+            "latest_version": "42.45.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.4",
+            "latest_version": "5.5.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,8 +773,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.6-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.6",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1202,8 +1202,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.6-beta.2",
-            "latest_channel": "beta",
+            "latest_version": "8.10.6",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
