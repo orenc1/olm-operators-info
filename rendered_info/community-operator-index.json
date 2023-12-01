@@ -190,8 +190,8 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.0-nightly.20231014",
-            "latest_channel": "candidate-3.10",
+            "latest_version": "3.10.0",
+            "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
@@ -1268,7 +1268,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.77.0",
+            "latest_version": "7.78.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "23.0.0",
+            "latest_version": "23.0.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-29",
+            "latest_version": "3.0.0-nightly-2023-11-30",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2192,7 @@
         {
             "package_name": "observability-operator",
             "display_name": "Observability Operator",
-            "latest_version": "0.0.25",
+            "latest_version": "0.0.28",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -135,7 +135,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "23.9.0",
+            "latest_version": "23.11.0-624",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -207,6 +207,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "nvidia-network-operator",
+            "display_name": "NVIDIA Network Operator",
+            "latest_version": "23.10.0",
+            "latest_channel": "v23.10.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Mellanox/network-operator/",
             "documentation_url": ""
         },
         {
