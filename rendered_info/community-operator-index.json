@@ -1840,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-11-30",
+            "latest_version": "3.0.0-nightly-2023-12-01",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "postgresql",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.3",
+            "latest_version": "5.5.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
