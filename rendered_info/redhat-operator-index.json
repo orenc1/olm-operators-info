@@ -69,7 +69,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202311211133",
+            "latest_version": "4.14.0-202311282332",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1700364572",
+            "latest_version": "2.4.0-0.1700768188",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.9.1",
+            "latest_version": "3.10.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -575,7 +575,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202311221334",
+            "latest_version": "4.14.0-202311270909",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.5.2",
+            "latest_version": "2.5.3",
             "latest_channel": "release-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.2.3",
+            "latest_version": "2.3.0",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1700365194",
+            "latest_version": "2.4.0-0.1700771214",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
