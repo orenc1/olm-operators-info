@@ -234,7 +234,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "windup-operator",
             "display_name": "Windup Operator",
-            "latest_version": "0.0.23",
+            "latest_version": "0.0.24",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.4.1",
+            "latest_version": "0.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.33",
+            "latest_version": "0.0.34",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-04",
+            "latest_version": "3.0.0-nightly-2023-12-06",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2027,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "3.0.1",
+            "latest_version": "3.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

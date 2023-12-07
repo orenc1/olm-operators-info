@@ -146,7 +146,7 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.300",
+            "latest_version": "8.0.301",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.300",
+            "latest_version": "8.0.301",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -376,13 +376,13 @@
         },
         {
             "package_name": "netscaler-adm-agent-operator",
-            "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.13.23",
-            "latest_channel": "alpha",
+            "display_name": "Netscaler ADM Agent Operator",
+            "latest_version": "141.10.28",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/netscaler/netscaler-helm-charts/tree/master/adm-agent",
+            "repository": "https://github.com/citrix/adm-agent",
             "documentation_url": ""
         },
         {
@@ -795,8 +795,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.6",
-            "latest_channel": "stable",
+            "latest_version": "8.10.7-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1224,8 +1224,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.7-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.61",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1422,7 +1422,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.300",
+            "latest_version": "8.0.301",
             "latest_channel": "8.0.300x",
             "disconnected_supported": true,
             "fips_supported": false,
