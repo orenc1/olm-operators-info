@@ -410,7 +410,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.4.4",
+            "latest_version": "5.5.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
