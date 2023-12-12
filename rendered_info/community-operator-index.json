@@ -36,7 +36,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.5.0",
+            "latest_version": "2.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.69",
+            "latest_version": "0.7.70",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -969,6 +969,17 @@
             "documentation_url": "https://support.snyk.io/hc/en-us/articles/360003916138-Kubernetes-integration-overview"
         },
         {
+            "package_name": "ack-acmpca-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "sonataflow-operator",
             "display_name": "SonataFlow Operator",
             "latest_version": "1.40.1",
@@ -1047,8 +1058,8 @@
         },
         {
             "package_name": "kiali",
-            "display_name": "Kiali Operator",
-            "latest_version": "1.76.0",
+            "display_name": "Kiali Community Operator",
+            "latest_version": "1.78.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1552,6 +1563,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "zookeeper-operator",
+            "display_name": "ZooKeeper Operator",
+            "latest_version": "0.17.9",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/zk-operator/tutorial/deploy-zk"
+        },
+        {
             "package_name": "redis-operator",
             "display_name": "Redis Operator",
             "latest_version": "0.15.1",
@@ -1915,10 +1937,21 @@
             "documentation_url": ""
         },
         {
+            "package_name": "bookkeeper-operator",
+            "display_name": "BookKeeper Operator",
+            "latest_version": "0.17.9",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/bk-operator/tutorial/deploy-bk"
+        },
+        {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-beta.3",
-            "latest_channel": "beta",
+            "latest_version": "0.3.0-rc.1",
+            "latest_channel": "rc",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2122,6 +2155,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/cockroachdb/helm-charts",
             "documentation_url": ""
+        },
+        {
+            "package_name": "pulsar-operator",
+            "display_name": "Pulsar Operator",
+            "latest_version": "0.17.9",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": "https://docs.streamnative.io/operators/pulsar-operator/tutorial/deploy-pulsar"
         },
         {
             "package_name": "tf-controller",

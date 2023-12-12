@@ -69,7 +69,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.3.0",
+            "latest_version": "4.3.1",
             "latest_channel": "rhacs-4.3",
             "disconnected_supported": true,
             "fips_supported": false,
