@@ -289,7 +289,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.30.2",
+            "latest_version": "1.31.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -454,7 +454,7 @@
         {
             "package_name": "multicluster-global-hub-operator-rh",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "release-1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1024,6 +1024,17 @@
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
         },
         {
+            "package_name": "logic-operator-rhel8",
+            "display_name": "SonataFlow Operator",
+            "latest_version": "1.31.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/kiegroup/kogito-serverless-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "volsync-product",
             "display_name": "VolSync",
             "latest_version": "0.8.0",
@@ -1070,7 +1081,7 @@
         {
             "package_name": "web-terminal",
             "display_name": "Web Terminal",
-            "latest_version": "1.8.0",
+            "latest_version": "1.9.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

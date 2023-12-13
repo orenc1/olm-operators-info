@@ -353,17 +353,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "sysdig-certified",
-            "display_name": "Sysdig Agent Operator",
-            "latest_version": "1.15.37",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/sysdiglabs/sysdig-operator",
-            "documentation_url": "https://sysdigdocs.atlassian.net/wiki/spaces/Platform/overview"
-        },
-        {
             "package_name": "webotx-operator",
             "display_name": "WebOTX Operator for Kubernetes",
             "latest_version": "11.11.0",
@@ -804,6 +793,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "memory-machine-operator",
+            "display_name": "Memory Machine Operator",
+            "latest_version": "1.0.0-beta.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/MemVerge/memory-machine-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
             "latest_version": "2.13.1",
@@ -916,7 +916,7 @@
         {
             "package_name": "nutanixcsioperator",
             "display_name": "Nutanix CSI Operator",
-            "latest_version": "2.6.4",
+            "latest_version": "2.6.6",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1202,7 +1202,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.29.1",
+            "latest_version": "2.30.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
