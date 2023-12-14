@@ -200,13 +200,13 @@
         },
         {
             "package_name": "netscaler-adm-agent-operator",
-            "display_name": "Netscaler ADM Agent Operator",
-            "latest_version": "141.10.28",
+            "display_name": "NetScaler ADM Agent Operator",
+            "latest_version": "141.13.23",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/adm-agent",
+            "repository": "https://github.com/netscaler/netscaler-helm-charts/tree/master/adm-agent",
             "documentation_url": ""
         },
         {
@@ -531,7 +531,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.45.0",
+            "latest_version": "42.46.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -586,8 +586,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.10.7-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.10.7",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -993,7 +993,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.10.61",
+            "latest_version": "8.10.70",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "aci-containers-operator",
             "display_name": "Cisco ACI Containers Operator",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

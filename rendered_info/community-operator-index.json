@@ -245,7 +245,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-12",
+            "latest_version": "3.0.0-nightly-2023-12-13",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "community-kubevirt-hyperconverged",
             "display_name": "KubeVirt HyperConverged Cluster Operator",
-            "latest_version": "1.9.0",
+            "latest_version": "1.10.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1620,13 +1620,24 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.0.5",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
+            "package_name": "nexus-operator",
+            "display_name": "EDP Nexus Operator",
+            "latest_version": "3.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/epam/edp-nexus-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "node-healthcheck-operator",
