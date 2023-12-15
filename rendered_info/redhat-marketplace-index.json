@@ -1,25 +1,14 @@
 {
     "operators_list": [
         {
-            "package_name": "flux",
-            "display_name": "Flux",
-            "latest_version": "2.0.1",
-            "latest_channel": "stable",
+            "package_name": "marketplace-games-operator-rhmp",
+            "display_name": "Arcade Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": "https://fluxcd.io/docs/"
-        },
-        {
-            "package_name": "k8s-triliovault-rhmp",
-            "display_name": "TrilioVault for Kubernetes",
-            "latest_version": "2.5.2",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/triliovault-k8s-issues/triliovault-k8s-issues",
             "documentation_url": ""
         },
         {
@@ -34,15 +23,26 @@
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
         },
         {
-            "package_name": "aikit-operator-rhmp",
-            "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
-            "latest_version": "2021.2.102120",
+            "package_name": "citrix-ingress-controller-operator-rhmp",
+            "display_name": "Citrix Ingress Controller",
+            "latest_version": "1.18.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
+        },
+        {
+            "package_name": "pachyderm-operator-rhmp",
+            "display_name": "Pachyderm",
+            "latest_version": "0.1.4",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/pachyderm/openshift-operator",
+            "documentation_url": "https://docs.pachyderm.com/latest/"
         },
         {
             "package_name": "vfunction-server-operator-rhmp",
@@ -56,20 +56,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "instana-agent-operator-rhmp",
-            "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.17",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/instana/instana-agent-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "abot-operator-rhmp",
-            "display_name": "ABot",
-            "latest_version": "1.0.0",
+            "package_name": "timemachine-operator-rhmp",
+            "display_name": "Time Machine Operator",
+            "latest_version": "1.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -89,146 +78,14 @@
             "documentation_url": ""
         },
         {
-            "package_name": "xcrypt-operator-rhmp",
-            "display_name": "Zettaset XCrypt Operator",
-            "latest_version": "0.0.17",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "model-builder-for-vision-certified-rhmp",
-            "display_name": "IBM Model Builder for Vision",
-            "latest_version": "1.0.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "ovms-operator-rhmp",
-            "display_name": "OpenVINO Toolkit Operator",
-            "latest_version": "1.1.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "entando-k8s-operator-rhmp",
-            "display_name": "Entando Operator",
-            "latest_version": "6.3.2",
+            "package_name": "anzounstructured-operator-rhmp",
+            "display_name": "Anzo Unstructured Operator",
+            "latest_version": "2.0.101",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "",
-            "documentation_url": "https://dev.entando.org/v6.3/docs/"
-        },
-        {
-            "package_name": "timemachine-operator-rhmp",
-            "display_name": "Time Machine Operator",
-            "latest_version": "1.0.16",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "crunchy-postgres-operator-rhmp",
-            "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.5.0",
-            "latest_channel": "v5",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/CrunchyData/postgres-operator",
-            "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
-        },
-        {
-            "package_name": "cockroachdb-certified-rhmp",
-            "display_name": "CockroachDB Operator",
-            "latest_version": "2.12.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/cockroachdb/cockroach-operator",
-            "documentation_url": "https://docs.cockroachlabs.com"
-        },
-        {
-            "package_name": "t8c-certified-rhmp",
-            "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.2.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/t8c-install/tree/master/operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "kubeturbo-certified-rhmp",
-            "display_name": "Kubeturbo Operator",
-            "latest_version": "8.3.3",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "iomesh-operator-rhmp",
-            "display_name": "IOMesh Operator",
-            "latest_version": "0.10.1-rc4",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/iomesh/docs",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "seldon-deploy-operator-rhmp",
-            "display_name": "Seldon Deploy Operator",
-            "latest_version": "1.2.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/SeldonIO/seldon-deploy-operator",
-            "documentation_url": "https://deploy.seldon.io"
-        },
-        {
-            "package_name": "pachyderm-operator-rhmp",
-            "display_name": "Pachyderm",
-            "latest_version": "0.1.4",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/pachyderm/openshift-operator",
-            "documentation_url": "https://docs.pachyderm.com/latest/"
-        },
-        {
-            "package_name": "aimodelfactory-operator-rhmp",
-            "display_name": "IBM Modelfactory",
-            "latest_version": "1.0.4",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {
@@ -245,8 +102,8 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "6.2.10-45",
-            "latest_channel": "6.2.10",
+            "latest_version": "7.2.4-12.0",
+            "latest_channel": "7.2.4",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -254,47 +111,25 @@
             "documentation_url": ""
         },
         {
-            "package_name": "anzo-operator-rhmp",
-            "display_name": "Anzo Operator",
-            "latest_version": "2.0.101",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "starburst-enterprise-helm-operator-paygo-rhmp",
-            "display_name": "Starburst Enterprise Pay as you go Helm Operator",
-            "latest_version": "402.1.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "kubemq-operator-marketplace-rhmp",
-            "display_name": "Kubemq Enterprise Operator",
-            "latest_version": "1.7.8",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": null,
-            "documentation_url": "https://docs.kubemq.io/"
-        },
-        {
-            "package_name": "marketplace-games-operator-rhmp",
-            "display_name": "Arcade Operator",
+            "package_name": "abot-operator-rhmp",
+            "display_name": "ABot",
             "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "neuvector-certified-operator-rhmp",
+            "display_name": "NeuVector Operator",
+            "latest_version": "1.3.4",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/neuvector/neuvector-operator",
             "documentation_url": ""
         },
         {
@@ -320,41 +155,30 @@
             "documentation_url": ""
         },
         {
-            "package_name": "yugabyte-platform-operator-bundle-rhmp",
-            "display_name": "Yugabyte Platform Operator",
-            "latest_version": "0.0.6",
-            "latest_channel": "alpha",
+            "package_name": "crunchy-postgres-operator-rhmp",
+            "display_name": "Crunchy Postgres for Kubernetes",
+            "latest_version": "5.5.0",
+            "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/yugabyte/yugabyte-platform-operator",
+            "capabilities": "Auto Pilot",
+            "repository": "https://github.com/CrunchyData/postgres-operator",
+            "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
+        },
+        {
+            "package_name": "k8s-triliovault-rhmp",
+            "display_name": "TrilioVault for Kubernetes",
+            "latest_version": "2.5.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/triliovault-k8s-issues/triliovault-k8s-issues",
             "documentation_url": ""
         },
         {
-            "package_name": "neuvector-certified-operator-rhmp",
-            "display_name": "NeuVector Operator",
-            "latest_version": "1.3.4",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/neuvector/neuvector-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "cloudbees-ci-rhmp",
-            "display_name": "CloudBees CI",
-            "latest_version": "3.34.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "anzounstructured-operator-rhmp",
-            "display_name": "Anzo Unstructured Operator",
+            "package_name": "anzo-operator-rhmp",
+            "display_name": "Anzo Operator",
             "latest_version": "2.0.101",
             "latest_channel": "stable",
             "disconnected_supported": false,
@@ -364,25 +188,36 @@
             "documentation_url": ""
         },
         {
-            "package_name": "anzograph-operator-rhmp",
-            "display_name": "AnzoGraph Operator",
-            "latest_version": "2.0.102",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "linstor-operator-rhmp",
-            "display_name": "Linstor Operator",
-            "latest_version": "1.5.1",
+            "package_name": "joget-dx8-operator-rhmp",
+            "display_name": "Joget DX 8 Operator",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/piraeusdatastore/piraeus-operator",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "xcrypt-operator-rhmp",
+            "display_name": "Zettaset XCrypt Operator",
+            "latest_version": "0.0.17",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "iomesh-operator-rhmp",
+            "display_name": "IOMesh Operator",
+            "latest_version": "0.10.1-rc4",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/iomesh/docs",
             "documentation_url": ""
         },
         {
@@ -397,6 +232,50 @@
             "documentation_url": ""
         },
         {
+            "package_name": "instana-agent-operator-rhmp",
+            "display_name": "Instana Agent Operator",
+            "latest_version": "2.0.17",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/instana/instana-agent-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "aikit-operator-rhmp",
+            "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
+            "latest_version": "2021.2.102120",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "cloudbees-ci-rhmp",
+            "display_name": "CloudBees CI",
+            "latest_version": "3.34.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kubemq-operator-marketplace-rhmp",
+            "display_name": "Kubemq Enterprise Operator",
+            "latest_version": "1.7.8",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.kubemq.io/"
+        },
+        {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
             "latest_version": "1.2.1",
@@ -406,6 +285,105 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/DataDog/datadog-operator",
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
+        },
+        {
+            "package_name": "linstor-operator-rhmp",
+            "display_name": "Linstor Operator",
+            "latest_version": "1.5.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/piraeusdatastore/piraeus-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kubeturbo-certified-rhmp",
+            "display_name": "Kubeturbo Operator",
+            "latest_version": "8.3.3",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "aimodelfactory-operator-rhmp",
+            "display_name": "IBM Modelfactory",
+            "latest_version": "1.0.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ovms-operator-rhmp",
+            "display_name": "OpenVINO Toolkit Operator",
+            "latest_version": "1.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "t8c-certified-rhmp",
+            "display_name": "Turbonomic Platform Operator",
+            "latest_version": "42.2.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/turbonomic/t8c-install/tree/master/operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "seldon-deploy-operator-rhmp",
+            "display_name": "Seldon Deploy Operator",
+            "latest_version": "1.2.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/SeldonIO/seldon-deploy-operator",
+            "documentation_url": "https://deploy.seldon.io"
+        },
+        {
+            "package_name": "starburst-enterprise-helm-operator-paygo-rhmp",
+            "display_name": "Starburst Enterprise Pay as you go Helm Operator",
+            "latest_version": "402.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "entando-k8s-operator-rhmp",
+            "display_name": "Entando Operator",
+            "latest_version": "6.3.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "",
+            "documentation_url": "https://dev.entando.org/v6.3/docs/"
+        },
+        {
+            "package_name": "yugabyte-platform-operator-bundle-rhmp",
+            "display_name": "Yugabyte Platform Operator",
+            "latest_version": "0.0.6",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/yugabyte/yugabyte-platform-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "joget-dx-operator-rhmp",
@@ -419,10 +397,10 @@
             "documentation_url": ""
         },
         {
-            "package_name": "joget-dx8-operator-rhmp",
-            "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.4",
-            "latest_channel": "alpha",
+            "package_name": "model-builder-for-vision-certified-rhmp",
+            "display_name": "IBM Model Builder for Vision",
+            "latest_version": "1.0.3",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -430,15 +408,37 @@
             "documentation_url": ""
         },
         {
-            "package_name": "citrix-ingress-controller-operator-rhmp",
-            "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.18.5",
-            "latest_channel": "alpha",
+            "package_name": "flux",
+            "display_name": "Flux",
+            "latest_version": "2.0.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": "https://fluxcd.io/docs/"
+        },
+        {
+            "package_name": "anzograph-operator-rhmp",
+            "display_name": "AnzoGraph Operator",
+            "latest_version": "2.0.102",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
+            "repository": "",
             "documentation_url": ""
+        },
+        {
+            "package_name": "cockroachdb-certified-rhmp",
+            "display_name": "CockroachDB Operator",
+            "latest_version": "2.12.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/cockroachdb/cockroach-operator",
+            "documentation_url": "https://docs.cockroachlabs.com"
         }
     ]
 }
