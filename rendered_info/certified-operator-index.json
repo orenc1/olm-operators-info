@@ -410,7 +410,7 @@
         {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
-            "latest_version": "2.0.300",
+            "latest_version": "2.0.500",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -989,6 +989,17 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/CrunchyData/postgres-operator",
             "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
+        },
+        {
+            "package_name": "couchbase-enterprise-certified",
+            "display_name": "Couchbase Operator",
+            "latest_version": "2.6.0-1",
+            "latest_channel": "2.6.0",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
         },
         {
             "package_name": "keysight-nats-operator",

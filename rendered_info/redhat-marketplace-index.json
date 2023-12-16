@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "couchbase-enterprise-certified-rhmp",
+            "display_name": "Couchbase Operator",
+            "latest_version": "2.6.0-1",
+            "latest_channel": "2.6.0",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Auto Pilot",
+            "repository": null,
+            "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
+        },
+        {
             "package_name": "seldon-deploy-operator-rhmp",
             "display_name": "Seldon Deploy Operator",
             "latest_version": "1.2.1",
