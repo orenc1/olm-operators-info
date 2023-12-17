@@ -1004,7 +1004,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-rc.1",
+            "latest_version": "0.3.0-rc.2",
             "latest_channel": "rc",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2280,7 +2280,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.9",
+            "latest_version": "0.9.10",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
