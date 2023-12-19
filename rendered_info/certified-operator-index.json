@@ -586,7 +586,7 @@
         {
             "package_name": "anzo-operator",
             "display_name": "Anzo Operator",
-            "latest_version": "2.0.300",
+            "latest_version": "2.0.400",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,8 +619,8 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "3.1.3",
-            "latest_channel": "3.1.x",
+            "latest_version": "4.0.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1301,7 +1301,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "2.1.102",
+            "latest_version": "2.1.103",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
