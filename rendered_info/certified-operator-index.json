@@ -111,6 +111,17 @@
             "documentation_url": "https://docs.kubemq.io/"
         },
         {
+            "package_name": "dynatrace-operator",
+            "display_name": "Dynatrace Operator",
+            "latest_version": "0.15.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "cockroachdb-certified",
             "display_name": "CockroachDB Operator",
             "latest_version": "2.12.0",
@@ -168,7 +179,7 @@
         {
             "package_name": "appdynamics-cloud-operator",
             "display_name": "AppDynamics Cloud Operator",
-            "latest_version": "23.12.0-45",
+            "latest_version": "23.12.1-49",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +432,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.14.4-xb89471d",
+            "latest_version": "1.14.5-x3583390",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1048,7 +1059,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Cilium Enterprise",
-            "latest_version": "1.14.4-x1851dff",
+            "latest_version": "1.14.5-x2053839",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
