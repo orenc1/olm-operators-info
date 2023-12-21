@@ -234,7 +234,7 @@
         {
             "package_name": "ack-acmpca-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-19",
+            "latest_version": "3.0.0-nightly-2023-12-20",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1927,8 +1927,8 @@
         },
         {
             "package_name": "annotationlab",
-            "display_name": "NLP Lab",
-            "latest_version": "5.4.1",
+            "display_name": "NLPLab",
+            "latest_version": "5.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2121,17 +2121,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/SolaceProducts/pubsubplus-kubernetes-quickstart",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "operator-e2e",
-            "display_name": "operator-e2e",
-            "latest_version": "0.0.100",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {

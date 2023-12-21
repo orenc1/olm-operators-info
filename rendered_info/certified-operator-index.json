@@ -410,7 +410,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.0.2",
+            "latest_version": "2.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
