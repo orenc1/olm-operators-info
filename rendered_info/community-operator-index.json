@@ -817,7 +817,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.33.0",
+            "latest_version": "0.39.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-rc.2",
+            "latest_version": "0.3.0-rc.3",
             "latest_channel": "rc",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-20",
+            "latest_version": "3.0.0-nightly-2023-12-21",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1785,7 +1785,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.36",
+            "latest_version": "0.0.37",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.38.0",
+            "latest_version": "0.39.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
