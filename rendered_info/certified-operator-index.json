@@ -223,7 +223,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.9",
+            "latest_version": "0.17.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -240,6 +240,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/noironetworks/aci-containers",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "gitlab-operator-kubernetes",
+            "display_name": "GitLab",
+            "latest_version": "0.27.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator",
             "documentation_url": ""
         },
         {
@@ -663,7 +674,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.17.9",
+            "latest_version": "0.17.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +894,7 @@
         {
             "package_name": "bookkeeper-operator",
             "display_name": "BookKeeper Operator",
-            "latest_version": "0.17.9",
+            "latest_version": "0.17.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

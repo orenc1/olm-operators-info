@@ -179,7 +179,7 @@
         {
             "package_name": "zookeeper-operator",
             "display_name": "ZooKeeper Operator",
-            "latest_version": "0.17.9",
+            "latest_version": "0.17.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "pulsar-operator",
             "display_name": "Pulsar Operator",
-            "latest_version": "0.17.9",
+            "latest_version": "0.17.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-21",
+            "latest_version": "3.0.0-nightly-2023-12-22",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
