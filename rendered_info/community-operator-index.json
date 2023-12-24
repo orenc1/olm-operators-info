@@ -729,7 +729,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.78.0",
+            "latest_version": "7.79.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2148,7 +2148,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.27",
+            "latest_version": "0.0.29",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

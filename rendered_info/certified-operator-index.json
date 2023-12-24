@@ -553,7 +553,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.30.0",
+            "latest_version": "2.31.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
