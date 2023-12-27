@@ -575,8 +575,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.10.5",
-            "latest_channel": "0.10.5",
+            "latest_version": "0.10.6",
+            "latest_channel": "0.10.6",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -795,7 +795,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.2.0",
+            "latest_version": "5.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
