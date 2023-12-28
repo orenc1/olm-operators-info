@@ -1433,7 +1433,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2023-12-26",
+            "latest_version": "3.0.0-nightly-2023-12-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2467,7 +2467,7 @@
         {
             "package_name": "flux",
             "display_name": "Flux",
-            "latest_version": "2.2.0",
+            "latest_version": "2.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
