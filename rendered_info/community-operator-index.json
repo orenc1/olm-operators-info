@@ -2401,7 +2401,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.23.1",
+            "latest_version": "0.24.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
