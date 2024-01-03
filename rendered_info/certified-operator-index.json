@@ -630,7 +630,7 @@
         {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
