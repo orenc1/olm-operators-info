@@ -938,7 +938,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202311211133",
+            "latest_version": "4.14.0-202312132033",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202312052033",
+            "latest_version": "4.14.0-202312062209",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.3.1",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

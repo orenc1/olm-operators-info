@@ -1433,7 +1433,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-02",
+            "latest_version": "3.0.0-nightly-2024-01-03",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2291,7 +2291,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.10",
+            "latest_version": "0.9.11",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
