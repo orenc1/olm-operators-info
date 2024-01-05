@@ -223,7 +223,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.14.1",
+            "latest_version": "4.14.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -960,7 +960,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.18",
+            "latest_version": "1.10.19",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.10.0",
+            "latest_version": "3.10.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

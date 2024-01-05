@@ -91,7 +91,7 @@
         {
             "package_name": "zabbix-operator-certified-rhmp",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.17",
+            "latest_version": "6.0.25",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
