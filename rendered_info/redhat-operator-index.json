@@ -267,7 +267,7 @@
         {
             "package_name": "rhbk-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "22.0.7-opr.1",
+            "latest_version": "22.0.8-opr.1",
             "latest_channel": "stable-v22",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.5.3",
+            "latest_version": "2.5.4",
             "latest_channel": "release-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.6-opr-002",
+            "latest_version": "7.6.6-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
