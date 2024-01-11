@@ -465,7 +465,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202311270909",
+            "latest_version": "4.14.0-202312261412",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -586,7 +586,7 @@
         {
             "package_name": "sandboxed-containers-operator",
             "display_name": "OpenShift sandboxed containers Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -905,7 +905,7 @@
         {
             "package_name": "secrets-store-csi-driver-operator",
             "display_name": "Secrets Store CSI Driver Operator",
-            "latest_version": "4.14.0-202311211133",
+            "latest_version": "4.14.0-202401031314",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202312011333",
+            "latest_version": "4.14.0-202312191454",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.10.4",
+            "latest_version": "1.10.5",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1191,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202311211133",
+            "latest_version": "4.14.0-202401031314",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
