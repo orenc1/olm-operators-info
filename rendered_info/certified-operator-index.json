@@ -245,7 +245,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.27.0",
+            "latest_version": "0.27.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.31.0",
+            "latest_version": "2.32.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.4.2",
+            "latest_version": "0.4.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
