@@ -575,9 +575,9 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.14.1",
+            "latest_version": "4.14.2",
             "latest_channel": "4.14",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/openshift/hw-event-proxy",
@@ -663,7 +663,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.10.1",
+            "latest_version": "3.10.2",
             "latest_channel": "stable-3.10",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.10.1",
+            "latest_version": "3.10.2",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -850,7 +850,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.14.1",
+            "latest_version": "4.14.2",
             "latest_channel": "4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.10.1",
+            "latest_version": "3.10.2",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
