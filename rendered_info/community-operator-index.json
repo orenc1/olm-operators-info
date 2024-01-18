@@ -377,7 +377,7 @@
         {
             "package_name": "kubernetes-imagepuller-operator",
             "display_name": "Kubernetes Image Puller Operator",
-            "latest_version": "1.0.6",
+            "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,7 +1708,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.6.0",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1796,7 +1796,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.52.0",
+            "latest_version": "1.53.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.40",
+            "latest_version": "0.0.41",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.3",
+            "latest_version": "0.7.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2092,12 +2092,12 @@
         },
         {
             "package_name": "dell-csm-operator",
-            "display_name": "Dell CSM Operator",
-            "latest_version": "0.1.0",
-            "latest_channel": "alpha",
+            "display_name": "Dell Container Storage Modules",
+            "latest_version": "1.4.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/dell/csm-operator",
             "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
@@ -2456,12 +2456,12 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.4.2",
-            "latest_channel": "debezium-2.4.x",
+            "latest_version": "2.5.0",
+            "latest_channel": "debezium-2.5.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/debezium/debezium-operator",
+            "repository": "https://github.com/debezium/debezium-operator/debezium-operator-dist",
             "documentation_url": "https://debezium.io/documentation/reference/stable/"
         },
         {

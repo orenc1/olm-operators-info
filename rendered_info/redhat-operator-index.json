@@ -190,7 +190,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.1",
+            "latest_version": "5.8.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.11.4-opr-1",
+            "latest_version": "7.11.5-opr-1",
             "latest_channel": "7.11.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "5.8.1",
+            "latest_version": "5.8.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "5.8.1",
+            "latest_version": "5.8.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202312132033",
+            "latest_version": "4.14.0-202401040833",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202312191454",
+            "latest_version": "4.14.0-202401081210",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.3.2",
+            "latest_version": "4.3.3",
             "latest_channel": "rhacs-4.3",
             "disconnected_supported": true,
             "fips_supported": false,
