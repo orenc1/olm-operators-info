@@ -25,7 +25,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "3.1.0",
+            "latest_version": "3.1.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.4.2",
+            "latest_version": "2.4.3",
             "latest_channel": "stable-2.4",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -762,7 +762,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.9.1",
+            "latest_version": "2.9.2",
             "latest_channel": "release-2.9",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -883,7 +883,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.4.2",
+            "latest_version": "2.4.3",
             "latest_channel": "stable-2.4",
             "disconnected_supported": false,
             "fips_supported": false,

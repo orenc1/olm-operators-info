@@ -245,7 +245,7 @@
         {
             "package_name": "pulp-operator",
             "display_name": "Pulp Project",
-            "latest_version": "1.0.0-beta.3",
+            "latest_version": "1.0.0-beta.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,8 +1268,8 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.2.2",
-            "latest_channel": "community-0.2",
+            "latest_version": "0.3.0",
+            "latest_channel": "community-0.3",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -1444,7 +1444,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-12",
+            "latest_version": "3.0.0-nightly-2024-01-18",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1605,6 +1605,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/Apicurio/apicurio-operators/tree/master/apicurito",
             "documentation_url": ""
+        },
+        {
+            "package_name": "ack-cloudfront-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "multi-nic-cni-operator",
@@ -1862,8 +1873,8 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.2.2",
-            "latest_channel": "community-0.2",
+            "latest_version": "0.3.0",
+            "latest_channel": "community-0.3",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -1883,8 +1894,8 @@
         },
         {
             "package_name": "amd-gpu-operator",
-            "display_name": "amd-gpu-operator",
-            "latest_version": "0.0.1",
+            "display_name": "AMD GPU Operator",
+            "latest_version": "0.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2522,7 +2533,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.1",
+            "latest_version": "3.10.2",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
