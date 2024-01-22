@@ -1180,7 +1180,7 @@
         {
             "package_name": "security-profiles-operator",
             "display_name": "Security Profiles Operator",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.2",
             "latest_channel": "release-alpha-rhel-8",
             "disconnected_supported": false,
             "fips_supported": false,
