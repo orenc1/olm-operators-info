@@ -872,7 +872,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.2.1228",
+            "latest_version": "3.3.1267",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,7 +1444,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.10.1",
+            "latest_version": "23.10.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

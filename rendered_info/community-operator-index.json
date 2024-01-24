@@ -1026,8 +1026,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0-rc.4",
-            "latest_channel": "rc",
+            "latest_version": "0.3.0",
+            "latest_channel": "konveyor-0.3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1048,7 +1048,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "23.0.3",
+            "latest_version": "23.0.4",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
-            "latest_version": "1.78.0",
+            "latest_version": "1.79.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,7 +1444,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-22",
+            "latest_version": "3.0.0-nightly-2024-01-23",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
