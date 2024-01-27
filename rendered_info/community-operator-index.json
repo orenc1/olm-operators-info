@@ -1598,7 +1598,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-25",
+            "latest_version": "3.0.0-nightly-2024-01-26",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1968,6 +1968,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale-ops/prometheus-exporter-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "percona-postgresql-operator",
+            "display_name": "Percona Operator for PostgreSQL",
+            "latest_version": "2.3.1",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-postgresql-operator",
+            "documentation_url": "https://docs.percona.com/percona-operator-for-postgresql/index.html"
         },
         {
             "package_name": "nexus-operator-m88i",

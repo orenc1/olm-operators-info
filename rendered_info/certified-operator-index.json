@@ -1046,6 +1046,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-postgresql-operator-certified",
+            "display_name": "Percona Operator for PostgreSQL",
+            "latest_version": "2.3.1",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-postgresql-operator",
+            "documentation_url": "https://docs.percona.com/percona-operator-for-postgresql/index.html"
+        },
+        {
             "package_name": "test-obi-new-cnf-option",
             "display_name": "test-obi-new-cnf-option",
             "latest_version": "0.0.1",
