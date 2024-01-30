@@ -168,7 +168,7 @@
         {
             "package_name": "aws-load-balancer-operator",
             "display_name": "AWS Load Balancer Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.6-opr-003",
+            "latest_version": "7.6.6-opr-004",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "rhbk-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "22.0.8-opr.1",
+            "latest_version": "22.0.8-opr.2",
             "latest_channel": "stable-v22",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.0.26",
+            "latest_version": "0.1.1",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
