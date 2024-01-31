@@ -342,6 +342,17 @@
             "documentation_url": "https://github.com/ricardomaraschini/tagger/releases/download/v2.1.17/README.pdf"
         },
         {
+            "package_name": "gitlab-operator-kubernetes",
+            "display_name": "GitLab",
+            "latest_version": "0.28.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "falcon-operator",
             "display_name": "CrowdStrike Falcon Platform - Operator",
             "latest_version": "0.8.1",
@@ -472,6 +483,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/stolostron/multicluster-global-hub",
             "documentation_url": ""
+        },
+        {
+            "package_name": "ack-networkfirewall-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "hyperfoil-bundle",
@@ -674,7 +696,7 @@
         {
             "package_name": "ack-applicationautoscaling-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
-            "latest_version": "1.0.8",
+            "latest_version": "1.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1620,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-29",
+            "latest_version": "3.0.0-nightly-2024-01-30",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2390,7 +2412,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.28",
+            "latest_version": "0.0.29",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
