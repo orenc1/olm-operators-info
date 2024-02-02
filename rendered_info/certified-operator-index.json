@@ -190,8 +190,8 @@
         {
             "package_name": "percona-postgresql-operator-certified",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.3.1",
-            "latest_channel": "preview",
+            "latest_version": "2.3.2",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -267,7 +267,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.17",
+            "latest_version": "6.0.26",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -749,6 +749,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "leaksignal-operator",
+            "display_name": "LeakSignal Operator",
+            "latest_version": "1.3.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/leaksignal/leaksignal-operator",
+            "documentation_url": "https://www.leaksignal.com/docs/Operator/Getting%20Started"
+        },
+        {
             "package_name": "keysight-wap-msg-broker",
             "display_name": "Keysight WAP Message Broker Operator",
             "latest_version": "0.1.21",
@@ -949,7 +960,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.7.0",
+            "latest_version": "1.8.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1268,7 @@
         {
             "package_name": "appdynamics-cloud-operator",
             "display_name": "AppDynamics Cloud Operator",
-            "latest_version": "23.12.1-49",
+            "latest_version": "24.1.0-90",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

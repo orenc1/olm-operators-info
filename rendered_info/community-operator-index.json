@@ -674,7 +674,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-01-31",
+            "latest_version": "3.0.0-nightly-2024-02-01",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.80.0",
+            "latest_version": "7.81.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1015,8 +1015,8 @@
         {
             "package_name": "percona-postgresql-operator",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.3.1",
-            "latest_channel": "preview",
+            "latest_version": "2.3.2",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1312,7 +1312,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.2",
+            "latest_version": "3.10.3",
             "latest_channel": "stable-3.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1972,7 +1972,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.9.0",
+            "latest_version": "2.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
