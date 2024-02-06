@@ -3,7 +3,7 @@
         {
             "package_name": "stackgres",
             "display_name": "StackGres",
-            "latest_version": "1.8.0-rc1",
+            "latest_version": "1.8.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -256,7 +256,7 @@
         {
             "package_name": "timemachine-operator-rhmp",
             "display_name": "Time Machine Operator",
-            "latest_version": "1.0.16",
+            "latest_version": "1.0.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

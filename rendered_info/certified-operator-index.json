@@ -223,7 +223,7 @@
         {
             "package_name": "runtime-component-operator-certified",
             "display_name": "Runtime Component",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "v1.3",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -727,6 +727,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "hspc-operator",
+            "display_name": "Hitachi Storage Plug-in for Containers",
+            "latest_version": "1.12.3",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-wap-core",
             "display_name": "Keysight WAP Core Operator",
             "latest_version": "0.1.21",
@@ -960,7 +971,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.8.0-rc1",
+            "latest_version": "1.8.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

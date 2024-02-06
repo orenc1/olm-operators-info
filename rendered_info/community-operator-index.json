@@ -674,7 +674,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-02",
+            "latest_version": "3.0.0-nightly-2024-02-05",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1917,7 +1917,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.7.0",
+            "latest_version": "0.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2500,7 +2500,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.91.0",
+            "latest_version": "0.93.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2517,6 +2517,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/redhat-cop/proactive-node-scaling-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "skupper-operator",
+            "display_name": "Skupper",
+            "latest_version": "1.5.3",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/skupperproject/skupper-operator",
             "documentation_url": ""
         },
         {
