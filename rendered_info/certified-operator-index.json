@@ -179,7 +179,7 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.301",
+            "latest_version": "8.0.310",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.301",
+            "latest_version": "8.0.310",
             "latest_channel": "8.0.300x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -410,7 +410,7 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.301",
+            "latest_version": "8.0.310",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.64.0-4",
+            "latest_version": "3.65.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "v1.3",
             "disconnected_supported": true,
             "fips_supported": false,
