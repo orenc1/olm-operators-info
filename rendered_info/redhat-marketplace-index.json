@@ -355,7 +355,7 @@
         {
             "package_name": "falcon-operator-rhmp",
             "display_name": "CrowdStrike Falcon Platform - Operator",
-            "latest_version": "0.9.2",
+            "latest_version": "0.9.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
