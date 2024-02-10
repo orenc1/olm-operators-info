@@ -289,7 +289,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.10.2",
+            "latest_version": "23.10.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "netscaler-adm-agent-operator",
             "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.13.23",
+            "latest_version": "141.16.39",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
