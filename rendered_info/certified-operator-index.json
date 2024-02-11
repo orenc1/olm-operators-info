@@ -1409,6 +1409,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "accuknox-operator-certified",
+            "display_name": "Accuknox Operator",
+            "latest_version": "0.2.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "public.ecr.aws/k9v9d5v2/accuknox-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-kcos-ingress",
             "display_name": "Keysight KCOS Ingress Operator",
             "latest_version": "0.1.21",
