@@ -25,7 +25,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.5.4",
+            "latest_version": "2.5.5",
             "latest_channel": "stable-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2302,7 +2302,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.7.4",
+            "latest_version": "0.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2346,7 +2346,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-11",
+            "latest_version": "3.0.0-nightly-2024-02-12",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2423,7 +2423,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.28.1",
+            "latest_version": "0.28.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

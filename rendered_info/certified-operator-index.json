@@ -595,6 +595,17 @@
             "documentation_url": "https://ibm.biz/rco-docs"
         },
         {
+            "package_name": "infinibox-operator-certified",
+            "display_name": "InfiniBox CSI Driver - Operator",
+            "latest_version": "2.11.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/Infinidat/infinibox-csi-driver",
+            "documentation_url": ""
+        },
+        {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
             "latest_version": "1.1.1",
@@ -1411,7 +1422,7 @@
         {
             "package_name": "accuknox-operator-certified",
             "display_name": "Accuknox Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1554,7 +1565,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.28.1",
+            "latest_version": "0.28.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
