@@ -113,7 +113,7 @@
         {
             "package_name": "ack-rds-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
-            "latest_version": "1.1.9",
+            "latest_version": "1.1.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "ack-cloudtrail-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudTrail",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.6",
+            "latest_version": "1.2.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "ack-cloudwatchlogs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch Logs",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -395,6 +395,17 @@
             "capabilities": "Deep Insights",
             "repository": "https://github.com/keycloak/keycloak",
             "documentation_url": "https://www.keycloak.org/guides#operator"
+        },
+        {
+            "package_name": "ack-kafka-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
+            "latest_version": "0.0.3",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "oci-ccm-operator",
@@ -861,7 +872,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1209,6 +1220,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/DataDog/datadog-operator",
             "documentation_url": "https://docs.datadoghq.com/agent/kubernetes/"
+        },
+        {
+            "package_name": "dns-operator",
+            "display_name": "DNS Operator",
+            "latest_version": "0.1.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/kuadrant/dns-operator",
+            "documentation_url": ""
         },
         {
             "package_name": "reportportal-operator",
@@ -1631,7 +1653,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-13",
+            "latest_version": "3.0.0-nightly-2024-02-14",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1708,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.3",
+            "latest_version": "1.4.4",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1983,7 +2005,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.10.0",
+            "latest_version": "2.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2047,9 +2069,20 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "ack-efs-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Elastic File System (Amazon EFS)",
+            "latest_version": "0.0.4",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.7",
+            "latest_version": "1.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2236,7 +2269,7 @@
         {
             "package_name": "ack-kinesis-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kinesis",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2478,7 +2511,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.10",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

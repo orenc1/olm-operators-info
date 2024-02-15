@@ -421,7 +421,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.14.2",
+            "latest_version": "4.14.3",
             "latest_channel": "4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,8 +520,8 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1707506910",
-            "latest_channel": "stable-2.4",
+            "latest_version": "2.4.0-0.1707507304",
+            "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1202,7 +1202,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.14.2",
+            "latest_version": "4.14.3",
             "latest_channel": "4.14",
             "disconnected_supported": true,
             "fips_supported": false,

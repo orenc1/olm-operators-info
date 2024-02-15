@@ -25,7 +25,7 @@
         {
             "package_name": "leaksignal-operator",
             "display_name": "LeakSignal Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.6.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,8 +487,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.11.30",
-            "latest_channel": "stable",
+            "latest_version": "8.11.40-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1081,8 +1081,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.30",
-            "latest_channel": "stable",
+            "latest_version": "8.11.40-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
