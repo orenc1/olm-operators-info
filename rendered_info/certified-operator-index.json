@@ -14,11 +14,11 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.4.3",
+            "latest_version": "0.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/hashicorp/vault-secrets-operator",
             "documentation_url": "https://developer.hashicorp.com/vault/docs/platform/k8s/vso"
         },
@@ -190,7 +190,7 @@
         {
             "package_name": "cilium",
             "display_name": "Cilium",
-            "latest_version": "1.14.6-x11464e1",
+            "latest_version": "1.14.7-x3522df7",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -245,7 +245,7 @@
         {
             "package_name": "pg4k-pgd",
             "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "0.7.6",
+            "latest_version": "0.9.0",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,8 +806,8 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.2.4-12.0",
-            "latest_channel": "7.2.4",
+            "latest_version": "7.4.2-2.0",
+            "latest_channel": "7.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1015,7 +1015,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.14.6-x1dec764",
+            "latest_version": "1.14.7-xab203b7",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1070,8 +1070,8 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.7.3",
-            "latest_channel": "2.7",
+            "latest_version": "2.8.0",
+            "latest_channel": "2.8",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -1158,7 +1158,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.2",
+            "latest_version": "1.4.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
