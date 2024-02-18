@@ -740,7 +740,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "2.0.1",
+            "latest_version": "2.0.2",
             "latest_channel": "v2-stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2302,7 +2302,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.12",
+            "latest_version": "0.9.13",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
