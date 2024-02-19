@@ -586,8 +586,8 @@
         {
             "package_name": "tang-operator",
             "display_name": "NBDE Tang Server",
-            "latest_version": "1.0.0",
-            "latest_channel": "alpha",
+            "latest_version": "1.0.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
