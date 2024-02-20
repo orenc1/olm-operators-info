@@ -663,7 +663,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.1.1",
+            "latest_version": "2.1.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
