@@ -320,6 +320,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "k10-kasten-operator-rhmp",
+            "display_name": "Kasten K10 (Free)",
+            "latest_version": "6.5.4",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "iomesh-operator-rhmp",
             "display_name": "IOMesh Operator",
             "latest_version": "0.10.1-rc4",
@@ -328,6 +339,17 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/iomesh/docs",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "k10-kasten-operator-paygo-rhmp",
+            "display_name": "Kasten K10 (Enterprise - PAYGO)",
+            "latest_version": "6.5.4",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -460,6 +482,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://gitlab.com/ongresinc/stackgres",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "k10-kasten-operator-term-rhmp",
+            "display_name": "Kasten K10 (Enterprise - Term)",
+            "latest_version": "6.5.4",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
             "documentation_url": ""
         }
     ]
