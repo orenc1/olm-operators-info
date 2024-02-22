@@ -25,7 +25,7 @@
         {
             "package_name": "leaksignal-operator",
             "display_name": "LeakSignal Operator",
-            "latest_version": "1.6.2",
+            "latest_version": "1.6.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
