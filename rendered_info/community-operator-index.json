@@ -388,7 +388,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "23.0.6",
+            "latest_version": "23.0.7",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.81.0",
+            "latest_version": "7.82.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -993,7 +993,7 @@
         {
             "package_name": "ack-applicationautoscaling-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-21",
+            "latest_version": "3.0.0-nightly-2024-02-22",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

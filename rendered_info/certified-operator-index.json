@@ -289,7 +289,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.49.0",
+            "latest_version": "42.50.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,8 +487,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.11.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.11.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1002,6 +1002,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "app-insights-operator",
+            "display_name": "App Insights",
+            "latest_version": "1.5.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
             "latest_version": "2.5.0",
@@ -1081,8 +1092,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.11.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1488,7 +1499,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "2.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
