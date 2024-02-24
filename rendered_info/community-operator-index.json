@@ -1213,7 +1213,7 @@
         {
             "package_name": "datadog-operator",
             "display_name": "Datadog Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-22",
+            "latest_version": "3.0.0-nightly-2024-02-23",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,

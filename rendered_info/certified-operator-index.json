@@ -432,8 +432,8 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "23.10.0",
-            "latest_channel": "v23.10.0",
+            "latest_version": "24.1.0",
+            "latest_channel": "24.1.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1070,7 +1070,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.11",
+            "latest_version": "5.0.12",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
