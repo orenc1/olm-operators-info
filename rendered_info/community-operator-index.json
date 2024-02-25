@@ -2610,7 +2610,7 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.11",
+            "latest_version": "0.3.12",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

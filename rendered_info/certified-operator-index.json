@@ -850,7 +850,7 @@
         {
             "package_name": "kubemq-operator-marketplace",
             "display_name": "Kubemq Enterprise Operator",
-            "latest_version": "1.7.8",
+            "latest_version": "1.8.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
