@@ -344,7 +344,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.1.0-705",
+            "latest_version": "24.2.0-735",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

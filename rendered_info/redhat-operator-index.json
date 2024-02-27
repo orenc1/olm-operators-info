@@ -146,7 +146,7 @@
         {
             "package_name": "multicluster-global-hub-operator-rh",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "release-1.0",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -212,7 +212,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.6.0-2",
+            "latest_version": "0.8.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.89.0-3",
+            "latest_version": "0.93.0-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "2.4.3",
+            "latest_version": "3.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1202,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.51.0-1",
+            "latest_version": "1.53.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
