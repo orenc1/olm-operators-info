@@ -333,7 +333,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.5",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.5.3",
+            "latest_version": "1.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-25",
+            "latest_version": "3.0.0-nightly-2024-02-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2550,6 +2550,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/microcks/microcks-ansible-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "layer7-operator",
+            "display_name": "Layer7 Operator",
+            "latest_version": "1.0.5",
+            "latest_channel": "preview",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/caapim/layer7-operator",
             "documentation_url": ""
         },
         {
