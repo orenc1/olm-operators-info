@@ -113,7 +113,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.1",
             "latest_channel": "threescale-2.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.10.5",
+            "latest_version": "1.10.6",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "topology-aware-lifecycle-manager",
             "display_name": "Topology Aware Lifecycle Manager",
-            "latest_version": "4.14.3",
+            "latest_version": "4.14.4",
             "latest_channel": "4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.10",
+            "latest_version": "0.11.11",
             "latest_channel": "threescale-2.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "bare-metal-event-relay",
             "display_name": "Bare Metal Event Relay",
-            "latest_version": "4.14.3",
+            "latest_version": "4.14.4",
             "latest_channel": "4.14",
             "disconnected_supported": true,
             "fips_supported": false,

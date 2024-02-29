@@ -487,8 +487,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.11.40",
-            "latest_channel": "stable",
+            "latest_version": "8.11.50-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1081,7 +1081,7 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.8.0",
+            "latest_version": "2.8.1",
             "latest_channel": "2.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1092,8 +1092,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.40",
-            "latest_channel": "stable",
+            "latest_version": "8.11.50-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1497,9 +1497,20 @@
             "documentation_url": ""
         },
         {
+            "package_name": "gitlab-runner-operator",
+            "display_name": "GitLab Runner",
+            "latest_version": "1.21.0",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.0.1",
+            "latest_version": "2.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
