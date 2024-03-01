@@ -520,7 +520,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "4.0.1",
+            "latest_version": "4.0.2",
             "latest_channel": "4.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,13 +1290,24 @@
         {
             "package_name": "dell-csm-operator-certified",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/dell/csm-operator",
             "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
+        },
+        {
+            "package_name": "uma-admin-operator",
+            "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
+            "latest_version": "2024.2.1-8",
+            "latest_channel": "2024.2",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.9.2",
+            "documentation_url": ""
         },
         {
             "package_name": "appdynamics-cloud-operator",
@@ -1615,6 +1626,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "uma-team-operator",
+            "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
+            "latest_version": "2024.2.1-8",
+            "latest_channel": "2024.2",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-team-operator/2023.7.2",
             "documentation_url": ""
         },
         {

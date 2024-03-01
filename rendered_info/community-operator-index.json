@@ -1312,7 +1312,7 @@
         {
             "package_name": "beegfs-csi-driver-operator",
             "display_name": "BeeGFS CSI Driver",
-            "latest_version": "1.5.0",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1466,7 +1466,7 @@
         {
             "package_name": "kaoto-operator",
             "display_name": "Kaoto Operator",
-            "latest_version": "0.0.12",
+            "latest_version": "0.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-02-28",
+            "latest_version": "3.0.0-nightly-2024-02-29",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1829,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "3.1.0",
+            "latest_version": "3.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
