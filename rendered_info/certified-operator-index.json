@@ -168,7 +168,7 @@
         {
             "package_name": "hspc-operator",
             "display_name": "Hitachi Storage Plug-in for Containers",
-            "latest_version": "1.12.3",
+            "latest_version": "1.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,8 +1598,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.10.6",
-            "latest_channel": "0.10.6",
+            "latest_version": "0.10.7",
+            "latest_channel": "0.10.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
