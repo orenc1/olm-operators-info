@@ -1268,7 +1268,7 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator - Community Edition",
-            "latest_version": "0.7.1",
+            "latest_version": "0.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
