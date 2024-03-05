@@ -322,7 +322,7 @@
         {
             "package_name": "hpe-csi-operator",
             "display_name": "HPE CSI Operator for Kubernetes",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.13.4",
+            "latest_version": "2.13.5",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,8 +707,8 @@
         {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
-            "latest_version": "1.30.9",
-            "latest_channel": "release-v1.30",
+            "latest_version": "1.32.3",
+            "latest_channel": "release-v1.32",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1037,7 +1037,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.13.4",
+            "latest_version": "2.13.5",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "redhat-marketplace-operator",
             "display_name": "Red Hat Marketplace Deployment Operator by IBM",
-            "latest_version": "2.13.4",
+            "latest_version": "2.13.5",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
