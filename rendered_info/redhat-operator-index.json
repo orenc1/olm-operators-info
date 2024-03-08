@@ -496,6 +496,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "authorino-operator",
+            "display_name": "Red Hat - Authorino",
+            "latest_version": "1.0.0",
+            "latest_channel": "managed-services",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Kuadrant/authorino-operator",
+            "documentation_url": "https://docs.kuadrant.io/authorino"
+        },
+        {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
             "latest_version": "1.4.0",
@@ -597,10 +608,10 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.1",
             "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": true,
+            "disconnected_supported": false,
+            "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/business_continuity/business-cont-overview#volsync"
@@ -641,7 +652,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.14.2",
+            "latest_version": "4.14.3",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -740,7 +751,7 @@
         {
             "package_name": "windows-machine-config-operator",
             "display_name": "Windows Machine Config Operator",
-            "latest_version": "9.0.0",
+            "latest_version": "9.0.1",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,

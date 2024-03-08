@@ -91,7 +91,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.50-beta.1",
+            "latest_version": "8.11.50-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -672,6 +672,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "uma-operator",
+            "display_name": "DX APM Universal Monitoring Agent",
+            "latest_version": "2024.2.1-8",
+            "latest_channel": "2024.2",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-operator/2023.9.1",
+            "documentation_url": ""
+        },
+        {
             "package_name": "infrastructure-asset-orchestrator-certified",
             "display_name": "Infrastructure Asset Orchestrator",
             "latest_version": "1.0.2",
@@ -762,7 +773,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.29.0",
+            "latest_version": "0.29.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,8 +784,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.11.50-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.11.50",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1103,9 +1114,9 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "23.9.1",
+            "latest_version": "23.9.2",
             "latest_channel": "stable",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "http://github.com/NVIDIA/gpu-operator",
