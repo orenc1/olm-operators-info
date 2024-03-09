@@ -190,7 +190,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-07",
+            "latest_version": "3.0.0-nightly-2024-03-08",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation Operator - Community Edition",
-            "latest_version": "0.2.1",
+            "latest_version": "0.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.3.1",
+            "latest_version": "0.3.2",
             "latest_channel": "community-0.3",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -542,7 +542,7 @@
         {
             "package_name": "postgresql",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.5.0",
+            "latest_version": "5.5.1",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "ack-sfn-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Step Functions",
-            "latest_version": "1.0.8",
+            "latest_version": "1.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "1.0.4",
+            "latest_version": "1.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1345,7 +1345,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.26.0",
+            "latest_version": "0.27.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1367,7 @@
         {
             "package_name": "ack-efs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Elastic File System (Amazon EFS)",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1862,7 +1862,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2093,7 +2093,7 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.3.1",
+            "latest_version": "0.3.2",
             "latest_channel": "community-0.3",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2214,7 +2214,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.12.0",
+            "latest_version": "0.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -14,7 +14,7 @@
         {
             "package_name": "joget-dx8-operator",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.11",
+            "latest_version": "0.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -91,8 +91,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.50-beta.2",
-            "latest_channel": "beta",
+            "latest_version": "8.11.50",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
