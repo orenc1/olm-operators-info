@@ -179,7 +179,7 @@
         {
             "package_name": "dell-csm-operator",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.4.2",
+            "latest_version": "1.4.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
