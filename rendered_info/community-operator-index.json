@@ -696,7 +696,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.8",
+            "latest_version": "1.2.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1719,7 +1719,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.6",
+            "latest_version": "1.2.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2335,7 +2335,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.12.0",
+            "latest_version": "0.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
