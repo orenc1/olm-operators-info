@@ -1169,9 +1169,9 @@
         {
             "package_name": "netscaler-adm-agent-operator",
             "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.16.39",
+            "latest_version": "141.21.41",
             "latest_channel": "stable",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/netscaler/netscaler-helm-charts/tree/master/adm-agent",
@@ -1213,7 +1213,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.50.0",
+            "latest_version": "42.51.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1686,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.8.1",
+            "latest_version": "1.9.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

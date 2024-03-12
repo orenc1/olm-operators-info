@@ -388,10 +388,10 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "3.11.1",
-            "latest_channel": "3.11",
-            "disconnected_supported": true,
-            "fips_supported": true,
+            "latest_version": "3.14.0",
+            "latest_channel": "3.14",
+            "disconnected_supported": false,
+            "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/gatekeeper/gatekeeper-operator",
             "documentation_url": ""
@@ -487,7 +487,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.25.0",
+            "latest_version": "0.26.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.4.3",
+            "latest_version": "2.4.4",
             "latest_channel": "stable-2.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.4.3",
+            "latest_version": "2.4.4",
             "latest_channel": "stable-2.4",
             "disconnected_supported": true,
             "fips_supported": true,
