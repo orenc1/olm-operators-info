@@ -69,8 +69,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.4-candidate-20240125143247000",
-            "latest_channel": "candidate",
+            "latest_version": "1.2.6",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -146,7 +146,7 @@
         {
             "package_name": "cockroachdb-certified",
             "display_name": "CockroachDB Operator",
-            "latest_version": "2.12.0",
+            "latest_version": "2.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "dell-csm-operator-certified",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.4.2",
+            "latest_version": "1.4.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

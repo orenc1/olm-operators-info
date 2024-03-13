@@ -487,7 +487,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "1.2.8",
+            "latest_version": "1.2.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "1.3.5",
+            "latest_version": "1.3.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.39.0",
+            "latest_version": "0.40.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.4",
+            "latest_version": "0.7.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.9.0",
+            "latest_version": "0.10.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2005,7 +2005,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.12.2",
+            "latest_version": "2.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2269,7 +2269,7 @@
         {
             "package_name": "analytics-operator",
             "display_name": "Observability Analytics",
-            "latest_version": "0.1.0",
+            "latest_version": "0.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
