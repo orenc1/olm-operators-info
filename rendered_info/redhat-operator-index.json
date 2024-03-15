@@ -267,8 +267,8 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.16.3",
-            "latest_channel": "stable-0.16",
+            "latest_version": "0.17.0",
+            "latest_channel": "stable-0.17",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -333,10 +333,10 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.11.0",
+            "latest_version": "3.12.0",
             "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": true,
+            "disconnected_supported": false,
+            "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/redhat-developer/devspaces-images/",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_openshift_dev_spaces"
@@ -706,14 +706,14 @@
         },
         {
             "package_name": "logic-operator-rhel8",
-            "display_name": "SonataFlow Operator",
-            "latest_version": "1.31.0",
+            "display_name": "OpenShift Serverless Logic Operator",
+            "latest_version": "1.32.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/kiegroup/kogito-serverless-operator",
-            "documentation_url": ""
+            "repository": "https://github.com/kiegroup/kogito-serverless-operator/",
+            "documentation_url": "https://openshift-knative.github.io/docs/docs/latest/serverless-logic/about.html"
         },
         {
             "package_name": "machine-deletion-remediation",
@@ -883,13 +883,13 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.31.1",
+            "latest_version": "1.32.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/openshift-knative/serverless-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.13/html/serverless/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.14/html/serverless/index"
         },
         {
             "package_name": "odf-operator",
@@ -1268,7 +1268,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.9.2",
+            "latest_version": "2.9.3",
             "latest_channel": "release-2.9",
             "disconnected_supported": true,
             "fips_supported": true,

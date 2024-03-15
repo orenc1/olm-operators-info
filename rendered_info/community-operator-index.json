@@ -982,7 +982,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.10.2",
+            "latest_version": "0.11.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2588,7 +2588,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.2.1",
+            "latest_version": "3.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
