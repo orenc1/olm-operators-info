@@ -443,7 +443,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.0-103",
+            "latest_version": "2.5.1",
             "latest_channel": "stable-2.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -454,7 +454,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.0",
+            "latest_version": "2.5.1",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -980,6 +980,17 @@
             "documentation_url": "https://github.com/openshift/local-storage-operator/tree/master/docs"
         },
         {
+            "package_name": "rhdh",
+            "display_name": "Red Hat Developer Hub Operator",
+            "latest_version": "1.1.0",
+            "latest_channel": "fast",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://gitlab.cee.redhat.com/rhidp/rhdh/",
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_developer_hub"
+        },
+        {
             "package_name": "fuse-console",
             "display_name": "Red Hat Integration - Fuse Console",
             "latest_version": "7.12.1",
@@ -1015,7 +1026,7 @@
         {
             "package_name": "rhpam-kogito-operator",
             "display_name": "RHPAM Kogito Operator",
-            "latest_version": "7.13.4-3",
+            "latest_version": "7.13.5-1",
             "latest_channel": "7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,7 +1213,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.4-4",
+            "latest_version": "7.13.5-1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1213,7 +1224,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.10",
+            "latest_version": "2.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1246,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.4.5",
+            "latest_version": "2.5.0",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1246,7 +1257,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.65.11",
+            "latest_version": "1.73.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
