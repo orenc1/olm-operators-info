@@ -14,7 +14,7 @@
         {
             "package_name": "nxiq-operator-certified",
             "display_name": "Nexus IQ Operator",
-            "latest_version": "1.160.0-1",
+            "latest_version": "1.174.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.51.0",
+            "latest_version": "42.52.0-beta.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "23.10.3",
+            "latest_version": "23.10.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,8 +1290,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.10.8",
-            "latest_channel": "0.10.8",
+            "latest_version": "0.10.9",
+            "latest_channel": "0.10.9",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

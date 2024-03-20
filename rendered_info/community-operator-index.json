@@ -498,7 +498,7 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.5.0",
+            "latest_version": "2.5.1",
             "latest_channel": "debezium-2.5.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.11.3",
+            "latest_version": "0.11.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,12 +1070,12 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-18",
+            "latest_version": "3.0.0-nightly-2024-03-19",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/maistra/istio-operator/tree/maistra-3.0",
+            "repository": "https://github.com/istio-ecosystem/sail-operator",
             "documentation_url": ""
         },
         {
@@ -1521,7 +1521,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.71",
+            "latest_version": "0.7.72",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1532,7 +1532,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.8.0",
+            "latest_version": "2.9.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2192,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "23.10.3",
+            "latest_version": "23.10.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
