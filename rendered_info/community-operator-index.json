@@ -993,7 +993,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.11.4",
+            "latest_version": "0.11.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-19",
+            "latest_version": "3.0.0-nightly-2024-03-20",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.7.0",
+            "latest_version": "5.8.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,8 +1246,8 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "1.0.4",
-            "latest_channel": "latest",
+            "latest_version": "1.5.0-community",
+            "latest_channel": "community",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

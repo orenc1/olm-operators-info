@@ -311,7 +311,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.8.0-2",
+            "latest_version": "0.8.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.14.3",
+            "latest_version": "4.14.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -410,7 +410,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.14.2",
+            "latest_version": "4.14.3",
             "latest_channel": "4.14",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.93.0-2",
+            "latest_version": "0.93.0-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -432,8 +432,8 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.11.2",
-            "latest_channel": "gitops-1.11",
+            "latest_version": "1.12.0",
+            "latest_channel": "gitops-1.12",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -531,10 +531,10 @@
         {
             "package_name": "multicluster-global-hub-operator-rh",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.0.2",
-            "latest_channel": "release-1.0",
+            "latest_version": "1.1.0",
+            "latest_channel": "release-1.1",
             "disconnected_supported": true,
-            "fips_supported": false,
+            "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/stolostron/multicluster-global-hub",
             "documentation_url": ""
@@ -1070,7 +1070,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.5.5",
+            "latest_version": "2.5.6",
             "latest_channel": "release-v2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.53.0-3",
+            "latest_version": "1.53.0-4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1268,19 +1268,19 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.8.1",
+            "latest_version": "0.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/html/business_continuity/business-cont-overview#volsync"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.10/html/business_continuity/business-cont-overview#volsync"
         },
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.9.3",
-            "latest_channel": "release-2.9",
+            "latest_version": "2.10.0",
+            "latest_channel": "release-2.10",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
