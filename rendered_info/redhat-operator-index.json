@@ -553,7 +553,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.3.2",
+            "latest_version": "2.3.3",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.14.1",
+            "latest_version": "1.14.2",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
