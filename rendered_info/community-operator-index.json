@@ -498,7 +498,7 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.5.1",
+            "latest_version": "2.5.3-final",
             "latest_channel": "debezium-2.5.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,8 +652,8 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.12",
-            "latest_channel": "stable",
+            "latest_version": "0.3.13-rc.0",
+            "latest_channel": "prerelease",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
