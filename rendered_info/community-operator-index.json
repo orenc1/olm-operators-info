@@ -773,8 +773,8 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.1.0-dev",
-            "latest_channel": "alpha",
+            "latest_version": "1.1.0",
+            "latest_channel": "release-2.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1070,7 +1070,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-24",
+            "latest_version": "3.0.0-nightly-2024-03-25",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2126,7 +2126,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "24.0.1",
+            "latest_version": "24.0.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

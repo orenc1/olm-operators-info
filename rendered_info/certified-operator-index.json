@@ -740,7 +740,7 @@
         {
             "package_name": "openshiftxray-operator",
             "display_name": "JFrog Xray Continuous Security Operator",
-            "latest_version": "2.1.5",
+            "latest_version": "2.1.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.2.1",
+            "latest_version": "5.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1231,6 +1231,17 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/libopenstorage/operator",
             "documentation_url": "https://docs.portworx.com/portworx-install-with-kubernetes/on-premise/openshift/operator"
+        },
+        {
+            "package_name": "netapp-spark-operator",
+            "display_name": "NetApp Supported Apache Spark\u2122 on OpenShift",
+            "latest_version": "1.0.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
         },
         {
             "package_name": "cte-k8s-operator",
