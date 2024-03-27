@@ -641,10 +641,10 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.13",
+            "latest_version": "8.4.14",
             "latest_channel": "8.4.x",
-            "disconnected_supported": true,
-            "fips_supported": true,
+            "disconnected_supported": false,
+            "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/infinispan/infinispan-operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.4"
@@ -817,7 +817,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.1.1",
+            "latest_version": "0.1.2",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
