@@ -366,7 +366,7 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator - Community Edition",
-            "latest_version": "0.16.1",
+            "latest_version": "0.17.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.42",
+            "latest_version": "0.0.43",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator - Community Edition",
-            "latest_version": "0.2.1",
+            "latest_version": "0.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2181,7 +2181,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.27",
+            "latest_version": "0.0.28",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -542,7 +542,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "2.1.103",
+            "latest_version": "3.1.100",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,13 +762,13 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.11.1",
+            "latest_version": "2.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/elastic/cloud-on-k8s",
-            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.11/index.html"
+            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.12/index.html"
         },
         {
             "package_name": "anzounstructured-operator",
@@ -1576,7 +1576,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.4.2-2.0",
+            "latest_version": "7.4.2-2.6",
             "latest_channel": "7.4.2",
             "disconnected_supported": true,
             "fips_supported": false,

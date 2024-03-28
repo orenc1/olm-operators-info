@@ -25,7 +25,7 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.4.2-2.0",
+            "latest_version": "7.4.2-2.6",
             "latest_channel": "7.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -135,7 +135,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Kasten K10 (Enterprise - Term)",
-            "latest_version": "6.5.8",
+            "latest_version": "6.5.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Kasten K10 (Free)",
-            "latest_version": "6.5.8",
+            "latest_version": "6.5.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Kasten K10 (Enterprise - PAYGO)",
-            "latest_version": "6.5.8",
+            "latest_version": "6.5.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
