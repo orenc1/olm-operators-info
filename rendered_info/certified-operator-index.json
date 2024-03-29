@@ -25,7 +25,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.2.0-735",
+            "latest_version": "24.3.0-763",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "abinitio-runtime-operator",
             "display_name": "Co>Operating System Runtime Operator",
-            "latest_version": "4.2.2",
+            "latest_version": "4.2.3-0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,8 +916,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.7-candidate-20240320105841000",
-            "latest_channel": "candidate",
+            "latest_version": "1.2.7",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1059,7 +1059,7 @@
         {
             "package_name": "cloudnative-pg",
             "display_name": "CloudNativePG",
-            "latest_version": "1.22.1",
+            "latest_version": "1.22.2",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,

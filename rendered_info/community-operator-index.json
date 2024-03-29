@@ -36,7 +36,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Community Loki Operator",
-            "latest_version": "0.5.0",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -410,7 +410,7 @@
         {
             "package_name": "datadog-operator",
             "display_name": "Datadog Operator",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,8 +773,8 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.1.0",
-            "latest_channel": "release-2.10",
+            "latest_version": "1.2.0-dev",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1070,7 +1070,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-25",
+            "latest_version": "3.0.0-nightly-2024-03-27",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1318,6 +1318,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/openshift/oadp-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "customized-user-remediation",
+            "display_name": "Customized User Remediation Operator - Community Edition",
+            "latest_version": "0.1.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/medik8s/customized-user-remediation",
             "documentation_url": ""
         },
         {
@@ -1730,7 +1741,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.13.1",
+            "latest_version": "2.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2082,7 @@
         {
             "package_name": "dell-csm-operator",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.4.3",
+            "latest_version": "1.4.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
