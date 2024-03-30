@@ -696,7 +696,7 @@
         {
             "package_name": "ack-route53-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1565,7 +1565,7 @@
         {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
-            "latest_version": "0.0.4",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2093,7 +2093,7 @@
         {
             "package_name": "ack-elbv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ELB",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

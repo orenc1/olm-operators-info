@@ -300,7 +300,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.13.5",
+            "latest_version": "2.14.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "redhat-marketplace-operator",
             "display_name": "Red Hat Marketplace Deployment Operator by IBM",
-            "latest_version": "2.13.5",
+            "latest_version": "2.14.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.13.5",
+            "latest_version": "2.14.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.30.0",
+            "latest_version": "0.30.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.22.1",
+            "latest_version": "1.22.2",
             "latest_channel": "stable-v1.22",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1245,8 +1245,8 @@
         },
         {
             "package_name": "netapp-spark-operator",
-            "display_name": "NetApp Supported Apache Spark\u2122 on OpenShift",
-            "latest_version": "1.0.0",
+            "display_name": "NetApp Supported Apache Spark on OpenShift",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,8 +1290,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.11.60",
-            "latest_channel": "stable",
+            "latest_version": "8.12.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
