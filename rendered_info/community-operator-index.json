@@ -47,7 +47,7 @@
         {
             "package_name": "ack-acmpca-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "1.0.8",
+            "latest_version": "1.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.9",
+            "latest_version": "1.2.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-03-31",
+            "latest_version": "3.0.0-nightly-2024-04-02",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
-            "latest_version": "1.0.10",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,7 +1543,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.9.0",
+            "latest_version": "2.10.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1609,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "ack-sfn-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Step Functions",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2599,8 +2599,8 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.10.4",
-            "latest_channel": "stable-3.10",
+            "latest_version": "3.11.0",
+            "latest_channel": "stable-3.11",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
