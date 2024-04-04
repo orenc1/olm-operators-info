@@ -3,7 +3,7 @@
         {
             "package_name": "secrets-store-csi-driver-operator",
             "display_name": "Secrets Store CSI Driver Operator",
-            "latest_version": "4.14.0-202403051609",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -113,7 +113,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202403081810",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.14.0-202402081809",
+            "latest_version": "4.14.0-202403221232",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -476,7 +476,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.14.0-202403110941",
+            "latest_version": "4.14.0-202403221232",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202403060538",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.14.0-202402081809",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.14.0-202403072110",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202403060538",
+            "latest_version": "4.14.0-202403222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202403111410",
+            "latest_version": "4.14.0-202403221232",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.32.0",
+            "latest_version": "1.32.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -971,7 +971,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202403081610",
+            "latest_version": "4.14.0-202403261739",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.14.0-202402081809",
+            "latest_version": "4.14.0-202403221232",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "3.2.0",
+            "latest_version": "3.2.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

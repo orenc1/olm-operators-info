@@ -221,6 +221,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "dynatrace-operator-rhmp",
+            "display_name": "Dynatrace Operator",
+            "latest_version": "0.15.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "entando-k8s-operator-rhmp",
             "display_name": "Entando Operator",
             "latest_version": "6.3.2",
@@ -377,8 +388,8 @@
         {
             "package_name": "couchbase-enterprise-certified-rhmp",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.6.0-1",
-            "latest_channel": "2.6.0",
+            "latest_version": "2.6.2-1",
+            "latest_channel": "2.6.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",

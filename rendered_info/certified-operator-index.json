@@ -344,8 +344,8 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.6.0-1",
-            "latest_channel": "2.6.0",
+            "latest_version": "2.6.2-1",
+            "latest_channel": "2.6.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -399,8 +399,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -861,8 +861,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.53.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.53.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -949,7 +949,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "5.2.2",
+            "latest_version": "5.2.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,8 +1290,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1312,7 +1312,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "0.15.0",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "stackable-commons-operator",
             "display_name": "Stackable Commons Operator",
-            "latest_version": "23.1.0",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.21",
+            "latest_version": "3.1.22",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1482,6 +1482,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-secret-operator",
+            "display_name": "Stackable Secret Operator",
+            "latest_version": "24.3.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
@@ -1713,6 +1724,17 @@
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-listener-operator",
+            "display_name": "Stackable Listener Operator",
+            "latest_version": "24.3.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": null,
             "repository": null,
             "documentation_url": ""
         },
