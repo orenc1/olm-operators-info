@@ -903,6 +903,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "joget-dx8-openshift-operator",
+            "display_name": "Joget DX 8 Operator",
+            "latest_version": "0.0.13",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
             "latest_version": "2.0.18",
@@ -1565,8 +1576,8 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "24.1.0",
-            "latest_channel": "24.1.0",
+            "latest_version": "24.1.1",
+            "latest_channel": "24.1.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1576,7 +1587,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.2.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1598,7 +1609,7 @@
         {
             "package_name": "netscaler-adm-agent-operator",
             "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.21.41",
+            "latest_version": "141.23.31",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,8 +1719,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.10.9",
-            "latest_channel": "0.10.9",
+            "latest_version": "0.11.0",
+            "latest_channel": "release-0.11",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1785,7 +1796,7 @@
         {
             "package_name": "ibm-security-verify-access-operator",
             "display_name": "IBM Security Verify Access Operator",
-            "latest_version": "23.12.0",
+            "latest_version": "24.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
