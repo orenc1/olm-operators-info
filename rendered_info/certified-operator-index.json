@@ -476,7 +476,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.14.7-xab203b7",
+            "latest_version": "1.14.9-xb536a39",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1428,6 +1428,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "aqua-operator-certified",
+            "display_name": "Aqua Security Operator",
+            "latest_version": "2022.4.517",
+            "latest_channel": "2022.4",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/aquasecurity/aqua-operator",
             "documentation_url": ""
         },
         {
