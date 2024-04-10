@@ -289,7 +289,7 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.10.0",
+            "latest_version": "0.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.11",
+            "latest_version": "0.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1803,6 +1803,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/Kuadrant/kuadrant-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "ack-ecs-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon ECS",
+            "latest_version": "0.0.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "oadp-operator",
