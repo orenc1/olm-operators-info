@@ -179,7 +179,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.1",
+            "latest_version": "2.5.2",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "rhtas-operator",
             "display_name": "Red Hat Trusted Artifact Signer",
-            "latest_version": "0.0.2",
+            "latest_version": "1.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,8 +564,8 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.8.0",
-            "latest_channel": "alpha",
+            "latest_version": "2.8.1",
+            "latest_channel": "eus-2.8",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -707,7 +707,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.12.0",
+            "latest_version": "1.12.1",
             "latest_channel": "gitops-1.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.1",
+            "latest_version": "2.5.2",
             "latest_channel": "stable-2.5",
             "disconnected_supported": true,
             "fips_supported": true,
