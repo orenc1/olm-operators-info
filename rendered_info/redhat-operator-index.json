@@ -102,7 +102,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.9.0",
+            "latest_version": "0.9.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.10.0",
+            "latest_version": "2.10.1",
             "latest_channel": "release-2.10",
             "disconnected_supported": true,
             "fips_supported": true,
