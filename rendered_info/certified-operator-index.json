@@ -850,7 +850,7 @@
         {
             "package_name": "pg4k-pgd",
             "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "0.9.0",
+            "latest_version": "0.9.1",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
