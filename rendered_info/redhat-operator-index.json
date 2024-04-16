@@ -1257,7 +1257,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.11.2-322",
+            "latest_version": "2.12.1-376",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
