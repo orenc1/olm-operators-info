@@ -135,7 +135,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.14.0",
+            "latest_version": "2.15.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
-            "latest_version": "0.0.19",
+            "latest_version": "0.0.23",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,12 +663,12 @@
         {
             "package_name": "multi-nic-cni-operator",
             "display_name": "multi-nic-cni-operator",
-            "latest_version": "1.2.2",
-            "latest_channel": "alpha",
+            "latest_version": "1.2.3",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "http://github.com/foundation-model-stack/multi-nic-cni",
             "documentation_url": ""
         },
         {
@@ -751,7 +751,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.55.0",
+            "latest_version": "1.56.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -795,7 +795,7 @@
         {
             "package_name": "yaks",
             "display_name": "YAKS Operator",
-            "latest_version": "0.18.0",
+            "latest_version": "0.19.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "cluster-manager",
             "display_name": "Cluster Manager",
-            "latest_version": "0.13.0",
+            "latest_version": "0.13.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "klusterlet",
             "display_name": "Klusterlet",
-            "latest_version": "0.13.0",
+            "latest_version": "0.13.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1356,7 +1356,7 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.10.0",
+            "latest_version": "5.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1532,7 +1532,7 @@
         {
             "package_name": "dapr-kubernetes-operator",
             "display_name": "Dapr Control Plane Operator",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1686,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.3.1",
             "latest_channel": "konveyor-0.3",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.43",
+            "latest_version": "0.0.44",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1906,7 +1906,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.72",
+            "latest_version": "0.7.73",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2115,7 +2115,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
-            "latest_version": "1.81.0",
+            "latest_version": "1.83.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2236,7 +2236,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.2.0",
+            "latest_version": "2.3.0",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2489,7 +2489,7 @@
         {
             "package_name": "ack-elbv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ELB",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
