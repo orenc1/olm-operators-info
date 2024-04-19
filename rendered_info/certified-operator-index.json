@@ -212,7 +212,7 @@
         {
             "package_name": "minio-operator",
             "display_name": "Minio Operator",
-            "latest_version": "5.0.13",
+            "latest_version": "5.0.14",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "openshiftartifactoryha-operator",
             "display_name": "JFrog Artifactory Enterprise Operator",
-            "latest_version": "1.2.7",
+            "latest_version": "1.2.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "hpe-csi-operator",
             "display_name": "HPE CSI Operator for Kubernetes",
-            "latest_version": "2.4.1",
+            "latest_version": "2.4.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1818,8 +1818,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.54.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.54.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

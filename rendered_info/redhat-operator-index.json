@@ -135,7 +135,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.14.0-202403221232",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -397,6 +397,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "rhbk-operator",
+            "display_name": "Keycloak Operator",
+            "latest_version": "22.0.10-opr.1",
+            "latest_channel": "stable-v22",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
+        },
+        {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
             "latest_version": "1.12.1",
@@ -421,7 +432,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.14.0-202403221232",
+            "latest_version": "4.14.0-202404031211",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +465,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404031211",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +553,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.8.2",
+            "latest_version": "1.8.3",
             "latest_channel": "release-v1.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -564,7 +575,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,8 +696,8 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.4.4-rh-1",
-            "latest_channel": "alpha",
+            "latest_version": "1.5.3-rh-3",
+            "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -707,7 +718,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.14.0-202403221232",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,9 +740,9 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202402270139",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/k8snetworkplumbingwg/sriov-network-operator",
@@ -861,7 +872,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +905,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202403261739",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -905,7 +916,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202403221232",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +1004,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1015,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.14.3",
+            "latest_version": "4.14.4",
             "latest_channel": "4.14",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,8 +1037,8 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.5.6",
-            "latest_channel": "release-v2.5",
+            "latest_version": "2.6.0",
+            "latest_channel": "release-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1147,7 +1158,7 @@
         {
             "package_name": "secrets-store-csi-driver-operator",
             "display_name": "Secrets Store CSI Driver Operator",
-            "latest_version": "4.14.0-202403222237",
+            "latest_version": "4.14.0-202404030309",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
