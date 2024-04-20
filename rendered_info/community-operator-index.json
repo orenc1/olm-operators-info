@@ -2280,7 +2280,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.3.1",
+            "latest_version": "1.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2698,8 +2698,8 @@
         {
             "package_name": "move2kube-operator",
             "display_name": "Konveyor Move2Kube",
-            "latest_version": "0.3.13-rc.0",
-            "latest_channel": "prerelease",
+            "latest_version": "0.3.13",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
