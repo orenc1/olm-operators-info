@@ -784,7 +784,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.45",
+            "latest_version": "0.0.46",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
