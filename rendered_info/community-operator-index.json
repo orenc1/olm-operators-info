@@ -630,7 +630,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.5",
+            "latest_version": "0.7.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.30.3",
+            "latest_version": "0.31.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "ack-acmpca-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.10.0",
+            "latest_version": "2.11.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,7 +1510,7 @@
         {
             "package_name": "ack-networkfirewall-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

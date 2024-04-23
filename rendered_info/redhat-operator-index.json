@@ -520,7 +520,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.73.4",
+            "latest_version": "1.73.7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -707,7 +707,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.5-1",
+            "latest_version": "7.13.5-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.26.0",
+            "latest_version": "0.27.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.5.0",
+            "latest_version": "2.5.1",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,

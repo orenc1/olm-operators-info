@@ -124,8 +124,8 @@
         {
             "package_name": "pg4k-pgd",
             "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "0.9.1",
-            "latest_channel": "preview",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -575,7 +575,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.30.3",
+            "latest_version": "0.31.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
