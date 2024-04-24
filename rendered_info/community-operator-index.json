@@ -465,7 +465,7 @@
         {
             "package_name": "korrel8r",
             "display_name": "Korrel8r",
-            "latest_version": "0.0.8",
+            "latest_version": "0.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.15.0",
+            "latest_version": "2.16.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "ndmspc-operator",
             "display_name": "NdmSpc operator",
-            "latest_version": "0.11.6",
+            "latest_version": "0.20240412.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "dell-csm-operator",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.4.4",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "ack-acmpca-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2236,8 +2236,8 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.5.3-final",
-            "latest_channel": "debezium-2.5.x",
+            "latest_version": "2.6.1-final",
+            "latest_channel": "debezium-2.6.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

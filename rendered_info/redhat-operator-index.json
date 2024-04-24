@@ -487,7 +487,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.4.0",
+            "latest_version": "4.4.1",
             "latest_channel": "rhacs-4.4",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1711587287",
+            "latest_version": "2.4.0-0.1713463331",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1711591330",
+            "latest_version": "2.4.0-0.1713467078",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "AMQ Streams",
-            "latest_version": "2.6.0-1",
+            "latest_version": "2.6.0-2",
             "latest_channel": "amq-streams-2.6.x",
             "disconnected_supported": false,
             "fips_supported": false,
