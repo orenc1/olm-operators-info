@@ -113,7 +113,7 @@
         {
             "package_name": "sandboxed-containers-operator",
             "display_name": "OpenShift sandboxed containers Operator",
-            "latest_version": "1.5.2",
+            "latest_version": "1.5.3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -476,13 +476,13 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.10.1",
+            "latest_version": "2.10.2",
             "latest_channel": "release-2.10",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.9/"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.10/"
         },
         {
             "package_name": "rhacs-operator",
@@ -894,7 +894,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.12.1-376",
+            "latest_version": "2.12.1-384",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
