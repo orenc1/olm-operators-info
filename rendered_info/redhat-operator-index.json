@@ -377,7 +377,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.14.4",
+            "latest_version": "4.14.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -421,7 +421,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1709040648",
+            "latest_version": "1.5.1713265833",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1709040649",
+            "latest_version": "5.0.1713265832",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,8 +1224,8 @@
         {
             "package_name": "kernel-module-management",
             "display_name": "Kernel Module Management",
-            "latest_version": "2.0.2",
-            "latest_channel": "release-2.0",
+            "latest_version": "2.1.0",
+            "latest_channel": "release-2.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1235,8 +1235,8 @@
         {
             "package_name": "kernel-module-management-hub",
             "display_name": "Kernel Module Management (Hub)",
-            "latest_version": "2.0.2",
-            "latest_channel": "release-2.0",
+            "latest_version": "2.1.0",
+            "latest_channel": "release-2.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

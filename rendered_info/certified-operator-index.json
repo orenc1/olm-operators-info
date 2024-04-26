@@ -256,7 +256,7 @@
         {
             "package_name": "hspc-operator",
             "display_name": "Hitachi Storage Plug-in for Containers",
-            "latest_version": "1.13.0",
+            "latest_version": "1.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,7 +894,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.2.1",
+            "latest_version": "2.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1202,8 +1202,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.10",
-            "latest_channel": "stable",
+            "latest_version": "8.12.20-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1829,8 +1829,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.10",
-            "latest_channel": "stable",
+            "latest_version": "8.12.20-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
