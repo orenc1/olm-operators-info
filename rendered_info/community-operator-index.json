@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-04-28",
+            "latest_version": "3.0.0-nightly-2024-04-29",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.47",
+            "latest_version": "0.0.48",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "0.31.0",
+            "latest_version": "0.31.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
