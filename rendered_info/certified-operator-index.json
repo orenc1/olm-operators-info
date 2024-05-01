@@ -24,9 +24,9 @@
         },
         {
             "package_name": "stackable-hbase-operator",
-            "display_name": "Stackable Operator for Apache HBase",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "display_name": "Stackable Operator for Apache Hbase",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -80,7 +80,7 @@
         {
             "package_name": "stackable-hive-operator",
             "display_name": "Stackable Operator for Apache Hive",
-            "latest_version": "24.3.0",
+            "latest_version": "24.4.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -276,6 +276,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "digitalai-release-operator",
+            "display_name": "Digital.ai Release",
+            "latest_version": "24.1.0-429.1604",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/digital-ai/release-helm-chart",
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-loadcore-agents",
             "display_name": "Keysight LoadCore Agents Operator",
             "latest_version": "0.1.21",
@@ -317,6 +328,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://gitlab.com/ongresinc/stackgres",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "digitalai-deploy-operator",
+            "display_name": "Digital.ai Deploy",
+            "latest_version": "24.1.0-429.1604",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/digital-ai/deploy-helm-chart",
             "documentation_url": ""
         },
         {
@@ -619,8 +641,8 @@
         {
             "package_name": "stackable-hdfs-operator",
             "display_name": "Stackable Operator for Apache HDFS",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -652,7 +674,7 @@
         {
             "package_name": "kubemq-operator-marketplace",
             "display_name": "Kubemq Enterprise Operator",
-            "latest_version": "1.8.3",
+            "latest_version": "1.8.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,8 +773,8 @@
         {
             "package_name": "stackable-trino-operator",
             "display_name": "Stackable Operator for Trino",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1156,10 +1178,21 @@
             "documentation_url": ""
         },
         {
-            "package_name": "stackable-opa-operator",
-            "display_name": "Stackable Operator for Opa (Open Policy Agent)",
-            "latest_version": "24.3.0",
+            "package_name": "kove-operator",
+            "display_name": "Kove:SDM\u2122 Operator",
+            "latest_version": "2.1.0",
             "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "stackable-opa-operator",
+            "display_name": "Stackable Operator for the Open Policy Agent",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1191,12 +1224,12 @@
         {
             "package_name": "stackable-airflow-operator",
             "display_name": "Stackable Operator for Apache Airflow",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/airflow-operator",
             "documentation_url": ""
         },
         {
@@ -1356,8 +1389,8 @@
         {
             "package_name": "cloud-native-postgresql",
             "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.22.3",
-            "latest_channel": "stable-v1.22",
+            "latest_version": "1.23.1",
+            "latest_channel": "stable-v1.23",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -1367,8 +1400,8 @@
         {
             "package_name": "stackable-nifi-operator",
             "display_name": "Stackable Operator for Apache Nifi",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1378,7 +1411,7 @@
         {
             "package_name": "hpe-ezmeral-csi-operator",
             "display_name": "HPE Ezmeral Data Fabric CSI Operator for Kubernetes",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1411,12 +1444,12 @@
         {
             "package_name": "stackable-commons-operator",
             "display_name": "Stackable Commons Operator",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/commons-operator",
             "documentation_url": ""
         },
         {
@@ -1455,8 +1488,8 @@
         {
             "package_name": "stackable-kafka-operator",
             "display_name": "Stackable Operator for Apache Kafka",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1521,8 +1554,8 @@
         {
             "package_name": "stackable-druid-operator",
             "display_name": "Stackable Operator for Apache Druid",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1653,19 +1686,19 @@
         {
             "package_name": "stackable-secret-operator",
             "display_name": "Stackable Secret Operator",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": null,
-            "repository": null,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/stackabletech/secret-operator",
             "documentation_url": ""
         },
         {
             "package_name": "stackable-zookeeper-operator",
-            "display_name": "Stackable Operator for Apache ZooKeeper",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "display_name": "Stackable Operator for Apache Zookeeper",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1873,7 +1906,7 @@
         {
             "package_name": "cte-k8s-operator",
             "display_name": "CipherTrust Transparent Encryption for Kubernetes (CTE-K8s) Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.4.13",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

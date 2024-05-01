@@ -399,8 +399,8 @@
         {
             "package_name": "rhbk-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "22.0.10-opr.1",
-            "latest_channel": "stable-v22",
+            "latest_version": "24.0.3-opr.1",
+            "latest_channel": "stable-v24",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",

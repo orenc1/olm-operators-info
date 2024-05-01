@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-04-29",
+            "latest_version": "3.0.0-nightly-2024-04-30",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.16.0",
+            "latest_version": "2.16.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2432,6 +2432,17 @@
             "documentation_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/"
         },
         {
+            "package_name": "keycloak-permissions-operator",
+            "display_name": "Keycloak Permissions Operator",
+            "latest_version": "1.3.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/nerc-images/keycloak-permissions-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "gitops-primer",
             "display_name": "gitops-primer",
             "latest_version": "0.0.11",
@@ -2555,7 +2566,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.14",
+            "latest_version": "0.9.16",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
