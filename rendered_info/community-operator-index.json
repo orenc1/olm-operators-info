@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-04-30",
+            "latest_version": "3.0.0-nightly-2024-05-01",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.11.0",
+            "latest_version": "2.11.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,7 +1444,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.98.0",
+            "latest_version": "0.99.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2566,7 +2566,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.16",
+            "latest_version": "0.9.17",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
