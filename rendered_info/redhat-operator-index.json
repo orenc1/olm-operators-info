@@ -124,7 +124,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.1.3",
+            "latest_version": "0.2.0",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,

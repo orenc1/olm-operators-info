@@ -14,7 +14,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "23.9.2",
+            "latest_version": "24.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,12 +531,12 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.11.0",
+            "latest_version": "5.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
-            "repository": null,
+            "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
             "documentation_url": "https://docs.hazelcast.com/operator/latest/"
         },
         {
@@ -1136,7 +1136,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.4.2-2.6",
+            "latest_version": "7.4.2-12.0",
             "latest_channel": "7.4.2",
             "disconnected_supported": true,
             "fips_supported": false,
