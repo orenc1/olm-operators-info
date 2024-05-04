@@ -58,8 +58,8 @@
         {
             "package_name": "stackable-spark-operator",
             "display_name": "Stackable Operator for Apache Spark",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -531,12 +531,12 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.12.0",
+            "latest_version": "5.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
+            "repository": null,
             "documentation_url": "https://docs.hazelcast.com/operator/latest/"
         },
         {
@@ -707,7 +707,7 @@
         {
             "package_name": "appdynamics-cloud-operator",
             "display_name": "Cisco AppDynamics Cloud Operator",
-            "latest_version": "24.3.0-111",
+            "latest_version": "24.4.0-131",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,8 +1114,8 @@
         {
             "package_name": "stackable-superset-operator",
             "display_name": "Stackable Operator for Apache Superset",
-            "latest_version": "24.3.0",
-            "latest_channel": "stable",
+            "latest_version": "24.4.0-1",
+            "latest_channel": "24.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",

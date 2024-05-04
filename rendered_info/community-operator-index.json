@@ -3,7 +3,7 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.7.0",
+            "latest_version": "0.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-02",
+            "latest_version": "3.0.0-nightly-2024-05-03",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -91,7 +91,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.29",
+            "latest_version": "0.0.30",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "ack-cloudtrail-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudTrail",
-            "latest_version": "1.0.10",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2082,7 +2082,7 @@
         {
             "package_name": "dns-operator",
             "display_name": "DNS Operator",
-            "latest_version": "0.1.0",
+            "latest_version": "0.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2500,7 +2500,7 @@
         {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
