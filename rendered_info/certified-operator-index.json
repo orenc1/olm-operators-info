@@ -278,7 +278,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.0-429.1604",
+            "latest_version": "24.1.0-rc.3-redhat",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.0-429.1604",
+            "latest_version": "24.1.0-rc.3-redhat",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.517",
+            "latest_version": "2022.4.518",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,

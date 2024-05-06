@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-04",
+            "latest_version": "3.0.0-nightly-2024-05-05",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.6.0",
+            "latest_version": "2.6.1",
             "latest_channel": "stable-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
