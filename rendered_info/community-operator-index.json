@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-05",
+            "latest_version": "3.0.0-nightly-2024-05-06",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.3.1",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1829,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "1.2.9",
+            "latest_version": "1.2.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,7 +1972,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
-            "latest_version": "1.83.0",
+            "latest_version": "1.84.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2099,6 +2099,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/Kuadrant/authorino-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "bpfman-operator",
+            "display_name": "Bpfman Operator",
+            "latest_version": "0.4.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/bpfman/bpfman",
             "documentation_url": ""
         },
         {

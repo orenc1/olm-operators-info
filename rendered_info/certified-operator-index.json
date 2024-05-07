@@ -355,7 +355,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.27",
+            "latest_version": "6.0.29",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1857,6 +1857,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/t8c-install/tree/master/operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "xspc-operator",
+            "display_name": "HPE XP Storage Plug-in for Containers",
+            "latest_version": "1.13.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
