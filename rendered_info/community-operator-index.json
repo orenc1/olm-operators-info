@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-06",
+            "latest_version": "3.0.0-nightly-2024-05-07",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -58,7 +58,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.11",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1191,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.14",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "ack-efs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Elastic File System (Amazon EFS)",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "ack-apigatewayv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway v2",
-            "latest_version": "1.0.7",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2445,7 +2445,7 @@
         {
             "package_name": "keycloak-permissions-operator",
             "display_name": "Keycloak Permissions Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2632,7 +2632,7 @@
         {
             "package_name": "ack-rds-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
-            "latest_version": "1.2.4",
+            "latest_version": "1.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

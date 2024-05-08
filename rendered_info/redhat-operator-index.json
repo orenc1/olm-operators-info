@@ -1037,7 +1037,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.6.0",
+            "latest_version": "2.6.1",
             "latest_channel": "release-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.14.3",
+            "latest_version": "1.14.4",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
