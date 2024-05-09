@@ -146,7 +146,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,12 +531,12 @@
         {
             "package_name": "hazelcast-platform-operator",
             "display_name": "Hazelcast Platform Operator",
-            "latest_version": "5.11.0",
+            "latest_version": "5.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
-            "repository": null,
+            "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
             "documentation_url": "https://docs.hazelcast.com/operator/latest/"
         },
         {
@@ -960,7 +960,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.4.1311",
+            "latest_version": "3.5.1345",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,8 +1235,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.20",
-            "latest_channel": "stable",
+            "latest_version": "8.12.30-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1411,7 +1411,7 @@
         {
             "package_name": "hpe-ezmeral-csi-operator",
             "display_name": "HPE Ezmeral Data Fabric CSI Operator for Kubernetes",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.14",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,8 +1873,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.20",
-            "latest_channel": "stable",
+            "latest_version": "8.12.30-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
