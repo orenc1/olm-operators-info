@@ -399,7 +399,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.65.0-1",
+            "latest_version": "3.68.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.5.1345",
+            "latest_version": "3.5.1349",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.2.0",
+            "latest_version": "2.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -135,7 +135,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "bamoe-kogito-operator",
             "display_name": "IBM BAMOE Kogito Operator",
-            "latest_version": "8.0.4-2",
+            "latest_version": "8.0.5-1",
             "latest_channel": "8.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -465,7 +465,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404291708",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.4-3",
+            "latest_version": "8.0.5-1",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "secrets-store-csi-driver-operator",
             "display_name": "Secrets Store CSI Driver Operator",
-            "latest_version": "4.14.0-202404161544",
+            "latest_version": "4.14.0-202404250639",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
