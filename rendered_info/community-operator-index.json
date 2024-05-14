@@ -1983,7 +1983,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2687,7 +2687,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "24.0.3",
+            "latest_version": "24.0.4",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

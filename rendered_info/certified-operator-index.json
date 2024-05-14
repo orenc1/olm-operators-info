@@ -47,7 +47,7 @@
         {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
-            "latest_version": "2.3.1-290",
+            "latest_version": "2.3.4",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.12.0",
+            "latest_version": "2.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1043,6 +1043,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ibm-block-csi-operator",
+            "display_name": "IBM block storage CSI driver operator",
+            "latest_version": "1.11.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/IBM/ibm-block-csi-operator",
             "documentation_url": ""
         },
         {
@@ -1664,7 +1675,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.14.9-xb536a39",
+            "latest_version": "1.14.10-x3747be9",
             "latest_channel": "1.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1862,8 +1873,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.55.0",
-            "latest_channel": "stable",
+            "latest_version": "42.56.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

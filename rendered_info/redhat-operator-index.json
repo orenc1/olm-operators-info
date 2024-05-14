@@ -1202,7 +1202,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat Integration - Service Registry Operator",
-            "latest_version": "2.3.3",
+            "latest_version": "2.3.4",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
