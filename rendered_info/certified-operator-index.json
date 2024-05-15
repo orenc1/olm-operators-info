@@ -1730,7 +1730,7 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.6.23",
+            "latest_version": "2.6.42",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1774,7 +1774,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.18",
+            "latest_version": "2.0.27",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

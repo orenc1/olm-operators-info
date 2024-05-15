@@ -14,7 +14,7 @@
         {
             "package_name": "sailoperator",
             "display_name": "Sail Operator",
-            "latest_version": "3.0.0-nightly-2024-05-10",
+            "latest_version": "3.0.0-nightly-2024-05-11",
             "latest_channel": "3.0-nightly",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "2.1.2",
+            "latest_version": "2.1.3",
             "latest_channel": "v2-stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2324,7 +2324,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2610,7 +2610,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.9.17",
+            "latest_version": "0.9.18",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
