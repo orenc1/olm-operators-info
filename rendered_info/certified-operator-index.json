@@ -168,7 +168,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.68.0-1",
+            "latest_version": "3.68.1-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.518",
+            "latest_version": "2022.4.519",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.310",
+            "latest_version": "8.0.320",
             "latest_channel": "8.0.300x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1114,8 +1114,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.30-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.30",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1631,7 +1631,7 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.310",
+            "latest_version": "8.0.320",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,8 +1664,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.56.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.56.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1895,7 +1895,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.310",
+            "latest_version": "8.0.320",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,

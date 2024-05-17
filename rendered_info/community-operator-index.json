@@ -1048,7 +1048,7 @@
         {
             "package_name": "rabbitmq-messaging-topology-operator",
             "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.13.0",
+            "latest_version": "1.14.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.2.0-dev",
+            "latest_version": "1.2.0-dev.20240516",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1675,7 +1675,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.8.0",
+            "latest_version": "2.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1818,7 +1818,7 @@
         {
             "package_name": "datadog-operator",
             "display_name": "Datadog Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
