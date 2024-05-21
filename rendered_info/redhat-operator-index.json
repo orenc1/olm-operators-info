@@ -58,7 +58,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.9.0",
+            "latest_version": "2.9.1",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -300,7 +300,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.12.1-384",
+            "latest_version": "2.12.1-394",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -427,17 +427,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/syndesisio/syndesis/",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "rhtas-operator",
-            "display_name": "Red Hat Trusted Artifact Signer",
-            "latest_version": "1.0.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
             "documentation_url": ""
         },
         {

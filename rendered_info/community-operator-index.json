@@ -421,7 +421,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "kubecost",
             "display_name": "Kubecost",
-            "latest_version": "2.1.0",
+            "latest_version": "2.2.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,13 +1653,13 @@
         {
             "package_name": "3scale-community-operator",
             "display_name": "3scale API Management",
-            "latest_version": "0.10.1",
-            "latest_channel": "threescale-2.13",
+            "latest_version": "0.11.0",
+            "latest_channel": "threescale-2.14",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale/3scale-operator",
-            "documentation_url": "https://github.com/3scale/3scale-operator/blob/v0.10.1/doc/operator-user-guide.md"
+            "documentation_url": "https://github.com/3scale/3scale-operator/blob/v0.11.0/doc/operator-user-guide.md"
         },
         {
             "package_name": "group-sync-operator",
@@ -1829,7 +1829,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.85.0",
+            "latest_version": "7.86.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2093,7 +2093,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.99.0",
+            "latest_version": "0.100.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

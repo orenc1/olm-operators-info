@@ -1048,7 +1048,7 @@
         {
             "package_name": "ibm-block-csi-operator",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.11.2",
+            "latest_version": "1.11.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.5.1349",
+            "latest_version": "3.5.1358",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.13.0",
+            "latest_version": "2.13.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,8 +1587,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.4.2-8",
-            "latest_channel": "2024.4",
+            "latest_version": "2024.4.3-8",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
