@@ -113,7 +113,7 @@
         {
             "package_name": "aikit-operator-rhmp",
             "display_name": "Intel\u00ae oneAPI AI Analytics Toolkit Operator",
-            "latest_version": "2021.2.102120",
+            "latest_version": "2024.1.52023",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -256,7 +256,7 @@
         {
             "package_name": "crunchy-postgres-operator-rhmp",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.5.1",
+            "latest_version": "5.5.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "aerospike-kubernetes-operator-rhmp",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.2.2",
+            "latest_version": "3.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -234,7 +234,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.8-opr-001",
+            "latest_version": "7.6.8-opr-002",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,8 +344,8 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.11.6-opr-2",
-            "latest_channel": "7.11.x",
+            "latest_version": "7.12.0-opr-1",
+            "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -498,7 +498,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.4.1",
+            "latest_version": "4.4.2",
             "latest_channel": "rhacs-4.4",
             "disconnected_supported": true,
             "fips_supported": false,
