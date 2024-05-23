@@ -1235,7 +1235,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.9.1",
+            "latest_version": "0.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1521,11 +1521,11 @@
         {
             "package_name": "kepler-operator",
             "display_name": "Kepler",
-            "latest_version": "0.12.0",
+            "latest_version": "0.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/sustainable-computing-io/kepler-operator",
             "documentation_url": ""
         },
@@ -2082,7 +2082,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.16.1",
+            "latest_version": "2.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
