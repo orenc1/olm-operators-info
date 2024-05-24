@@ -476,7 +476,7 @@
         {
             "package_name": "ibm-block-csi-operator-community",
             "display_name": "IBM block storage CSI driver operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.11.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
