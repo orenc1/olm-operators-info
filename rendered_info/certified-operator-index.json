@@ -575,7 +575,7 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.1",
+            "latest_version": "0.12.13",
             "latest_channel": "release-0.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1659,6 +1659,17 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/CA-Application-Performance-Management/certified-operators/tree/main/operators/uma-team-operator/2023.7.2",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "acc-operator",
+            "display_name": "netapp-acc-operator",
+            "latest_version": "24.2.1",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
