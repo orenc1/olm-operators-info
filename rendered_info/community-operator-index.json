@@ -1257,7 +1257,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
-            "latest_version": "1.84.0",
+            "latest_version": "1.85.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2093,7 +2093,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.100.0",
+            "latest_version": "0.100.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2401,7 +2401,7 @@
         {
             "package_name": "netobserv-operator",
             "display_name": "NetObserv Operator",
-            "latest_version": "1.5.0-community",
+            "latest_version": "1.6.0-community",
             "latest_channel": "community",
             "disconnected_supported": false,
             "fips_supported": false,
