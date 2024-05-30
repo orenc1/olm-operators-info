@@ -740,9 +740,9 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "1.3.1",
+            "latest_version": "1.3.2",
             "latest_channel": "v1.3",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/OpenLiberty/open-liberty-operator",
@@ -1268,7 +1268,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.14.2",
+            "latest_version": "2.15.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "acc-operator",
             "display_name": "netapp-acc-operator",
-            "latest_version": "24.2.1",
+            "latest_version": "24.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
