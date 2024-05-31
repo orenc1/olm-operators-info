@@ -641,7 +641,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.14.2",
+            "latest_version": "2.15.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,9 +652,9 @@
         {
             "package_name": "runtime-component-operator-certified",
             "display_name": "Runtime Component",
-            "latest_version": "1.3.1",
+            "latest_version": "1.3.2",
             "latest_channel": "v1.3",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/application-stacks/runtime-component-operator",
@@ -1422,7 +1422,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.31",
+            "latest_version": "2.0.32",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1466,8 +1466,8 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "24.1.1",
-            "latest_channel": "24.1.1",
+            "latest_version": "24.4.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1543,7 +1543,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.3.0-763",
+            "latest_version": "24.5.0-806",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,7 +1708,7 @@
         {
             "package_name": "redhat-marketplace-operator",
             "display_name": "Red Hat Marketplace Deployment Operator by IBM",
-            "latest_version": "2.14.2",
+            "latest_version": "2.15.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "vcp-operator",
             "display_name": "Venafi Control Plane Operator",
-            "latest_version": "0.0.3",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
