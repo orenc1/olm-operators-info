@@ -520,7 +520,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.7.0",
+            "latest_version": "0.7.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -784,7 +784,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.2.1",
+            "latest_version": "2.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "joget-dx8-openshift-operator",
             "display_name": "Joget DX 8 Operator",
-            "latest_version": "0.0.13",
+            "latest_version": "0.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -971,8 +971,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1125,8 +1125,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1686,8 +1686,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.57.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.57.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1807,8 +1807,8 @@
         {
             "package_name": "vcp-operator",
             "display_name": "Venafi Control Plane Operator",
-            "latest_version": "1.0.0",
-            "latest_channel": "alpha",
+            "latest_version": "1.0.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",

@@ -212,7 +212,7 @@
         {
             "package_name": "ack-cloudwatchlogs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch Logs",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
