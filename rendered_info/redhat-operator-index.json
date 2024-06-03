@@ -1202,7 +1202,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.27.0",
+            "latest_version": "0.28.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
