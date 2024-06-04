@@ -14,7 +14,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.8.0",
+            "latest_version": "5.9.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.7",
+            "latest_version": "1.2.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

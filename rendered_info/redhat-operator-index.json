@@ -146,11 +146,11 @@
         {
             "package_name": "power-monitoring-operator",
             "display_name": "Power monitoring for Red Hat OpenShift",
-            "latest_version": "0.1.0",
+            "latest_version": "0.2.0",
             "latest_channel": "tech-preview",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Basic Install",
+            "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/openshift-power-monitoring/power-monitoring-operator",
             "documentation_url": ""
         },
@@ -234,7 +234,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.8-opr-002",
+            "latest_version": "7.6.9-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1715891874",
+            "latest_version": "2.4.0-0.1717108266",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "red-hat-hawtio-operator",
             "display_name": "HawtIO Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "rhbk-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "24.0.4-opr.1",
+            "latest_version": "24.0.5-opr.1",
             "latest_channel": "stable-v24",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.0.0",
+            "latest_version": "3.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
