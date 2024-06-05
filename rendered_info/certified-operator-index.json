@@ -166,6 +166,17 @@
             "documentation_url": "https://scod.hpedev.io/csi_driver/index.html"
         },
         {
+            "package_name": "falcon-operator",
+            "display_name": "CrowdStrike Falcon Platform - Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "certified-1.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "registry.connect.redhat.com/crowdstrike/falcon-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "keysight-wap-test-core",
             "display_name": "Keysight WAP Test Core Operator",
             "latest_version": "0.1.21",
@@ -553,8 +564,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.4.2-8",
-            "latest_channel": "2024.4",
+            "latest_version": "2024.5.1-5",
+            "latest_channel": "2024.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -575,7 +586,7 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.13",
+            "latest_version": "0.12.19",
             "latest_channel": "release-0.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1136,7 +1147,7 @@
         {
             "package_name": "kove-operator",
             "display_name": "Kove:SDM\u2122 Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1433,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.0.32",
+            "latest_version": "2.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,8 +1609,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.4.3-8",
-            "latest_channel": "beta",
+            "latest_version": "2024.5.1-5",
+            "latest_channel": "2024.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1653,8 +1664,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.4.2-8",
-            "latest_channel": "2024.4",
+            "latest_version": "2024.5.1-5",
+            "latest_channel": "2024.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
