@@ -135,7 +135,7 @@
         {
             "package_name": "file-integrity-operator",
             "display_name": "File Integrity Operator",
-            "latest_version": "1.3.3",
+            "latest_version": "1.3.4",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -575,7 +575,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.93.0-3",
+            "latest_version": "0.100.1-3",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "jaeger-product",
             "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.53.0-4",
+            "latest_version": "1.57.0-5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "tempo-product",
             "display_name": "Tempo Operator",
-            "latest_version": "0.8.0-3",
+            "latest_version": "0.10.0-6",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.15",
+            "latest_version": "8.4.16",
             "latest_channel": "8.4.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.8.0",
+            "latest_version": "0.8.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1044,17 +1044,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kubev2v/forklift",
             "documentation_url": ""
-        },
-        {
-            "package_name": "rhbk-operator",
-            "display_name": "Keycloak Operator",
-            "latest_version": "24.0.5-opr.1",
-            "latest_channel": "stable-v24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/keycloak/keycloak",
-            "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
             "package_name": "cryostat-operator",

@@ -718,7 +718,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.9",
+            "latest_version": "1.2.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.3.1",
+            "latest_version": "2.3.2",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2368,8 +2368,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.4.0-alpha.1",
-            "latest_channel": "alpha",
+            "latest_version": "0.4.0",
+            "latest_channel": "konveyor-0.4",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
