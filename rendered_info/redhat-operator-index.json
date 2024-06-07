@@ -377,7 +377,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.5.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -520,7 +520,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.73.7",
+            "latest_version": "1.73.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -762,7 +762,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.5.1",
+            "latest_version": "2.5.2",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -806,7 +806,7 @@
         {
             "package_name": "red-hat-hawtio-operator",
             "display_name": "HawtIO Operator",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,

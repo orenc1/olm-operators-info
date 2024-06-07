@@ -168,7 +168,7 @@
         {
             "package_name": "falcon-operator",
             "display_name": "CrowdStrike Falcon Platform - Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "certified-1.0",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,8 +1697,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.57.0",
-            "latest_channel": "stable",
+            "latest_version": "42.58.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
