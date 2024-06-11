@@ -3,7 +3,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.14.4",
+            "latest_version": "4.14.5",
             "latest_channel": "4.14",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -14,7 +14,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202405161337",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -245,7 +245,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "secrets-store-csi-driver-operator",
             "display_name": "Secrets Store CSI Driver Operator",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -355,7 +355,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.14.0-202405150837",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202405201438",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1717108266",
+            "latest_version": "2.4.0-0.1717558193",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.14.5",
+            "latest_version": "4.14.6",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1715899379",
+            "latest_version": "2.4.0-0.1717558885",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202405161337",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.13.0",
+            "latest_version": "3.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1022,6 +1022,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/shipwright-io/operator",
             "documentation_url": "https://shipwright.io"
+        },
+        {
+            "package_name": "marin3r-operator",
+            "display_name": "Red Hat - MARIN3R",
+            "latest_version": "0.13.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/3scale-ops/marin3r",
+            "documentation_url": "https://github.com/3scale-ops/marin3r#readme"
         },
         {
             "package_name": "elasticsearch-operator",
@@ -1081,7 +1092,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.14.0-202405141639",
+            "latest_version": "4.14.0-202405222237",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1103,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.0.1",
+            "latest_version": "3.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1212,9 +1223,9 @@
         },
         {
             "package_name": "authorino-operator",
-            "display_name": "Red Hat - Authorino",
-            "latest_version": "1.0.1",
-            "latest_channel": "managed-services",
+            "display_name": "Red Hat - Authorino (Technical Preview)",
+            "latest_version": "1.0.2",
+            "latest_channel": "tech-preview-v1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1235,7 +1246,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202405161337",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1257,7 +1268,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202405161337",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

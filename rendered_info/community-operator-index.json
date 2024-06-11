@@ -1048,7 +1048,7 @@
         {
             "package_name": "rabbitmq-messaging-topology-operator",
             "display_name": "rabbitmq-messaging-topology-operator",
-            "latest_version": "1.14.1",
+            "latest_version": "1.14.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "forklift-operator",
             "display_name": "Forklift Operator",
-            "latest_version": "2.6.2",
+            "latest_version": "2.6.3",
             "latest_channel": "stable-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1642,7 @@
         {
             "package_name": "yaks",
             "display_name": "YAKS Operator",
-            "latest_version": "0.19.1",
+            "latest_version": "0.19.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1829,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.86.0",
+            "latest_version": "7.87.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2509,6 +2509,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "percona-server-mongodb-operator",
+            "display_name": "Percona Distribution for MongoDB Operator",
+            "latest_version": "1.16.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/percona/percona-server-mongodb-operator",
+            "documentation_url": "https://percona.github.io/percona-server-mongodb-operator/"
+        },
+        {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
             "latest_version": "0.0.24",
@@ -2643,7 +2654,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "24.0.5",
+            "latest_version": "25.0.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2709,7 +2720,7 @@
         {
             "package_name": "dell-csm-operator",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
