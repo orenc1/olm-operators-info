@@ -883,7 +883,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.11.0-rc1",
+            "latest_version": "1.11.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,8 +982,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.50-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.50",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1136,8 +1136,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.50-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.50",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1719,8 +1719,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.58.0-beta.2",
-            "latest_channel": "beta",
+            "latest_version": "42.58.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -2038,7 +2038,7 @@
         {
             "package_name": "cloudnative-pg",
             "display_name": "CloudNativePG",
-            "latest_version": "1.23.1",
+            "latest_version": "1.23.2",
             "latest_channel": "stable-v1",
             "disconnected_supported": false,
             "fips_supported": false,
