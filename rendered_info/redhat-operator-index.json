@@ -14,7 +14,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406051038",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406051038",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.4.0-0.1717558193",
+            "latest_version": "2.4.0-0.1718149348",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.4.0-0.1717558885",
+            "latest_version": "2.4.0-0.1718152680",
             "latest_channel": "stable-2.4-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406051038",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.2.5",
+            "latest_version": "1.2.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406051038",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406051038",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

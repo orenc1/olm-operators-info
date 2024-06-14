@@ -641,7 +641,7 @@
         {
             "package_name": "hyperfoil-bundle",
             "display_name": "Hyperfoil",
-            "latest_version": "0.24.2",
+            "latest_version": "0.26.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
