@@ -1169,7 +1169,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.5.1358",
+            "latest_version": "3.5.1396",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1543,7 +1543,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.15.5-x88d3fd9",
+            "latest_version": "1.15.6-xb3e9de9",
             "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
