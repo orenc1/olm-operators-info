@@ -80,7 +80,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "kiali",
             "display_name": "Kiali Community Operator",
-            "latest_version": "1.85.0",
+            "latest_version": "1.86.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1890,6 +1890,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/prft-rh/devopsinabox-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ncn-operator",
+            "display_name": "ncn-operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -2676,7 +2687,7 @@
         {
             "package_name": "vault-config-operator",
             "display_name": "Vault Config Operator",
-            "latest_version": "0.8.27",
+            "latest_version": "0.8.28",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
