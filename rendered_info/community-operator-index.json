@@ -320,6 +320,17 @@
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
+            "package_name": "node-discovery-operator",
+            "display_name": "node-discovery-operator",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "nfs-provisioner-operator",
             "display_name": "NFS Provisioner Operator",
             "latest_version": "0.0.7",
@@ -1213,7 +1224,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.50",
+            "latest_version": "0.0.51",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,8 +1906,8 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.0.1",
-            "latest_channel": "alpha",
+            "latest_version": "0.2.0",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1928,7 +1939,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

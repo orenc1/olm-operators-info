@@ -487,7 +487,7 @@
         {
             "package_name": "f5-bigip-ctlr-operator",
             "display_name": "F5 Container Ingress Services",
-            "latest_version": "1.16.0",
+            "latest_version": "1.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,8 +564,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.5.1-5",
-            "latest_channel": "2024.5",
+            "latest_version": "2024.6.0-3",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -857,6 +857,17 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/stackabletech/hbase-operator",
             "documentation_url": ""
+        },
+        {
+            "package_name": "f5-ipam-controller-operator",
+            "display_name": "F5 Ipam controller",
+            "latest_version": "0.0.5",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/F5Networks/f5-ipam-controller",
+            "documentation_url": "https://clouddocs.f5.com/containers/latest/userguide/ipam/"
         },
         {
             "package_name": "keysight-wap-notifications",
@@ -1499,7 +1510,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,8 +1631,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.5.1-5",
-            "latest_channel": "2024.5",
+            "latest_version": "2024.6.0-3",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1686,8 +1697,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.5.1-5",
-            "latest_channel": "2024.5",
+            "latest_version": "2024.6.0-3",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
