@@ -91,7 +91,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1713265833",
+            "latest_version": "1.5.1717407305",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1713265832",
+            "latest_version": "5.0.1717407305",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -586,7 +586,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Red Hat Service Interconnect",
-            "latest_version": "1.5.3-rh-3",
+            "latest_version": "1.5.4-rh-2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -652,13 +652,13 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.32.1",
+            "latest_version": "1.33.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
-            "fips_supported": true,
+            "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/openshift-knative/serverless-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.14/html/serverless/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/openshift_container_platform/4.15/html/serverless/index"
         },
         {
             "package_name": "kiali-ossm",
@@ -1092,7 +1092,7 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.14.4",
+            "latest_version": "1.15.0",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,

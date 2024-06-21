@@ -586,7 +586,7 @@
         {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
-            "latest_version": "0.7.6",
+            "latest_version": "0.7.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
