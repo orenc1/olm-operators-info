@@ -212,7 +212,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "25.0.0",
+            "latest_version": "25.0.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1224,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.10",
+            "latest_version": "1.2.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1565,7 +1565,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.4.3",
+            "latest_version": "1.4.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1686,7 +1686,7 @@
         {
             "package_name": "koku-metrics-operator",
             "display_name": "Koku Metrics Operator",
-            "latest_version": "3.2.1",
+            "latest_version": "3.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2753,7 +2753,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.18.0",
+            "latest_version": "2.19.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
