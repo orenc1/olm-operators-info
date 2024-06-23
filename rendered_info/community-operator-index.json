@@ -2401,8 +2401,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.4.0",
-            "latest_channel": "konveyor-0.4",
+            "latest_version": "0.5.0-alpha.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
