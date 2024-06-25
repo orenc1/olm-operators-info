@@ -69,7 +69,7 @@
         {
             "package_name": "costmanagement-metrics-operator",
             "display_name": "Cost Management Metrics Operator",
-            "latest_version": "3.2.1",
+            "latest_version": "3.3.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.9.1",
+            "latest_version": "2.10.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "rhdh",
             "display_name": "Red Hat Developer Hub Operator",
-            "latest_version": "1.1.2",
+            "latest_version": "1.2.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,13 +641,13 @@
         {
             "package_name": "logic-operator-rhel8",
             "display_name": "OpenShift Serverless Logic Operator",
-            "latest_version": "1.32.0",
+            "latest_version": "1.33.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/kiegroup/kogito-serverless-operator/",
-            "documentation_url": "https://openshift-knative.github.io/docs/docs/latest/serverless-logic/about.html"
+            "documentation_url": "https://docs.openshift.com/serverless/"
         },
         {
             "package_name": "serverless-operator",
@@ -850,7 +850,7 @@
         {
             "package_name": "amq7-interconnect-operator",
             "display_name": "Red Hat Integration - AMQ Interconnect",
-            "latest_version": "1.10.19",
+            "latest_version": "1.10.20",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Red Hat Streams for Apache Kafka",
-            "latest_version": "2.7.0-1",
+            "latest_version": "2.7.0-2",
             "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,

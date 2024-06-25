@@ -69,7 +69,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.5.0-806",
+            "latest_version": "24.6.0-823",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,7 +641,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
