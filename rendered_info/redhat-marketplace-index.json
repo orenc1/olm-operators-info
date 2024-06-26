@@ -322,7 +322,7 @@
         {
             "package_name": "dynatrace-operator-rhmp",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.1.1",
+            "latest_version": "1.2.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -388,7 +388,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
