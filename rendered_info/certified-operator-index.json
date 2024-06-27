@@ -256,7 +256,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.2.2",
+            "latest_version": "2.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -916,8 +916,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.12.60-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.60",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1851,8 +1851,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.12.60-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.12.60",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
