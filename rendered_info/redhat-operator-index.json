@@ -102,7 +102,7 @@
         {
             "package_name": "nfd",
             "display_name": "Node Feature Discovery Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -157,7 +157,7 @@
         {
             "package_name": "gcp-filestore-csi-driver-operator",
             "display_name": "GCP Filestore CSI Driver Operator",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.12.3",
+            "latest_version": "1.12.4",
             "latest_channel": "gitops-1.12",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202406061208",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -650,6 +650,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "rhtas-operator",
+            "display_name": "Red Hat Trusted Artifact Signer",
+            "latest_version": "1.0.2",
+            "latest_channel": "candidate-v1.0",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/securesign/secure-sign-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "logic-operator-rhel8",
             "display_name": "OpenShift Serverless Logic Operator",
             "latest_version": "1.33.0",
@@ -685,7 +696,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202406111908",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +718,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202406060838",
+            "latest_version": "4.14.0-202405281408",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +762,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -817,7 +828,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202406060838",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -850,7 +861,7 @@
         {
             "package_name": "ingress-node-firewall",
             "display_name": "Ingress Node Firewall Operator",
-            "latest_version": "4.14.0-202406060838",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +883,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +949,7 @@
         {
             "package_name": "clusterresourceoverride",
             "display_name": "ClusterResourceOverride Operator",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1169,7 @@
         {
             "package_name": "vertical-pod-autoscaler",
             "display_name": "VerticalPodAutoscaler",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202406180839",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

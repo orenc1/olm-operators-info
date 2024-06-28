@@ -3,7 +3,7 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.3.0",
+            "latest_version": "3.3.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1598,7 @@
         {
             "package_name": "kaoto-operator",
             "display_name": "Kaoto Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "2.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2302,7 +2302,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.51",
+            "latest_version": "0.0.52",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
