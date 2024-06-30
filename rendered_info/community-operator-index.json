@@ -2511,7 +2511,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.87.0",
+            "latest_version": "7.88.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
