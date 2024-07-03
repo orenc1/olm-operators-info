@@ -1026,8 +1026,8 @@
         {
             "package_name": "debezium-operator",
             "display_name": "Debezium Operator",
-            "latest_version": "2.6.1-final",
-            "latest_channel": "debezium-2.6.x",
+            "latest_version": "2.7.0-final",
+            "latest_channel": "debezium-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1180,7 +1180,7 @@
         {
             "package_name": "pubsubplus-eventbroker-operator",
             "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.0.3",
+            "latest_version": "1.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1334,7 +1334,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.5",
+            "latest_version": "1.4.6",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2412,7 +2412,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.0.2",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2753,7 +2753,7 @@
         {
             "package_name": "awx-operator",
             "display_name": "AWX",
-            "latest_version": "2.19.0",
+            "latest_version": "2.19.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

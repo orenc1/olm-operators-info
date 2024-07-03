@@ -80,7 +80,7 @@
         {
             "package_name": "odf-operator",
             "display_name": "OpenShift Data Foundation",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -245,7 +245,7 @@
         {
             "package_name": "ocs-operator",
             "display_name": "OpenShift Container Storage",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -300,7 +300,7 @@
         {
             "package_name": "mcg-operator",
             "display_name": "NooBaa Operator",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "odf-multicluster-orchestrator",
             "display_name": "ODF Multicluster Orchestrator",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "odr-hub-operator",
             "display_name": "Openshift DR Hub Operator",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.3",
+            "latest_version": "2.5.4",
             "latest_channel": "stable-2.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -586,7 +586,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.3",
+            "latest_version": "2.5.4",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "odr-cluster-operator",
             "display_name": "Openshift DR Cluster Operator",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "ocs-client-operator",
             "display_name": "OpenShift Data Foundation Client",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1213,7 +1213,7 @@
         {
             "package_name": "odf-csi-addons-operator",
             "display_name": "CSI Addons",
-            "latest_version": "4.14.8-rhodf",
+            "latest_version": "4.14.9-rhodf",
             "latest_channel": "stable-4.14",
             "disconnected_supported": false,
             "fips_supported": false,
