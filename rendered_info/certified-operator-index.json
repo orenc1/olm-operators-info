@@ -443,7 +443,7 @@
         {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
-            "latest_version": "2.0.500",
+            "latest_version": "2.0.501",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.21.0",
+            "latest_version": "1.26.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "vcp-operator",
             "display_name": "Venafi Control Plane Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
