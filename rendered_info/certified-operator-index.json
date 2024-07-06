@@ -476,7 +476,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "6.1.0",
+            "latest_version": "6.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator-with-cg-module",
             "display_name": "Fujitsu Enterprise Postgres Operator with Cryptographic Module",
-            "latest_version": "6.1.0",
+            "latest_version": "6.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.25",
+            "latest_version": "3.1.26",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1587,7 +1587,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.26.0",
+            "latest_version": "1.26.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
