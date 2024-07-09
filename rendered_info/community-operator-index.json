@@ -388,7 +388,7 @@
         {
             "package_name": "trustify-operator",
             "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.2",
+            "latest_version": "0.1.0-alpha.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,10 +839,10 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.39.4",
+            "latest_version": "0.46.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
-            "fips_supported": false,
+            "fips_supported": true,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/VictoriaMetrics/operator",
             "documentation_url": ""
@@ -993,8 +993,8 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.3.2",
-            "latest_channel": "community-0.3",
+            "latest_version": "0.4.0",
+            "latest_channel": "community-0.4",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -1928,7 +1928,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.11.0",
+            "latest_version": "0.11.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,8 +1972,8 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.3.2",
-            "latest_channel": "community-0.3",
+            "latest_version": "0.4.0",
+            "latest_channel": "community-0.4",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -2225,8 +2225,8 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.2.0-dev.20240516",
-            "latest_channel": "alpha",
+            "latest_version": "1.2.0",
+            "latest_channel": "release-2.11",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

@@ -212,7 +212,7 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.6.4-2",
+            "latest_version": "2.6.4-3",
             "latest_channel": "2.6.4",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -388,8 +388,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.6.0-3",
-            "latest_channel": "beta",
+            "latest_version": "2024.6.2-28",
+            "latest_channel": "2024.6",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -432,8 +432,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.6.1-4",
-            "latest_channel": "beta",
+            "latest_version": "2024.6.2-28",
+            "latest_channel": "2024.6",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -510,6 +510,17 @@
             "package_name": "keysight-wap-diagnostics",
             "display_name": "Keysight WAP Diagnostics Operator",
             "latest_version": "0.1.21",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "kubecost-operator",
+            "display_name": "kubecost-operator",
+            "latest_version": "0.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,8 +1631,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.6.0-3",
-            "latest_channel": "beta",
+            "latest_version": "2024.6.2-28",
+            "latest_channel": "2024.6",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1928,7 +1939,7 @@
         {
             "package_name": "exascaler-csi-driver-operator",
             "display_name": "EXAScaler CSI File Driver",
-            "latest_version": "2.2.4",
+            "latest_version": "2.2.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
