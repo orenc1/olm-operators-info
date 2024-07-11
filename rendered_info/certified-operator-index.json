@@ -1224,8 +1224,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1521,7 +1521,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.68.1-1",
+            "latest_version": "3.70.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1576,7 +1576,7 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "4.0.3",
+            "latest_version": "4.0.4",
             "latest_channel": "4.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1719,8 +1719,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

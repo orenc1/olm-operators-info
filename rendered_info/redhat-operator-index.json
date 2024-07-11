@@ -69,7 +69,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.10.3",
+            "latest_version": "2.10.4",
             "latest_channel": "release-2.10",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -542,13 +542,13 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.4.16",
-            "latest_channel": "8.4.x",
+            "latest_version": "8.5.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/infinispan/infinispan-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.4"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_data_grid/8.5"
         },
         {
             "package_name": "bare-metal-event-relay",
@@ -586,8 +586,8 @@
         {
             "package_name": "submariner",
             "display_name": "Submariner",
-            "latest_version": "0.17.1",
-            "latest_channel": "stable-0.17",
+            "latest_version": "0.18.0",
+            "latest_channel": "stable-0.18",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1048,7 +1048,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.5.4",
+            "latest_version": "2.5.5",
             "latest_channel": "stable-2.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.4",
+            "latest_version": "2.5.5",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,

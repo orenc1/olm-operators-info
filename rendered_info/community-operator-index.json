@@ -432,7 +432,7 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.3.1",
+            "latest_version": "0.3.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,8 +2192,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0-alpha.1",
-            "latest_channel": "alpha",
+            "latest_version": "0.5.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2775,7 +2775,7 @@
         {
             "package_name": "strimzi-kafka-operator",
             "display_name": "Strimzi",
-            "latest_version": "0.41.0",
+            "latest_version": "0.42.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
