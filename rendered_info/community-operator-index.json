@@ -432,7 +432,7 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.3.2",
+            "latest_version": "0.3.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1565,7 +1565,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.2",
+            "latest_version": "2.4.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

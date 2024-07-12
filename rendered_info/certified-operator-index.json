@@ -366,7 +366,7 @@
         {
             "package_name": "anzounstructured-operator",
             "display_name": "Anzo Unstructured Operator",
-            "latest_version": "2.0.501",
+            "latest_version": "2.0.600",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1521,7 +1521,7 @@
         {
             "package_name": "nexus-repository-ha-operator-certified",
             "display_name": "Nexus Repository HA Operator",
-            "latest_version": "3.70.0-1",
+            "latest_version": "3.70.1-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
