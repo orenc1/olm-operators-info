@@ -377,7 +377,7 @@
         {
             "package_name": "trustify-operator",
             "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.3",
+            "latest_version": "0.1.0-alpha.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,12 +432,12 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.3.14",
+            "latest_version": "0.3.18",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/antline.com/ncn-operator",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -1037,7 +1037,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
