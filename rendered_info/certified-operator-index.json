@@ -289,7 +289,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "3.1.102",
+            "latest_version": "3.1.105",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -789,6 +789,17 @@
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
+            "package_name": "ibm-storage-odf-operator",
+            "display_name": "IBM Storage ODF operator",
+            "latest_version": "1.5.0",
+            "latest_channel": "stable-v1.5",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": ""
         },
@@ -1675,7 +1686,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.13.2",
+            "latest_version": "2.14.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

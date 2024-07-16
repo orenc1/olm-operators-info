@@ -432,12 +432,12 @@
         {
             "package_name": "ncn-operator",
             "display_name": "ncn-operator",
-            "latest_version": "0.3.18",
-            "latest_channel": "alpha",
+            "latest_version": "0.4.2",
+            "latest_channel": "betav1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "https://github.com/antline.com/ncn-operator",
             "documentation_url": ""
         },
         {
@@ -1752,7 +1752,7 @@
         {
             "package_name": "cass-operator-community",
             "display_name": "DataStax Kubernetes Operator for Apache Cassandra",
-            "latest_version": "1.19.1",
+            "latest_version": "1.21.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2115,7 +2115,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.11.1",
+            "latest_version": "3.11.2",
             "latest_channel": "stable-3.11",
             "disconnected_supported": true,
             "fips_supported": true,
