@@ -91,7 +91,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202407040439",
+            "latest_version": "4.14.0-202407101709",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "cluster-kube-descheduler-operator",
             "display_name": "Kube Descheduler Operator",
-            "latest_version": "4.14.0-202405222237",
+            "latest_version": "4.14.0-202407021509",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -487,7 +487,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202405281408",
+            "latest_version": "4.14.0-202407100810",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202407021509",
+            "latest_version": "4.14.0-202407091409",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,8 +1070,8 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator",
-            "latest_version": "0.8.0",
-            "latest_channel": "stable",
+            "latest_version": "0.9.0",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1180,7 +1180,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.10.0",
+            "latest_version": "2.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,

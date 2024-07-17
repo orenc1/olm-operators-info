@@ -289,7 +289,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "3.1.105",
+            "latest_version": "3.1.106",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -333,7 +333,7 @@
         {
             "package_name": "cass-operator",
             "display_name": "DataStax Kubernetes Operator for Apache Cassandra",
-            "latest_version": "1.17.1",
+            "latest_version": "1.21.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.3.1",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1862,7 +1862,7 @@
         {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.16.0",
+            "latest_version": "1.16.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
