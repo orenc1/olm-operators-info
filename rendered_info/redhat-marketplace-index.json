@@ -135,7 +135,7 @@
         {
             "package_name": "percona-server-mongodb-operator-certified-rhmp",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.16.0",
+            "latest_version": "1.16.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.2",
+            "latest_version": "2.1.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

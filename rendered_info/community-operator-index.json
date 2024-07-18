@@ -1136,7 +1136,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.9.2",
+            "latest_version": "5.10.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,7 +1609,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.14.0",
+            "latest_version": "2.15.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2192,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0-beta.1",
+            "latest_version": "0.5.0-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
