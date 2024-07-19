@@ -69,13 +69,13 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.10.4",
-            "latest_channel": "release-2.10",
+            "latest_version": "2.11.0",
+            "latest_channel": "release-2.11",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.10/"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
         },
         {
             "package_name": "marin3r-operator",
@@ -135,7 +135,7 @@
         {
             "package_name": "cincinnati-operator",
             "display_name": "OpenShift Update Service",
-            "latest_version": "5.0.2",
+            "latest_version": "5.0.3",
             "latest_channel": "v1",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.11.11",
+            "latest_version": "0.11.12",
             "latest_channel": "threescale-2.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -289,8 +289,8 @@
         {
             "package_name": "multicluster-global-hub-operator-rh",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.1.1",
-            "latest_channel": "release-1.1",
+            "latest_version": "1.2.0",
+            "latest_channel": "release-1.2",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
@@ -498,7 +498,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1717407305",
+            "latest_version": "1.5.1721288166",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.14.0",
+            "latest_version": "3.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -773,8 +773,8 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "3.14.1",
-            "latest_channel": "3.14",
+            "latest_version": "3.15.1",
+            "latest_channel": "3.15",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -905,7 +905,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1717407305",
+            "latest_version": "5.0.1721288158",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.8.1",
+            "latest_version": "0.8.2",
             "latest_channel": "threescale-2.14",
             "disconnected_supported": true,
             "fips_supported": false,

@@ -1378,7 +1378,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.102.0",
+            "latest_version": "0.104.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "multicluster-global-hub-operator",
             "display_name": "Multicluster Global Hub Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "release-2.11",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2203,7 +2203,7 @@
         {
             "package_name": "stackgres-community",
             "display_name": "StackGres",
-            "latest_version": "1.11.0",
+            "latest_version": "1.12.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

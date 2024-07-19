@@ -124,7 +124,7 @@
         {
             "package_name": "app-insights-operator",
             "display_name": "App Insights",
-            "latest_version": "1.8.0",
+            "latest_version": "1.8.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.519",
+            "latest_version": "2022.4.557",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -267,7 +267,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.11.0",
+            "latest_version": "1.12.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,8 +278,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.59.0",
-            "latest_channel": "stable",
+            "latest_version": "42.60.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -531,9 +531,9 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.4",
+            "latest_version": "1.4.5",
             "latest_channel": "beta",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/neuvector/neuvector-operator",
