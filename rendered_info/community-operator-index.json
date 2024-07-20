@@ -267,7 +267,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "25.0.1",
+            "latest_version": "25.0.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "ack-apigatewayv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway v2",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2192,7 +2192,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0-beta.2",
+            "latest_version": "0.5.0-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
