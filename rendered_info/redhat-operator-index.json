@@ -1202,7 +1202,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.9",
+            "latest_version": "5.8.10",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

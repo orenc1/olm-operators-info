@@ -1147,7 +1147,7 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "24.4.0",
+            "latest_version": "24.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
