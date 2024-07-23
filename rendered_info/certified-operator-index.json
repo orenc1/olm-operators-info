@@ -267,7 +267,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.12.0-rc1",
+            "latest_version": "1.12.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.16.0",
+            "latest_version": "2.16.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "vault-secrets-operator",
             "display_name": "Vault Secrets Operator",
-            "latest_version": "0.7.1",
+            "latest_version": "0.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,9 +1191,9 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "2.3.0",
+            "latest_version": "2.4.0",
             "latest_channel": "stable",
-            "disconnected_supported": true,
+            "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
@@ -1389,7 +1389,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.16.0",
+            "latest_version": "2.16.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
