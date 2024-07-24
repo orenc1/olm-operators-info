@@ -1389,7 +1389,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.16.1",
+            "latest_version": "2.16.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1818,7 +1818,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.26.2",
+            "latest_version": "1.27.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1917,7 +1917,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.6.0-823",
+            "latest_version": "24.7.0-861",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

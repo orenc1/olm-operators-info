@@ -300,7 +300,7 @@
         {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1081,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.13",
+            "latest_version": "1.2.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1631,7 +1631,7 @@
         {
             "package_name": "ack-dynamodb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DynamoDB",
-            "latest_version": "1.2.11",
+            "latest_version": "1.2.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1675,7 +1675,7 @@
         {
             "package_name": "ack-elasticache-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ElastiCache",
-            "latest_version": "0.0.30",
+            "latest_version": "0.1.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,7 +1807,7 @@
         {
             "package_name": "ack-rds-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon RDS",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.88.0",
+            "latest_version": "7.89.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2423,7 +2423,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.26.2",
+            "latest_version": "1.27.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2665,7 +2665,7 @@
         {
             "package_name": "ack-secretsmanager-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Secrets Manager",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
