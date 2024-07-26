@@ -1169,7 +1169,7 @@
         {
             "package_name": "portworx-certified",
             "display_name": "Portworx Enterprise",
-            "latest_version": "24.1.0",
+            "latest_version": "24.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

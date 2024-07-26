@@ -430,6 +430,17 @@
             "documentation_url": "https://docs.couchbase.com/operator/current/overview.html"
         },
         {
+            "package_name": "sumologic-kubernetes-collection-helm-operator-rhmp",
+            "display_name": "Sumo Logic Kubernetes Collection Helm Operator",
+            "latest_version": "4.9.0-1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/SumoLogic/sumologic-kubernetes-collection-helm-operator.git",
+            "documentation_url": ""
+        },
+        {
             "package_name": "ovms-operator-rhmp",
             "display_name": "OpenVINO Toolkit Operator",
             "latest_version": "1.1.0",
