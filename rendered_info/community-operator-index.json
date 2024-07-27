@@ -674,7 +674,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1092,7 +1092,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1114,7 @@
         {
             "package_name": "ack-cloudtrail-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudTrail",
-            "latest_version": "1.0.11",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "ack-pipes-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge Pipes",
-            "latest_version": "1.0.8",
+            "latest_version": "1.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "ack-acmpca-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM PCA",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1994,7 +1994,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.11",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2258,12 +2258,12 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.5",
+            "latest_version": "1.0.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "https://github.com/mjiao/sap-data-intelligence/tree/master/observer-operator",
             "documentation_url": ""
         },
         {
@@ -2302,7 +2302,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.13",
+            "latest_version": "0.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2511,7 +2511,7 @@
         {
             "package_name": "ack-lambda-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Lambda",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2654,7 +2654,7 @@
         {
             "package_name": "ack-ecs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECS",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2775,7 +2775,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2797,7 +2797,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.29",
+            "latest_version": "0.0.30",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
