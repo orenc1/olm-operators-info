@@ -564,7 +564,7 @@
         {
             "package_name": "ack-applicationautoscaling-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
-            "latest_version": "1.0.11",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,7 +839,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.14",
+            "latest_version": "1.2.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2335,7 +2335,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.15",
+            "latest_version": "1.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
