@@ -465,7 +465,7 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.11.0",
+            "latest_version": "2.11.1",
             "latest_channel": "release-2.11",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -663,7 +663,7 @@
         {
             "package_name": "rhdh",
             "display_name": "Red Hat Developer Hub Operator",
-            "latest_version": "1.2.0",
+            "latest_version": "1.2.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.6.0",
+            "latest_version": "2.6.1",
             "latest_channel": "stable-2.6",
             "disconnected_supported": true,
             "fips_supported": true,

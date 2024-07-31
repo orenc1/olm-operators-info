@@ -762,7 +762,7 @@
         {
             "package_name": "ack-organizations-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Organizations",
-            "latest_version": "0.0.6",
+            "latest_version": "0.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -817,7 +817,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.104.0",
+            "latest_version": "0.105.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,8 +1048,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.0-rc.1",
-            "latest_channel": "rc",
+            "latest_version": "0.5.0",
+            "latest_channel": "konveyor-0.5",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -2060,7 +2060,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.15.0",
+            "latest_version": "1.15.2",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2258,7 +2258,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2588,7 +2588,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.27.0",
+            "latest_version": "1.27.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
