@@ -1224,7 +1224,7 @@
         {
             "package_name": "pubsubplus-eventbroker-operator",
             "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2324,7 +2324,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.10.0",
+            "latest_version": "5.11.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2731,7 +2731,7 @@
         {
             "package_name": "hawtio-operator",
             "display_name": "Hawtio Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
