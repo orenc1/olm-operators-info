@@ -2214,7 +2214,7 @@
         {
             "package_name": "ack-iam-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon IAM",
-            "latest_version": "1.3.9",
+            "latest_version": "1.3.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2258,7 +2258,7 @@
         {
             "package_name": "sap-data-intelligence-observer-operator",
             "display_name": "SAP Data Intelligence 3 - Observer Operator",
-            "latest_version": "1.0.7",
+            "latest_version": "1.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
