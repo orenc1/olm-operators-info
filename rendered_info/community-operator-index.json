@@ -949,7 +949,7 @@
         {
             "package_name": "trustify-operator",
             "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.4",
+            "latest_version": "0.1.0-alpha.5",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
