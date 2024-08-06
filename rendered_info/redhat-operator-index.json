@@ -564,7 +564,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.3.0",
+            "latest_version": "0.3.1",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -795,7 +795,7 @@
         {
             "package_name": "security-profiles-operator",
             "display_name": "Security Profiles Operator",
-            "latest_version": "0.8.4",
+            "latest_version": "0.8.5",
             "latest_channel": "release-alpha-rhel-8",
             "disconnected_supported": false,
             "fips_supported": false,
