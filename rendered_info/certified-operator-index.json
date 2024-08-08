@@ -145,13 +145,13 @@
         },
         {
             "package_name": "netscaler-adm-agent-operator",
-            "display_name": "NetScaler ADM Agent Operator",
-            "latest_version": "141.25.33",
+            "display_name": "Netscaler ADM Agent Operator",
+            "latest_version": "141.31.38",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/netscaler/netscaler-helm-charts/tree/master/adm-agent",
+            "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -223,8 +223,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.7.1-5",
-            "latest_channel": "2024.7",
+            "latest_version": "2024.8.0-1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -421,8 +421,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.7.1-5",
-            "latest_channel": "2024.7",
+            "latest_version": "2024.8.0-1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -498,8 +498,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.61.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.61.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -641,7 +641,7 @@
         {
             "package_name": "hpe-ezmeral-csi-operator",
             "display_name": "HPE Ezmeral Data Fabric CSI Operator for Kubernetes",
-            "latest_version": "1.0.14",
+            "latest_version": "1.0.15",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,8 +828,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.7.1-5",
-            "latest_channel": "2024.7",
+            "latest_version": "2024.8.0-1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1399,8 +1399,8 @@
         },
         {
             "package_name": "habana-ai-operator",
-            "display_name": "Habana AI",
-            "latest_version": "1.16.0-526",
+            "display_name": "Intel Gaudi AI accelerator",
+            "latest_version": "1.17.0-495",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2005,7 +2005,7 @@
         {
             "package_name": "splunk-operator",
             "display_name": "Splunk Operator",
-            "latest_version": "2.5.1",
+            "latest_version": "2.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

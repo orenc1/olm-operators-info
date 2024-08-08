@@ -135,7 +135,7 @@
         {
             "package_name": "ack-cloudwatch-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.14",
+            "latest_version": "0.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.11.0",
+            "latest_version": "5.12.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1026,7 +1026,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.57.0",
+            "latest_version": "1.59.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1070,7 +1070,7 @@
         {
             "package_name": "ack-ecr-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECR",
-            "latest_version": "1.0.16",
+            "latest_version": "1.0.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.15",
+            "latest_version": "1.2.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
-            "latest_version": "0.0.26",
+            "latest_version": "0.0.27",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.34",
+            "latest_version": "0.0.35",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "ack-organizations-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Organizations",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1774,7 +1774,7 @@
         {
             "package_name": "ack-efs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Elastic File System (Amazon EFS)",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1994,7 +1994,7 @@
         {
             "package_name": "aqua",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.17",
+            "latest_version": "2022.4.18",
             "latest_channel": "2022.4.0",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2522,7 +2522,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.3.3",
+            "latest_version": "2.4.0",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2775,8 +2775,8 @@
         {
             "package_name": "layer7-operator",
             "display_name": "Layer7 Operator",
-            "latest_version": "1.0.6",
-            "latest_channel": "preview-v1.0.6",
+            "latest_version": "1.0.7",
+            "latest_channel": "preview-v1.0.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

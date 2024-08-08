@@ -223,7 +223,7 @@
         {
             "package_name": "kubernetes-nmstate-operator",
             "display_name": "Kubernetes NMState Operator",
-            "latest_version": "4.14.0-202407101709",
+            "latest_version": "4.14.0-202407310940",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "sriov-network-operator",
             "display_name": "SR-IOV Network Operator",
-            "latest_version": "4.14.0-202407100810",
+            "latest_version": "4.14.0-202407292140",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.73.8",
+            "latest_version": "1.73.10",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -531,7 +531,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.33.1",
+            "latest_version": "1.33.2",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.5.2",
+            "latest_version": "2.6.0",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -685,7 +685,7 @@
         {
             "package_name": "aws-efs-csi-driver-operator",
             "display_name": "AWS EFS CSI Driver Operator",
-            "latest_version": "4.14.0-202407040439",
+            "latest_version": "4.14.0-202407120139",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "ptp-operator",
             "display_name": "PTP Operator",
-            "latest_version": "4.14.0-202407021509",
+            "latest_version": "4.14.0-202407181539",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "local-storage-operator",
             "display_name": "Local Storage",
-            "latest_version": "4.14.0-202407021509",
+            "latest_version": "4.14.0-202407260844",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "metallb-operator",
             "display_name": "MetalLB Operator",
-            "latest_version": "4.14.0-202407091409",
+            "latest_version": "4.14.0-202407221140",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
