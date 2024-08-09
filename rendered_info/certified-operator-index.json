@@ -410,7 +410,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,8 +432,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.20-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.20",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -553,8 +553,8 @@
         {
             "package_name": "stackable-secret-operator",
             "display_name": "Stackable Secret Operator",
-            "latest_version": "24.4.0-1",
-            "latest_channel": "24.4",
+            "latest_version": "24.7.0",
+            "latest_channel": "24.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -762,7 +762,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,8 +905,8 @@
         {
             "package_name": "stackable-commons-operator",
             "display_name": "Stackable Commons Operator",
-            "latest_version": "24.4.0-1",
-            "latest_channel": "24.4",
+            "latest_version": "24.7.0",
+            "latest_channel": "24.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -927,7 +927,7 @@
         {
             "package_name": "pubsubplus-eventbroker-operator",
             "display_name": "Solace PubSub+ Event Broker Operator",
-            "latest_version": "1.1.0",
+            "latest_version": "1.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,8 +1224,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.20-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.20",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1653,7 +1653,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.15.6-xb3e9de9",
+            "latest_version": "1.15.7-x7c3a537",
             "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1829,7 +1829,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.5",
+            "latest_version": "2.1.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2104,13 +2104,13 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.13.0",
+            "latest_version": "2.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/elastic/cloud-on-k8s",
-            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.13/index.html"
+            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.14/index.html"
         }
     ]
 }

@@ -91,7 +91,7 @@
         {
             "package_name": "ack-route53-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53",
-            "latest_version": "0.0.15",
+            "latest_version": "0.0.16",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -234,9 +234,9 @@
         {
             "package_name": "bpfman-operator",
             "display_name": "Bpfman Operator",
-            "latest_version": "0.4.1",
+            "latest_version": "0.5.0",
             "latest_channel": "alpha",
-            "disconnected_supported": false,
+            "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/bpfman/bpfman",
@@ -322,7 +322,7 @@
         {
             "package_name": "ack-eventbridge-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.17",
+            "latest_version": "0.0.18",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -520,7 +520,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "ack-emrcontainers-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EMR on EKS",
-            "latest_version": "1.0.11",
+            "latest_version": "1.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1048,7 +1048,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1664,7 +1664,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "1.0.3",
+            "latest_version": "1.0.4",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
-            "latest_version": "1.2.11",
+            "latest_version": "1.2.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2511,7 +2511,7 @@
         {
             "package_name": "ack-secretsmanager-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Secrets Manager",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
