@@ -278,7 +278,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.15.0",
+            "latest_version": "2.16.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2621,7 +2621,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.53",
+            "latest_version": "0.0.54",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

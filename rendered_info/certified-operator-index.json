@@ -113,7 +113,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.557",
+            "latest_version": "2022.4.587",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.9.0",
+            "latest_version": "2.9.1",
             "latest_channel": "2.9",
             "disconnected_supported": true,
             "fips_supported": false,
