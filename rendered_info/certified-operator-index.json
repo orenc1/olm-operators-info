@@ -586,7 +586,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "24.6.0",
+            "latest_version": "24.6.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,7 +1961,7 @@
         {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
