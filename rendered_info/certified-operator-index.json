@@ -322,7 +322,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.36.0",
+            "latest_version": "2.37.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1796,8 +1796,8 @@
         {
             "package_name": "stackable-listener-operator",
             "display_name": "Stackable Listener Operator",
-            "latest_version": "24.4.0-1",
-            "latest_channel": "stable",
+            "latest_version": "24.7.0",
+            "latest_channel": "24.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1829,7 +1829,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.6",
+            "latest_version": "2.1.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
