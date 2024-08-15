@@ -14,7 +14,7 @@
         {
             "package_name": "ack-pipes-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge Pipes",
-            "latest_version": "1.0.9",
+            "latest_version": "1.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -36,7 +36,7 @@
         {
             "package_name": "ack-cloudwatchlogs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch Logs",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "ack-kms-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon KMS",
-            "latest_version": "1.0.14",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2456,7 +2456,7 @@
         {
             "package_name": "ack-apigatewayv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway v2",
-            "latest_version": "1.0.13",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2588,7 +2588,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.105.0",
+            "latest_version": "0.106.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
