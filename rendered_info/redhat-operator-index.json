@@ -267,8 +267,8 @@
         {
             "package_name": "fence-agents-remediation",
             "display_name": "Fence Agents Remediation Operator",
-            "latest_version": "0.4.0",
-            "latest_channel": "stable",
+            "latest_version": "0.4.1",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -377,8 +377,8 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator",
-            "latest_version": "5.3.0",
-            "latest_channel": "stable",
+            "latest_version": "5.3.1",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -707,7 +707,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.0",
+            "latest_version": "4.5.1",
             "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,8 +883,8 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.8.1",
-            "latest_channel": "stable",
+            "latest_version": "0.8.2",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -982,8 +982,8 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation operator",
-            "latest_version": "0.3.0",
-            "latest_channel": "stable",
+            "latest_version": "0.3.1",
+            "latest_channel": "4.16-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

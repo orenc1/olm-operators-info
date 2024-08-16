@@ -430,6 +430,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-wafv2-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon WAFV2",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "sosreport-operator",
             "display_name": "sosreport-operator",
             "latest_version": "0.0.2",
@@ -1818,7 +1829,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.46.4",
+            "latest_version": "0.47.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
@@ -2542,6 +2553,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-recyclebin-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Recycle Bin",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
             "latest_version": "0.11.1",
@@ -2588,7 +2610,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.106.0",
+            "latest_version": "0.107.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
