@@ -2335,7 +2335,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2709,7 +2709,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.89.0",
+            "latest_version": "7.90.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

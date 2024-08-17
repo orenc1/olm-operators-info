@@ -135,7 +135,7 @@
         {
             "package_name": "runtime-fabric-operator",
             "display_name": "Runtime Fabric Operator",
-            "latest_version": "2.6.52",
+            "latest_version": "2.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.37.0",
+            "latest_version": "2.37.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.15.7-x7c3a537",
+            "latest_version": "1.15.8-x05b0ded",
             "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
