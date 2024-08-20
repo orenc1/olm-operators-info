@@ -353,6 +353,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "oceanbase-operator",
+            "display_name": "Ob Operator",
+            "latest_version": "2.2.2",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "sanstoragecsi-operator-bundle",
             "display_name": "NEC Storage M Series CSI Operator",
             "latest_version": "1.1.0",
@@ -663,7 +674,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.3.1",
+            "latest_version": "2.3.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +773,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.2.2",
+            "latest_version": "1.3.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1708,7 +1719,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.14.0",
+            "latest_version": "2.15.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
