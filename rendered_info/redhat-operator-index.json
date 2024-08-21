@@ -740,7 +740,7 @@
         {
             "package_name": "marin3r-operator",
             "display_name": "Red Hat - MARIN3R",
-            "latest_version": "0.13.0",
+            "latest_version": "0.13.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
