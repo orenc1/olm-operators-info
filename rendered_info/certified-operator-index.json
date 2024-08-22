@@ -69,7 +69,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.28.0",
+            "latest_version": "1.28.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -91,7 +91,7 @@
         {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
-            "latest_version": "2.3.4",
+            "latest_version": "2.3.5",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,8 +443,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.30-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.30",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -509,8 +509,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.62.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.62.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -526,17 +526,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "citrix-ingress-controller-operator",
-            "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.33.4",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -685,7 +674,7 @@
         {
             "package_name": "nxiq-operator-certified",
             "display_name": "Nexus IQ Operator",
-            "latest_version": "1.174.0-1",
+            "latest_version": "1.181.0-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1112,17 +1101,6 @@
             "documentation_url": "https://docs.streamnative.io"
         },
         {
-            "package_name": "citrix-cpx-istio-sidecar-injector-operator",
-            "display_name": "Citrix ADC CPX Istio Sidecar Injector Operator",
-            "latest_version": "0.9.9",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-xds-adaptor",
-            "documentation_url": ""
-        },
-        {
             "package_name": "netapp-spark-operator",
             "display_name": "NetApp Supported Apache Spark on OpenShift",
             "latest_version": "1.1.1",
@@ -1235,8 +1213,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.30-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.30",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1275,17 +1253,6 @@
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/EnterpriseDB/cloud-native-postgres",
             "documentation_url": "https://www.enterprisedb.com/docs/postgres_for_kubernetes/latest/"
-        },
-        {
-            "package_name": "citrix-adc-istio-ingress-gateway-operator",
-            "display_name": "Citrix ADC Istio Ingress Gateway Operator",
-            "latest_version": "0.9.9",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-xds-adaptor",
-            "documentation_url": ""
         },
         {
             "package_name": "ibm-security-verify-directory-operator",
@@ -1400,7 +1367,7 @@
         {
             "package_name": "datadog-operator-certified",
             "display_name": "Datadog Operator",
-            "latest_version": "1.7.0",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1473,17 +1440,6 @@
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/leaksignal/leaksignal-operator",
             "documentation_url": "https://www.leaksignal.com/docs/Operator/Getting%20Started"
-        },
-        {
-            "package_name": "citrix-cpx-with-ingress-controller-operator",
-            "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.33.4",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
-            "documentation_url": ""
         },
         {
             "package_name": "keysight-wap-logging",

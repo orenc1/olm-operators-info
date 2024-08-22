@@ -89,17 +89,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "citrix-cpx-with-ingress-controller-operator-rhmp",
-            "display_name": "Citrix ADC CPX with Ingress Controller",
-            "latest_version": "1.18.5",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
-            "documentation_url": ""
-        },
-        {
             "package_name": "kubemq-operator-marketplace-rhmp",
             "display_name": "Kubemq Enterprise Operator",
             "latest_version": "1.7.8",
@@ -185,17 +174,6 @@
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "citrix-ingress-controller-operator-rhmp",
-            "display_name": "Citrix Ingress Controller",
-            "latest_version": "1.18.5",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/citrix/citrix-k8s-ingress-controller",
             "documentation_url": ""
         },
         {
@@ -344,7 +322,7 @@
         {
             "package_name": "datadog-operator-certified-rhmp",
             "display_name": "Datadog Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
