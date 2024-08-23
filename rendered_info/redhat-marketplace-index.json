@@ -432,8 +432,8 @@
         {
             "package_name": "couchbase-enterprise-certified-rhmp",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.6.4-3",
-            "latest_channel": "2.6.4",
+            "latest_version": "2.7.0-1",
+            "latest_channel": "2.7.0",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
