@@ -685,7 +685,7 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.9.1",
+            "latest_version": "2.9.2",
             "latest_channel": "2.9",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator-with-cg-module",
             "display_name": "Fujitsu Enterprise Postgres Operator with Cryptographic Module",
-            "latest_version": "6.1.2",
+            "latest_version": "6.1.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.26",
+            "latest_version": "3.1.27",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1015,7 +1015,7 @@
         {
             "package_name": "exascaler-csi-driver-operator",
             "display_name": "EXAScaler CSI File Driver",
-            "latest_version": "2.2.5",
+            "latest_version": "2.2.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1037,7 +1037,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.26.0",
+            "latest_version": "1.27.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "6.1.2",
+            "latest_version": "6.1.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -146,7 +146,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.5-6",
+            "latest_version": "7.13.5-7",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.11.0",
+            "latest_version": "2.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -848,17 +848,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "orchestrator-operator",
-            "display_name": "Orchestrator Operator",
-            "latest_version": "1.2.0-rc9",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/parodos-dev/orchestrator-helm-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "fuse-console",
             "display_name": "Red Hat Integration - Fuse Console",
             "latest_version": "7.13.0",
@@ -1257,7 +1246,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.13.1-427",
+            "latest_version": "2.14.1-454",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
