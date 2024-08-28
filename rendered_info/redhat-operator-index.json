@@ -718,7 +718,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.12.1-opr-1-0.1723669176.p",
+            "latest_version": "7.12.1-opr-1-0.1724054375.p",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
