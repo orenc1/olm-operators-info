@@ -289,7 +289,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.29.0",
+            "latest_version": "0.30.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.3.1",
+            "latest_version": "0.3.2",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -751,7 +751,7 @@
         {
             "package_name": "rhdh",
             "display_name": "Red Hat Developer Hub Operator",
-            "latest_version": "1.2.2",
+            "latest_version": "1.2.3",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.6.1",
+            "latest_version": "2.6.2",
             "latest_channel": "stable-2.6",
             "disconnected_supported": true,
             "fips_supported": true,
