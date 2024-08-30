@@ -278,7 +278,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.16.0",
+            "latest_version": "2.17.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -575,7 +575,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.29.0",
+            "latest_version": "0.30.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "trustify-operator",
             "display_name": "Trustify Operator",
-            "latest_version": "0.1.0-alpha.7",
+            "latest_version": "0.1.0-alpha.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2830,7 +2830,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.7.1",
+            "latest_version": "1.8.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
