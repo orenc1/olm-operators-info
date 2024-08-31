@@ -377,7 +377,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "3.1.201",
+            "latest_version": "3.1.301",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
