@@ -960,7 +960,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,

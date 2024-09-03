@@ -1552,6 +1552,17 @@
             "documentation_url": "https://loki-operator.dev/"
         },
         {
+            "package_name": "susql-operator",
+            "display_name": "SusQL",
+            "latest_version": "0.0.26",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/sustainable-computing-io/susql-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "etcd",
             "display_name": "etcd",
             "latest_version": "0.9.4",
@@ -2330,6 +2341,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/redhat-cop/must-gather-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "registry-operator",
+            "display_name": "Devfile Registry Operator",
+            "latest_version": "0.3.0",
+            "latest_channel": "beta",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/devfile/registry-operator",
             "documentation_url": ""
         },
         {
