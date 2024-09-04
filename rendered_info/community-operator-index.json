@@ -91,7 +91,7 @@
         {
             "package_name": "ack-route53-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53",
-            "latest_version": "0.0.16",
+            "latest_version": "0.0.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.11.0",
+            "latest_version": "0.12.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "ack-keyspaces-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Keyspaces",
-            "latest_version": "0.0.16",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
-            "latest_version": "0.0.28",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1323,7 +1323,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "0.0.15",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1675,12 +1675,12 @@
         {
             "package_name": "dapr-kubernetes-operator",
             "display_name": "Dapr Control Plane Operator",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/dapr-sandbox/dapr-kubernetes-operator",
+            "repository": "https://github.com/dapr/kubernetes-operator",
             "documentation_url": ""
         },
         {
@@ -1807,7 +1807,7 @@
         {
             "package_name": "ack-efs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Elastic File System (Amazon EFS)",
-            "latest_version": "0.0.9",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1939,7 +1939,7 @@
         {
             "package_name": "ack-documentdb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DocumentDB",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2676,7 +2676,7 @@
         {
             "package_name": "ack-elbv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ELB",
-            "latest_version": "0.0.11",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

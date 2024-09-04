@@ -190,7 +190,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.9-opr-002",
+            "latest_version": "7.6.9-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.73.10",
+            "latest_version": "1.89.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -586,7 +586,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.6.0",
+            "latest_version": "2.6.1",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -640,8 +640,8 @@
         },
         {
             "package_name": "amq-streams",
-            "display_name": "Red Hat Streams for Apache Kafka",
-            "latest_version": "2.7.0-3",
+            "display_name": "Streams for Apache Kafka",
+            "latest_version": "2.7.0-4",
             "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.6.4",
+            "latest_version": "2.6.5",
             "latest_channel": "release-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,7 +1268,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.1.0",
+            "latest_version": "3.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
