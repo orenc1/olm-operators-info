@@ -397,6 +397,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "stackgres",
+            "display_name": "StackGres",
+            "latest_version": "1.9.0",
+            "latest_channel": "candidate",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://gitlab.com/ongresinc/stackgres",
+            "documentation_url": ""
+        },
+        {
             "package_name": "vfunction-server-operator-rhmp",
             "display_name": "vFunction Operator",
             "latest_version": "3.2.1228",

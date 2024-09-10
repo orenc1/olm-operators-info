@@ -25,7 +25,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.14.5",
+            "latest_version": "4.14.6",
             "latest_channel": "4.14",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -542,7 +542,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.9-opr-003",
+            "latest_version": "7.6.10-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,7 +927,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.6.5",
+            "latest_version": "2.6.6",
             "latest_channel": "release-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1143,6 +1143,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
+        },
+        {
+            "package_name": "rhbk-operator",
+            "display_name": "Keycloak Operator",
+            "latest_version": "24.0.7-opr.1",
+            "latest_channel": "stable-v24",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
             "package_name": "aws-load-balancer-operator",
