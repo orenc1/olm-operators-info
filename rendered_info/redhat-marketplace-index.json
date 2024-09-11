@@ -157,7 +157,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Veeam Kasten (Enterprise - PAYGO)",
-            "latest_version": "7.0.7",
+            "latest_version": "7.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -278,7 +278,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Veeam Kasten (Enterprise - Term)",
-            "latest_version": "7.0.7",
+            "latest_version": "7.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -399,7 +399,7 @@
         {
             "package_name": "stackgres",
             "display_name": "StackGres",
-            "latest_version": "1.9.0",
+            "latest_version": "1.13.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Veeam Kasten (Free)",
-            "latest_version": "7.0.7",
+            "latest_version": "7.0.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -861,7 +861,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.9.1-19",
+            "latest_version": "2024.9.2-20",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -938,7 +938,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.9.1-19",
+            "latest_version": "2024.9.2-20",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
-            "latest_version": "0.4.0",
+            "latest_version": "0.5.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1928,7 +1928,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.9.1-19",
+            "latest_version": "2024.9.2-20",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,

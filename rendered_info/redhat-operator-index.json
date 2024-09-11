@@ -300,7 +300,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.14.7",
+            "latest_version": "4.14.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1143,17 +1143,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
-        },
-        {
-            "package_name": "rhbk-operator",
-            "display_name": "Keycloak Operator",
-            "latest_version": "24.0.7-opr.1",
-            "latest_channel": "stable-v24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/keycloak/keycloak",
-            "documentation_url": "https://www.keycloak.org/guides#operator"
         },
         {
             "package_name": "aws-load-balancer-operator",
