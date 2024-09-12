@@ -2786,7 +2786,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.12.0",
+            "latest_version": "5.13.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
