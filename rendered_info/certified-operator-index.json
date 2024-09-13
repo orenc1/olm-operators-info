@@ -289,7 +289,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.8.0",
+            "latest_version": "1.13.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -421,7 +421,7 @@
         {
             "package_name": "infoscale-licensing-operator",
             "display_name": "InfoScale\u2122 Licensing Operator",
-            "latest_version": "8.0.320",
+            "latest_version": "8.0.330",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "infoscale-dr-manager",
             "display_name": "InfoScale\u2122 DR Manager",
-            "latest_version": "8.0.320",
+            "latest_version": "8.0.330",
             "latest_channel": "8.0.300x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "6.1.3",
+            "latest_version": "6.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.3.1",
+            "latest_version": "1.3.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

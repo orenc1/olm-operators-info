@@ -1620,7 +1620,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.3.1",
+            "latest_version": "1.3.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1719,7 +1719,7 @@
         {
             "package_name": "ack-wafv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon WAFV2",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

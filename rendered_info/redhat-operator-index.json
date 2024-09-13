@@ -47,7 +47,7 @@
         {
             "package_name": "mtr-operator",
             "display_name": "Migration Toolkit for Runtimes Operator",
-            "latest_version": "1.2.6",
+            "latest_version": "1.2.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -212,7 +212,7 @@
         {
             "package_name": "devspaces",
             "display_name": "Red Hat OpenShift Dev Spaces",
-            "latest_version": "3.15.0",
+            "latest_version": "3.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1054,6 +1054,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/openshift/cluster-nfd-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "servicemeshoperator3",
+            "display_name": "Red Hat OpenShift Service Mesh 3",
+            "latest_version": "3.0.0-tp.1",
+            "latest_channel": "candidates",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/istio-ecosystem/sail-operator",
             "documentation_url": ""
         },
         {
