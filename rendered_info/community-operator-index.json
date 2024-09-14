@@ -322,7 +322,7 @@
         {
             "package_name": "ack-cloudwatchlogs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch Logs",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1290,7 +1290,7 @@
         {
             "package_name": "lbconfig-operator",
             "display_name": "External Load-Balancer Configuration Operator",
-            "latest_version": "0.4.1",
+            "latest_version": "0.5.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.13",
+            "latest_version": "1.2.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1950,7 +1950,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.12.1",
+            "latest_version": "3.12.2",
             "latest_channel": "stable-3.12",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -2720,7 +2720,7 @@
         {
             "package_name": "susql-operator",
             "display_name": "SusQL",
-            "latest_version": "0.0.29",
+            "latest_version": "0.0.30",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

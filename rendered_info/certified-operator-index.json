@@ -3,7 +3,7 @@
         {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
-            "latest_version": "2.3.5",
+            "latest_version": "2.4.2",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "infoscale-sds-operator",
             "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "8.0.320",
+            "latest_version": "8.0.330",
             "latest_channel": "8.0.300x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -927,8 +927,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.40",
-            "latest_channel": "stable",
+            "latest_version": "8.13.50-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1213,8 +1213,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.40",
-            "latest_channel": "stable",
+            "latest_version": "8.13.50-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1224,8 +1224,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.63.0",
-            "latest_channel": "stable",
+            "latest_version": "42.64.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
