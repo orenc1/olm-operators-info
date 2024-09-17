@@ -597,7 +597,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.1",
+            "latest_version": "4.5.2",
             "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.12.0",
+            "latest_version": "2.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -916,7 +916,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.6.6",
+            "latest_version": "2.6.7",
             "latest_channel": "release-v2.6",
             "disconnected_supported": false,
             "fips_supported": false,
