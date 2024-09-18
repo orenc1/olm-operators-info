@@ -25,7 +25,7 @@
         {
             "package_name": "zabbix-operator-certified-rhmp",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.29",
+            "latest_version": "6.0.33",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -179,7 +179,7 @@
         {
             "package_name": "percona-xtradb-cluster-operator-certified-rhmp",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.14.0",
+            "latest_version": "1.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -201,7 +201,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.12",
+            "latest_version": "2.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1723536534",
+            "latest_version": "5.0.1725953602",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1723536534",
+            "latest_version": "1.5.1725952694",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "redhat-oadp-operator",
             "display_name": "OADP Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable-1.4",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -718,7 +718,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.3.2",
+            "latest_version": "0.4.0",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "klusterlet-product",
             "display_name": "Klusterlet",
-            "latest_version": "2.5.6",
+            "latest_version": "2.5.7",
             "latest_channel": "stable-2.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat build of Apicurio Registry",
-            "latest_version": "2.6.1",
+            "latest_version": "2.6.3",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "volsync-product",
             "display_name": "VolSync",
-            "latest_version": "0.10.0",
+            "latest_version": "0.10.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
