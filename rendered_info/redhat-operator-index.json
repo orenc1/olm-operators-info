@@ -14,7 +14,7 @@
         {
             "package_name": "cryostat-operator",
             "display_name": "Red Hat build of Cryostat",
-            "latest_version": "3.0.0",
+            "latest_version": "3.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -342,6 +342,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "rhbk-operator",
+            "display_name": "Keycloak Operator",
+            "latest_version": "24.0.8-opr.1",
+            "latest_channel": "stable-v24",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
+        },
+        {
             "package_name": "marin3r-operator",
             "display_name": "Red Hat - MARIN3R",
             "latest_version": "0.13.1",
@@ -586,7 +597,7 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.10-opr-001",
+            "latest_version": "7.6.11-opr-001",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +619,7 @@
         {
             "package_name": "lifecycle-agent",
             "display_name": "Lifecycle Agent",
-            "latest_version": "4.14.0",
+            "latest_version": "4.14.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -652,7 +663,7 @@
         {
             "package_name": "datagrid",
             "display_name": "Data Grid",
-            "latest_version": "8.5.2",
+            "latest_version": "8.5.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
