@@ -476,7 +476,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "25.0.5",
+            "latest_version": "25.0.6",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1125,7 @@
         {
             "package_name": "ack-ec2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EC2",
-            "latest_version": "1.2.24",
+            "latest_version": "1.2.26",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.4.5",
+            "latest_version": "1.4.6",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1862,7 +1862,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.11.1",
+            "latest_version": "0.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2577,7 +2577,7 @@
         {
             "package_name": "rabbitmq-cluster-operator",
             "display_name": "RabbitMQ-cluster-operator",
-            "latest_version": "2.9.0",
+            "latest_version": "2.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
