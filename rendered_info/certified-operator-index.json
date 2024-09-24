@@ -465,7 +465,7 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -509,7 +509,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.1",
+            "latest_version": "2.39.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,8 +564,8 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.7.5",
-            "latest_channel": "alpha",
+            "latest_version": "1.7.7",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1488,7 +1488,7 @@
         {
             "package_name": "ibm-storage-odf-operator",
             "display_name": "IBM Storage ODF operator",
-            "latest_version": "1.5.0",
+            "latest_version": "1.5.1",
             "latest_channel": "stable-v1.5",
             "disconnected_supported": false,
             "fips_supported": false,

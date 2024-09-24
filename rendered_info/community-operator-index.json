@@ -564,7 +564,7 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.7",
+            "latest_version": "0.0.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
