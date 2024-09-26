@@ -47,7 +47,7 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.9.2-20",
+            "latest_version": "2024.9.3-25",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.9.2-20",
+            "latest_version": "2024.9.3-25",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "24.6.1",
+            "latest_version": "24.6.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.7.7",
+            "latest_version": "1.7.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,8 +1059,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.50",
-            "latest_channel": "stable",
+            "latest_version": "8.13.60-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1829,7 +1829,7 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.9.2-20",
+            "latest_version": "2024.9.3-25",
             "latest_channel": "2024.9",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,8 +1972,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.50",
-            "latest_channel": "stable",
+            "latest_version": "8.13.60-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

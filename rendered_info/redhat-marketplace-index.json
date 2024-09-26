@@ -47,7 +47,7 @@
         {
             "package_name": "k10-kasten-operator-paygo-rhmp",
             "display_name": "Veeam Kasten (Enterprise - PAYGO)",
-            "latest_version": "7.0.8",
+            "latest_version": "7.0.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +201,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Veeam Kasten (Free)",
-            "latest_version": "7.0.8",
+            "latest_version": "7.0.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -366,7 +366,7 @@
         {
             "package_name": "k10-kasten-operator-term-rhmp",
             "display_name": "Veeam Kasten (Enterprise - Term)",
-            "latest_version": "7.0.8",
+            "latest_version": "7.0.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
