@@ -663,7 +663,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.3",
+            "latest_version": "2.4.4",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1384,6 +1384,17 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": "https://github.com/redhat-cop/volume-expander-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "socmmd",
+            "display_name": "socmmd",
+            "latest_version": "0.0.2",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/OpenMPDK/SMDK/tree/main/lib/redhat/socmmd",
             "documentation_url": ""
         },
         {
@@ -2896,7 +2907,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

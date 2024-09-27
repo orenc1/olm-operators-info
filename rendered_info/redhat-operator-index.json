@@ -135,7 +135,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.8.3",
+            "latest_version": "1.8.4",
             "latest_channel": "release-v1.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.12",
+            "latest_version": "5.8.13",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

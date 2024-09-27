@@ -190,7 +190,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.2.2",
+            "latest_version": "1.3.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,7 +443,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.5.1396",
+            "latest_version": "3.7.1495",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.7.9",
+            "latest_version": "1.7.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -960,7 +960,7 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.65",
+            "latest_version": "0.12.66",
             "latest_channel": "release-0.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1059,7 +1059,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.60-beta.1",
+            "latest_version": "8.13.60-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2060,7 +2060,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
