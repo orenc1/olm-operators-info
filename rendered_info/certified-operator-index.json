@@ -201,8 +201,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.64.0",
-            "latest_channel": "stable",
+            "latest_version": "42.65.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1906,7 +1906,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.5",
+            "latest_version": "1.4.6",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

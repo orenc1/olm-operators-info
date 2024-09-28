@@ -190,7 +190,7 @@
         {
             "package_name": "dns-operator",
             "display_name": "DNS Operator",
-            "latest_version": "0.2.0",
+            "latest_version": "0.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +454,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.31.0",
+            "latest_version": "0.33.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -740,7 +740,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.8.0",
+            "latest_version": "1.9.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,7 +1763,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.47.3",
+            "latest_version": "0.48.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
@@ -2049,7 +2049,7 @@
         {
             "package_name": "kuadrant-operator",
             "display_name": "Kuadrant Operator",
-            "latest_version": "0.7.2",
+            "latest_version": "0.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
