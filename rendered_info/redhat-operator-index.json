@@ -36,7 +36,7 @@
         {
             "package_name": "opentelemetry-product",
             "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.107.0-4",
+            "latest_version": "0.107.0-4-0.1727168137.p",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "openshift-custom-metrics-autoscaler-operator",
             "display_name": "Custom Metrics Autoscaler",
-            "latest_version": "2.14.1-454",
+            "latest_version": "2.14.1-467",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
