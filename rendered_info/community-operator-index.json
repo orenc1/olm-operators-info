@@ -2214,7 +2214,7 @@
         {
             "package_name": "susql-operator",
             "display_name": "SusQL",
-            "latest_version": "0.0.30",
+            "latest_version": "0.0.32",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2632,7 +2632,7 @@
         {
             "package_name": "automotive-infra",
             "display_name": "Automotive-CI",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2709,7 +2709,7 @@
         {
             "package_name": "stackgres-community",
             "display_name": "StackGres",
-            "latest_version": "1.13.0-rc1",
+            "latest_version": "1.13.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

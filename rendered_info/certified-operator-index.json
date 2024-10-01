@@ -89,6 +89,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "minio-aistor-operator",
+            "display_name": "Minio Aistor Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": null,
+            "documentation_url": ""
+        },
+        {
             "package_name": "hpe-ezmeral-csi-operator",
             "display_name": "HPE Ezmeral Data Fabric CSI Operator for Kubernetes",
             "latest_version": "1.0.15",
@@ -509,7 +520,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.2",
+            "latest_version": "2.39.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1114,7 +1125,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.3.2",
+            "latest_version": "2.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1246,7 @@
         {
             "package_name": "cilium-enterprise",
             "display_name": "Isovalent Enterprise for Cilium",
-            "latest_version": "1.15.8-x05b0ded",
+            "latest_version": "1.15.9-x4daa28e",
             "latest_channel": "1.15",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1697,7 +1708,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.13.0-rc1",
+            "latest_version": "1.13.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
