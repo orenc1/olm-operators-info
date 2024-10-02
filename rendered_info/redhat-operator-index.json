@@ -894,7 +894,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.2",
+            "latest_version": "4.5.3",
             "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1147,8 +1147,8 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.7.0",
-            "latest_channel": "candidate",
+            "latest_version": "2.7.1",
+            "latest_channel": "release-v2.7",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

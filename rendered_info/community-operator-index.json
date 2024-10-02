@@ -36,7 +36,7 @@
         {
             "package_name": "flux-operator",
             "display_name": "Flux Operator",
-            "latest_version": "0.9.0",
+            "latest_version": "0.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -168,7 +168,7 @@
         {
             "package_name": "neuvector-community-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.6",
+            "latest_version": "1.4.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -256,7 +256,7 @@
         {
             "package_name": "stolostron",
             "display_name": "Stolostron",
-            "latest_version": "0.5.1",
+            "latest_version": "0.5.2",
             "latest_channel": "community-0.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -487,7 +487,7 @@
         {
             "package_name": "stolostron-engine",
             "display_name": "Stolostron Engine",
-            "latest_version": "0.5.1",
+            "latest_version": "0.5.2",
             "latest_channel": "community-0.5",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -817,8 +817,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.5.3",
-            "latest_channel": "konveyor-0.5",
+            "latest_version": "0.6.0-alpha.1",
+            "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1246,7 +1246,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.4.6",
+            "latest_version": "1.4.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,7 +1763,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.48.1",
+            "latest_version": "0.48.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
