@@ -91,7 +91,7 @@
         {
             "package_name": "minio-aistor-operator",
             "display_name": "Minio Aistor Operator",
-            "latest_version": "1.0.0",
+            "latest_version": "2.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -212,8 +212,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.65.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.65.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -575,7 +575,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.7.14",
+            "latest_version": "1.7.15",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.17.2",
+            "latest_version": "2.17.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "conjur-follower-operator",
             "display_name": "Conjur Enterprise Follower Operator",
-            "latest_version": "2.4.2",
+            "latest_version": "2.4.3",
             "latest_channel": "preview",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,8 +1070,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.60-beta.4",
-            "latest_channel": "beta",
+            "latest_version": "8.13.60",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1180,7 +1180,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.17.2",
+            "latest_version": "2.17.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1983,8 +1983,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.60-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.13.60",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

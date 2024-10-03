@@ -190,7 +190,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.12.2",
+            "latest_version": "3.12.3",
             "latest_channel": "stable-3.12",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -564,7 +564,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.12.2",
+            "latest_version": "3.12.3",
             "latest_channel": "stable-3.12",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -641,8 +641,8 @@
         {
             "package_name": "rhdh",
             "display_name": "Red Hat Developer Hub Operator",
-            "latest_version": "1.2.4",
-            "latest_channel": "fast-1.2",
+            "latest_version": "1.3.0",
+            "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1202,7 +1202,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.12.2",
+            "latest_version": "3.12.3",
             "latest_channel": "stable-3.12",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1213,8 +1213,8 @@
         {
             "package_name": "red-hat-hawtio-operator",
             "display_name": "HawtIO Operator",
-            "latest_version": "1.0.2",
-            "latest_channel": "latest",
+            "latest_version": "1.0.3",
+            "latest_channel": "stable-v1.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

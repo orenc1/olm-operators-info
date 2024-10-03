@@ -47,7 +47,7 @@
         {
             "package_name": "cert-manager",
             "display_name": "cert-manager",
-            "latest_version": "1.15.2",
+            "latest_version": "1.16.0-beta.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -531,7 +531,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.60.0",
+            "latest_version": "1.61.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "openshift-node-upgrade-mutex-operator",
             "display_name": "OpenShift Node Upgrade Mutex Operator",
-            "latest_version": "0.2.14",
+            "latest_version": "0.2.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1532,7 +1532,7 @@
         {
             "package_name": "limitador-operator",
             "display_name": "Limitador",
-            "latest_version": "0.10.0",
+            "latest_version": "0.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1598,7 @@
         {
             "package_name": "korrel8r",
             "display_name": "Korrel8r",
-            "latest_version": "0.1.7",
+            "latest_version": "0.1.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.12.0",
+            "latest_version": "0.13.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
