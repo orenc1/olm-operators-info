@@ -91,7 +91,7 @@
         {
             "package_name": "minio-aistor-operator",
             "display_name": "Minio Aistor Operator",
-            "latest_version": "2.0.0",
+            "latest_version": "3.0.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.4",
+            "latest_version": "24.1.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "mongodb-enterprise",
             "display_name": "MongoDB Enterprise Operator",
-            "latest_version": "1.27.0",
+            "latest_version": "1.28.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -883,7 +883,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.4",
+            "latest_version": "24.1.8",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1070,8 +1070,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.13.60",
-            "latest_channel": "stable",
+            "latest_version": "8.14.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1983,8 +1983,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.13.60",
-            "latest_channel": "stable",
+            "latest_version": "8.14.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
