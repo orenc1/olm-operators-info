@@ -652,7 +652,7 @@
         {
             "package_name": "logic-operator-rhel8",
             "display_name": "OpenShift Serverless Logic Operator",
-            "latest_version": "1.33.0",
+            "latest_version": "1.34.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -707,7 +707,7 @@
         {
             "package_name": "cluster-observability-operator",
             "display_name": "Cluster Observability Operator",
-            "latest_version": "0.4.0",
+            "latest_version": "0.4.1",
             "latest_channel": "development",
             "disconnected_supported": false,
             "fips_supported": false,
