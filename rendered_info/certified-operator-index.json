@@ -267,7 +267,7 @@
         {
             "package_name": "pg4k-pgd",
             "display_name": "EDB Postgres Distributed for Kubernetes",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,8 +806,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.6",
+            "latest_version": "1.8.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1147,7 +1147,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.6.1",
+            "latest_version": "5.7.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,12 +1180,12 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.0-beta.4",
-            "latest_channel": "beta",
+            "latest_version": "8.14.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/kubeturbo-deploy",
+            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
             "documentation_url": ""
         },
         {
@@ -1653,7 +1653,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.7",
+            "latest_version": "2.39.8",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,8 +1873,8 @@
         {
             "package_name": "tenant-operator",
             "display_name": "Multi Tenant Operator",
-            "latest_version": "0.12.66",
-            "latest_channel": "release-0.12",
+            "latest_version": "1.0.0",
+            "latest_channel": "release-1.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",

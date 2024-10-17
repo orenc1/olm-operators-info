@@ -245,7 +245,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.3",
+            "latest_version": "4.5.4",
             "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.14.9",
+            "latest_version": "4.14.10",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.33.2",
+            "latest_version": "1.34.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.7.1",
+            "latest_version": "2.7.2",
             "latest_channel": "release-v2.7",
             "disconnected_supported": false,
             "fips_supported": false,

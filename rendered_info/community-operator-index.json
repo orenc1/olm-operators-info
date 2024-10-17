@@ -1103,7 +1103,7 @@
         {
             "package_name": "ack-prometheusservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Prometheus",
-            "latest_version": "1.2.14",
+            "latest_version": "1.2.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1609,11 +1609,11 @@
         {
             "package_name": "aerospike-kubernetes-operator",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.3.1",
+            "latest_version": "3.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
         },
@@ -1862,7 +1862,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.56",
+            "latest_version": "0.0.57",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2155,6 +2155,17 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
+            "package_name": "wandb-operator",
+            "display_name": "Weights & Biases Operator",
+            "latest_version": "1.0.0",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/wandb/operator",
+            "documentation_url": ""
         },
         {
             "package_name": "susql-operator",
