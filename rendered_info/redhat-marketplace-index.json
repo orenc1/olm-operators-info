@@ -498,11 +498,11 @@
         {
             "package_name": "aerospike-kubernetes-operator-rhmp",
             "display_name": "Aerospike Kubernetes Operator",
-            "latest_version": "3.3.1",
+            "latest_version": "3.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
+            "capabilities": "Deep Insights",
             "repository": "https://github.com/aerospike/aerospike-kubernetes-operator/",
             "documentation_url": "https://docs.aerospike.com/cloud/kubernetes/operator"
         }

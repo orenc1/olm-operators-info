@@ -47,7 +47,7 @@
         {
             "package_name": "ack-route53resolver-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53Resolver",
-            "latest_version": "0.0.10",
+            "latest_version": "0.0.11",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -432,7 +432,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.29.0",
+            "latest_version": "1.30.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -564,7 +564,7 @@
         {
             "package_name": "ack-cloudfront-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudFront",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "ack-cloudwatch-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch",
-            "latest_version": "0.0.11",
+            "latest_version": "0.0.12",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -982,7 +982,7 @@
         {
             "package_name": "ack-sfn-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Step Functions",
-            "latest_version": "1.0.14",
+            "latest_version": "1.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1235,7 +1235,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.4",
+            "latest_version": "2.4.5",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1301,7 +1301,7 @@
         {
             "package_name": "postgresql",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.6.1",
+            "latest_version": "5.7.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "ack-apigateway-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway",
-            "latest_version": "0.0.1",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1697,7 +1697,7 @@
         {
             "package_name": "opendatahub-operator",
             "display_name": "Open Data Hub Operator",
-            "latest_version": "2.18.2",
+            "latest_version": "2.19.0",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,7 +1763,7 @@
         {
             "package_name": "ack-ecs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ECS",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1950,7 +1950,7 @@
         {
             "package_name": "jaeger",
             "display_name": "Community Jaeger Operator",
-            "latest_version": "1.61.0",
+            "latest_version": "1.62.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2148,7 +2148,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.19",
+            "latest_version": "0.0.20",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2368,7 +2368,7 @@
         {
             "package_name": "ack-opensearchservice-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2445,7 +2445,7 @@
         {
             "package_name": "ack-documentdb-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon DocumentDB",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2577,7 +2577,7 @@
         {
             "package_name": "ack-networkfirewall-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
-            "latest_version": "0.0.9",
+            "latest_version": "0.0.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2654,7 +2654,7 @@
         {
             "package_name": "assisted-service-operator",
             "display_name": "Infrastructure Operator for Red Hat OpenShift",
-            "latest_version": "0.7.73",
+            "latest_version": "0.7.74",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2665,7 +2665,7 @@
         {
             "package_name": "ack-recyclebin-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Recycle Bin",
-            "latest_version": "0.0.2",
+            "latest_version": "0.0.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2929,7 +2929,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "26.0.0",
+            "latest_version": "26.0.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -366,7 +366,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.29.0",
+            "latest_version": "1.30.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1103,7 +1103,7 @@
         {
             "package_name": "netapp-spark-operator",
             "display_name": "NetApp Supported Apache Spark on OpenShift",
-            "latest_version": "1.1.1",
+            "latest_version": "1.1.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1620,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.13",
+            "latest_version": "2.4.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.8",
+            "latest_version": "2.39.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1829,7 +1829,7 @@
         {
             "package_name": "aiu-operator",
             "display_name": "AIU Operator",
-            "latest_version": "2.1.0",
+            "latest_version": "2.1.1",
             "latest_channel": "candidate-2.1",
             "disconnected_supported": false,
             "fips_supported": false,
