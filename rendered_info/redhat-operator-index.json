@@ -718,7 +718,7 @@
         {
             "package_name": "red-hat-camel-k",
             "display_name": "Red Hat Integration - Camel K",
-            "latest_version": "1.10.7",
+            "latest_version": "1.10.8",
             "latest_channel": "1.10.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1268,8 +1268,8 @@
         {
             "package_name": "openshift-pipelines-operator-rh",
             "display_name": "Red Hat OpenShift Pipelines",
-            "latest_version": "1.15.1",
-            "latest_channel": "latest",
+            "latest_version": "1.15.2",
+            "latest_channel": "pipelines-1.15",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",

@@ -36,7 +36,7 @@
         {
             "package_name": "neuvector-certified-operator",
             "display_name": "NeuVector Operator",
-            "latest_version": "1.4.6",
+            "latest_version": "1.4.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -102,7 +102,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.16.0",
+            "latest_version": "2.16.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -256,8 +256,8 @@
         {
             "package_name": "uma-team-operator",
             "display_name": "DX APM Universal Monitoring Agent Team For Multi-tenancy",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
+            "latest_version": "2024.10.1-10",
+            "latest_channel": "2024.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.8",
+            "latest_version": "1.8.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1411,8 +1411,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
+            "latest_version": "2024.10.1-10",
+            "latest_channel": "2024.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -1609,7 +1609,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.8",
+            "latest_version": "24.1.10",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1653,7 +1653,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.16",
+            "latest_version": "2.39.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1763,8 +1763,8 @@
         {
             "package_name": "uma-admin-operator",
             "display_name": "DX APM Universal Monitoring Agent Admin For Multi-tenancy",
-            "latest_version": "2024.9.4-25",
-            "latest_channel": "2024.9",
+            "latest_version": "2024.10.1-10",
+            "latest_channel": "2024.10",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
