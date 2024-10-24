@@ -1862,7 +1862,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.57",
+            "latest_version": "0.0.58",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

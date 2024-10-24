@@ -14,7 +14,7 @@
         {
             "package_name": "falcon-operator",
             "display_name": "CrowdStrike Falcon Platform - Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.3.1",
             "latest_channel": "certified-1.0",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -91,8 +91,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.65.0",
-            "latest_channel": "stable",
+            "latest_version": "42.66.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -806,8 +806,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.0",
-            "latest_channel": "stable",
+            "latest_version": "8.14.10-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -872,7 +872,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.4.2",
+            "latest_version": "1.5.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.10",
+            "latest_version": "1.8.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,12 +1180,12 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.0",
-            "latest_channel": "stable",
+            "latest_version": "8.14.10-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
+            "repository": "https://github.com/turbonomic/kubeturbo-deploy",
             "documentation_url": ""
         },
         {
@@ -1983,7 +1983,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.8",
+            "latest_version": "24.1.10",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
