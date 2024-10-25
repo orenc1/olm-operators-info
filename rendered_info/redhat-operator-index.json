@@ -839,7 +839,7 @@
         {
             "package_name": "amq-streams",
             "display_name": "Streams for Apache Kafka",
-            "latest_version": "2.7.0-6",
+            "latest_version": "2.7.0-7",
             "latest_channel": "amq-streams-2.7.x",
             "disconnected_supported": false,
             "fips_supported": false,
