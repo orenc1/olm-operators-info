@@ -1224,7 +1224,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.35.0",
+            "latest_version": "0.35.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2038,7 @@
         {
             "package_name": "ack-sns-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SNS",
-            "latest_version": "1.0.14",
+            "latest_version": "1.1.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
