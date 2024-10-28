@@ -1004,12 +1004,12 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.11",
+            "latest_version": "1.8.14",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": null,
+            "repository": "https://scaleops.com",
             "documentation_url": ""
         },
         {
