@@ -58,7 +58,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.17.5",
+            "latest_version": "2.17.6",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.14",
+            "latest_version": "1.8.16",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1257,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.4.1",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1950,7 +1950,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.17.5",
+            "latest_version": "2.17.6",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
