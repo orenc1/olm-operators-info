@@ -212,7 +212,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.12.3-opr-1",
+            "latest_version": "7.12.3-opr-1-0.1730142550.p",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -729,7 +729,7 @@
         {
             "package_name": "kubevirt-hyperconverged",
             "display_name": "OpenShift Virtualization",
-            "latest_version": "4.14.8",
+            "latest_version": "4.14.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
