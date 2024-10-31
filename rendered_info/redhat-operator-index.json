@@ -234,8 +234,8 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.12.3",
-            "latest_channel": "stable-3.12",
+            "latest_version": "3.13.0",
+            "latest_channel": "stable-3.13",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -300,7 +300,7 @@
         {
             "package_name": "tang-operator",
             "display_name": "NBDE Tang Server",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -619,8 +619,8 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.12.3",
-            "latest_channel": "stable-3.12",
+            "latest_version": "3.13.0",
+            "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
@@ -685,8 +685,8 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.12.3",
-            "latest_channel": "stable-3.12",
+            "latest_version": "3.13.0",
+            "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
@@ -1246,7 +1246,7 @@
         {
             "package_name": "openshift-gitops-operator",
             "display_name": "Red Hat OpenShift GitOps",
-            "latest_version": "1.14.0",
+            "latest_version": "1.14.1",
             "latest_channel": "gitops-1.14",
             "disconnected_supported": true,
             "fips_supported": false,

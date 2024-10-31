@@ -91,8 +91,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.66.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.66.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -806,8 +806,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.10-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.10",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -850,7 +850,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.4.6-2.4",
+            "latest_version": "7.4.6-2.8",
             "latest_channel": "7.4.6",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.10-beta.1",
+            "latest_version": "8.14.10-beta.2",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1191,7 +1191,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.14.0-rc1",
+            "latest_version": "1.14.0-rc2",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1400,7 +1400,7 @@
         {
             "package_name": "anzograph-operator",
             "display_name": "AnzoGraph Operator",
-            "latest_version": "3.1.301",
+            "latest_version": "3.1.401",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "openshiftartifactoryha-operator",
             "display_name": "JFrog Artifactory Enterprise Operator",
-            "latest_version": "1.3.1",
+            "latest_version": "1.3.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1433,7 +1433,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.9.0-923",
+            "latest_version": "24.10.0-972",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1807,8 +1807,8 @@
         {
             "package_name": "tigera-operator",
             "display_name": "Tigera Operator",
-            "latest_version": "1.34.0",
-            "latest_channel": "release-v1.34",
+            "latest_version": "1.36.0",
+            "latest_channel": "release-v1.36",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
