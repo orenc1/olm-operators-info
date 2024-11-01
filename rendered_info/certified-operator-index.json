@@ -443,7 +443,7 @@
         {
             "package_name": "gpu-operator-certified",
             "display_name": "NVIDIA GPU Operator",
-            "latest_version": "24.6.2",
+            "latest_version": "24.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.17",
+            "latest_version": "1.8.20",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1180,7 +1180,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.10-beta.2",
+            "latest_version": "8.14.10-beta.3",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
