@@ -1367,7 +1367,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.10.3",
+            "latest_version": "0.10.5",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2929,7 +2929,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "26.0.4",
+            "latest_version": "26.0.5",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
