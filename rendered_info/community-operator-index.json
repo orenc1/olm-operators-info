@@ -718,7 +718,7 @@
         {
             "package_name": "beegfs-csi-driver-operator",
             "display_name": "BeeGFS CSI Driver",
-            "latest_version": "1.6.0",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1365,6 +1365,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "shipwright-operator",
+            "display_name": "Shipwright Operator",
+            "latest_version": "0.13.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/shipwright-io/operator",
+            "documentation_url": "https://shipwright.io"
+        },
+        {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
             "latest_version": "0.10.5",
@@ -1477,7 +1488,7 @@
         {
             "package_name": "percona-server-mongodb-operator",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.16.1",
+            "latest_version": "1.17.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2676,7 +2687,7 @@
         {
             "package_name": "percona-xtradb-cluster-operator",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.15.0",
+            "latest_version": "1.15.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

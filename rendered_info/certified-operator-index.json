@@ -1180,12 +1180,12 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.10-beta.3",
-            "latest_channel": "beta",
+            "latest_version": "8.14.10",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/kubeturbo-deploy",
+            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
             "documentation_url": ""
         },
         {
@@ -1367,8 +1367,8 @@
         {
             "package_name": "percona-xtradb-cluster-operator-certified",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.15.1-cw",
-            "latest_channel": "stable-cw",
+            "latest_version": "1.15.1",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1620,7 +1620,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.14",
+            "latest_version": "2.4.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
