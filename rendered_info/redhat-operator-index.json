@@ -509,8 +509,8 @@
         {
             "package_name": "gatekeeper-operator-product",
             "display_name": "Gatekeeper Operator",
-            "latest_version": "3.15.1",
-            "latest_channel": "3.15",
+            "latest_version": "3.17.0",
+            "latest_channel": "3.17",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

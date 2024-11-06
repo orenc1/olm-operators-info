@@ -102,7 +102,7 @@
         {
             "package_name": "stackgres-community",
             "display_name": "StackGres",
-            "latest_version": "1.14.0-rc2",
+            "latest_version": "1.14.0",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "trident-operator",
             "display_name": "Astra Trident",
-            "latest_version": "24.6.0",
+            "latest_version": "24.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1363,17 +1363,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/redhat-sap/sap-commerce-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "shipwright-operator",
-            "display_name": "Shipwright Operator",
-            "latest_version": "0.13.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/shipwright-io/operator",
-            "documentation_url": "https://shipwright.io"
         },
         {
             "package_name": "external-secrets-operator",
@@ -2245,17 +2234,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "kiali",
-            "display_name": "Kiali Community Operator",
-            "latest_version": "2.0.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/kiali/kiali",
-            "documentation_url": ""
-        },
-        {
             "package_name": "keda",
             "display_name": "[DEPRECATED] KEDA",
             "latest_version": "2.7.1",
@@ -2335,7 +2313,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.14.0",
+            "latest_version": "5.15.1",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2852,7 +2830,7 @@
         {
             "package_name": "marin3r",
             "display_name": "MARIN3R",
-            "latest_version": "0.10.0",
+            "latest_version": "0.13.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2863,7 +2841,7 @@
         {
             "package_name": "camel-k",
             "display_name": "Camel K Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "latest",
             "disconnected_supported": false,
             "fips_supported": false,

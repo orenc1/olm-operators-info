@@ -36,7 +36,7 @@
         {
             "package_name": "k10-kasten-operator-rhmp",
             "display_name": "Veeam Kasten (Free)",
-            "latest_version": "7.0.12",
+            "latest_version": "7.0.13",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
