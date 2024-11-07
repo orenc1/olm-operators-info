@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.8.22",
+            "latest_version": "1.8.23",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1796,7 +1796,7 @@
         {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.16.1",
+            "latest_version": "1.17.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2104,7 +2104,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.4.0",
+            "latest_version": "2.4.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

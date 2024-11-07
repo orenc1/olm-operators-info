@@ -773,7 +773,7 @@
         {
             "package_name": "skupper-operator",
             "display_name": "Skupper",
-            "latest_version": "1.8.1",
+            "latest_version": "1.8.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.93.0",
+            "latest_version": "7.94.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,8 +839,8 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.12.3",
-            "latest_channel": "stable-3.12",
+            "latest_version": "3.13.0",
+            "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Full Lifecycle",
