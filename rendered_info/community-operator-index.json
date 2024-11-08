@@ -707,7 +707,7 @@
         {
             "package_name": "ack-kafka-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kafka",
-            "latest_version": "0.0.14",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -762,7 +762,7 @@
         {
             "package_name": "ack-kinesis-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Kinesis",
-            "latest_version": "0.0.19",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.5.1",
+            "latest_version": "1.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2148,7 +2148,7 @@
         {
             "package_name": "ack-acm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ACM",
-            "latest_version": "0.0.20",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2654,7 +2654,7 @@
         {
             "package_name": "ack-recyclebin-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Recycle Bin",
-            "latest_version": "0.0.3",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2742,7 +2742,7 @@
         {
             "package_name": "ack-cloudwatchlogs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon CloudWatch Logs",
-            "latest_version": "0.0.11",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2775,7 +2775,7 @@
         {
             "package_name": "ack-secretsmanager-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Secrets Manager",
-            "latest_version": "0.0.11",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
