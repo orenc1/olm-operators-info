@@ -47,7 +47,7 @@
         {
             "package_name": "ack-route53resolver-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Route53Resolver",
-            "latest_version": "0.0.11",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -124,7 +124,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.48.4",
+            "latest_version": "0.49.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
@@ -366,7 +366,7 @@
         {
             "package_name": "ack-mq-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon MQ",
-            "latest_version": "0.0.36",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -663,7 +663,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.14.0",
+            "latest_version": "0.14.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "datadog-operator",
             "display_name": "Datadog Operator",
-            "latest_version": "1.9.0",
+            "latest_version": "1.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1224,7 +1224,7 @@
         {
             "package_name": "mariadb-operator",
             "display_name": "MariaDB Operator",
-            "latest_version": "0.35.1",
+            "latest_version": "0.36.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1488,7 +1488,7 @@
         {
             "package_name": "ack-apigateway-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon API Gateway",
-            "latest_version": "0.0.3",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2203,7 +2203,7 @@
         {
             "package_name": "ack-wafv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon WAFV2",
-            "latest_version": "0.0.4",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2566,7 +2566,7 @@
         {
             "package_name": "ack-networkfirewall-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Network Firewall",
-            "latest_version": "0.0.10",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2731,7 +2731,7 @@
         {
             "package_name": "codeflare-operator",
             "display_name": "CodeFlare Operator",
-            "latest_version": "1.10.0",
+            "latest_version": "1.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2896,7 +2896,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Community Loki Operator",
-            "latest_version": "0.6.2",
+            "latest_version": "0.7.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
