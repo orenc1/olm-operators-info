@@ -1004,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.9.1",
+            "latest_version": "1.9.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
