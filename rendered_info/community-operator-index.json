@@ -927,7 +927,7 @@
         {
             "package_name": "kube-green",
             "display_name": "kube-green",
-            "latest_version": "0.5.2",
+            "latest_version": "0.6.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
