@@ -243,6 +243,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "datasance-pot-operator",
+            "display_name": "iofog-operator",
+            "latest_version": "3.4.7",
+            "latest_channel": "stable",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": "https://github.com/datasance/iofog-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "smilecdr-operator",
             "display_name": "Smilecdr Operator",
             "latest_version": "0.0.1",
