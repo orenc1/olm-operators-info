@@ -212,7 +212,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.12.3-opr-1-0.1730813578.p",
+            "latest_version": "7.12.3-opr-1-0.1731483798.p",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -377,7 +377,7 @@
         {
             "package_name": "smart-gateway-operator",
             "display_name": "Smart Gateway Operator",
-            "latest_version": "5.0.1725953602",
+            "latest_version": "5.0.1731336910",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -483,6 +483,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": null,
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
+        },
+        {
+            "package_name": "amq-streams-console",
+            "display_name": "Streams for Apache Kafka Console",
+            "latest_version": "2.8.0-13",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/streamshub/console",
+            "documentation_url": "https://docs.redhat.com/en/documentation/red_hat_streams_for_apache_kafka/2.8"
         },
         {
             "package_name": "mtc-operator",
@@ -597,7 +608,7 @@
         {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
-            "latest_version": "0.31.1",
+            "latest_version": "0.31.2",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -839,8 +850,8 @@
         {
             "package_name": "amq-streams",
             "display_name": "Streams for Apache Kafka",
-            "latest_version": "2.7.0-7",
-            "latest_channel": "amq-streams-2.7.x",
+            "latest_version": "2.8.0-0",
+            "latest_channel": "amq-streams-2.8.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -938,7 +949,7 @@
         {
             "package_name": "rhods-operator",
             "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.14.0",
+            "latest_version": "2.15.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -960,7 +971,7 @@
         {
             "package_name": "service-telemetry-operator",
             "display_name": "Service Telemetry Operator",
-            "latest_version": "1.5.1725952694",
+            "latest_version": "1.5.1731336911",
             "latest_channel": "stable-1.5",
             "disconnected_supported": false,
             "fips_supported": false,
