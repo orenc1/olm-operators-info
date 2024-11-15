@@ -1191,8 +1191,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.20-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.20",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1631,7 +1631,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.16",
+            "latest_version": "2.4.17",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

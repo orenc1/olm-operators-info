@@ -289,8 +289,8 @@
         {
             "package_name": "layer7-operator",
             "display_name": "Layer7 Operator",
-            "latest_version": "1.0.7",
-            "latest_channel": "preview-v1.0.7",
+            "latest_version": "1.1.0",
+            "latest_channel": "preview-v1.1.0",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1565,7 +1565,7 @@
         {
             "package_name": "dell-csm-operator",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.5.1",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
