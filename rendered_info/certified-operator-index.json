@@ -639,17 +639,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "cloudnative-pg",
-            "display_name": "CloudNativePG",
-            "latest_version": "1.24.1",
-            "latest_channel": "stable-v1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/cloudnative-pg/cloudnative-pg",
-            "documentation_url": "https://cloudnative-pg.io/docs/"
-        },
-        {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
             "latest_version": "0.6.10",
@@ -1081,8 +1070,8 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "3.0.1",
-            "latest_channel": "tech-preview",
+            "latest_version": "3.1.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -2049,7 +2038,7 @@
         {
             "package_name": "couchbase-enterprise-certified",
             "display_name": "Couchbase Operator",
-            "latest_version": "2.7.0-1",
+            "latest_version": "2.7.0-2",
             "latest_channel": "2.7.0",
             "disconnected_supported": true,
             "fips_supported": false,

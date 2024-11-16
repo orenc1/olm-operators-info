@@ -388,7 +388,7 @@
         {
             "package_name": "authorino-operator",
             "display_name": "Authorino Operator",
-            "latest_version": "0.13.0",
+            "latest_version": "0.14.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
