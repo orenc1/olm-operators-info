@@ -124,8 +124,8 @@
         {
             "package_name": "k8s-triliovault",
             "display_name": "Trilio for Kubernetes",
-            "latest_version": "4.0.5",
-            "latest_channel": "4.0.x",
+            "latest_version": "5.0.0",
+            "latest_channel": "5.0.x",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
@@ -1070,7 +1070,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "3.1.0",
+            "latest_version": "3.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

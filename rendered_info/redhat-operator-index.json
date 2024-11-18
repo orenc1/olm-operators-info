@@ -14,7 +14,7 @@
         {
             "package_name": "openshift-secondary-scheduler-operator",
             "display_name": "Secondary Scheduler Operator for Red Hat OpenShift",
-            "latest_version": "1.2.1",
+            "latest_version": "1.2.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
