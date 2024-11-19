@@ -608,13 +608,13 @@
         {
             "package_name": "elasticsearch-eck-operator-certified",
             "display_name": "Elasticsearch (ECK) Operator",
-            "latest_version": "2.14.0",
+            "latest_version": "2.15.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/elastic/cloud-on-k8s",
-            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.14/index.html"
+            "documentation_url": "https://www.elastic.co/guide/en/cloud-on-k8s/2.15/index.html"
         },
         {
             "package_name": "leaksignal-operator",
@@ -850,8 +850,8 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.4.6-2.8",
-            "latest_channel": "7.4.6",
+            "latest_version": "7.8.2-6.3",
+            "latest_channel": "7.8.2",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
@@ -1620,7 +1620,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.17",
+            "latest_version": "2.4.18",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -234,7 +234,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.13.0",
+            "latest_version": "3.13.1",
             "latest_channel": "stable-3.13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -553,7 +553,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.5.0-0.1729737962",
+            "latest_version": "2.5.0-0.1731452082",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.13.0",
+            "latest_version": "3.13.1",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -696,7 +696,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.13.0",
+            "latest_version": "3.13.1",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -960,7 +960,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.5.0-0.1729742145",
+            "latest_version": "2.5.0-0.1731456854",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
