@@ -45,17 +45,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "infoscale-operator",
-            "display_name": "InfoScale\u2122 SDS Operator",
-            "latest_version": "7.9.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": null,
-            "documentation_url": ""
-        },
-        {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
             "latest_version": "2.17.6",
@@ -102,7 +91,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.16.1",
+            "latest_version": "2.17.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -201,7 +190,7 @@
         {
             "package_name": "percona-postgresql-operator-certified",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,8 +795,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.20",
-            "latest_channel": "stable",
+            "latest_version": "8.14.30-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1070,7 +1059,7 @@
         {
             "package_name": "netscaler-operator",
             "display_name": "NetScaler Operator",
-            "latest_version": "3.1.1",
+            "latest_version": "2.4.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1081,7 +1070,7 @@
         {
             "package_name": "dell-csm-operator-certified",
             "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.5.1",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1389,7 +1378,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.9",
+            "latest_version": "2.1.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1620,7 +1609,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.18",
+            "latest_version": "2.4.19",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

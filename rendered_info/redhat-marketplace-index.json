@@ -179,7 +179,7 @@
         {
             "package_name": "percona-postgresql-operator-certified-rhmp",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -190,7 +190,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.9",
+            "latest_version": "2.1.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
