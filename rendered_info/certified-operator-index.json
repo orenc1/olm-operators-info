@@ -366,7 +366,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.30.2",
+            "latest_version": "1.31.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -696,7 +696,7 @@
         {
             "package_name": "keysight-loadcore-agents",
             "display_name": "Keysight LoadCore Agents Operator",
-            "latest_version": "0.2.24",
+            "latest_version": "0.2.25",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.6.1",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,12 +1169,12 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.20",
-            "latest_channel": "stable",
+            "latest_version": "8.14.30-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/turbonomic/kubeturbo/tree/master/deploy/kubeturbo-operator",
+            "repository": "https://github.com/turbonomic/kubeturbo-deploy",
             "documentation_url": ""
         },
         {
@@ -1466,7 +1466,7 @@
         {
             "package_name": "netscaler-adm-agent-operator",
             "display_name": "Netscaler ADM Agent Operator",
-            "latest_version": "141.31.38",
+            "latest_version": "141.37.44",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1598,7 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.1.10",
+            "latest_version": "24.3.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1642,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.17",
+            "latest_version": "2.39.18",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1785,7 +1785,7 @@
         {
             "package_name": "percona-server-mongodb-operator-certified",
             "display_name": "Percona Distribution for MongoDB Operator",
-            "latest_version": "1.17.0",
+            "latest_version": "1.18.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1972,7 +1972,7 @@
         {
             "package_name": "digitalai-deploy-operator",
             "display_name": "Digital.ai Deploy",
-            "latest_version": "24.1.10",
+            "latest_version": "24.3.0",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

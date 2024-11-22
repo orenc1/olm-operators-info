@@ -245,7 +245,7 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.4",
+            "latest_version": "4.5.5",
             "latest_channel": "rhacs-4.5",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.14",
+            "latest_version": "5.8.15",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,

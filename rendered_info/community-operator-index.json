@@ -432,7 +432,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.30.2",
+            "latest_version": "1.31.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.94.0",
+            "latest_version": "7.95.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1123,6 +1123,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "ack-ssm-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon SSM",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "mongodb-operator",
             "display_name": "MongoDB Operator",
             "latest_version": "0.3.0",
@@ -1246,7 +1257,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.6.1",
+            "latest_version": "1.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1378,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.10.5",
+            "latest_version": "0.10.6",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2060,7 +2071,7 @@
         {
             "package_name": "percona-postgresql-operator",
             "display_name": "Percona Operator for PostgreSQL",
-            "latest_version": "2.4.0",
+            "latest_version": "2.5.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2621,8 +2632,8 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.6.0-alpha.2",
-            "latest_channel": "alpha",
+            "latest_version": "0.6.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
