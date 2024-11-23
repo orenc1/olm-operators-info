@@ -663,7 +663,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.7.3",
+            "latest_version": "2.7.4",
             "latest_channel": "release-v2.7",
             "disconnected_supported": false,
             "fips_supported": false,

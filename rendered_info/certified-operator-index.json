@@ -707,7 +707,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.28",
+            "latest_version": "3.1.29",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1066,17 +1066,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csm-operator-certified",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
         {
             "package_name": "zookeeper-operator",
@@ -1609,7 +1598,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.19",
+            "latest_version": "2.4.20",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,7 +1631,7 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.18",
+            "latest_version": "2.39.19",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

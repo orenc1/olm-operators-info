@@ -883,7 +883,7 @@
         {
             "package_name": "ack-elbv2-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon ELB",
-            "latest_version": "1.0.1",
+            "latest_version": "1.0.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2929,7 +2929,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "26.0.5",
+            "latest_version": "26.0.6",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
