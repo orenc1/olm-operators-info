@@ -1378,7 +1378,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.10.6",
+            "latest_version": "0.10.7",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
