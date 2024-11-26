@@ -993,7 +993,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.10.6",
+            "latest_version": "1.10.7",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.14.0",
+            "latest_version": "1.14.1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1598,7 +1598,7 @@
         {
             "package_name": "kubecost-operator",
             "display_name": "Kubecost",
-            "latest_version": "2.4.21",
+            "latest_version": "2.4.22",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2027,7 +2027,7 @@
         {
             "package_name": "cockroachdb-certified",
             "display_name": "CockroachDB Operator",
-            "latest_version": "2.16.0",
+            "latest_version": "2.16.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2082,7 +2082,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.4.1",
+            "latest_version": "2.4.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
