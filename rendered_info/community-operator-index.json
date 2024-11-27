@@ -672,17 +672,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "trident-operator",
-            "display_name": "Astra Trident",
-            "latest_version": "24.10.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/netapp/trident",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
             "latest_version": "1.0.17",
@@ -784,7 +773,7 @@
         {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
-            "latest_version": "0.5.3",
+            "latest_version": "0.6.10",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1246,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.0",
+            "latest_version": "1.7.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1374,17 +1363,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/redhat-sap/sap-commerce-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "shipwright-operator",
-            "display_name": "Shipwright Operator",
-            "latest_version": "0.13.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/shipwright-io/operator",
-            "documentation_url": "https://shipwright.io"
         },
         {
             "package_name": "external-secrets-operator",
@@ -1594,6 +1572,17 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/dell/csm-operator",
             "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
+        },
+        {
+            "package_name": "ack-athena-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon Athena",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
         },
         {
             "package_name": "application-services-metering-operator",
@@ -2253,17 +2242,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "kiali",
-            "display_name": "Kiali Community Operator",
-            "latest_version": "2.0.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/kiali/kiali",
             "documentation_url": ""
         },
         {

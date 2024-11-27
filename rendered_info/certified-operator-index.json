@@ -531,7 +531,7 @@
         {
             "package_name": "vfunction-server-operator",
             "display_name": "vFunction Operator",
-            "latest_version": "3.7.1495",
+            "latest_version": "3.8.1535",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -861,7 +861,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.0",
+            "latest_version": "1.7.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1840,7 +1840,7 @@
         {
             "package_name": "nvidia-network-operator",
             "display_name": "NVIDIA Network Operator",
-            "latest_version": "24.7.1",
+            "latest_version": "24.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
