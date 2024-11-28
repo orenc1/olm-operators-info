@@ -80,8 +80,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.68.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.68.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1125,7 +1125,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.7.0",
+            "latest_version": "5.7.1",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,8 +1158,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.30-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.30",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1411,7 +1411,7 @@
         {
             "package_name": "appdynamics-operator",
             "display_name": "AppDynamics Operator for Kubernetes",
-            "latest_version": "24.10.0-972",
+            "latest_version": "24.11.0-997",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1422,7 +1422,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator-with-cg-module",
             "display_name": "Fujitsu Enterprise Postgres Operator with Cryptographic Module",
-            "latest_version": "6.1.4",
+            "latest_version": "7.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1895,7 +1895,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "6.2.2",
+            "latest_version": "7.1.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

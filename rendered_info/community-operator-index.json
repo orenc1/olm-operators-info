@@ -1,6 +1,17 @@
 {
     "operators_list": [
         {
+            "package_name": "ack-ses-controller",
+            "display_name": "AWS Controllers for Kubernetes - Amazon SES",
+            "latest_version": "0.0.1",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/aws-controllers-k8s",
+            "documentation_url": "https://aws-controllers-k8s.github.io/community/"
+        },
+        {
             "package_name": "apimatic-kubernetes-operator",
             "display_name": "APIMatic Operator",
             "latest_version": "0.0.1",
@@ -1301,7 +1312,7 @@
         {
             "package_name": "postgresql",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.7.0",
+            "latest_version": "5.7.1",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
