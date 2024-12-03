@@ -3,7 +3,7 @@
         {
             "package_name": "ack-ses-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SES",
-            "latest_version": "0.0.1",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -452,17 +452,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hazelcast-platform-operator",
-            "display_name": "[DEPRECATED] Hazelcast Platform Operator",
-            "latest_version": "5.13.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
-            "documentation_url": "https://docs.hazelcast.com/operator/latest/"
-        },
-        {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
             "latest_version": "0.7.8",
@@ -674,7 +663,7 @@
         {
             "package_name": "tempo-operator",
             "display_name": "Community Tempo Operator",
-            "latest_version": "0.14.1",
+            "latest_version": "0.14.2",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1125,7 +1114,7 @@
         {
             "package_name": "ack-ssm-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SSM",
-            "latest_version": "0.0.1",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1574,20 +1563,9 @@
             "documentation_url": ""
         },
         {
-            "package_name": "dell-csm-operator",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
-        },
-        {
             "package_name": "ack-athena-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Athena",
-            "latest_version": "0.0.1",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2038,7 +2016,7 @@
         {
             "package_name": "ack-organizations-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Organizations",
-            "latest_version": "0.0.10",
+            "latest_version": "1.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2434,13 +2412,13 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "24.1.3",
+            "latest_version": "24.2.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
             "repository": "https://github.com/libopenstorage/operator",
-            "documentation_url": "https://docs.portworx.com"
+            "documentation_url": "https://docs.portworx.com/portworx-install-with-kubernetes/on-premise/openshift/operator"
         },
         {
             "package_name": "pulsar-operator",

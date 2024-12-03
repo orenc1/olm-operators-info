@@ -201,7 +201,7 @@
         {
             "package_name": "amq-broker-rhel8",
             "display_name": "Red Hat Integration - AMQ Broker for RHEL 8 (Multiarch)",
-            "latest_version": "7.12.3-opr-1-0.1731483798.p",
+            "latest_version": "7.12.3-opr-1-0.1732654016.p",
             "latest_channel": "7.12.x",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -498,7 +498,7 @@
         {
             "package_name": "serverless-operator",
             "display_name": "Red Hat OpenShift Serverless",
-            "latest_version": "1.34.0",
+            "latest_version": "1.34.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.1.1",
+            "latest_version": "3.1.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -652,7 +652,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.7.4",
+            "latest_version": "2.7.5",
             "latest_channel": "release-v2.7",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1279,7 +1279,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.13",
+            "latest_version": "2.0.14",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
