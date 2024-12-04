@@ -441,6 +441,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "apicurio-api-controller",
+            "display_name": "Apicurio API Controller",
+            "latest_version": "0.0.1",
+            "latest_channel": "0.x",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Apicurio/apicurio-registry/tree/main/operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
             "latest_version": "1.31.0",
@@ -674,7 +685,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.17",
+            "latest_version": "1.0.18",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1378,7 @@
         {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
-            "latest_version": "0.10.7",
+            "latest_version": "0.11.0",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -2918,7 +2929,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "26.0.6",
+            "latest_version": "26.0.7",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,

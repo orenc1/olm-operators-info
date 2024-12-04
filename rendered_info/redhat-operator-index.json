@@ -234,8 +234,8 @@
         {
             "package_name": "rhacs-operator",
             "display_name": "Advanced Cluster Security for Kubernetes",
-            "latest_version": "4.5.5",
-            "latest_channel": "rhacs-4.5",
+            "latest_version": "4.6.0",
+            "latest_channel": "rhacs-4.6",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
@@ -542,7 +542,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.5.0-0.1731452082",
+            "latest_version": "2.5.0-0.1733188778",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.5.0-0.1731456854",
+            "latest_version": "2.5.0-0.1733193761",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -91,7 +91,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.17.0",
+            "latest_version": "2.17.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -795,8 +795,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.30",
-            "latest_channel": "stable",
+            "latest_version": "8.14.40-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
