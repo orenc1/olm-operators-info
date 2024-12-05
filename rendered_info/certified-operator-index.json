@@ -47,7 +47,7 @@
         {
             "package_name": "ibm-metrics-operator",
             "display_name": "IBM Metrics Operator",
-            "latest_version": "2.17.6",
+            "latest_version": "2.17.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,8 +1158,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.30",
-            "latest_channel": "stable",
+            "latest_version": "8.14.40-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1169,7 +1169,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.14.1",
+            "latest_version": "1.15.0-rc1",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1510,8 +1510,8 @@
         {
             "package_name": "confluent-for-kubernetes",
             "display_name": "Confluent for Kubernetes",
-            "latest_version": "2.9.4",
-            "latest_channel": "2.9",
+            "latest_version": "2.10.0",
+            "latest_channel": "2.10",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Auto Pilot",
@@ -1939,7 +1939,7 @@
         {
             "package_name": "ibm-data-reporter-operator",
             "display_name": "IBM Data Reporter Operator",
-            "latest_version": "2.17.6",
+            "latest_version": "2.17.7",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
