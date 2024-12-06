@@ -410,7 +410,7 @@
         {
             "package_name": "group-sync-operator",
             "display_name": "Group Sync Operator",
-            "latest_version": "0.0.30",
+            "latest_version": "0.0.31",
             "latest_channel": "alpha",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -685,7 +685,7 @@
         {
             "package_name": "ack-s3-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon S3",
-            "latest_version": "1.0.18",
+            "latest_version": "1.0.19",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1961,7 +1961,7 @@
         {
             "package_name": "opentelemetry-operator",
             "display_name": "Community OpenTelemetry Operator",
-            "latest_version": "0.112.0",
+            "latest_version": "0.114.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

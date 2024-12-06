@@ -102,7 +102,7 @@
         {
             "package_name": "bamoe-businessautomation-operator",
             "display_name": "IBM Business Automation",
-            "latest_version": "8.0.6-1",
+            "latest_version": "8.0.6-2",
             "latest_channel": "8.x-stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -311,7 +311,7 @@
         {
             "package_name": "lvms-operator",
             "display_name": "LVM Storage",
-            "latest_version": "4.14.10",
+            "latest_version": "4.14.11",
             "latest_channel": "stable-4.14",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -344,7 +344,7 @@
         {
             "package_name": "businessautomation-operator",
             "display_name": "Business Automation",
-            "latest_version": "7.13.5-8",
+            "latest_version": "7.13.5-9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -465,13 +465,13 @@
         {
             "package_name": "advanced-cluster-management",
             "display_name": "Advanced Cluster Management for Kubernetes",
-            "latest_version": "2.11.3",
-            "latest_channel": "release-2.11",
+            "latest_version": "2.12.1",
+            "latest_channel": "release-2.12",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.12/"
         },
         {
             "package_name": "amq-streams-console",
@@ -751,13 +751,13 @@
         {
             "package_name": "multicluster-engine",
             "display_name": "multicluster engine for Kubernetes",
-            "latest_version": "2.6.3",
-            "latest_channel": "stable-2.6",
+            "latest_version": "2.7.2",
+            "latest_channel": "stable-2.7",
             "disconnected_supported": true,
             "fips_supported": true,
             "capabilities": "Seamless Upgrades",
             "repository": null,
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.11/html/clusters/index"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.12/html/clusters/index"
         },
         {
             "package_name": "volsync-product",
@@ -916,7 +916,7 @@
         {
             "package_name": "numaresources-operator",
             "display_name": "numaresources-operator",
-            "latest_version": "4.14.6",
+            "latest_version": "4.14.7",
             "latest_channel": "4.14",
             "disconnected_supported": false,
             "fips_supported": false,
