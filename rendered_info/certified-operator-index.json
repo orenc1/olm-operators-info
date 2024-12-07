@@ -641,7 +641,7 @@
         {
             "package_name": "app-insights-operator",
             "display_name": "App Insights",
-            "latest_version": "1.8.1",
+            "latest_version": "1.11.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -993,7 +993,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.10.15",
+            "latest_version": "1.10.16",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
