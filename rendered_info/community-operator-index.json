@@ -463,17 +463,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "hazelcast-platform-operator",
-            "display_name": "[DEPRECATED] Hazelcast Platform Operator",
-            "latest_version": "5.13.1",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/hazelcast/hazelcast-platform-operator/",
-            "documentation_url": "https://docs.hazelcast.com/operator/latest/"
-        },
-        {
             "package_name": "deployment-validation-operator",
             "display_name": "Deployment Validation Operator",
             "latest_version": "0.7.8",
@@ -691,17 +680,6 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/grafana/tempo-operator",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "trident-operator",
-            "display_name": "NetApp Trident",
-            "latest_version": "24.10.1",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/netapp/trident",
             "documentation_url": ""
         },
         {
@@ -1398,17 +1376,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "shipwright-operator",
-            "display_name": "Shipwright Operator",
-            "latest_version": "0.13.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/shipwright-io/operator",
-            "documentation_url": "https://shipwright.io"
-        },
-        {
             "package_name": "external-secrets-operator",
             "display_name": "External Secrets Operator",
             "latest_version": "0.11.0",
@@ -1605,17 +1572,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/Apicurio/apicurio-operators/tree/master/apicurito",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csm-operator",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
         {
             "package_name": "ack-athena-controller",
@@ -1948,17 +1904,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "koku-metrics-operator",
-            "display_name": "Koku Metrics Operator",
-            "latest_version": "3.3.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/project-koku/koku-metrics-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "ack-sagemaker-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SageMaker",
             "latest_version": "1.2.13",
@@ -2286,17 +2231,6 @@
             "fips_supported": false,
             "capabilities": "Basic Install",
             "repository": null,
-            "documentation_url": ""
-        },
-        {
-            "package_name": "kiali",
-            "display_name": "Kiali Community Operator",
-            "latest_version": "2.0.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/kiali/kiali",
             "documentation_url": ""
         },
         {
@@ -2870,17 +2804,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/aws-controllers-k8s",
             "documentation_url": "https://aws-controllers-k8s.github.io/community/"
-        },
-        {
-            "package_name": "odf-node-recovery-operator",
-            "display_name": "ODF Node Recovery Operator",
-            "latest_version": "0.0.2",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/jordigilh/odf-node-recovery-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ack-acmpca-controller",

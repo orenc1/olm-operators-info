@@ -80,8 +80,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.68.0",
-            "latest_channel": "stable",
+            "latest_version": "42.69.0-beta.1",
+            "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -152,6 +152,17 @@
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/Dynatrace/dynatrace-operator",
+            "documentation_url": ""
+        },
+        {
+            "package_name": "cfm-operator",
+            "display_name": "Cloudera Flow Management - Kubernetes Operator for Apache NiFi",
+            "latest_version": "2.9.0-b96",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Full Lifecycle",
+            "repository": null,
             "documentation_url": ""
         },
         {
@@ -993,7 +1004,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.10.16",
+            "latest_version": "1.10.17",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
