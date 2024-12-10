@@ -487,7 +487,7 @@
         {
             "package_name": "mtc-operator",
             "display_name": "Migration Toolkit for Containers Operator",
-            "latest_version": "1.8.4",
+            "latest_version": "1.8.5",
             "latest_channel": "release-v1.8",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "security-profiles-operator",
             "display_name": "Security Profiles Operator",
-            "latest_version": "0.8.5",
+            "latest_version": "0.8.6",
             "latest_channel": "release-alpha-rhel-8",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -927,24 +927,13 @@
         {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
-            "latest_version": "7.6.11-opr-002",
+            "latest_version": "7.6.11-opr-003",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/keycloak/keycloak-operator",
             "documentation_url": "https://access.redhat.com/products/red-hat-single-sign-on"
-        },
-        {
-            "package_name": "rhods-operator",
-            "display_name": "Red Hat OpenShift AI",
-            "latest_version": "2.15.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Full Lifecycle",
-            "repository": "https://github.com/red-hat-data-services/rhods-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "ansible-automation-platform-operator",

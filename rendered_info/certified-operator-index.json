@@ -1147,7 +1147,7 @@
         {
             "package_name": "vcp-operator",
             "display_name": "Venafi Control Plane Operator",
-            "latest_version": "1.3.0",
+            "latest_version": "1.4.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1455,7 +1455,7 @@
         {
             "package_name": "cte-k8s-operator",
             "display_name": "CipherTrust Transparent Encryption for Kubernetes (CTE-K8s) Operator",
-            "latest_version": "1.4.13",
+            "latest_version": "1.5.2",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1642,8 +1642,8 @@
         {
             "package_name": "tawon-operator",
             "display_name": "Tawon",
-            "latest_version": "2.39.20",
-            "latest_channel": "alpha",
+            "latest_version": "3.0.0-rc3",
+            "latest_channel": "candidate-v3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
