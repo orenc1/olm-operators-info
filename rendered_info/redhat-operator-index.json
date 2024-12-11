@@ -212,7 +212,7 @@
         {
             "package_name": "servicemeshoperator",
             "display_name": "Red Hat OpenShift Service Mesh",
-            "latest_version": "2.6.3",
+            "latest_version": "2.6.4",
             "latest_channel": "1.0",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -245,13 +245,13 @@
         {
             "package_name": "3scale-operator",
             "display_name": "Red Hat Integration - 3scale",
-            "latest_version": "0.12.1-mas",
-            "latest_channel": "threescale-mas",
+            "latest_version": "0.12.1",
+            "latest_channel": "threescale-2.15",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Deep Insights",
             "repository": "https://github.com/3scale/3scale-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.11/html/installing_3scale/install-threescale-on-openshift-guide#deploying-threescale-using-the-operator"
         },
         {
             "package_name": "authorino-operator",
@@ -399,7 +399,7 @@
         {
             "package_name": "file-integrity-operator",
             "display_name": "File Integrity Operator",
-            "latest_version": "1.3.4",
+            "latest_version": "1.3.5",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -595,6 +595,17 @@
             "documentation_url": "https://github.com/openshift/cluster-logging-operator/blob/master/README.adoc"
         },
         {
+            "package_name": "opentelemetry-product",
+            "display_name": "Red Hat build of OpenTelemetry",
+            "latest_version": "0.113.0-1",
+            "latest_channel": "stable",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/open-telemetry/opentelemetry-operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
             "latest_version": "0.31.2",
@@ -784,13 +795,13 @@
         {
             "package_name": "apicast-operator",
             "display_name": "Red Hat Integration - 3scale APIcast gateway",
-            "latest_version": "0.12.1-mas",
-            "latest_channel": "threescale-mas",
+            "latest_version": "0.12.1",
+            "latest_channel": "threescale-2.15",
             "disconnected_supported": true,
             "fips_supported": false,
             "capabilities": "Full Lifecycle",
             "repository": "https://github.com/3scale/apicast-operator",
-            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.12/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
+            "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_3scale_api_management/2.14/html/installing_3scale/installing-apicast#deploying-apicast-gateway-self-managed-operator"
         },
         {
             "package_name": "run-once-duration-override-operator",
@@ -861,7 +872,7 @@
         {
             "package_name": "compliance-operator",
             "display_name": "Compliance Operator",
-            "latest_version": "1.6.0",
+            "latest_version": "1.6.1",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1059,7 +1070,7 @@
         {
             "package_name": "kiali-ossm",
             "display_name": "Kiali Operator",
-            "latest_version": "1.89.7",
+            "latest_version": "1.89.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": true,
