@@ -289,7 +289,7 @@
         {
             "package_name": "tang-operator",
             "display_name": "NBDE Tang Server",
-            "latest_version": "1.0.2",
+            "latest_version": "1.0.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -351,17 +351,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/kiegroup/kie-cloud-operator",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.13/#category-deploying-red-hat-process-automation-manager-on-openshift"
-        },
-        {
-            "package_name": "jaeger-product",
-            "display_name": "Red Hat OpenShift distributed tracing platform",
-            "latest_version": "1.57.0-10-0.1730817420.p",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/jaegertracing/jaeger-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "smart-gateway-operator",
@@ -595,17 +584,6 @@
             "documentation_url": "https://github.com/openshift/cluster-logging-operator/blob/master/README.adoc"
         },
         {
-            "package_name": "opentelemetry-product",
-            "display_name": "Red Hat build of OpenTelemetry",
-            "latest_version": "0.113.0-1",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/open-telemetry/opentelemetry-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "devworkspace-operator",
             "display_name": "DevWorkspace Operator",
             "latest_version": "0.31.2",
@@ -780,17 +758,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/backube/volsync",
             "documentation_url": "https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.12/html/business_continuity/business-cont-overview#volsync"
-        },
-        {
-            "package_name": "tempo-product",
-            "display_name": "Tempo Operator",
-            "latest_version": "0.13.0-1-0.1730817419.p",
-            "latest_channel": "stable",
-            "disconnected_supported": true,
-            "fips_supported": false,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/grafana/tempo-operator",
-            "documentation_url": ""
         },
         {
             "package_name": "apicast-operator",
