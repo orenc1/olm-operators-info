@@ -80,8 +80,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.69.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.69.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -674,7 +674,7 @@
         {
             "package_name": "zabbix-operator-certified",
             "display_name": "Zabbix Operator",
-            "latest_version": "6.0.33",
+            "latest_version": "6.0.36",
             "latest_channel": "lts",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,8 +806,8 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -872,7 +872,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.1",
+            "latest_version": "1.7.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -894,8 +894,8 @@
         {
             "package_name": "t8c-tsc-client-certified",
             "display_name": "Turbonomic Secure Connect Client",
-            "latest_version": "1.2.8",
-            "latest_channel": "stable",
+            "latest_version": "1.2.9-candidate-20241212142228000",
+            "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1169,8 +1169,8 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.40-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "8.14.40",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1598,8 +1598,8 @@
         {
             "package_name": "digitalai-release-operator",
             "display_name": "Digital.ai Release",
-            "latest_version": "24.3.0",
-            "latest_channel": "beta",
+            "latest_version": "24.3.2",
+            "latest_channel": "stable-v24.3",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",

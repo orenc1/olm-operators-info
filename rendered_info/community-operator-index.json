@@ -179,7 +179,7 @@
         {
             "package_name": "dynatrace-operator",
             "display_name": "Dynatrace Operator",
-            "latest_version": "1.3.2",
+            "latest_version": "1.4.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -828,7 +828,7 @@
         {
             "package_name": "eclipse-che",
             "display_name": "Eclipse Che",
-            "latest_version": "7.95.0",
+            "latest_version": "7.96.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.5",
+            "latest_version": "2.4.6",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1257,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.1",
+            "latest_version": "1.7.2",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1873,7 +1873,7 @@
         {
             "package_name": "patterns-operator",
             "display_name": "Validated Patterns Operator",
-            "latest_version": "0.0.59",
+            "latest_version": "0.0.60",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2104,12 +2104,12 @@
         {
             "package_name": "sonataflow-operator",
             "display_name": "SonataFlow Operator",
-            "latest_version": "1.40.1",
+            "latest_version": "10.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/kiegroup/kogito-serverless-operator",
+            "repository": "https://github.com/apache/incubator-kie-tools/packages/sonataflow-operator",
             "documentation_url": ""
         },
         {
@@ -2720,7 +2720,7 @@
         {
             "package_name": "ack-sqs-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon SQS",
-            "latest_version": "1.1.2",
+            "latest_version": "1.1.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
