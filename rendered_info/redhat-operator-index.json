@@ -223,7 +223,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.13.1",
+            "latest_version": "3.13.2",
             "latest_channel": "stable-3.13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -322,7 +322,7 @@
         {
             "package_name": "service-registry-operator",
             "display_name": "Red Hat build of Apicurio Registry",
-            "latest_version": "2.6.5",
+            "latest_version": "2.6.6",
             "latest_channel": "2.x",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -597,7 +597,7 @@
         {
             "package_name": "eap",
             "display_name": "JBoss EAP",
-            "latest_version": "3.1.2",
+            "latest_version": "3.1.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -608,7 +608,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.13.1",
+            "latest_version": "3.13.2",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -674,7 +674,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.13.1",
+            "latest_version": "3.13.2",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,

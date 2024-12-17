@@ -542,7 +542,7 @@
         {
             "package_name": "ack-eks-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EKS",
-            "latest_version": "1.5.2",
+            "latest_version": "1.5.3",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

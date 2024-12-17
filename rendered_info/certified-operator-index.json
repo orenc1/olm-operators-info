@@ -58,7 +58,7 @@
         {
             "package_name": "runtime-component-operator-certified",
             "display_name": "Runtime Component",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "v1.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1499,7 +1499,7 @@
         {
             "package_name": "open-liberty-certified",
             "display_name": "Open Liberty",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "v1.4",
             "disconnected_supported": false,
             "fips_supported": false,
