@@ -718,7 +718,7 @@
         {
             "package_name": "fujitsu-enterprise-operator",
             "display_name": "FUJITSU Enterprise Postgres 13 Operator",
-            "latest_version": "3.1.29",
+            "latest_version": "3.1.30",
             "latest_channel": "stable-13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1189,6 +1189,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "vast-csi-operator",
+            "display_name": "VAST CSI driver operator",
+            "latest_version": "2.5.0",
+            "latest_channel": "alpha",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Seamless Upgrades",
+            "repository": "https://github.com/vast-data/vast-csi",
+            "documentation_url": ""
+        },
+        {
             "package_name": "hpe-ezmeral-csi-operator",
             "display_name": "HPE Ezmeral Data Fabric CSI Operator for Kubernetes",
             "latest_version": "1.0.15",
@@ -1433,7 +1444,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator-with-cg-module",
             "display_name": "Fujitsu Enterprise Postgres Operator with Cryptographic Module",
-            "latest_version": "7.1.0",
+            "latest_version": "7.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1917,7 +1928,7 @@
         {
             "package_name": "fujitsu-enterprise-postgres-operator",
             "display_name": "Fujitsu Enterprise Postgres Operator",
-            "latest_version": "7.1.0",
+            "latest_version": "7.1.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2104,7 +2115,7 @@
         {
             "package_name": "nginx-ingress-operator",
             "display_name": "Nginx Ingress Operator",
-            "latest_version": "2.4.2",
+            "latest_version": "3.0.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
