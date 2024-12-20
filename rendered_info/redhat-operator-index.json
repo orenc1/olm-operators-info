@@ -641,7 +641,7 @@
         {
             "package_name": "mtv-operator",
             "display_name": "Migration Toolkit for Virtualization Operator",
-            "latest_version": "2.7.6",
+            "latest_version": "2.7.7",
             "latest_channel": "release-v2.7",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "jws-operator",
             "display_name": "JWS Operator",
-            "latest_version": "2.0.14",
+            "latest_version": "2.0.15",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -135,7 +135,7 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Intel Gaudi AI accelerator",
-            "latest_version": "1.18.0-524",
+            "latest_version": "1.19.0-561",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -949,7 +949,7 @@
         {
             "package_name": "splunk-operator",
             "display_name": "Splunk Operator",
-            "latest_version": "2.6.0",
+            "latest_version": "2.7.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1136,7 +1136,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.7.1",
+            "latest_version": "5.7.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1257,7 +1257,7 @@
         {
             "package_name": "mongodb-atlas-kubernetes",
             "display_name": "MongoDB Atlas Operator",
-            "latest_version": "2.5.0",
+            "latest_version": "2.6.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
-            "latest_version": "1.4.1",
+            "latest_version": "1.4.8",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1752,7 +1752,7 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,

@@ -135,7 +135,7 @@
         {
             "package_name": "victoriametrics-operator",
             "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.49.0",
+            "latest_version": "0.51.1",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": true,
@@ -839,7 +839,7 @@
         {
             "package_name": "project-quay",
             "display_name": "Quay",
-            "latest_version": "3.13.1",
+            "latest_version": "3.13.2",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1246,7 +1246,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.7",
+            "latest_version": "2.4.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1312,7 +1312,7 @@
         {
             "package_name": "postgresql",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.7.1",
+            "latest_version": "5.7.2",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2115,7 +2115,7 @@
         {
             "package_name": "flux-operator",
             "display_name": "Flux Operator",
-            "latest_version": "0.11.0",
+            "latest_version": "0.12.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2346,7 +2346,7 @@
         {
             "package_name": "eginnovations-operator",
             "display_name": "eG Innovations Universal Agent Operator",
-            "latest_version": "0.0.8",
+            "latest_version": "0.0.9",
             "latest_channel": "beta",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2665,7 +2665,7 @@
         {
             "package_name": "percona-xtradb-cluster-operator",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.15.1",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
