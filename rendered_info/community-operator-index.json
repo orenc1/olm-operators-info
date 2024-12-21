@@ -133,17 +133,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "victoriametrics-operator",
-            "display_name": "VictoriaMetrics Operator",
-            "latest_version": "0.51.1",
-            "latest_channel": "beta",
-            "disconnected_supported": false,
-            "fips_supported": true,
-            "capabilities": "Deep Insights",
-            "repository": "https://github.com/VictoriaMetrics/operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "reportportal-operator",
             "display_name": "reportportal-operator",
             "latest_version": "0.0.8",
@@ -256,7 +245,7 @@
         {
             "package_name": "verticadb-operator",
             "display_name": "VerticaDB Operator",
-            "latest_version": "24.4.0-0",
+            "latest_version": "25.1.0-0",
             "latest_channel": "v2-stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -454,7 +443,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.31.0",
+            "latest_version": "1.32.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -1257,7 +1246,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.2",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1444,7 +1433,7 @@
         {
             "package_name": "argocd-operator",
             "display_name": "Argo CD",
-            "latest_version": "0.12.0",
+            "latest_version": "0.13.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,

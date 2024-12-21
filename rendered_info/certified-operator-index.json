@@ -80,8 +80,8 @@
         {
             "package_name": "t8c-certified",
             "display_name": "Turbonomic Platform Operator",
-            "latest_version": "42.70.0-beta.1",
-            "latest_channel": "beta",
+            "latest_version": "42.70.0",
+            "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -377,7 +377,7 @@
         {
             "package_name": "gitlab-runner-operator",
             "display_name": "GitLab Runner",
-            "latest_version": "1.31.0",
+            "latest_version": "1.32.0",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -619,7 +619,7 @@
         {
             "package_name": "leaksignal-operator",
             "display_name": "LeakSignal Operator",
-            "latest_version": "1.6.3",
+            "latest_version": "1.9.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -806,7 +806,7 @@
         {
             "package_name": "prometurbo-certified",
             "display_name": "Prometurbo Operator",
-            "latest_version": "8.14.40",
+            "latest_version": "8.14.50",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -872,7 +872,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.7.2",
+            "latest_version": "1.8.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1169,7 +1169,7 @@
         {
             "package_name": "kubeturbo-certified",
             "display_name": "Kubeturbo Operator",
-            "latest_version": "8.14.40",
+            "latest_version": "8.14.50",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1367,7 +1367,7 @@
         {
             "package_name": "percona-xtradb-cluster-operator-certified",
             "display_name": "Percona Operator for MySQL based on Percona XtraDB Cluster",
-            "latest_version": "1.15.1",
+            "latest_version": "1.16.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
