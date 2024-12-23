@@ -1312,7 +1312,7 @@
         {
             "package_name": "kubearmor-operator-certified",
             "display_name": "KubeArmor Operator",
-            "latest_version": "1.4.8",
+            "latest_version": "1.4.9",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
