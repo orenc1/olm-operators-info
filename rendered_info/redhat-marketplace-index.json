@@ -234,7 +234,7 @@
         {
             "package_name": "redis-enterprise-operator-cert-rhmp",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.8.2-6.3",
+            "latest_version": "7.8.2-6.8",
             "latest_channel": "7.8.2",
             "disconnected_supported": true,
             "fips_supported": false,

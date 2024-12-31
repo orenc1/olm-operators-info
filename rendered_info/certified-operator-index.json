@@ -408,17 +408,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "cloud-native-postgresql",
-            "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.24.1",
-            "latest_channel": "stable-v1.24",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/EnterpriseDB/cloud-native-postgres",
-            "documentation_url": "https://www.enterprisedb.com/docs/postgres_for_kubernetes/latest/"
-        },
-        {
             "package_name": "nspc-operator",
             "display_name": "NEC Storage Plug-in for Containers",
             "latest_version": "1.13.0",
@@ -639,17 +628,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "cloudnative-pg",
-            "display_name": "CloudNativePG",
-            "latest_version": "1.25.0",
-            "latest_channel": "stable-v1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/cloudnative-pg/cloudnative-pg",
-            "documentation_url": "https://cloudnative-pg.io/docs/"
-        },
-        {
             "package_name": "sn-operator",
             "display_name": "StreamNative Operator",
             "latest_version": "0.6.10",
@@ -861,7 +839,7 @@
         {
             "package_name": "redis-enterprise-operator-cert",
             "display_name": "Redis Enterprise Operator",
-            "latest_version": "7.8.2-6.3",
+            "latest_version": "7.8.2-6.8",
             "latest_channel": "7.8.2",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -883,7 +861,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.8.0",
+            "latest_version": "1.8.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1088,17 +1066,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/netscaler/netscaler-k8s-ingress-controller",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csm-operator-certified",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
         {
             "package_name": "zookeeper-operator",
@@ -1604,17 +1571,6 @@
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/jfrog/JFrog-Cloud-Installers/tree/openshift4/Openshift4",
-            "documentation_url": ""
-        },
-        {
-            "package_name": "operator-certification-operator",
-            "display_name": "Operator Certification Operator",
-            "latest_version": "1.2.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-openshift-ecosystem/operator-certification-operator",
             "documentation_url": ""
         },
         {
