@@ -2401,7 +2401,7 @@
         {
             "package_name": "portworx-essentials",
             "display_name": "Portworx Essentials",
-            "latest_version": "24.2.0",
+            "latest_version": "24.2.1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
