@@ -135,7 +135,7 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Intel Gaudi AI accelerator",
-            "latest_version": "1.19.0-561",
+            "latest_version": "1.19.0-561-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1378,7 +1378,7 @@
         {
             "package_name": "instana-agent-operator",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.10",
+            "latest_version": "2.1.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

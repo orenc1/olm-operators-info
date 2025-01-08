@@ -190,7 +190,7 @@
         {
             "package_name": "instana-agent-operator-rhmp",
             "display_name": "Instana Agent Operator",
-            "latest_version": "2.1.10",
+            "latest_version": "2.1.11",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
