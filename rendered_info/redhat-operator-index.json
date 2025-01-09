@@ -122,6 +122,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "apicurio-registry-3",
+            "display_name": "Red Hat build of Apicurio Registry 3",
+            "latest_version": "3.0.6-beta",
+            "latest_channel": "3.x",
+            "disconnected_supported": true,
+            "fips_supported": false,
+            "capabilities": "Basic Install",
+            "repository": "https://github.com/Apicurio/apicurio-registry/tree/main/operator",
+            "documentation_url": ""
+        },
+        {
             "package_name": "amq-online",
             "display_name": "Red Hat Integration - AMQ Online",
             "latest_version": "1.7.4",
