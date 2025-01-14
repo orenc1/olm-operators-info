@@ -542,7 +542,7 @@
         {
             "package_name": "keycloak-operator",
             "display_name": "Keycloak Operator",
-            "latest_version": "26.0.7",
+            "latest_version": "26.0.8",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2060,7 +2060,7 @@
         {
             "package_name": "infinispan",
             "display_name": "Infinispan Operator",
-            "latest_version": "2.4.8",
+            "latest_version": "2.4.9",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,

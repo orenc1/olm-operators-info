@@ -716,6 +716,17 @@
             "documentation_url": ""
         },
         {
+            "package_name": "rhbk-operator",
+            "display_name": "Red Hat build of Keycloak Operator",
+            "latest_version": "26.0.8-opr.1",
+            "latest_channel": "stable-v26",
+            "disconnected_supported": false,
+            "fips_supported": false,
+            "capabilities": "Deep Insights",
+            "repository": "https://github.com/keycloak/keycloak",
+            "documentation_url": "https://www.keycloak.org/guides#operator"
+        },
+        {
             "package_name": "rhsso-operator",
             "display_name": "Red Hat Single Sign-On Operator",
             "latest_version": "7.6.11-opr-003",
