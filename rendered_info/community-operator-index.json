@@ -190,7 +190,7 @@
         {
             "package_name": "ack-memorydb-controller",
             "display_name": "AWS Controllers for Kubernetes - MemoryDB",
-            "latest_version": "1.0.6",
+            "latest_version": "1.0.7",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1158,7 +1158,7 @@
         {
             "package_name": "ack-organizations-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon Organizations",
-            "latest_version": "1.0.0",
+            "latest_version": "1.0.1",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1851,7 +1851,7 @@
         {
             "package_name": "ack-pipes-controller",
             "display_name": "AWS Controllers for Kubernetes - Amazon EventBridge Pipes",
-            "latest_version": "1.0.12",
+            "latest_version": "1.0.13",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
