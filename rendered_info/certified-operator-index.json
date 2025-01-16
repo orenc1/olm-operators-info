@@ -289,7 +289,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.8.2",
+            "latest_version": "1.8.3",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "infinibox-operator-certified",
             "display_name": "InfiniBox CSI Driver - Operator",
-            "latest_version": "2.17.1",
+            "latest_version": "2.18.0",
             "latest_channel": "alpha",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -725,17 +725,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/streamnative/function-mesh",
             "documentation_url": ""
-        },
-        {
-            "package_name": "cloud-native-postgresql",
-            "display_name": "EDB Postgres for Kubernetes",
-            "latest_version": "1.25.0",
-            "latest_channel": "stable-v1.25",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/EnterpriseDB/cloud-native-postgres",
-            "documentation_url": "https://www.enterprisedb.com/docs/postgres_for_kubernetes/latest/"
         },
         {
             "package_name": "habana-ai-operator",
@@ -1037,7 +1026,7 @@
         {
             "package_name": "aqua-operator-certified",
             "display_name": "Aqua Security Operator",
-            "latest_version": "2022.4.683",
+            "latest_version": "2022.4.720",
             "latest_channel": "2022.4",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1121,17 +1110,6 @@
             "capabilities": "Seamless Upgrades",
             "repository": "https://github.com/intel/intel-technology-enabling-for-openshift",
             "documentation_url": ""
-        },
-        {
-            "package_name": "dell-csm-operator-certified",
-            "display_name": "Dell Container Storage Modules",
-            "latest_version": "1.7.0",
-            "latest_channel": "stable",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Seamless Upgrades",
-            "repository": "https://github.com/dell/csm-operator",
-            "documentation_url": "https://dell.github.io/csm-docs/docs/deployment/csmoperator/"
         },
         {
             "package_name": "aiu-operator",
@@ -1387,17 +1365,6 @@
             "documentation_url": ""
         },
         {
-            "package_name": "operator-certification-operator",
-            "display_name": "Operator Certification Operator",
-            "latest_version": "1.2.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": "https://github.com/redhat-openshift-ecosystem/operator-certification-operator",
-            "documentation_url": ""
-        },
-        {
             "package_name": "memcached-operator-ogaye",
             "display_name": "memcached-operator-ogaye",
             "latest_version": "0.0.1",
@@ -1561,17 +1528,6 @@
             "capabilities": "Basic Install",
             "repository": "https://github.com/turbonomic/prometurbo/tree/master/deploy/prometurbo-operator",
             "documentation_url": ""
-        },
-        {
-            "package_name": "cloudnative-pg",
-            "display_name": "CloudNativePG",
-            "latest_version": "1.25.0",
-            "latest_channel": "stable-v1",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Auto Pilot",
-            "repository": "https://github.com/cloudnative-pg/cloudnative-pg",
-            "documentation_url": "https://cloudnative-pg.io/docs/"
         },
         {
             "package_name": "openshiftxray-operator",
@@ -2067,17 +2023,6 @@
             "capabilities": "Basic Install",
             "repository": null,
             "documentation_url": ""
-        },
-        {
-            "package_name": "appian-operator",
-            "display_name": "Appian operator",
-            "latest_version": "0.168.0",
-            "latest_channel": "alpha",
-            "disconnected_supported": false,
-            "fips_supported": false,
-            "capabilities": "Basic Install",
-            "repository": null,
-            "documentation_url": "https://docs.appian.com/suite/help/latest/k8s"
         },
         {
             "package_name": "keysight-wap-test-core",

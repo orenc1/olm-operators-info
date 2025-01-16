@@ -80,7 +80,7 @@
         {
             "package_name": "elasticsearch-operator",
             "display_name": "OpenShift Elasticsearch Operator",
-            "latest_version": "5.8.15",
+            "latest_version": "5.8.16",
             "latest_channel": "stable",
             "disconnected_supported": true,
             "fips_supported": false,
@@ -234,7 +234,7 @@
         {
             "package_name": "loki-operator",
             "display_name": "Loki Operator",
-            "latest_version": "6.0.2",
+            "latest_version": "6.0.3",
             "latest_channel": "stable-6.0",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -289,7 +289,7 @@
         {
             "package_name": "ansible-cloud-addons-operator",
             "display_name": "Ansible Cloud Addons",
-            "latest_version": "2.5.0-0.1733964232",
+            "latest_version": "2.5.0-0.1736892777",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "ansible-automation-platform-operator",
             "display_name": "Ansible Automation Platform",
-            "latest_version": "2.5.0-0.1733970210",
+            "latest_version": "2.5.0-0.1736894220",
             "latest_channel": "stable-2.5-cluster-scoped",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -905,7 +905,7 @@
         {
             "package_name": "cluster-logging",
             "display_name": "Red Hat OpenShift Logging",
-            "latest_version": "6.0.2",
+            "latest_version": "6.0.3",
             "latest_channel": "stable-6.0",
             "disconnected_supported": true,
             "fips_supported": false,
