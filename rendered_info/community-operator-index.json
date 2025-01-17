@@ -388,7 +388,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.8.3",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2071,7 +2071,7 @@
         {
             "package_name": "grafana-operator",
             "display_name": "Grafana Operator",
-            "latest_version": "5.15.1",
+            "latest_version": "5.16.0",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -2269,7 +2269,7 @@
         {
             "package_name": "konveyor-operator",
             "display_name": "Konveyor Operator",
-            "latest_version": "0.6.0-rc.1",
+            "latest_version": "0.6.0-rc.2",
             "latest_channel": "rc",
             "disconnected_supported": false,
             "fips_supported": false,

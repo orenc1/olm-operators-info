@@ -289,7 +289,7 @@
         {
             "package_name": "gitlab-operator-kubernetes",
             "display_name": "GitLab",
-            "latest_version": "1.8.3",
+            "latest_version": "1.9.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -443,12 +443,12 @@
         {
             "package_name": "sriov-fec",
             "display_name": "SRIOV-FEC Operator for Intel vRAN Boost Accelerators",
-            "latest_version": "2.9.0",
+            "latest_version": "2.10.0",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
-            "repository": "https://github.com/smart-edge-open/sriov-fec-operator",
+            "repository": "https://github.com/intel/sriov-fec-operator",
             "documentation_url": ""
         },
         {
@@ -597,7 +597,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.11.5",
+            "latest_version": "1.11.8",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
