@@ -729,7 +729,7 @@
         {
             "package_name": "habana-ai-operator",
             "display_name": "Intel Gaudi AI accelerator",
-            "latest_version": "1.19.1-26",
+            "latest_version": "1.19.1-26-1",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -1730,7 +1730,7 @@
         {
             "package_name": "crunchy-postgres-operator",
             "display_name": "Crunchy Postgres for Kubernetes",
-            "latest_version": "5.7.2",
+            "latest_version": "5.7.3",
             "latest_channel": "v5",
             "disconnected_supported": false,
             "fips_supported": false,
