@@ -36,8 +36,8 @@
         {
             "package_name": "uma-operator",
             "display_name": "DX APM Universal Monitoring Agent",
-            "latest_version": "2024.10.2-12",
-            "latest_channel": "2024.10",
+            "latest_version": "2025.1.1-26",
+            "latest_channel": "2025.1",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Seamless Upgrades",
