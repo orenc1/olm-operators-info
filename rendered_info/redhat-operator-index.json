@@ -102,8 +102,8 @@
         {
             "package_name": "node-maintenance-operator",
             "display_name": "Node Maintenance Operator",
-            "latest_version": "5.3.1",
-            "latest_channel": "4.16-eus",
+            "latest_version": "5.4.0",
+            "latest_channel": "4.18-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -135,7 +135,7 @@
         {
             "package_name": "rhdh",
             "display_name": "Red Hat Developer Hub Operator",
-            "latest_version": "1.4.0",
+            "latest_version": "1.4.1",
             "latest_channel": "fast",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -344,8 +344,8 @@
         {
             "package_name": "self-node-remediation",
             "display_name": "Self Node Remediation Operator",
-            "latest_version": "0.9.0",
-            "latest_channel": "4.16-eus",
+            "latest_version": "0.10.0",
+            "latest_channel": "4.18-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -465,8 +465,8 @@
         {
             "package_name": "machine-deletion-remediation",
             "display_name": "Machine Deletion Remediation operator",
-            "latest_version": "0.3.1",
-            "latest_channel": "4.16-eus",
+            "latest_version": "0.4.0",
+            "latest_channel": "4.18-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -509,7 +509,7 @@
         {
             "package_name": "container-security-operator",
             "display_name": "Red Hat Quay Container Security Operator",
-            "latest_version": "3.13.2",
+            "latest_version": "3.13.3",
             "latest_channel": "stable-3.13",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -674,7 +674,7 @@
         {
             "package_name": "quay-operator",
             "display_name": "Red Hat Quay",
-            "latest_version": "3.13.2",
+            "latest_version": "3.13.3",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
@@ -1136,8 +1136,8 @@
         {
             "package_name": "node-healthcheck-operator",
             "display_name": "Node Health Check Operator",
-            "latest_version": "0.8.2",
-            "latest_channel": "4.16-eus",
+            "latest_version": "0.9.0",
+            "latest_channel": "4.18-eus",
             "disconnected_supported": false,
             "fips_supported": false,
             "capabilities": "Basic Install",
@@ -1235,7 +1235,7 @@
         {
             "package_name": "quay-bridge-operator",
             "display_name": "Red Hat Quay Bridge Operator",
-            "latest_version": "3.13.2",
+            "latest_version": "3.13.3",
             "latest_channel": "stable-3.13",
             "disconnected_supported": true,
             "fips_supported": true,
