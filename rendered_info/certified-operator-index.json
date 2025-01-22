@@ -597,7 +597,7 @@
         {
             "package_name": "scaleops-operator",
             "display_name": "ScaleOps",
-            "latest_version": "1.11.9",
+            "latest_version": "1.11.10",
             "latest_channel": "stable",
             "disconnected_supported": false,
             "fips_supported": false,
@@ -630,7 +630,7 @@
         {
             "package_name": "stackgres-certified",
             "display_name": "StackGres",
-            "latest_version": "1.15.0-rc2",
+            "latest_version": "1.15.0-rc3",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,

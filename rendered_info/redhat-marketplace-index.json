@@ -322,7 +322,7 @@
         {
             "package_name": "stackgres",
             "display_name": "StackGres",
-            "latest_version": "1.15.0-rc2",
+            "latest_version": "1.15.0-rc3",
             "latest_channel": "candidate",
             "disconnected_supported": false,
             "fips_supported": false,
